@@ -1,0 +1,10 @@
+﻿l_english:
+ declared_war:0 "Declared War"
+ declared_war_on_son_daughter:0 "Declared War on their Child"
+ vassal_lost_or_wp_faction_revolt_war:0 "Revolted against me"
+ liege_lost_declared_religious_war:0 "Lost our Religious War"
+ liege_lost_mongol_invasion_war:0 "Failed Invasion"
+ rejected_call_to_defensive_war:0 "Rejected Call to a Defensive War"
+ rejected_call_to_offensive_war:0 "Rejected Call to an Offensive War"
+ contributed_in_war:0 "Contributed in one of my Wars "
+ peasant_revolt_opinion:0 "$vassal_lost_or_wp_faction_revolt_war$"

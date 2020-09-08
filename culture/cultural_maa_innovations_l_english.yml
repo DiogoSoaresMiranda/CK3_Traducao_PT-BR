@@ -1,0 +1,94 @@
+﻿l_english:
+
+ #Military
+ innovation_hird:0 "Hirds"
+ innovation_hird_desc:0 "A tradição de manter séquitos armados a serviço de uma família tem nos servido bem. Ao formalizar e expandir esse sistema, podemos colocar regimentos inteiros de huscarls em nossos exércitos."
+
+ innovation_zweihanders:0 "Zweihanders"
+ innovation_zweihanders_desc:1 "Essas enormes espadas de duas mãos servem tanto para cortar $knight_culture_player_plural_no_tooltip_lowercase$ em dois quanto para quebrar formações de piqueiros inimigos. Eles são um complemento formidável para nossos próprios regimentos de piqueiros."
+
+ innovation_longbows:0 "Arco Longo"
+ innovation_longbows_desc:0 "Aproveitando a forte madeira de teixo que cresce aqui, nossos arqueiros aprenderam a fazer arcos longos tão poderosos que exigem treinamento especializado desde cedo para serem usados com eficácia. Este investimento vale a pena, pois nossos arqueiros podem atirar flechas que viajam mais longe e penetram mais fundo do que as disparadas por outros arqueiros."
+
+ innovation_adaptive_militia:0 "Milícia Adaptativa"
+ innovation_adaptive_militia_desc:1 "Armas como o goedendag são baratas e fáceis de fazer, mas são incrivelmente eficazes contra cargas de cavalaria. Sua existência nos permite adaptar nossas milícias para que tenham uma melhor chance de lutar contra $knight_culture_player_plural_no_tooltip_lowercase$ com armadura."
+
+ innovation_valets:0 "Ordenanças"
+ innovation_valets_desc:1 "A fundação de um sistema de ordenanças ou servos para nossos nobres cavaleiros nos permitirá implantar $knight_culture_player_plural_no_tooltip_lowercase$ melhores armados e protegidos."
+
+ innovation_pike_columns:0 "Colunas de Piqueiros"
+ innovation_pike_columns_desc:0 "Os piqueiros sempre foram fortes defensores, mas historicamente carecem de mobilidade e ataque. Criar novas formações para corrigir essa deficiência aumentará nossas chances de vitória na batalha."
+
+ innovation_legionnaires:0 "Legionários"
+ innovation_legionnaires_desc:1 "Just as we have restored the Roman empire, so too shall restore the structure of the old Roman legion and its feared elite troops!"
+
+ innovation_desert_tactics:0 "Táticas de Deserto"
+ innovation_desert_tactics_desc:0 "O Levante é um lugar estranho com terreno ruim para cargas de cavalaria. Devemos nos adaptar a essas terras e implantar uma cavalaria que seja mais adequada para lutar em nosso novo lar."
+
+ innovation_caballeros:0 "Cavalaria Andaluza"
+ innovation_caballeros_desc:0 "Os garanhões andaluzes são melhores para viajar e lutar em terrenos acidentados do que outras raças de cavalos. Podemos treinar regimentos de cavalaria especializados que aproveitem isso."
+
+ innovation_cataphracts:0 "Catafractários"
+ innovation_cataphracts_desc:0 "Totalmente envolto em roupas de ferro protetoras, nossa cavalaria catafrata intimidante pode quebrar quase qualquer linha defensiva atacando direto com suas lanças."
+
+ innovation_hobbies:0 "Hobbies"
+ innovation_hobbies_desc:1 "Os montadores de nossos cavalos hobby celtas são rápidos e ágeis, perfeitos para explorações e ataques em terrenos acidentados que não são do agrado dos $knight_culture_player_plural_no_tooltip_lowercase$."
+
+ innovation_rectilinear_schiltron:0 "Schiltron Retilíneo"
+ innovation_rectilinear_schiltron_desc:0 "O tradicional círculo de piqueiros é uma formação defensiva poderosa, mas tem ataque e mobilidade limitadas. Embora exija grande disciplina, nosso schiltron retilíneo é uma formação superior, capaz de táticas poderosas tanto ofensivas quanto defensivas."
+
+ innovation_forest_wardens:0 "Guardiões da Floresta "
+ innovation_forest_wardens_desc:0 "Nossos ancestrais viveram nessas florestas por gerações, mas agora estão sob a ameaça de estranhos. Séculos de experiência acumulada em combates nas florestas nos ajudarão a proteger nossa terra ancestral."
+
+ innovation_compound_bows:0 "Arcos Compostos"
+ innovation_compound_bows_desc:0 "Feito de tiras laminadas de chifre, madeira e tendões, nossos arcos compostos são muito menores do que um arco tradicional, embora sejam igualmente poderosos. Este perfil reduzido torna possível atirar confortavelmente de um cavalo, permitindo-nos colocar em campo arqueiros a cavalo verdadeiramente devastadores."
+
+ innovation_khandayats:0 "Khandayats"
+ innovation_khandayats_desc:0 "Hábil no uso da espada khanda, nossa valiosa infantaria é hábil tanto em lutar na selva quanto em dividir a cavalaria leve inimiga em dois."
+
+ innovation_mubarizuns:0 "Mubarizun"
+ innovation_mubarizuns_desc:0 "Modelados com base nos lendários campeões do exército Rashidun, nossos soldados Mubarizun são treinados para se destacarem tanto no combate em formação quanto no combate individual."
+
+ innovation_hussar_raids:1 "Incursão $hussar$"
+ innovation_hussar_raids_desc:1 "Cavalaria leve capaz de atacar rapidamente os inimigos expostos antes de ser disparada de volta, nossos $hussar$ podem ser transformado em regimentos especializados em perseguição e assalto."
+
+ innovation_druzhina:0 "Druzhina"
+ innovation_druzhina_desc:0 "Os soldados varangianos há muito servem como guarda-costas imponentes de nossos monarcas, mas podem facilmente servir como infantaria pesada dedicada em nossos exércitos."
+
+ innovation_mountain_skirmishing:0 "Escaramuças de Montanha"
+ innovation_mountain_skirmishing_desc:0 "As grandes montanhas no Chifre da África representam desafios logísticos para muitos tipos de exércitos, mas nossos escaramuçadores podem se adaptar facilmente a essas condições para derrotar os invasores inimigos."
+
+ innovation_bush_hunting:0 "Caça na Mata"
+ innovation_bush_hunting_desc:0 "A mata é um lugar agreste e acidentado, mas oferece inúmeras oportunidades para quem sabe onde procurá-la e como explorá-la. Treinar nossos arqueiros nessas técnicas dará a eles uma vantagem ao enfrentar inimigos nessas áreas."
+
+ innovation_mobile_guards:0 "Táticas Defensivas"
+ innovation_mobile_guards_desc:0 "Nosso povo foi exilado e expulso várias vezes. Embora trágicas, essas experiências nos levaram a nos tornarmos excepcionalmente habilidosos em táticas de retaguarda que minimizam as baixas."
+
+ innovation_alpine_supremacy:0 "Supremacia Alpina"
+ innovation_alpine_supremacy_desc:0 "A grande altitude de nossa terra natal exige de nossos soldados uma logística e técnicas de combate diferentes das das terras baixas. Dominar essas habilidades nos tornará indiscutíveis senhores das montanhas."
+
+ innovation_sahel_horsemen:0 "Cavaleiros de Sahel"
+ innovation_sahel_horsemen_desc:0 "O Sahel é uma planície seca e árida, onde grandes distâncias são frequentemente cobertas por cavalos. Os Cavaleiros de Sahel são guerreiros montados que usam armaduras acolchoadas leves e dardos para devastar seus inimigos. Eles são rápidos e podem facilmente enfrentar desertos e terras áridas."
+ 
+ innovation_zbrojnosh:0 "Zbrojnosh"
+ innovation_zbrojnosh_desc:0 "As colinas e montanhas cobertas de florestas de nossa terra natal exigem uma abordagem diferente da guerra. Nossos homens armados, os Zbrojnosh, são treinados para transformar o terreno a seu favor e provaram ser bons lutadores, capazes de derrotar exércitos muito maiores."
+
+ innovation_upland_skirmishing:0 "Escaramuças de Terreno Elevado"
+ innovation_upland_skirmishing_desc:0 "As colinas da savana arborizada têm sido nossa terra natal por gerações. Nossos ancestrais nos mostraram como utilizar este terreno, e com invasores ameaçando nossas fronteiras, podemos usar esse conhecimento em nossa defesa."
+ 
+ innovation_sarawit:0 "Sarawit"
+ innovation_sarawit_desc:0 "As terras altas onde nossos ancestrais se estabeleceram requerem uma abordagem particular da agricultura. A construção de campos em socalcos nos ensinou a desenvolver novas táticas militares, que são empregadas por nossos soldados Serawit."
+ 
+ innovation_desert_mountain_herding:0 "Práticas de Montanha Desértica"
+ innovation_desert_mountain_herding_desc:0 "Desde os tempos antigos, o povo de nossas montanhas busca métodos para pastorear seus rebanhos em terrenos inóspitos. Fazer isso os transformou em guerreiros muito resistentes e robustos, chamados Abudrar."
+ 
+ innovation_royal_army_tradition:0 "Tradição do Exército Real"
+ innovation_royal_army_tradition_desc:0 "Temos uma longa tradição de um exército permanente feito para proteger a capital. Isso nos deu acesso a soldados resistentes que trabalham muito bem com tropas de apoio, como os elefantes de guerra."
+ 
+ innovation_repeating_crossbow:0 "Chu-ko-nu"
+ innovation_repeating_crossbow_desc:0 "A balestra de repetição, também chamada de chu-ko-nu, é um dispositivo de uso rápido que qualquer pessoa pode usar. Ele compensa seu baixo alcance e potência com uma excelente cadência de tiro que o torna a arma ideal para posições defensivas."
+
+ innovation_men_at_arms:0 "Homens de Armas"
+ innovation_men_at_arms_desc:0 "Treinar e equipar exércitos permanentes que permanecem sob a disposição direta de nossos governantes será um trampolim no caminho para centralizar nosso poder."
+ 
+ #########Jota 4/9/2020#########

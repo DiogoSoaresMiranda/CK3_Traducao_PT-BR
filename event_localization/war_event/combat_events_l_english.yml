@@ -1,0 +1,82 @@
+﻿l_english:
+ combat_event.0003.t:0 "Undefeatable"
+ combat_event.0003.desc.opening:0 "One hundred battles, one hundred victories!"
+ combat_event.0003.desc.commander:0 "With my latest victory against [enemy_commander.GetTitledFirstName] and [enemy_commander.GetHerHis] soldiers,"
+ combat_event.0003.desc.no_commander:0 "With my latest victory in battle"
+ combat_event.0003.desc.ending:0 "I have finally reached this momentous milestone.\n\nHaving never lost a single battle, there have long been whispers that I was undefeatable, an indomitable force that could never be bested. It is beginning to look like that may really be true..."
+ combat_event.0003.desc.alt_ending:0 "I have finally reached this momentous milestone.\n\nWith each battle I won, the rumors of my prowess grew. Now that my deeds have surpassed even those of legend, I can claim to truly be undefeatable, an indomitable force that can never be bested."
+ combat_event.0003.a:0 "Spread the word far and wide of my skill!"
+ combat_event.0003.b:0 "I must not fall into hubris. A stray arrow is all it takes."
+ combat_event.0003.b.zealous:0 "I am but [ROOT.Char.GetFaith.HighGodNamePossessive] [ROOT.Char.Custom('signature_weapon')], I merely carry out [ROOT.Char.GetFaith.WarGodHerHis|U] will."
+
+ combat_event.0004.t:0 "Toppling the Colossus"
+ combat_event.0004.desc:0 "[enemy_commander.Custom2('MyCharacterIntroduction', ROOT.Char)|U] is a legendary commander, known throughout the world for fighting over one hundred battles in [enemy_commander.GetHerHis] life without losing a single one.\n\nDespite this, I bested [enemy_commander.GetHerHim] on the field of battle today and showed the world that [enemy_commander.GetSheHe] is not infallible!"
+ combat_event.0004.a:0 "Even the great legends fall before my [ROOT.Char.Custom('signature_weapon')]!"
+ combat_event.0004.b:0 "If [enemy_commander.GetSheHe] can be bested, so can I."
+ combat_event.0004.b.zealous:0 "I thank [ROOT.GetCharacter.GetFaith.WarGodNamePossessive] for humbling that [enemy_commander.GetWomanMan]."
+
+ combat_event.0005.t:0 "Toppling the Colossus"
+ combat_event.0005.desc:0 "Today the unthinkable happened — I was bested in battle by [friendly_commander.Custom2('MyCharacterIntroduction', ROOT.Char)]! I had really begun to think I could never lose, but now I have been brought low and humbled.\n\nMy reputation is still somewhat intact despite this loss, though [friendly_commander.GetFirstName] has stolen some of my glory and fame."
+ combat_event.0005.a:0 "[friendly_commander.GetSheHe|U] deserves recognition for defeating one such as I."
+ combat_event.0005.b:0 "Unacceptable! [friendly_commander.GetSheHe|U] will rue the day they crossed me!"
+ combat_event.0005.message:0 "Enraged by [enemy_commander.GetHerHis] loss in battle, [enemy_commander.GetTitledFirstName] has sworn revenge upon me!"
+
+  # Combatants Taken Prisoner
+ combat_event.1002.pow_message.t:0 "Enemy Combatants Captured"
+ combat_event.1002.pow_message.desc.single:1 "Your forces captured [primary_prisoner.Custom2('MyCharacterIntroduction', ROOT.Char)|U]"
+ combat_event.1002.pow_message.desc.double:1 "Your forces captured [primary_prisoner.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and [secondary_prisoner.Custom2('MyCharacterIntroduction', ROOT.Char)]"
+ combat_event.1002.pow_message.desc.multiple:1 "Your forces captured [primary_prisoner.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and [ROOT.Var('num_other_relevant_captured_combatants').GetValue|V0] others"
+ combat_event.1002.pow_message.desc.end:0 "after winning the Battle of [combat_location.GetName]!"
+
+ combat_event.1003.pow_message.t:0 "Allied Combatants Captured"
+ combat_event.1003.pow_message.desc.single:0 "[primary_prisoner.Custom2('MyCharacterIntroduction', ROOT.Char)|U] was taken prisoner"
+ combat_event.1003.pow_message.desc.double:0 "[primary_prisoner.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and [secondary_prisoner.Custom2('MyCharacterIntroduction', ROOT.Char)] were taken prisoner"
+ combat_event.1003.pow_message.desc.multiple:0 "[primary_prisoner.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and [ROOT.Var('num_other_relevant_captured_combatants').GetValue|V0] others were taken prisoner"
+ combat_event.1003.pow_message.desc.end:1 "by your foe [combat_winner.GetTitledFirstName] after [combat_winner.GetSheHe] won the Battle of [combat_location.GetName]!"
+
+ combat_event.1004.pow_message.t:0 "[ROOT.Char.Custom2('RelationToMeShort', primary_prisoner)|U] Taken Prisoner"
+ combat_event.1004.pow_message.desc.end:0 "by [combat_winner.Custom2('MyCharacterIntroduction', ROOT.Char)] after [combat_winner.GetSheHe] won the Battle of [combat_location.GetName]!"
+
+ combat_event.1005.pow_toast.t:0 "Valuable Hostage Captured"
+ combat_event.1005.pow_toast.desc:1 "Your forces took [important_hostage.Custom2('NamePossessiveCharacterIntroduction', primary_combat_loser)] hostage after capturing [important_hostage.GetHerHim] during the Battle of [combat_location.GetName]."
+ combat_event.1005.pow_toast.desc.primary:1 "Your forces took your foe [important_hostage.GetTitledFirstName] hostage after capturing [important_hostage.GetHerHim] during the Battle of [combat_location.GetName]."
+ combat_event.1006.pow_toast.t:0 "Heir Taken Hostage"
+ combat_event.1006.pow_toast.desc:0 "[combat_winner.GetTitledFirstName] captured [important_hostage.Custom2('MyCharacterIntroduction', ROOT.Char)] and took [important_hostage.GetHerHim] hostage after the Battle of [combat_location.GetName]."
+ combat_event.1007.pow_toast.t:0 "$combat_event.1005.pow_toast.t$"
+ combat_event.1007.pow_toast_primary.t:0 "Enemy War Leader Captured"
+ combat_event.1007.pow_toast.desc:0 "[combat_winner.GetTitledFirstName] captured [important_hostage.Custom2('NamePossessiveCharacterIntroduction', primary_combat_loser)] after the Battle of [combat_location.GetName] and took [important_hostage.GetHerHim] hostage."
+ combat_event.1007.pow_toast.desc.primary:1 "[combat_winner.GetTitledFirstName] captured your foe [important_hostage.GetTitledFirstName] after the Battle of [combat_location.GetName] and took [important_hostage.GetHerHim] hostage."
+
+  # Combatants Slain
+ combat_event.1012.slain_message.t:0 "Enemy Combatants Slain"
+ combat_event.1012.slain_message.desc.single:2 "Your forces slew [primary_deceased.Custom2('MyCharacterIntroduction', ROOT.Char)|U]"
+ combat_event.1012.slain_message.desc.double:2 "Your forces slew [primary_deceased.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and [secondary_deceased.Custom2('MyCharacterIntroduction', ROOT.Char)]"
+ combat_event.1012.slain_message.desc.multiple:2 "Your forces slew [primary_deceased.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and [ROOT.Var('num_other_relevant_slain_combatants').GetValue|V0] others"
+ combat_event.1012.slain_message.desc.end:1 "during the Battle of [combat_location.GetName]!"
+
+ combat_event.1013.slain_message.t:0 "Allied Combatants Slain"
+ combat_event.1013.slain_message.desc.single:0 "[primary_deceased.Custom2('MyCharacterIntroduction', ROOT.Char)|U] was"
+ combat_event.1013.slain_message.desc.double:0 "[primary_deceased.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and [secondary_deceased.Custom2('MyCharacterIntroduction', ROOT.Char)] were"
+ combat_event.1013.slain_message.desc.multiple:0 "[primary_deceased.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and [ROOT.Var('num_other_relevant_slain_combatants').GetValue|V0] others were"
+ combat_event.1013.slain_message.desc.end:1 "slain during the Battle of [combat_location.GetName]!"
+
+ combat_event.1014.slain_message.t:1 "[ROOT.Char.Custom2('RelationToMeShort', primary_deceased)|U] Slain In Battle"
+
+  # Slain/captured knight event strings for use in battle events (after the battle).
+ combatant_captured_in_battle_friendly_player:1 "You captured [TARGET_CHARACTER.GetUINameNoTooltip] after the battle!"
+ combatant_captured_in_battle_friendly:0 "[CHARACTER.GetUINameNoTooltip] captured [TARGET_CHARACTER.GetUINameNoTooltip] after the battle!"
+ combatant_captured_in_battle_enemy_player:1 "You were captured by [CHARACTER.GetUINameNoTooltip] after the battle!"
+ combatant_captured_in_battle_enemy:0 "[TARGET_CHARACTER.GetUINameNoTooltip] was captured by [CHARACTER.GetUINameNoTooltip] after the battle!"
+
+ combatant_killed_in_battle_friendly_player:1 "You slew [TARGET_CHARACTER.GetUINameNoTooltip] while [TARGET_CHARACTER.GetSheHe] was retreating from battle!"
+ combatant_killed_in_battle_friendly:0 "[CHARACTER.GetUINameNoTooltip] slew [TARGET_CHARACTER.GetUINameNoTooltip] while [CHARACTER.GetSheHe] was retreating from battle!"
+ combatant_killed_in_battle_enemy_player:1 "You were slain by [CHARACTER.GetUINameNoTooltip] during the retreat!"
+ combatant_killed_in_battle_enemy:0 "[TARGET_CHARACTER.GetUINameNoTooltip] was slain by [CHARACTER.GetUINameNoTooltip] during the retreat!"
+
+ combatant_killed_in_battle_no_killer_friendly_player:1 "One of your soldiers slew [TARGET_CHARACTER.GetUINameNoTooltip] while [TARGET_CHARACTER.GetSheHe] was retreating from battle!"
+ combatant_killed_in_battle_no_killer_friendly:1 "One of our soldiers slew [TARGET_CHARACTER.GetUINameNoTooltip] while [TARGET_CHARACTER.GetSheHe] was retreating from battle!"
+ combatant_killed_in_battle_no_killer_enemy_player:1 "You were slain by an enemy soldier during the retreat!"
+ combatant_killed_in_battle_no_killer_enemy:0 "[TARGET_CHARACTER.GetUINameNoTooltip] was slain by an enemy soldier during the retreat!"
+
+
+

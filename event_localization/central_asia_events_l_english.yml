@@ -1,0 +1,23 @@
+﻿l_english:
+ central_asia.0001.t:0 "The World Before Me"
+ central_asia.0001.desc:0 "The clan leaders all know why they have been called. We spend a long night secluded in the palace yurt, and they summon shamans and generals alike to speak before them. There is no debate. I emerge from the tent as the first rays of the sun breach the horizon, and the entire gathered army is already awake, awaiting.\n\nThey greet me, knowing that I am not merely their ruler. I am the ruler of the universe — Genghis Khan."
+ central_asia.0001.a:0 "This is where my conquest truly begins."
+ central_asia.0001.mongol_invasion_cb:0 "I am able to use the [mongol_invasion_casus_belli|E]"
+
+ central_asia.0002.t:0 "Genghis Khan"
+ central_asia.0002.desc:0 "I was summoned by my liege to a Great Kurultai, a gathering of every clan leader and vassal in the realm. We all knew why, and there was never any doubt in the night-long deliberations that were held in the smoky yurt. [genghis_khan.GetFirstName] [genghis_khan.GetDynastyName] is the [genghis_khan.GetLadyLord] of the universe — Genghis Khan.\n\nThere was no coronation ceremony, for who could judge [genghis_khan.GetHerHim]? Instead, [genghis_khan.GetSheHe] delivered a declaration before [genghis_khan.GetHerHis] gathered armies.\n\n"Today we go forth and conquer all that lies underneath the Great Sky!""
+ central_asia.0002.a:0 "The world will tremble before us!"
+
+ central_asia.0003.desc:0 "Heralds bring us word of a new ruler on the steppes, someone styling themselves "Genghis Khan", self-proclaimed ruler of the universe. A united horde of riders and warriors is pouring forth to subjugating those who refuse to bend the knee.\n\nThese are ridiculous claims, of course, but news have also reached us of the fall of great cities before a vicious conqueror..."
+ central_asia.0003.a.distant:0 "This will all blow over soon enough."
+ central_asia.0003.a.neighbor:0 "We must prepare ourselves. There is hardship ahead."
+
+ central_asia.0011.t:0 "The Cradle of the Steppes"
+ central_asia.0011.desc:0 "The heritage of old is not merely a powerful symbol, but a guiding force in its own right. As they once were, the disparate peoples of this land will be united and led under the banner of Bactria. My banner.\n\nWith thundering hooves and marching feet, all who travel between East and West will know that we rule the open sky."
+ central_asia.0011.a:0 "We carry the strength of many peoples!"
+
+ central_asia.0012.desc:0 "My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('bactrian_emperor'))], [bactrian_emperor.GetTitledFirstName], has laid claim to the ancient lands of Bactria, and intends to rule them as one, as kings did in ancient times.\n\nTo those who travel between East and West, this land might seem inhospitable, but we know that it is truly teeming with life."
+ central_asia.0012.a:0 "We carry the strength of many peoples!"
+
+ central_asia.0013.desc:0 "[bactrian_emperor.GetFullName] has laid claim to all the lands of ancient Bactria, and declared [bactrian_emperor.GetHerselfHimself] as its only true ruler. The fool seems to have overlooked one little detail, however. Some of the lands [bactrian_emperor.GetSheHe] has laid claim to are mine!"
+ central_asia.0013.a:0 "[bactrian_emperor.GetSheHe|U] can take them from my cold, dead hands!"

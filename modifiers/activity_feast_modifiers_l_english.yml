@@ -1,0 +1,84 @@
+﻿l_english:
+ feast_strategy_discussions_modifier:0 "Discussions on Strategy"
+ feast_strategy_discussions_modifier_desc:0 "Discussing strategies with experienced commanders has proved fruitful."
+ feast_cavalry_insight_modifier:0 "Cavalry Insight"
+ feast_cavalry_insight_modifier_desc:0 "Plotting out theoretical strategies has given me ideas for how to more efficiently use my cavalry."
+ feast_heavy_infantry_insight_modifier:0 "Heavy Infantry Insight"
+ feast_heavy_infantry_insight_modifier_desc:0 "Plotting out theoretical strategies has given me ideas for how to more efficiently use my heavy infantry."
+ feast_skirmishers_insight_modifier:0 "Skirmisher Insight"
+ feast_skirmishers_insight_modifier_desc:0 "Plotting out theoretical strategies has given me ideas for how to more efficiently use my skirmishers."
+ feast_archers_insight_modifier:0 "Archers Insight"
+ feast_archers_insight_modifier_desc:0 "Plotting out theoretical strategies has given me ideas for how to more efficiently use my archers."
+ feast_pikemen_insight_modifier:0 "Pikemen Insight"
+ feast_pikemen_insight_modifier_desc:0 "Plotting out theoretical strategies has given me ideas for how to more efficiently use my pikemen."
+ feast_better_safe_than_sorry_modifier:0 "Better Safe Than Sorry"
+ feast_better_safe_than_sorry_modifier_desc:0 "I like to assess the situation and make sure I am prepared for all eventualities."
+ feast_overly_safe_rather_than_sorry_modifier:0 "Better Safe Than Sorry"
+ feast_overly_safe_rather_than_sorry_modifier_desc:0 "I like to assess the situation and make sure I am prepared for all eventualities. #EMP All#! eventualities."
+ feast_silenced_a_disruptive_guest:0 "Silenced a Disruptive Guest"
+ feast_bad_reaction_to_food:0 "Bad Reaction to Food"
+ feast_had_good_fight_modifier:0 "Had Good Fight"
+ feast_loyal_servantry_modifier:0 "Loyal Servantry"
+
+ i_am_corteous_guest_modifier:0 "Courteous Guest"
+ i_am_corteous_guest_modifier_desc:0 "This person is exceptionally courteous and considerate of their host, wherever they may be."
+
+ feast_higher_standards_modifier:0 "Higher Standards of Courtesy"
+ feast_higher_standards_modifier_desc:0 "There are certain things a noble should simply be too good for."
+
+ feast_scholarly_confidence_modifier:0 "Scholarly Confidence"
+ feast_scholarly_confidence_modifier_desc:0 "It's not hubris if it's true."
+
+ feast_gratifying_complaints_modifier:0 "Gratifying Complaints"
+ feast_gratifying_complaints_modifier_desc:0 "It is immensely cathartic to complain when things are even slightly wrong."
+
+ feast_life_reaffirmed_modifier:0 "Life Reaffirmed"
+ feast_life_reaffirmed_modifier_desc:0 "A chance encounter with a meal at a feast has reignited this person's passion for life."
+
+ feast_reinvigorated_by_friend_modifier:0 "Reinvigorating Friendship"
+ feast_reinvigorated_by_friend_modifier_desc:0 "Spending time with those who care for us is one of the things that makes life worth living."
+
+ feast_practiced_secrecy_modifier:0 "Practiced Secrecy"
+ feast_practiced_secrecy_modifier_desc:0 "Certain things require great skill to keep unnoticed."
+
+ feast_showed_great_restraint_modifier:0 "Capable of Restraint"
+ feast_showed_great_restraint_modifier_desc:0 "It is important to know when to indulge, and when to make sacrifices."
+
+ feast_bad_form_with_rival_modifier:0 "Feast Ruined by Rival"
+ feast_bad_form_with_rival_modifier_desc:0 "The world would have been a perfectly fine place without #EMP a certain someone.#!"
+
+ feast_had_interesting_conversation_modifier:0 "Had Interesting Conversation"
+ feast_had_interesting_conversation_modifier_desc:0 "A good talk about an interesting subject does really get the brain going."
+
+ feast_bought_more_drink_modifier:0 "Fought Thirst"
+ feast_bought_more_drink_modifier_desc:0 "To supply your guests with enough to drink is the job of any host!"
+
+ feast_good_food_modifier:0 "Ate Exquisite Food"
+ feast_good_food_modifier_desc:0 "To eat highly agreeable food is good for both mind and soul!"
+
+ feast_household_efforts_modifier:0 "Household Efforts"
+ feast_household_efforts_modifier_desc:0 "The head of the household is doing a stellar job of managing the relationship between guests and the court."
+
+ feast_raucous_entertainment_modifier:0 "Raucous Entertainment"
+ feast_raucous_entertainment_modifier_desc:0 "A good laugh prolongs life, as long as you are not the butt of the joke."
+
+ feast_suspicious_of_food_modifier:0 "Suspicious of Food"
+ feast_suspicious_of_food_modifier_desc:0 "Once burnt, check that all food is properly cooked twice."
+
+ feast_display_of_ruthlessness_modifier:0 "Public Display of Ruthlessness"
+ feast_display_of_ruthlessness_modifier_desc:0 "Showing a cold heart and a will of steel in front of others, this person has left an impression."
+
+ feast_bird_based_exercise_modifier:0 "Bird-based Exercise"
+ feast_bird_based_exercise_modifier_desc:0 "This character has invented an interesting new way of practicing endurance."
+
+ feast_livestock_at_feast_modifier:0 "Lively Feast"
+ feast_livestock_at_feast_modifier_desc:0 "The feast doesn't truly start until the livestock joins the table."
+
+ feast_blew_off_steam_modifier:0 "Blew off Steam"
+ feast_blew_off_steam_modifier_desc:0 "This character hasn't been this rested and invigorated in a long time!"
+
+ feast_hearty_diet_modifier:0 "Hearty Diet"
+ feast_hearty_diet_modifier_desc:0 "A sound meal can mend the gravest illness."
+
+ feast_obsessed_with_garum_modifier:0 "Obsessed With Garum"
+ feast_obsessed_with_garum_modifier_desc:0 "It goes with everything!"

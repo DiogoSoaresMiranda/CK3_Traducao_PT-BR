@@ -1,0 +1,7 @@
+﻿l_english:
+
+ BUILDING_REQUIREMENT_TRIBAL_HOLDING_IN_COUNTY:0 "[PROVINCE.GetCounty.GetTitle.GetName] has a [tribal|E] holding"
+
+ BUILDING_REQUIREMENT_CASTLE_CITY_CHURCH_FAILED:0 "[PROVINCE.GetName] must be a [castle|E], [city|E], or [temple|E]"
+ NOT_BUILDING_REQUIREMENT_CASTLE_CITY_CHURCH_FAILED:0 "[PROVINCE.GetName] is not a [castle|E], [city|E], or [temple|E]"
+ NOT_BUILDING_REQUIREMENT_HALL_OF_HEROES_FAILED:0 "Hall of Heroes can only be used by Baltic, Slavic and Finnish Pagans"

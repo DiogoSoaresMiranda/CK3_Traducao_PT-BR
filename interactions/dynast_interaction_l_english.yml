@@ -1,0 +1,37 @@
+﻿l_english:
+ dynasty_interaction_header:1 "[dynast_interaction|E]\n"
+ disinherit_interaction:0 "Disinherit"
+ disinherit_interaction_desc:0 "$dynasty_interaction_header$Remove [recipient.GetShortUINameNoTooltip] from the [line_of_succession|E]"
+ disinherit_interaction_notification:0 "Disinherited Dynasty Member"
+
+ restore_inheritance_interaction:0 "Restore Inheritance"
+ restore_inheritance_interaction_desc:0 "$dynasty_interaction_header$Restore [recipient.GetShortUINameNoTooltip] to the natural [line_of_succession|E]\n\n#weak This is available because [recipient.GetSheHe] has been [disinherited|E]"
+ restore_inheritance_interaction_notification:0 "Restored Inheritance"
+
+ denounce_interaction:0 "Denounce"
+ denounce_interaction_desc:0 "$dynasty_interaction_header$[denounce|E] [recipient.GetShortUINameNoTooltip]\n\n#weak This will give all members of our [dynasty|E] an [imprisonment_reason|E] against [recipient.GetHerHim]"
+ denounce_interaction_notification:0 "Denounced Dynasty member"
+
+ forgive_interaction:0 "Forgive"
+ denounced_change_to_forgiven:0 "The #V $denounced_opinion$ Opinion#! #weak (-50)#! changes to #V $forgave_denounced_opinion$#! #weak (-25)#! (#P +25#! [opinion|E])"
+ forgiven_changed_to_denounced:0 "The #V $forgave_denounced_opinion$ Opinion#! #weak (-25)#! changes to #V $denounced_opinion$#! #weak (-50)#! (#N -25#! [opinion|E])"
+ forgive_interaction_desc:0 "$dynasty_interaction_header$Retract the [denouncement|E] of [recipient.GetShortUINameNoTooltip]"
+ forgive_interaction_notification:0 "Forgave Dynasty Member"
+
+ call_dynasty_member_to_war_interaction:0 "Call Dynasty Member To War"
+ call_dynasty_member_to_war_interaction_desc:0 "Call [recipient.GetShortUINameNoTooltip] to serve [recipient.GetHerHis] [dynasty|E] in war"
+ call_dynasty_member_to_war_interaction_extra_icon:0 "$hook_extra_icon$"
+
+ dynast_legitimize_bastard_interaction:1 "Legitimize Bastard #weak (Dynasty)#!"
+ dynast_legitimize_bastard_interaction_desc:2 "$dynasty_interaction_header$Declare [recipient.GetShortUINameNoTooltip] to be a $game_concept_legitimized_bastard$\n\n#weak This is available because [recipient.GetSheHe] is a [bastard|E] of my [dynasty|E]"
+ dynast_legitimize_bastard_interaction_notification:0 "Legitimized Bastard"
+
+ dynast_claim_title_interaction:0 "Claim Title"
+ dynast_claim_title_interaction_desc:0 "$dynasty_interaction_header$[claim|EU] a [title|E] held by [recipient.GetShortUINameNoTooltip] for yourself"
+ dynast_claim_title_interaction_notification:0 "Claimed Title"
+
+ dynast_end_dynasty_wars_interaction:0 "End Dynasty Wars"
+ dynast_end_dynasty_wars_interaction_desc:0 "$dynasty_interaction_header$Demand that [recipient.GetShortUINameNoTooltip] immediately ends all their offensive wars against any other members of our [dynasty|E]"
+ dynast_end_dynasty_wars_interaction_notification:0 "Ended Dynasty War"
+
+ recipient_secondary_legitimize_bastard_interaction:0 "Bastard"

@@ -1,0 +1,10 @@
+﻿l_english:
+ select_council_task_header:1 "Demand Council Position"
+ COUNCIL_TASK_INTERACTION_NO_SELECTED_TASK:0 "@warning_icon!#X No task has been selected#!"
+ COUNCIL_TASK_INTERACTION_AUTO_FILLED:0 "@warning_icon!#X [ACTIVE_COUNCIL_TASK.GetPositionName] is automatically filled#!"
+ COUNCIL_TASK_INTERACTION_WINDOW_SELECT_TASK:1 "Select a Council Position"
+ COUNCIL_TASK_INTERACTION_WINDOW_SELECTED_TASK:0 "Selected Position: [CouncilTaskInteractionWindow.GetSelectedTask.GetPositionName]"
+ COUNCIL_TASK_INTERACTION_WINDOW_PLAYER_SKILLS_LABEL:0 "[GetPlayer.GetShortUINamePossessive|U] [skills|E]"
+ COUNCIL_TASK_INTERACTION_CURRENT:0 "Current: [Character.GetUIName]"
+ COUNCIL_TASK_INTERACTION_CURRENT_YOU:0 "Your current Position"
+ COUNCIL_TASK_INTERACTION_VACANT:0 "Current: Vacant"

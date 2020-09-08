@@ -1,0 +1,38 @@
+﻿l_english:
+ bm_867_carolingians:0 "The Carolingians"
+ bm_867_carolingians_desc:1 "After the passing of Louis the Pious, the once-great Carolingian Empire was divided up into the three separate Kingdoms of East, West, and Middle Francia. Since then, these realms have only splintered further as wars, rebellions, and inheritance variously cause instability and fragmentation.\n\n#bold Are any of the Karlings strong enough to reunite their empire? Or will their family squabbles leave them vulnerable to exploitation by opportunists?#!"
+
+ #Charles the Bald
+ bookmark_carolingians_charles_the_bald:0 "Charles the Bald"
+ bookmark_carolingians_charles_the_bald_desc:0 "At the time of Charles' birth, his fully grown half-brothers already ruled their own kingdoms within the Carolingian empire. Without a crown of his own, he became known as 'the Bald,' though he eventually did inherit Aquitaine and West Francia. In the future he will even inherit Italy and the Holy Roman Empire itself, but his line will not persevere — his last grandson will die childless just seven years after his own death.\n\n#bold Can you change the course of history and ensure a long and prosperous line of Charles' decedents?#!"
+
+ bookmark_carolingians_charles_the_bald_alt_judith:0 "$Judith$"
+ bookmark_carolingians_charles_the_bald_alt_louis:0 "$Louis$ $nick_the_stammerer$"
+
+ #King Lothaire
+ bookmark_carolingians_king_lothaire:0 "King Lothaire II"
+ bookmark_carolingians_king_lothaire_desc:0 "Though he was in love with his mistress Waldrada, Lothaire's father forced him into a political marriage with Teutberga. Their union produced no children, and Lothaire's life has been a continuous struggle to divorce his wife and get his bastard children legitimized. Though he never stops trying, Lothaire will go on to die without a legal heir.\n\n#bold Can you overcome the machinations of those who plot against you and ensure the continuation of your house?#!"
+
+ bookmark_carolingians_king_lothaire_alt_waldrada:0 "$Waldrada$"
+ bookmark_carolingians_king_lothaire_alt_teutberga:0 "$Teutberga$"
+
+ #Ludwig the German
+ bookmark_carolingians_ludwig_the_german:0 "Ludwig the German"
+ bookmark_carolingians_ludwig_the_german_desc:0 "An ambitious man, Ludwig has long sought to reconquer the pieces of the Empire he considers his birthright. These ambitions have suffered from setback after setback however, as his various military campaigns all ended in failure and his rebellious sons have pried away most of his own lands from his control.\n\n#bold Can you reverse Ludwig's misfortunes and regain the Empire for his descendants, or are his sons destined to be relegated to a mere footnote in history?#!"
+
+ bookmark_carolingians_ludwig_the_german_alt_youngerludwig:0 "$Ludwig$ $nick_the_younger$"
+ bookmark_carolingians_ludwig_the_german_alt_karl:0 "$Karl$"
+
+ #King Louis of Italy
+ bookmark_carolingians_king_louis:0 "King Louis II"
+ bookmark_carolingians_king_louis_desc:1 "Imperial power had diminished so much by the time Louis was crowned Holy Roman Emperor that the title no longer offered any real authority. Though he managed to reclaim the Kingdom of Provence, Louis' uncles and brother, unburdened by any sort of allegiance to the Imperial Crown, continue to act as they please. Saddled with quarrelsome neighbors and an unstable realm, Louis II will die before siring a son.\n\n#bold Can you regain all the lost territories of the Empire and reestablish the Imperial Crown as a real power?#!"
+
+ bookmark_carolingians_king_louis_alt_ermengarde:0 "$Ermengarde$"
+ bookmark_carolingians_king_louis_alt_engelberga:0 "$Engelberga$"
+
+ # King Karlmann of Bavaria
+ bookmark_carolingians_king_karlmann:1 "Prince Karlmann"
+ bookmark_carolingians_king_karlmann_desc:0 "The eldest son of Ludwig the German, Karlmann rebelled against his father and forced him to give him control over the lands of Bavaria. He will expand this domain in wars with Slavs to the east and later on will even be elected King of Italy — though an unfortunate stroke will force him to abdicate the thrones of Bavaria and Italy to his younger brothers. He will die just a few years later.\n\n#bold With a little luck, will you be able to avoid Karlmann's unfortunate demise and establish a legacy that will last the ages?#!"
+
+ bookmark_carolingians_king_karlmann_alt_arnulf:0 "$Arnulf$"
+ bookmark_carolingians_king_karlmann_alt_hemma:0 "$Hemma$"

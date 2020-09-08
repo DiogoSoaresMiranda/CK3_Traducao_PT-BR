@@ -1,0 +1,25 @@
+﻿l_english:
+ almohad.1001.t:0 "Rise of the Almohads"
+ almohad.1001.desc:0 "It seems that a fringe belief is taking hold in the [almohad_county.GetName]. The religious movement calls itself the Almohads, and speaks of needing to cleanse the Maghreb of heretics and the misguided.\n\nThe local magistrates are concerned, but surely a fringe religious group led by a disgraced theologian is nothing to worry about?"
+ almohad.1001.a:0 "Why would this be of any concern to me?"
+ almohad.1001.a.flavor:0 "When has a fringe religious group in the provinces ever caused trouble for anyone?"
+ almohad.1001.b:0 "Let's root this out before it takes proper hold..."
+ almohad.1001.b.conversion_tt:0 "If you are already converting the faith in [almohad_county.GetName], progress may be lost if you choose this option!"
+ almohad.1001.player_warning:0 "@warning_icon! #X Failing to convert [almohad_county.GetNameNoTier] away from [masmudi.GetName] swiftly enough will lead to the rise of the Almohads. Be prepared.#!"
+
+ almohad.1002.desc:0 "The religious movement known as the Almohads have sallied forth from their headquarters, intent on "reclaiming the Maghreb from the disbelievers", by force if necessary!\n\nTheir leader, [ibn_tumart.GetTitledFirstName] was once turned away from numerous places of learning for being — quite frankly — annoying in [ibn_tumart.GetHerHis] insistence on dogmatic practices, However, [ibn_tumart.GetSheHe] has now found a strong core of followers and declared [ibn_tumart.GetHerselfHimself] nothing less than the Madhi!"
+ almohad.1002.a:0 "As if this lowly [ibn_tumart.GetFaith.PriestNeuter] poses any threat!"
+ almohad.1002.a.target.tt:0 "The Almohads go to war against you!"
+ almohad.1002.a.not_target.tt:0 "The Almohads go to war against your liege!"
+ almohad.1002.b:0 "[ibn_tumart.GetSheHe|U] has some very good points, actually."
+ almohad.1002.b.flavor:0 "I can hardly call myself a worthy faithful..."
+
+ almohad.1003.desc:0 "The Almohads' founder, [ibn_tumart.GetTitledFirstName], has passed, and with that one would hope that [ibn_tumart.GetHerHis] movement would be consigned to history. If only we were so lucky.\n\nInstead, a new leader has risen! [al_mumin.GetTitledFirstName] has not only held the tribes together, [al_mumin.GetSheHe] has gathered #EMP more#! people to [al_mumin.GetHerHis] banner!"
+ almohad.1003.a:0 "These fanatics just keep coming!"
+ almohad.1003.a.tt:0 "The Almohads return, stronger than ever."
+
+ almohad.1004.t:0 "Control of Marrakesh"
+ almohad.1004.desc:0 "Once founded as an imperial capital, the [marrakesh.GetTitle] is now under my control, as is right. However, it bears endless [old_faith.GetAdjective] influences, and my [masmudi.GetName] are eager to see it remade in my image.\n\nIt seems a shame to destroy so many perfectly good palaces and temples, but it might be necessary in order to make good on my ambition to bring enlightenment to the Maghreb."
+ almohad.1004.a:0 "We will make it our new, [masmudi.GetAdjective] capital!"
+ almohad.1004.b:0 "Let us build a new, even grander city!"
+ almohad.1004.c:0 "Perhaps this is not the wisest course of action..."

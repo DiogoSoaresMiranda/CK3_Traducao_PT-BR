@@ -1,0 +1,59 @@
+﻿l_english:
+ infected_wound_modifier:0 "Infected Wound"
+ gangrene_modifier:0 "Gangrene"
+ rejected_from_marriage_bed_modifier:0 "Rejected From Marriage Bed"
+ rejected_from_marriage_bed_modifier_desc:0 "This character's marriage will produce no offspring."
+
+ safe_disease_treatment_success_high_modifier:0 "Reduced Disease Symptoms"
+ safe_disease_treatment_success_high_modifier_desc:0 "A successful treatment has reduced this character's disease symptoms."
+ safe_disease_treatment_success_low_modifier:0 "Reduced Disease Symptoms"
+ safe_disease_treatment_success_low_modifier_desc:0 "A successful treatment has reduced this character's disease symptoms."
+ safe_disease_treatment_failure_modifier:0 "Worsened Disease Symptoms"
+ safe_disease_treatment_failure_modifier_desc:0 "A failed treatment has worsened this character's disease symptoms."
+ risky_disease_treatment_success_high_modifier:0 "Greatly Reduced Disease Symptoms"
+ risky_disease_treatment_success_high_modifier_desc:0 "A very successful treatment has reduced this character's disease symptoms."
+ risky_disease_treatment_success_low_modifier:0 "Greatly Reduced Disease Symptoms"
+ risky_disease_treatment_success_low_modifier_desc:0 "A very successful treatment has reduced this character's disease symptoms."
+ risky_disease_treatment_failure_modifier:0 "Botched Disease Treatment"
+ risky_disease_treatment_failure_modifier_desc:0 "A disastrous treatment has worsened this character's disease symptoms."
+
+ safe_wound_treatment_success_high_modifier:0 "Successful Wound Treatment"
+ safe_wound_treatment_success_high_modifier_desc:0 "A successful treatment has reduced the severity of this character's wound."
+ safe_wound_treatment_success_low_modifier:0 "Successful Wound Treatment"
+ safe_wound_treatment_success_low_modifier_desc:0 "A successful treatment has reduced the severity of this character's wound."
+ safe_wound_treatment_failure_modifier:0 "Aggravated Wound"
+ safe_wound_treatment_failure_modifier_desc:0 "A failed treatment has aggravated this character's wound."
+ risky_wound_treatment_success_modifier:0 "Very Successful Wound Treatment"
+ risky_wound_treatment_success_modifier_desc:0 "A very successful treatment has reduced the severity of this character's wound."
+ risky_wound_treatment_failure_modifier:0 "Botched Wound Treatment"
+ risky_wound_treatment_failure_modifier_desc:0 "A disastrous treatment has severely aggravated this character's wound."
+
+ chastised_physician_modifier:0 "Chastised Physician"
+ chastised_physician_modifier_desc:0 "This physician will think twice next time."
+
+ exhausted_modifier:0 "Exhausted"
+ exhausted_modifier_desc:0 "Exhaustion weights heavily on this character."
+
+ low_social_energy_modifier:0 "Low Social Energy"
+ low_social_energy_modifier_desc:0 "This character has spent their social energy elsewhere."
+
+ lunatic_made_of_glass_modifier:0 "Made of Glass"
+ lunatic_made_of_glass_modifier_desc:0 "This character is convinced they are made out of fragile glass"
+
+ lunatic_bat_ravings_modifier:0 "Ravings"
+ lunatic_bat_ravings_modifier_desc:0 "This character regularly warns people about bats, and claims to always be prepared for their threat."
+
+ wounds_quickly_tended_to_modifier:0 "Wounds Tended To"
+ wounds_quickly_tended_to_modifier_desc:0 "This character's wounds were quickly tended to"
+
+ drank_water_modifier:0 "Drank Water"
+ drank_water_modifier_desc:0 "This character drank blissfully cool water on a warm day"
+
+ malnourished_modifier:0 "Malnourished"
+ malnourished_modifier_desc:0 "This character suffers from weakness, lack of energy, and a low mood."
+ obese_modifier:0 "Obese"
+ obese_modifier_desc:0 "This character suffers from lack of energy, joint pain, and shortness of breath."
+ gaining_weight_modifier:0 "Gaining Weight"
+ gaining_weight_modifier_desc:0 "This character is trying to gain weight."
+ losing_weight_modifier:0 "Losing Weight"
+ losing_weight_modifier_desc:0 "This character is trying to lose weight."

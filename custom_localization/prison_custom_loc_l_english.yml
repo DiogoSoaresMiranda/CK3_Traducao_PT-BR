@@ -1,0 +1,7 @@
+﻿l_english:
+ #PrisonType
+ prisontype_dungeon:0 "dungeon"
+ prisontype_house_arrest:0 "house arrest"
+ #PrisonTypeCell
+ prisontypecell_dungeon_cell:0 "dungeon cell"
+ prisontypecell_house_arrest:0 "house arrest"

@@ -1,0 +1,10 @@
+﻿l_english:
+ claim_my_throne_success_discovered_opinion:0 "False claimant"
+ claim_my_throne_success_undiscovered_opinion:0 "Sudden claimant"
+ claim_my_throne_failure_opinion:0 "Attempted to falsify claim"
+
+ claim_throne_aiding_liege_opinion:0 "Aiding me"
+
+ claim_throne_bought_support_opinion:0 "Bought my support"
+
+ claim_throne_self_declared_opinion:0 "Self-declared ruler"

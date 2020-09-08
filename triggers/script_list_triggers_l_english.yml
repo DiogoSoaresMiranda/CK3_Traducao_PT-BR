@@ -1,0 +1,40 @@
+﻿l_english:
+
+ ALL_CLAIMANTS:0 "All [claimants|E]"
+ ANY_CLAIMANT:0 "Any [claimant|E]"
+
+ ANY_CHILD:0 "Any Child:"
+ ANY_CHILD_FIRST:0 "Any of my Children:"
+ ANY_CHILD_THIRD:0 "Any of [CHARACTER.GetShortUINamePossessive] Children:"
+ ALL_CHILDREN:0 "All Children:"
+ ALL_CHILDREN_FIRST:0 "All my Children:"
+ ALL_CHILDREN_THIRD:0 "All of [CHARACTER.GetShortUINamePossessive] Children:"
+ COUNT_EQ_CHILDREN:0 "Exactly $COUNT$ children:"
+ COUNT_EQ_CHILDREN_THIRD:0 "Exactly $COUNT$ of [CHARACTER.GetShortUINamePossessive] children:"
+ COUNT_GT_EQ_CHILDREN:0 "$COUNT$ children:"
+ COUNT_GT_EQ_CHILDREN_THIRD:0 "$COUNT$ of [CHARACTER.GetShortUINamePossessive] children:"
+
+ ALL_COURTIERS:0 "All Courtiers:"
+ ANY_COURTIERS:0 "Any Courtier:"
+ ALL_OF_MY_COURTIERS:0 "All my Courtiers:"
+ ANY_OF_MY_COURTIERS:0 "Any of my Courtiers:"
+ ALL_OF_THEIR_COURTIERS:0 "All of [CHARACTER.GetShortUINamePossessive] Courtiers:"
+ ANY_OF_THEIR_COURTIERS:0 "Any of [CHARACTER.GetShortUINamePossessive] Courtiers:"
+
+ ALL_HOOKED_CHARACTERS:0 "All [hooked|E] characters"
+ ANY_HOOKED_CHARACTER:0 "Any [hooked|E] character"
+ ALL_OF_THEIR_HOOKED_CHARACTERS:0 "All of [CHARACTER.GetShortUINamePossessive] hooked characters:"
+ ANY_OF_THEIR_HOOKED_CHARACTERS:0 "Any of [CHARACTER.GetShortUINamePossessive] hooked characters:"
+
+ ANY_FAITH_HOLY_SITE:0 "Any [FAITH.GetAdjective] [holy_site|E]"
+
+ ANY_HELD_TITLE:0 "Any held [title|E]:"
+ ANY_OF_MY_HELD_TITLES:0 "Any of my held [titles|E]:"
+ ANY_HELD_TITLE_GREATER_THAN:0 "Any held [titles|E] greater than:"
+ ANY_OF_MY_HELD_TITLES_GREATER_THAN:0 "Any of my held [titles|E] greater than:"
+ ANY_HELD_TITLE_GREATER_OR_EQUAL:0 "Any held [titles|E] equal or greater than:"
+ ANY_OF_MY_HELD_TITLES_GREATER_OR_EQUAL:0 "Any of my held [titles|E] equal or greater than:"
+ ANY_HELD_TITLE_LESS_THAN:0 "Any held [titles|E] less than:"
+ ANY_OF_MY_HELD_TITLES_LESS_THAN:0 "Any of my held [titles|E] less than:"
+ ANY_HELD_TITLE_LESS_OR_EQUAL:0 "Any held [titles|E] equal or less than:"
+ ANY_OF_MY_HELD_TITLES_LESS_OR_EQUAL:0 "Any of my held [titles|E] equal or lesser than:"

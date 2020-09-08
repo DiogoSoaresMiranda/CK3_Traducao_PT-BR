@@ -1,0 +1,47 @@
+﻿l_english:
+
+ HAS_BULDING_TRIGGER:0 "[PROVINCE.GetName] has a $BUILDING|V$ [building|E]"
+
+ HAS_FREE_BUILDING_SLOT_TRIGGER_GLOBAL:0 "Has a free building slot"
+ HAS_NOT_FREE_BUILDING_SLOT_TRIGGER_GLOBAL:0 "Does #bold not#! have a free building slot"
+ HAS_FREE_BUILDING_SLOT_TRIGGER_THIRD:0 "[PROVINCE.GetName] has a free building slot"
+ HAS_NOT_FREE_BUILDING_SLOT_TRIGGER_THIRD:0 "[PROVINCE.GetName] does #bold not#! have a free building slot"
+
+ HAS_BUILDING_OR_HIGHER_TRIGGER_GLOBAL:0 "Has a $BUILDING|V$ [building|E] or its upgrades"
+ NOT_HAS_BUILDING_OR_HIGHER_TRIGGER_GLOBAL:0 "Does #bold not#! have a $BUILDING|V$ [building|E] or its upgrades"
+ HAS_BUILDING_OR_HIGHER_TRIGGER_THIRD:0 "[PROVINCE.GetName] has a $BUILDING|V$ [building|E] or its upgrades"
+ NOT_HAS_BUILDING_OR_HIGHER_TRIGGER_THIRD:0 "[PROVINCE.GetName] does #bold not#! have a $BUILDING|V$ [building|E] or its upgrades"
+
+ HAS_ONGOING_CONSTRUCTION_TRIGGER_GLOBAL:0 "Has a [building|E] under construction"
+ NOT_HAS_ONGOING_CONSTRUCTION_TRIGGER_GLOBAL:0 "Does #bold not#! have a [building|E] under construction"
+ HAS_ONGOING_CONSTRUCTION_TRIGGER_THIRD:0 "[PROVINCE.GetName] has a [building|E] under construction"
+ NOT_HAS_ONGOING_CONSTRUCTION_TRIGGER_THIRD:0 "[PROVINCE.GetName] does #bold not#! have a [building|E] under construction"
+
+ HAS_HOLDING_TYPE_TRIGGER_THIRD:0 "[PROVINCE.GetName] is a $HOLDING$ [holding|E]"
+ NOT_HAS_HOLDING_TYPE_TRIGGER_THIRD:0 "[PROVINCE.GetName] is #bold not#! a $HOLDING$ [holding|E]"
+
+ BUILDING_SLOTS_TRIGGER_GLOBAL:0 "Has $NUM|V$ building slots"
+ NOT_BUILDING_SLOTS_TRIGGER_GLOBAL:0 "Does #bold not#! have $NUM|V$ building slots"
+ BUILDING_SLOTS_TRIGGER_THIRD:0 "[PROVINCE.GetName] has $NUM|V$ building slots"
+ NOT_BUILDING_SLOTS_TRIGGER_THIRD:0 "[PROVINCE.GetName] does #bold not#! have $NUM|V$ building slots"
+
+ FREE_BUILDING_SLOTS_TRIGGER_GLOBAL:0 "Has $NUM|V$ free building slots"
+ NOT_FREE_BUILDING_SLOTS_TRIGGER_GLOBAL:0 "Does #bold not#! have $NUM|V$ free building slots"
+ FREE_BUILDING_SLOTS_TRIGGER_THIRD:0 "[PROVINCE.GetName] has $NUM|V$ free building slots"
+ NOT_FREE_BUILDING_SLOTS_TRIGGER_THIRD:0 "[PROVINCE.GetName] does #bold not#! have $NUM|V$ free building slots"
+
+ NUM_BUILDINGS_TRIGGER_GLOBAL:0 "Has $NUM|V$ buildings constructed"
+ NOT_NUM_BUILDINGS_TRIGGER_GLOBAL:0 "Does #bold not#! have $NUM|V$ buildings constructed"
+ NUM_BUILDINGS_TRIGGER_THIRD:0 "[PROVINCE.GetName] has $NUM|V$ buildings constructed"
+ NOT_NUM_BUILDINGS_TRIGGER_THIRD:0 "[PROVINCE.GetName] does #bold not#! have $NUM|V$ buildings constructed"
+
+ HAS_SPECIAL_BUILDING_SLOT_TRIGGER_GLOBAL:0 "Has a [special_building|E] slot"
+ NOT_HAS_SPECIAL_BUILDING_SLOT_TRIGGER_GLOBAL:0 "Does #bold not#! have a [special_building|E] slot"
+ HAS_SPECIAL_BUILDING_SLOT_TRIGGER_THIRD:0 "[PROVINCE.GetName] has a [special_building|E] slot"
+ NOT_HAS_SPECIAL_BUILDING_SLOT_TRIGGER_THIRD:0 "[PROVINCE.GetName] does not have a [special_building|E] slot"
+ 
+ HAS_SPECIAL_BUILDING_TRIGGER_GLOBAL:0 "Has a [special_building|E]"
+ NOT_HAS_SPECIAL_BUILDING_TRIGGER_GLOBAL:0 "Does #bold not#! have a [special_building|E]"
+ HAS_SPECIAL_BUILDING_TRIGGER_THIRD:0 "[PROVINCE.GetName] has a [special_building|E]"
+ NOT_HAS_SPECIAL_BUILDING_TRIGGER_THIRD:0 "[PROVINCE.GetName] does not have a [special_building|E]"
+ 

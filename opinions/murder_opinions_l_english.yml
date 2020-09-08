@@ -1,0 +1,27 @@
+﻿l_english:
+ murdered_close_family:0 "Murdered Family Member"
+ murdered_close_family_crime:0 "Murdered Family Member"
+ attempted_murder_close_family:0 "Attempted to Murder Family Member"
+ attempted_murder_close_family_crime:0 "Attempted to Murder Family Member"
+ attempted_murder_me:0 "Attempted to Murder Me"
+ attempted_murder_me_crime:0 "Attempted to Murder Me"
+ murdered_close_relation_opinion:0 "Murdered Close Relation"
+
+
+ executed_close_family:0 "Executed Family"
+ executed_close_family_crime:0 "Unlawfully Executed Family"
+ executed_vassal:0 "Executed my Vassal"
+ executed_fellow_vassal:0 "Executed Another Vassal"
+ executed_liege:0 "Executed my Liege"
+ executed_dynasty_member:0 "Executed Dynasty Member"
+ executed_family_sun_trial_modifier:0 "Put Family Through Sun Trial"
+ executed_close_relation_opinion:0 "Executed Close Relation"
+ executed_my_countryman_modifier:0 "Executed my Subject"
+ executed_guest_modifier:0 "Executed another Guest"
+
+ tortured_family_member:0 "Tortured Family Member"
+ tortured_me:0 "Tortured Me"
+ blinded_family_member:0 "Blinded Family Member"
+ blinded_me:0 "Blinded Me"
+ castrated_family_member:0 "Castrated Family Member"
+ castrated_me:0 "Castrated Me"

@@ -1,0 +1,10 @@
+﻿l_english:
+ romance_great_painting_gift_modifier:0 "Magnificent Painting"
+ romance_great_painting_gift_modifier_desc:0 "A skillfully made painting that is sure to catch the attention of anyone in the room."
+ romance_talented_troubadour_modifier:0 "Talented Troubadour Employed"
+ romance_talented_troubadour_modifier_desc:0 "A very talented troubadour is in this character's employ."
+ romance_less_talented_troubadour_modifier:0 "Troubadour Employed"
+ romance_less_talented_troubadour_modifier_desc:0 "A troubadour is in this character's employ."
+ had_sex_with_effect.first_person.tt:1 "You lay with [had_sex_with_effect_partner.GetShortUIName]"
+ had_sex_with_effect.third_person.tt:0 "[root_character.GetShortUIName|U] lays with [had_sex_with_effect_partner.GetShortUIName]"
+ had_sex_with_effect.other_person.tt:0 "Lays with [had_sex_with_effect_partner.GetShortUIName]"

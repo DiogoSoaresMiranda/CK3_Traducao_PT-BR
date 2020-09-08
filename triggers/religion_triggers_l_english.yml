@@ -1,0 +1,47 @@
+﻿l_english:
+
+ RELIGION_TAG_TRIGGER:0 "Is part of $RELIGION|V$"
+
+ FAITH_FERVOR_GLOBAL:0 "[fervor|E] is $COMPARATOR$ $NUM|V0$"
+ NOT_FAITH_FERVOR_GLOBAL:0 "[fervor|E] is #bold not#! $COMPARATOR$ $NUM|V0$"
+ FAITH_FERVOR_THIRD:0 "[FAITH.GetName]'s [fervor|E] is $COMPARATOR$ $NUM|V0$"
+ NOT_FAITH_FERVOR_THIRD:0 "[FAITH.GetName]'s [fervor|E] is #bold not#! $COMPARATOR$ $NUM|V0$"
+
+ FAITH_VIRTUES_GLOBAL:0 "Has $NUM|V0$ [virtuous|E] [traits|E]"
+ NOT_FAITH_VIRTUES_GLOBAL:0 "Has fewer than $NUM|V0$ [virtuous|E] [traits|E]"
+ FAITH_VIRTUES_FIRST:1 "You have $NUM|V0$ [virtuous|E] [traits|E]"
+ NOT_FAITH_VIRTUES_FIRST:1 "You have fewer than $NUM|V0$ [virtuous|E] [traits|E]"
+ FAITH_VIRTUES_THIRD:0 "[CHARACTER.GetUIName] has $NUM|V0$ [virtuous|E] [traits|E]"
+ NOT_FAITH_VIRTUES_THIRD:0 "[CHARACTER.GetUIName] has fewer than $NUM|V0$ [virtuous|E] [traits|E]"
+
+ FAITH_SINS_GLOBAL:0 "Has $NUM|V0$ [sinful|E] [traits|E]"
+ NOT_FAITH_SINS_GLOBAL:0 "Has fewer than $NUM|V0$ [sinful|E] [traits|E]"
+ FAITH_SINS_FIRST:1 "You have $NUM|V0$ [sinful|E] [traits|E]"
+ NOT_FAITH_SINS_FIRST:1 "You have fewer than $NUM|V0$ [sinful|E] [traits|E]"
+ FAITH_SINS_THIRD:0 "[CHARACTER.GetUIName] has $NUM|V0$ [sinful|E] [traits|E]"
+ NOT_FAITH_SINS_THIRD:0 "[CHARACTER.GetUIName] has fewer than $NUM|V0$ [sinful|E] [traits|E]"
+
+ HOLY_SITES_CONTROLLED_GLOBAL:0 "Has $NUM|V0$ [holy_sites|E] under control"
+ NOT_HOLY_SITES_CONTROLLED_GLOBAL:0 "Has fewer than $NUM|V0$ [holy_sites|E] under control"
+ HOLY_SITES_CONTROLLED_FIRST:1 "You have $NUM|V0$ [holy_sites|E] under control"
+ NOT_HOLY_SITES_CONTROLLED_FIRST:1 "You have fewer than $NUM|V0$ [holy_sites|E] under control"
+ HOLY_SITES_CONTROLLED_THIRD:0 "[FAITH.GetName] has $NUM|V0$ [holy_sites|E] under control"
+ NOT_HOLY_SITES_CONTROLLED_THIRD:0 "[FAITH.GetName] has fewer than $NUM|V0$ [holy_sites|E] under control"
+
+ RELIGION_IS_SAME_AS:0 "Has the same [religion|E] as [TARGET_CHARACTER.GetShortUIName]"
+ NOT_RELIGION_IS_SAME_AS:0 "Does not have the same [religion|E] as [TARGET_CHARACTER.GetShortUIName]"
+ I_HAVE_SAME_RELIGION:1 "You have the same [religion|E] as [TARGET_CHARACTER.GetShortUIName]"
+ NOT_I_HAVE_SAME_RELIGION:1 "You do #bold not#! have the same [religion|E] as [TARGET_CHARACTER.GetShortUIName]"
+ THEY_HAVE_SAME_RELIGION:0 "[CHARACTER.GetShortUIName|U] has the same [religion|E] as [TARGET_CHARACTER.GetShortUIName]"
+ NOT_THEY_HAVE_SAME_RELIGION:0 "[CHARACTER.GetShortUIName|U] does not have the same [religion|E] as [TARGET_CHARACTER.GetShortUIName]"
+
+ IT_HAS_DOMINANT_RULING_GENDER_TRIGGER:0 "The [doctrines] of [FAITH.GetName] allows [rulers] to grant [titles] to [CHARACTER.GetWomenMen]"
+ NOT_IT_HAS_DOMINANT_RULING_GENDER_TRIGGER:0 "The [doctrines] of [FAITH.GetName] does #bold not#! allow [rulers] to grant [titles] to [TARGET_CHARACTER.GetWomenMen]"
+
+ I_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:0 "You hold at least $VALUE|0V$ [FAITH.GetName] [holy_sites|E]"
+ I_DO_NOT_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:0 "You do #bold not#! hold at least $VALUE|0V$ [FAITH.GetName] [holy_sites|E]"
+ 
+ NOT_RELIGION_TAG_TRIGGER:0 "Your [faith] is #bold not#! part of $RELIGION|V$"
+
+ CAN_LEGITIMIZE_BASTARDS_IN_FAITH:0 "[CHARACTER.GetFaith.GetName] allows [bastards|E] to be [legitimized|E]"
+ CANNOT_LEGITIMIZE_BASTARDS_IN_FAITH:0 "[CHARACTER.GetFaith.GetName] does #EMP not#! allow [bastards|E] to be [legitimized|E]"

@@ -1,0 +1,44 @@
+﻿l_english:
+ #GetSmallFood
+ #GetSmallFoodIndef
+ food_word_apple:0 "apple"
+ food_word_apple_indef:0 "an apple"
+ food_word_biscuit:0 "biscuit"
+ food_word_biscuit_indef:0 "a biscuit"
+ #GetClothingArticle
+ clothing_word_shirt:0 "shirt"
+ clothing_word_trousers:0 "trousers"
+ clothing_word_blouse:0 "blouse"
+ clothing_word_dress:0 "dress"
+ #GetFoodDetail
+ food_detail_cilantro:0 "coriander"
+ food_detail_lemon:0 "lemon"
+ food_detail_almond:0 "almond"
+ #GetExpensiveMeal
+ expensive_food_roast_swan:0 "roast swan"
+ expensive_food_veal_cutlets:0 "veal cutlets"
+ expensive_food_fresh_quail:0 "fresh quail"
+ expensive_food_baked_truffles:0 "baked truffles"
+ expensive_food_spiced_breads:0 "spiced breads"
+ expensive_food_mustard_rolls:0 "mustard rolls"
+ #GetExpensiveMealAlt
+ expensive_food_fine_cheeses:0 "fine cheeses"
+ expensive_food_almond_eggs:0 "almond eggs"
+ expensive_food_sturgeon_caviar:0 "sturgeon caviar"
+ #GetExpensiveDessert
+ expensive_dessert_saffron_cake:0 "saffron cakes"
+ expensive_dessert_candied_figs:0 "candied figs"
+ expensive_dessert_pomegranate_cake:0 "pomegranate cakes"
+ expensive_dessert_entremets:0 "entremets"
+ expensive_dessert_quince_tarts:0 "quince tarts"
+ #GetExpensiveDrink
+ expensive_drink_fancy_champagne:0 "expensive champagne"
+ expensive_drink_foreign_liqueurs:0 "foreign liqueurs"
+ expensive_drink_spiced_wine:0 "spiced wines"
+ expensive_drink_premium_tea:0 "premium teas"
+ expensive_drink_violet_sharbah:0 "violet sharbah"
+ expensive_drink_aribica_coffee:1 "Arabica coffee"
+ #GetShockedExpression
+ shocked_expression_shocked:0 "shocked"
+ shocked_expression_appalled:0 "appalled"
+

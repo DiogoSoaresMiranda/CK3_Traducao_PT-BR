@@ -1,0 +1,22 @@
+﻿l_english:
+
+ HAS_FOCUS_TRIGGER:0 "Has the [FOCUS.GetName] [focus|E]"
+ NOT_HAS_FOCUS_TRIGGER:0 "Does #bold not#! have the [FOCUS.GetName] [focus|E]"
+ I_HAVE_FOCUS_TRIGGER:1 "You have the [FOCUS.GetName] [focus|E]"
+ NOT_I_HAVE_FOCUS_TRIGGER:1 "You do #bold not#! have the [FOCUS.GetName] [focus|E]"
+ THEY_HAVE_FOCUS_TRIGGER:0 "[CHARACTER.GetShortUIName|V] have the [FOCUS.GetName] [focus|E]"
+ NOT_THEY_HAVE_FOCUS_TRIGGER:0 "[CHARACTER.GetShortUIName|V] does #bold not#! have the [FOCUS.GetName] [focus|E]"
+
+ HAS_LIFESTYLE_TRIGGER:0 "Has the [LIFESTYLE.GetName] [lifestyle|E]"
+ NOT_HAS_LIFESTYLE_TRIGGER:0 "Does #bold not#! have the [LIFESTYLE.GetName] [lifestyle|E]"
+ I_HAVE_LIFESTYLE_TRIGGER:1 "You have the [LIFESTYLE.GetName] [lifestyle|E]"
+ NOT_I_HAVE_LIFESTYLE_TRIGGER:1 "You do #bold not#! have the [LIFESTYLE.GetName] [lifestyle|E]"
+ THEY_HAVE_LIFESTYLE_TRIGGER:0 "[CHARACTER.GetShortUIName|V] have the [LIFESTYLE.GetName] [lifestyle|E]"
+ NOT_THEY_HAVE_LIFESTYLE_TRIGGER:0 "[CHARACTER.GetShortUIName|V] does #bold not#! have the [LIFESTYLE.GetName] [lifestyle|E]"
+
+ HAS_PERK_TRIGGER:0 "Has the [PERK.GetName(CHARACTER.Self)] [perk|E]"
+ NOT_HAS_PERK_TRIGGER:0 "Does #bold not#! have the [PERK.GetName(CHARACTER.Self)] [perk|E]"
+ I_HAVE_PERK_TRIGGER:1 "You have the [PERK.GetName(CHARACTER.Self)] [perk|E]"
+ NOT_I_HAVE_PERK_TRIGGER:1 "You do #bold not#! have the [PERK.GetName(CHARACTER.Self)] [perk|E]"
+ THEY_HAVE_PERK_TRIGGER:0 "[CHARACTER.GetShortUIName|V] have the [PERK.GetName(CHARACTER.Self)] [perk|E]"
+ NOT_THEY_HAVE_PERK_TRIGGER:0 "[CHARACTER.GetShortUIName|V] does #bold not#! have the [PERK.GetName(CHARACTER.Self)] [perk|E]"

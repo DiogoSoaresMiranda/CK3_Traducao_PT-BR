@@ -1,0 +1,11 @@
+﻿l_english:
+ DETACH_COMMANDER:0 "Remove Commander"
+ CANT_COMMAND_TITLE:0 "#T [CHARACTER.GetUIName] can not command an army#!"
+ CANT_COMMAND_REASON_DEAD:0 "  -Is dead"
+ CANT_COMMAND_REASON_IN_POOL:0 "  -Is in pool"
+ CANT_COMMAND_REASON_FEMALE:0 "  -Is female"
+ CANT_COMMAND_REASON_COMMANDING:0 "  -Is commanding another Army"
+ CANT_COMMAND_REASON_CHILD:0 "  -Is not an adult"
+ CANT_COMMAND_REASON_IN_ACTIVITY:0 "  -Is busy with an activity"
+ CANT_COMMAND_REASON_NOT_POTENTIAL:0 "  -Does not take orders from the Army owner"
+ CANT_COMMAND_REASON_AT_WAR:0 "  -At war against [TARGET_CHARACTER.GetUIName]"

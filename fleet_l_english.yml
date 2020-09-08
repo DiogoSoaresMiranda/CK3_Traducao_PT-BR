@@ -1,0 +1,7 @@
+﻿l_english:
+ FLEET_PREDICTION_HEADER:0 "#T Embarcará em $DATE|V$#T"
+ FLEET_PREDICTION_BREAKDOWN_ENTRY:0 "[ARMY.GetName]"
+ FLEET_PREDICTION_BASE_COST:0 "Original"
+ EMBARK_COST:0 "#T [embark|E] Cost#!"
+ EMBARK_COST_EXPENSIVE:1 "@warning_icon! #X O custo de embarque irá custar mais do que você possui em dinheiro#!"
+   #ReiCoringa 3/9/2020

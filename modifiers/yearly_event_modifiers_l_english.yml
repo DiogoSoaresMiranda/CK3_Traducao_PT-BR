@@ -1,0 +1,41 @@
+﻿l_english:
+ yearly_0001_improved_diplomacy:0 "Taking Etiquette Lessons"
+ yearly_0001_improved_martial:0 "Taking Strategy Lessons"
+ yearly_0001_improved_stewardship:0 "Taking Finance Lessons"
+ yearly_0001_improved_intrigue:0 "Taking Intrigue Lessons"
+ yearly_0001_improved_learning:0 "Taking Theology Lessons"
+ yearly_0003_protected_by_liege:0 "Protected By Liege"
+ yearly_0003_protected_by_liege_desc:0 "This character's liege is actively protecting them from spies and schemes."
+ vassal_distrust_modifier:0 "Distrustful Vassals"
+ vassal_distrust_modifier_desc:1 "This liege has shown that they have less than perfect faith in their vassals' service\nRealm [laws|E]: #N +10%#! more expensive"
+ protected_vassals_honor_modifier:0 "Protected Vassal Honor"
+ protected_vassals_honor_modifier_desc:0 "This ruler stood up for their vassal's honor in a time of conflict"
+ liege_looking_away_modifier:0 "Liege Looking Away"
+ liege_looking_away_modifier_desc:0 "This character's liege is willfully forgiving of all but serious transgressions"
+ yearly_benevolent_forgiveness_modifier:0 "Act of Benevolence"
+ yearly_benevolent_forgiveness_modifier_desc:1 "This character has done a kindness to a vassal, and wants everyone else to remember\nRealm [laws|E]: #P -10%#! cheaper"
+ yearly_close_watch_modifier:0 "Close Watch"
+ yearly_close_watch_modifier_desc:1 "This character is being kept under close watch by someone\nCannot join or create [factions|E]"
+ yearly_improved_impressions_modifier:0 "Improved Impressions"
+ yearly_improved_impressions_modifier_desc:0 "This character is putting extra effort into their first impressions"
+ yearly_pious_liege_modifier:0 "Pious Liege"
+ yearly_pious_liege_modifier_desc:0 "Religious vassals can trust that this liege will act according to their religious teachings"
+ yearly_befriending_fellow_vassals_modifier:0 "Befriending Fellow Vassals"
+ yearly_befriending_fellow_vassals_modifier_desc:0 "This character is putting in effort to build relationships with other vassals of their liege"
+ 
+ yearly_reduced_theocracy_tax_modifier:0 "Reduced Theocratic Tax"
+ yearly_reduced_theocracy_levies_modifier:0 "Praying for Peace"
+
+ yearly_0011_friends_in_high_places:0 "Friends in High Places"
+ yearly_0011_friends_in_high_places_desc:0 "This character has made friends in rather high places..."
+
+ cagots_separated_modifier:0 "Cagots Secernated"
+ cagots_separated_modifier_desc:0 "They are sequestered in their own cagoteries, and separated from normal people."
+ 
+ cagots_left_in_peace_modifier:0 "Cagots Left in Peace"
+ cagots_left_in_peace_modifier_desc:0 "The rest of the population wishes more had been done about the Cagots..."
+
+ lunatic_accepting_of_others_modifier:0 "Overactive Imagination"
+ lunatic_accepting_of_others_modifier_desc:0 "This character is dreaming of a world where everyone lives their lives in peace."
+
+ all_work_no_play_persian_modifier:0 "All Work, No Play"

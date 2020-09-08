@@ -1,0 +1,59 @@
+﻿l_english:
+ bm_867_adventurers:0 "The Great Adventurers"
+ bm_867_adventurers_desc:0 "Every dynasty comes from humble beginnings. The climb to power is usually a slow process, each generation moving a few steps up the ladder, through carefully planned marriages and ceaseless wars.\n\n#bold But these are times of great change and upheaval. With a lot of courage, and maybe a little luck, a hero might raise their family name from obscurity to legend. Are you ready to take on the challenge?#!"
+
+
+ #Jarl Haesteinn
+ bookmark_adventurers_jarl_haesteinn:0 "Jarl Hæsteinn"
+ bookmark_adventurers_jarl_haesteinn_desc:0 "Through cunning and courage, Jarl Hæsteinn has become a rich man. After leading a lucrative raid through the Mediterranean together with Björn Ironside, Hæsteinn has settled in Brittany. The Franks have coffers ready for picking, and a mighty viking warrior makes a great ally in times of political turmoil.\n\n#bold Fortune does not come without enemies, however.  Will Hæsteinn's greed get the better of him, or will his dynasty prosper under your guidance?#!"
+
+ bookmark_adventurers_jarl_haesteinn_alt_ragnarr:0 "$Ragnarr$"
+ bookmark_adventurers_jarl_haesteinn_alt_ragnarr_desc:0 "alt desc"
+
+ #Rurik Rurikid
+ bookmark_adventurers_rurik_rurikid:0 "Rurik Rurikid"
+ bookmark_adventurers_rurik_rurikid_desc:0 "Few have risen from nothingness to greatness like the brave Rurik! Together with his brothers he brought order to the Eastern wilderness, and since their deaths, he is the lone ruler of a great Chiefdom. Yet, this is only the beginning.\n\n#bold One day, Rurik's descendants will found the Tsardom of Russia. Or will they? The destiny of this great dynasty rests in your hands.#!"
+
+ bookmark_adventurers_rurik_rurikid_alt_helgi:0 "$Helgi$ $nick_the_seer$"
+
+ #Eudes Capet
+ bookmark_adventurers_count_eudes:0 "Count Eudes"
+ bookmark_adventurers_count_eudes_desc:0 "In July of 866, the viking raider Hæsteinn slew Eudes' father Robert the Strong. Mere months later, his mother Adelais died giving birth to his brother Robert. The world is cruel and the future might seem uncertain, but these orphan boys are destined to sit on the French throne. Their descendants, the Capets, will rule France for centuries to come.\n\n#bold Can you navigate the treacherous politics of medieval France and fulfill the destiny of the Robertine brothers?#!"
+
+ bookmark_adventurers_count_eudes_alt_robert:0 "$Robert$"
+ bookmark_adventurers_count_eudes_alt_robert_desc:0 "alt desc"
+ bookmark_adventurers_count_eudes_alt_uncle_eudes:0 "$Eudes$"
+ bookmark_adventurers_count_eudes_alt_uncle_eudes_desc:0 "alt desc"
+
+ #Almos Arpad 
+ bookmark_adventurers_almos_arpad:0 "Álmos Árpád"
+ bookmark_adventurers_almos_arpad_desc:0 "When the seven Hungarian tribes united to elect a supreme leader, their votes fell on brave Álmos. One day, his son Árpád will pick up the mantle — but only if the Hungarians can keep their independence. Danger looms on the Eastern horizon.\n\n#bold Can you defend the Hungarians and lead them to greatness? This is your chance to retell the adventures of the Árpád dynasty!#!"
+
+ #Daurama Daura
+ bookmark_adventurers_daurama_daura:0 "Daurama Daura"
+ bookmark_adventurers_daurama_daura_desc:0 "As the Last Magajiya of Daura, Daurama is a symbol of the old ways of the Hausa people. Her new husband, Bayajiddah (originally from Iraq), represents change, as more and more outsiders flock to Hausaland, bringing their strange faiths and cultures with them...\n\n#bold Daurama is set to go down in history as the Last Magajiva, but does she have to be?#!"
+
+ bookmark_adventurers_daurama_daura_alt_bawo:0 "$Bawo$"
+
+ bookmark_adventurers_almos_arpad_alt_son_arpad:0 "$A_rpA_d$"
+ bookmark_adventurers_almos_arpad_alt_linutika:0 "$LinU_tika$"
+
+ #EVENTS
+ bookmark.0101.t:0 "What's in a Name?"
+ bookmark.0101.desc_intro:0 "For generations [hausaland.GetNameNoTier] has been ruled by the Magajiya, a line of matriarchal rulers of which I am the latest.\n\nOur traditions have served us well, but the world is changing. The heroic deeds of my [ROOT.Char.Custom2('RelationToMeShort', bayajidda)] [bayajidda.GetFirstName] have earned him great wealth and respect... though as [bayajidda.GetSheHe] hails from distant lands, [bayajidda.GetHerHis] successes also portend great change for my people.\n\n"
+ bookmark.0101.desc_living:1 "My son, [bewo.GetTitledFirstName], is the apple of his father's eye. Though a mere babe, I wonder if he will identify more with his adventuring father, or my own traditional legacy?"
+ bookmark.0101.desc_dead:1 "My son, [bewo.GetTitledFirstName], was the apple of his father's eye. Though a mere babe, I wonder if he will identify more with the legend of his adventuring father, or my own traditional legacy?"
+ bookmark.0101.a:1 "[bewo.GetFirstNameNoTooltip] must carry the traditions of the [ROOT.Char.GetCulture.GetNameNoTooltip] into a new age."
+ bookmark.0101.a.tt:0 "[bewo.GetUIName] will become your [dynastic|E] [heir|E]"
+ bookmark.0101.b:1 "My son is my son, whatever his name or culture."
+ bookmark.0101.b.tt:0 "#warning @warning_icon! This option may leave you without a [dynastic|E] [heir|E]!#!"
+ bookmark.0101.c:0 "The Magajiya do not need men to carry on their legacy!"
+ bookmark.0101.c.tt:0 "Your sister [shawata.GetUIName] will remain your [dynastic|E] [heir|E]"
+
+ #WARS
+ war_867_Aghlabid_Conquest_of_Sicily:0 "Aghlabid Conquest of Sicily"
+ war_867_Saffarid_Tahirid_War:0 "Saffarid-Tahirid War"
+ war_867_Reconquest_of_Bari:0 "Reconquest of Bari"
+ war_867_Lothbrok_Invasion_of_East_Anglia:0 "Sons of Lothbrok Invasion of East Anglia"
+ war_867_Lothbrok_Invasion_of_Lothian:0 "Sons of Lothbrok Invasion of Lothian"
+ war_867_Lothbrok_Invasion_of_Northumberland:0 "Sons of Lothbrok Invasion of Northumberland"

@@ -1,0 +1,17 @@
+﻿l_english:
+ claim_throne_interaction:0 "Claim Throne #weak (Scheme)#!"
+ claim_throne_interaction_message:0 "Throne Claimed"
+
+ demand_payment_interaction:0 "Demand Payment"
+ demand_payment_interaction_desc:0 "Force a [recipient.GetShortUINameNoTooltip] to pay you gold as payment for a [hook|E] you hold"
+ demand_payment_interaction_message:0 "Obligations Paid Off"
+ RECIPIENT_HAS_TOO_LITTLE_GOLD:0 "[CHARACTER.GetName] does not have enough gold"
+ demand_payment_too_little_gold_tt:0 "#N [recipient.GetFirstNameNoTooltip] does not have enough gold to pay#!\nI will receive less than expected #F ([gold_i][SCOPE.ScriptValue('demand_payment_current_gold_value')|0]/[gold_i][SCOPE.ScriptValue('demand_payment_gold_to_pay')|0])#!"
+
+ buy_claim_interaction:0 "Buy Claim"
+ buy_claim_interaction_desc:0 "Pay [piety|E] to gain a [claim|E] on one of [recipient.GetShortUINamePossessiveNoTooltip] valid titles #weak ([buy_claim|E])#!"
+ buy_claim_interaction.message:0 "[target.GetName] Claimed!"
+ BUY_CLAIM_ALREADY_HAS_A_CLAIM:1 "You already have a [claim|E] on this [title|E]"
+ BUY_CLAIM_ALREADY_KING_OR_EMPEROR:1 "You cannot buy a [claim|E] on a [kingdom|E] if you already are a [king|E] or [emperor|E]"
+ BUY_CLAIM_ALREADY_EMPEROR:1 "You cannot buy a [claim|E] on a [kingdom|E] if you already are an [emperor|E]"
+ BUY_CLAIM_RELIGIOUS_TITLE:0 "You cannot buy a [claim|E] on a religious title"

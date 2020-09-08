@@ -1,0 +1,13 @@
+﻿l_english:
+ RP_CANNOT_PLACE_INVALID_PROVINCE:0 "#X O local é fora do seu [realm|E] #!"
+ RP_CANNOT_PLACE_ALREADY_THERE:0 "#X Já existe um [rally_point|E] aqui#!"
+ RP_CANNOT_PLACE_OCCUPIED:0 "#X O local está [occupied|E]#!"
+ RP_CANNOT_PLACE_ENEMY_TERRITORY:0 "#X O local está em territorio inimigo#!"
+ RP_CANNOT_ADD_OVER_LIMIT:0 "#X Você não pode ter mais que $VALUE|V$ [rally_points|E]#!"
+ RP_CANNOT_REMOVE_LAST:0 "#X Você não pode remover o ultimo [rally_point|E]#!"
+ RP_CANNOT_RAISE_OCCUPIED:0 "#X O [rally_point|E] está [occupied|E]#!"
+ RP_CANNOT_RAISE_HOSTILE:0 "#X Tem um [armies|E] hostil no local do [rally_point|E]#!"
+ RP_CANNOT_RAISE_ENEMY_TERRITORY:0 "#X O local do [rally_point|E] está em territorio inimigo#!"
+ RP_CANNOT_RAISE_MULTIPLE_BANNERS:1 "#X Não pode levantar exercito em nenhum [rally_point|E], graças a [occupation|E] ou [armies|E] inimigos presentes no local#!"
+ RP_NOTHING_TO_RAISE:0 "#X Sem [armies|E] para levantar#!"
+   #ReiCoringa 3/9/2020

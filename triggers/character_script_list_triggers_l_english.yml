@@ -1,0 +1,12 @@
+﻿l_english:
+
+ ALL_LIVING_CHARACTERS:0 "All living characters:"
+ ANY_LIVING_CHARACTER:0 "Any living character:"
+
+ ALL_POOL_CHARACTERS:0 "All pool characters:"
+ ANY_POOL_CHARACTER:0 "Any pool character:"
+
+ ANY_OF_CHARACTERS_VASSALS:0 "Any of [CHARACTER.GetShortUINamePossessive] [vassals|E]"
+ ALL_OF_CHARACTERS_VASSALS:0 "All of [CHARACTER.GetShortUINamePossessive] [vassals|E]"
+ X_PERCENT_OF_CHARACTERS_VASSALS:0 "$PERCENT$ of [CHARACTER.GetShortUINamePossessive] [vassals|E]"
+ AT_LEAST_X_OF_CHARACTERS_VASSALS:0 "At least $COUNT$ of [CHARACTER.GetShortUINamePossessive] [vassals|E]"

@@ -1,0 +1,5 @@
+﻿l_english:
+ perk_interaction.0002.t:0 "A Claim on my Lands!"
+ perk_interaction.0002.same_faith:0 "For some unthinkable reason, the [actor.GetFaith.AltPriestTermPlural] has sanctioned [actor.GetTitledFirstNamePossessive] completely unfounded claim on the [target.GetName]!"
+ perk_interaction.0002.other_faith:0 "The charlatan priests of the [actor.GetFaith.GetAdjective] faith has publicly declared support for [actor.GetTitledFirstNamePossessive] completely unfounded claim on the [target.GetName]!"
+ perk_interaction.0002.a:1 "I will show [actor.GetHerHim] when the time comes..."

@@ -1,0 +1,20 @@
+﻿l_english:
+
+ GOVERNMENT_HAS_FLAG_TRIGGER:0 "[government|E] can: $FLAG|V$"
+
+ GOVERNMENT_ALLOWS_TRIGGER:0 "[government|E] allows: $RULE|V$"
+ THEIR_GOVERNMENT_ALLOWS_TRIGGER:0 "[CHARACTER.GetShortUINamePossessive|V] [government|E] allows: $RULE|V$"
+
+ GOVERNMENT_DISALLOWS_TRIGGER:0 "[government|E] disallows: $RULE|V$"
+
+ HAS_GOVERNMENT_TRIGGER_GLOBAL:0 "Has a $GOVERNMENT|V$ government"
+ NOT_HAS_GOVERNMENT_TRIGGER_GLOBAL:0 "Does #bold not#! have a $GOVERNMENT|V$ government"
+ HAS_GOVERNMENT_TRIGGER_FIRST:0 "You have a $GOVERNMENT|V$ government"
+ NOT_HAS_GOVERNMENT_TRIGGER_FIRST:0 "You do #bold not#! have $GOVERNMENT|V$ government"
+ HAS_GOVERNMENT_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|V] has $GOVERNMENT|V$ government"
+ NOT_HAS_GOVERNMENT_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|V] does #bold not#! have a $GOVERNMENT|V$ government"
+
+ HAS_SAME_GOVERNMENT_TRIGGER:0 "Has the same government as [TARGET_CHARACTER.GetShortUIName]"
+
+ MUST_HAVE_MALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName] does not have the [GetFaithDoctrine('doctrine_gender_equal').GetBaseName] Doctrine or the [GetFaithDoctrine('doctrine_gender_male_dominated').GetBaseName] Doctrine"
+ MUST_HAVE_FEMALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName] does not have the [GetFaithDoctrine('doctrine_gender_equal').GetBaseName] Doctrine or the [GetFaithDoctrine('doctrine_gender_female_dominated').GetBaseName] Doctrine"

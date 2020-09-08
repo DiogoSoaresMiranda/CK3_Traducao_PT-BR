@@ -1,0 +1,50 @@
+﻿l_english:
+ embassies_perk_modifier:0 "Embassies"
+ embassies_perk_modifier_desc:0 "This character benefits from embassies placed at foreign courts."
+
+ confidants_perk_modifier:0 "Confidants"
+ confidants_perk_modifier_desc:0 "When things are tough, this character always has someone to turn to."
+
+ sound_foundations_martial_gain:0 "Sound Foundations"
+ sound_foundations_martial_gain_desc:0 "Nothing teaches one so much about life as rearing a child."
+ sound_foundations_diplomacy_gain:0 "Sound Foundations"
+ sound_foundations_diplomacy_gain_desc:0 "Nothing teaches one so much about life as rearing a child."
+ sound_foundations_intrigue_gain:0 "Sound Foundations"
+ sound_foundations_intrigue_gain_desc:0 "Nothing teaches one so much about life as rearing a child."
+ sound_foundations_stewardship_gain:0 "Sound Foundations"
+ sound_foundations_stewardship_gain_desc:0 "Nothing teaches one so much about life as rearing a child."
+ sound_foundations_learning_gain:0 "Sound Foundations"
+ sound_foundations_learning_gain_desc:0 "Nothing teaches one so much about life as rearing a child."
+
+ commission_epic_modifier:0 "Commissioned Family Epic"
+ commission_epic_modifier_desc:0 "This character basks in the glory of history; of tales told of the achievements of their ancestors."
+
+ commission_exceptional_epic_modifier:0 "Commissioned Excellent Family Epic"
+ commission_exceptional_epic_modifier_desc:0 "This character basks in the glory of history; of tales told of the achievements of their ancestors."
+
+ commission_epic_emphasized_intrigue_modifier:0 "Stories of Intrigue"
+ commission_epic_emphasized_intrigue_modifier_desc:0 "This character comes from a long line of vicious manipulators. Supposedly."
+
+ commission_epic_military_innovation_modifier:0 "Storied Innovations"
+ commission_epic_military_innovation_modifier_desc:0 "Inspired by invented stories, this character has discovered some original military tactics."
+
+ commission_epic_shared_with_vassals_modifier:0 "Stories Shared"
+ commission_epic_shared_with_vassals_modifier_desc:0 "This character has spread stories of traditional loyalty and glory."
+
+ commission_epic_honesty_modifier:0 "Honesty"
+ commission_epic_honesty_modifier_desc:0 "This character has proven a dedication to honesty over glory."
+
+ commission_epic_clerical_guidance_modifier:0 "Clerical Guidance"
+ commission_epic_clerical_guidance_modifier_desc:0 "As in the golden ages of their dynasty, this character is listening closely to the advice of the clergy."
+
+ sell_titles_related_to_wisdom_modifier:0 "Related to Wisdom"
+ sell_titles_related_to_wisdom_modifier_desc:0 "This character has brought someone wise and pious back into their familial fold."
+
+ sell_titles_clever_servant_modifier:0 "Clever Cousin"
+ sell_titles_clever_servant_modifier_desc:0 "This character has a loyal family member who is exceptionally skilled at the art of manipulation."
+
+ sell_titles_respected_by_peers_modifier:0 "Respected by Peers"
+ sell_titles_respected_by_peers_modifier_desc:0 "This character stands to great respect within the realm."
+
+ sell_titles_shameful_behavior_modifier:0 "Shameful Behavior"
+ sell_titles_shameful_behavior_modifier_desc:0 "This character has been called out for the dishonorable practice of selling titles."

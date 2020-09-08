@@ -1,0 +1,5 @@
+﻿l_english:
+ TEMP_GUI_INTERACTION:0 "$EFFECT_LIST_BULLET$ Imprisons #high Duke Gyrth#! \n$EFFECT_LIST_BULLET$ #N This is an act of #E Tyranny#!, causing your subjects to lose #Z 40#! #E Opinion#! of you#!"
+ TEMP_GUI_INTERACTION_2:0 "$EFFECT_LIST_BULLET$ All of #high Duke Gyrth's#! Family will lose #Z 15#! #E Opinion#! of me.\n$EFFECT_LIST_BULLET$ Loses #Z 30#! #E Opinion#! of me #dark_grey (In Prison)#!"
+ TEMP_GUI_INTERACTION_TITLE:0 "Effects on #high Duke Gyrth Godwineson#! of East Anglia"
+ TEMP_GUI_HOOK:0 "Use a #E Hook#!"

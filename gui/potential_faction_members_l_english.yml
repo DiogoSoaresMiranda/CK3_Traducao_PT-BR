@@ -1,0 +1,11 @@
+﻿l_english:
+ POTENTIAL_FACTION_MEMBERS_HEADER:0 "Potential Members"
+ NO_POTENTIAL_FACTION_MEMBERS:0 "#weak There are no potential Members#!"
+ CHARACTER_SORT_CAN_FORCE_TO_FACTION:1 "Can be forced into Faction"
+ POTENTIAL_FACTION_MEMBER_AVAILABLE:0 "#P Can be forced to join#!"
+ POTENTIAL_FACTION_MEMBER_POTENTIAL:0 "#Z Can potentially be forced#!"
+ POTENTIAL_FACTION_MEMBER_NOT_AVAILABLE:0 "#N Can not be forced to join#!"
+ POTENTIAL_FACTION_MEMBER_MILITARY_STRENGTH_TT_HEADER:0 "#T Military Strength#!"
+ POTENTIAL_FACTION_MEMBER_TT:0 "#T $force_join_faction_interaction$#!"
+ CHARACTER_SORT_OPINION_OF_LIEGE:0 "Opinion of Liege"
+ POTENTIAL_FACTION_MEMBERS_OPINION_OF_LIEGE:0 "Opinion of Liege: [CharacterListItem.GetInt( 'opinion_of_liege' )|+]"

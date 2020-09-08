@@ -1,0 +1,17 @@
+﻿l_english:
+ hajj.0001.t:0 "The Hajj"
+ hajj.0001.desc:0 "The time has come for me to undertake the pilgrimage to Mecca. It has been commanded of me, as it has for all Muslims, to show my submission to [ROOT.Char.GetFaith.HighGodName]."
+ hajj.0001.a:0 "I have waited for this my entire life."
+
+ hajj.3001.t:0 "$pilgrimage_header$ Mecca"
+ hajj.3001.desc:1 "After my long journey I arrived at Mecca, ready to complete the Hajj.\n\nI walked seven times around the Kaaba, touching the black stone on each circuit. I prayed at the Place of Abraham, drunk water from the Zamzam well, walked between Safa and Marwah seven times, and sacrificed to [ROOT.Char.GetFaith.HighGodName].\n\nThe next rite I must complete is to cut my hair."
+ hajj.3001.desc.male_dominated:0 "Traditionally men shave all of it off, but dispensation is occasionally granted to cut off only part, and women are restricted to just a lock."
+ hajj.3001.desc.female_dominated:0 "Traditionally women shave all of it off, but dispensation is occasionally granted to cut off only part, and men are restricted to just a lock."
+ hajj.3001.desc.equal:0 "Traditionally it is all shaved off, but dispensation is occasionally granted to cut off only part."
+ hajj.3001.a:0 "Shave it all off!"
+ hajj.3001.b:0 "Cut just a lock of hair."
+
+ hajj.3011.t:0 "$pilgrimage_header$ Tawaf al-Wadaa"
+ hajj.3011.desc:0 "The end of this year's Hajj draws near. After two days of Ramy al-Jamarat, or 'the stoning of the devil', I am ready to complete the final ritual of Tawaf al-Wadaa and say farewell to Mecca.\n\n"
+ hajj.3011.a:0 "May I see your walls once again!"
+ hajj.3011.b:0 "Was that it?"

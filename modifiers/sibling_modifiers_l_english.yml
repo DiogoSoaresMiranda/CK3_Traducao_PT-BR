@@ -1,0 +1,17 @@
+﻿l_english:
+ sibling_aids_in_diplomacy:0 "Diplomat Sibling"
+ sibling_aids_in_diplomacy_desc:0 "This character's sibling is aiding them in matters of Diplomacy"
+ sibling_aids_in_martial:0 "Commanding Sibling"
+ sibling_aids_in_martial_desc:0 "This character's sibling is aiding them in matters of warfare"
+ sibling_aids_in_intrigue:0 "Scheming Sibling"
+ sibling_aids_in_intrigue_desc:0 "This character's sibling is aiding them in matters of Intrigue and secrecy"
+ sibling_aids_in_stewardship:0 "Sibling Steward"
+ sibling_aids_in_stewardship_desc:0 "This character's sibling is aiding them in matters of Stewardship"
+ sibling_aids_in_learning:0 "Learned Sibling"
+ sibling_aids_in_learning_desc:0 "This character's sibling is aiding them in matters of Learning"
+
+ popular_sibling_modifier:0 "Generous Family"
+ popular_sibling_modifier_desc:0 "Some members of this County's ruling family are dearly beloved by the populace"
+
+ hated_sibling_county_modifier:0 "Hated Family"
+ hated_sibling_county_modifier_desc:0 "Some members of this County's ruling family are despised by the local populace"

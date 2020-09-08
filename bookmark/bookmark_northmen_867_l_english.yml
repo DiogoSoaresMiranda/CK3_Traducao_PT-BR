@@ -1,0 +1,57 @@
+﻿l_english:
+ bm_867_northmen:0 "Wrath of The Northmen"
+ bm_867_northmen_desc:1 "Two years ago, King Ælla of Northumbria threw the great Viking hero Ragnarr Loðbrók into a pit of snakes to die. Upon hearing the news, Ragnarr's sons set sail for England to avenge their father.\n\nThe brothers have since established a firm foothold in York and The Isles. The Anglo-Saxon kings have lost battle after battle — their future looks bleak indeed.\n\nBut all hope is not lost, and a great hero could still turn the tide of history.\n\n#bold Will you lay all of England under Norse rule, or vanquish the Great Heathen Army from Anglo-Saxon soil?#!"
+
+ #Halfdan Whiteshirt
+ bookmark_northmen_halfdan_whiteshirt:0 "Halfdan Whiteshirt"
+ bookmark_northmen_halfdan_whiteshirt_desc:0 "The first wave of the invasion has gone very well for Halfdan Whiteshirt. With the help of his brother Ivar, he has wrestled the control of York from King Ælla's hands. And he will take so much more.\n\n#bold Will you follow in history's footsteps and have your bloody vengeance, or stake out a new path for Halfdan?#!"
+
+ bookmark_northmen_halfdan_whiteshirt_alt_gudfrid:0 "$GuT_friT_$"
+ bookmark_northmen_halfdan_whiteshirt_alt_saga:0 "$Saga$ $nick_the_truthspeaker$"
+
+ #Ivar the Boneless
+ bookmark_northmen_ivar_the_boneless:0 "Ivar the Boneless"
+ bookmark_northmen_ivar_the_boneless_desc:0 "Rumors say that Ivar is weak of body, but no one can claim he is weak of mind. Through cunning and confidence, he has united a great number of Norse warbands under his banner, and won great victories on these foreign shores. But not even the greatest viking can cheat death. In 870, Ivar will fade from history forever...\n\n#bold Can you win Ivar's wars, and keep him alive to rule for many years to come?#!"
+
+ bookmark_northmen_ivar_the_boneless_alt_barid:0 "$Barid$"
+ bookmark_northmen_ivar_the_boneless_alt_barid_desc:0 "alt desc"
+ bookmark_northmen_ivar_the_boneless_alt_sigfroth:0 "$SigfroT_$"
+ bookmark_northmen_ivar_the_boneless_alt_sigfroth_desc:0 "alt desc"
+
+
+ #Sigurdr Snake-in-the-eye
+ bookmark_northmen_sigurdr_snake_in_the_eye:0 "Sigurdr Snake-in-the-Eye"
+ bookmark_northmen_sigurdr_snake_in_the_eye_desc:1 "As his brothers sailed off to England to exact their vengeance, Sigurd Snake-in-the-Eye stayed behind to rule his late father's lands. Ragnarr Loðbrók has left him some very large boots to fill.\n\n#bold Sigurd's descendants will be Kings of Denmark, Norway and England for well over a century. Can you fulfill the destiny of his dynasty?#!"
+
+ bookmark_northmen_sigurdr_snake_in_the_eye_alt_knud:0 "$Knud$"
+ bookmark_northmen_sigurdr_snake_in_the_eye_alt_knud_desc:0 "alt desc"
+ bookmark_northmen_sigurdr_snake_in_the_eye_alt_alof:0 "$Alof$"
+ bookmark_northmen_sigurdr_snake_in_the_eye_alt_alof_desc:0 "alt desc"
+
+ # Björn Ironside
+ bookmark_northmen_bjorn_ironside:0 "Björn Ironside"
+ bookmark_northmen_bjorn_ironside_desc:0 "Björn has lived a true Norseman's life of adventure. A fearsome raider, he has pillaged across France, Iberia, and Italy, together with his friend Hæsteinn of Nantes. Now, the forces of Scandinavia gather to assault British shores once more.\n\n#bold Though Björn is promised to avenge the death of his father in England, his descendants will rule Sweden for the next two centuries. On which side of the North Sea does your destiny lie?#!"
+
+ bookmark_northmen_bjorn_ironside_alt_ingrid:0 "$Ingrid$"
+ bookmark_northmen_bjorn_ironside_alt_ingrid_desc:0 "alt desc"
+ bookmark_northmen_bjorn_ironside_alt_eirikr:0 "$Eirikr$"
+ bookmark_northmen_bjorn_ironside_alt_eirikr_desc:0 "alt desc"
+
+ #Earl Alfred (the great)
+ bookmark_northmen_earl_alfred:0 "Earl Alfred"
+ bookmark_northmen_earl_alfred_desc:0 "As the Vikings push further south, Earl Alfred of Dorset is readying his troops.\n\nIn the coming years, Alfred will fight numerous battles against the Norsemen and put an end to the invasion. When he inherits his brother's throne, he becomes one of the greatest English kings throughout history.\n\n#bold Will you fulfill Alfred's great destiny, or be crushed by the Great Heathen Army?#!"
+
+ bookmark_northmen_earl_alfred_alt_aethelred:0 "$E_thelred$"
+ bookmark_northmen_earl_alfred_alt_aethelred_desc:0 "alt desc"
+
+ ##EVENTS##
+ bookmark.0002.t:0 "The Great"
+ bookmark.0002.desc:0 "The first time a vassal hailed me with a "long live [ROOT.Char.GetFirstNameNoTooltip] the Great!", I was deeply honored. I thought nothing more of it, but since that day, the epithet has grown in popularity.\n\nWherever I go, from [capital.GetNameNoTooltip] to [province.GetNameNoTooltip], my subjects now call me [ROOT.Char.GetFirstNameNoTooltip] the Great."
+ bookmark.0002.a:0 "I pray I will never let them down."
+
+ bookmark.0004.t:0 "A [dead.Char.Custom2('RelationToMePossessive', ROOT.Char)|U] Vengeance"
+ bookmark.0004.desc:0 "Finally, after all this time, I have the [prisoner.Custom('InsultAdjective')] [prisoner.GetName] at my mercy! When I heard of my [ROOT.GetCharacter.Custom2('RelationToMeShort' , SCOPE.sC('dead'))] [dead.GetNamePossessive] death at [prisoner.GetHerHis] hands, I swore I would have my vengeance. And I am a [ROOT.Char.GetWomanMan] of my word."
+ bookmark.0004.a.custom:0 "Every [close_family_member|E] of [dead.GetShortUIName]"
+ bookmark.0004.a:0 "I will tear his ribs into blood wings!"
+ bookmark.0004.b:0 "This [prisoner.GetWomanMan] is yours, great [ROOT.Char.GetFaith.HighGodName]!"
+ bookmark.0004.c:0 "I have other plans for [prisoner.GetHerHim]..."

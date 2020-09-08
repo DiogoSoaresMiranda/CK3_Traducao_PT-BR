@@ -1,0 +1,4 @@
+﻿l_english:
+ #GestureOfFriendship
+ bows_deeply_to_firstname_or_me:0 "bows deeply to [ROOT.GetCharacter.GetFirstNameOrMe]"
+ clasps_firstnamepossessive_or_my_hands:0 "clasps [ROOT.GetCharacter.GetFirstNamePossessiveOrMy] hands"

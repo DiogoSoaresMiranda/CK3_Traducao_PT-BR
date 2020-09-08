@@ -1,0 +1,17 @@
+﻿l_english:
+ #Become Chakravarti
+ become_chakravarti_decision:0 "Become Chakravarti"
+ become_chakravarti_decision_desc:0 "#F With the necessary rituals and ceremonies, I will formalize my divine status as the rightful ruler of the entire world.#!"
+ become_chakravarti_decision_tooltip:0 "Unite India as the rightful ruler of the world"
+ become_chakravarti_decision_indian_empires_unite_effect:0 "I consolidate the Empires of India"
+ become_chakravarti_decision_new_primary_title_effect:0 "The Empire of India becomes my new [primary_title|E]"
+ become_chakravarti_decision_confirm:0 "Attend the rituals"
+
+ #Become Lady/Lord of the Ganges
+ take_stewardship_of_the_sacred_river_decision:0 "Take Stewardship of the Sacred River"
+ take_stewardship_of_the_sacred_river_decision_desc:0 "#F With control over all the lands along the Ganges' flow, I have some authority over which rulers are allowed access to the sacred waters and its rituals. It is time to have the [ROOT.Char.GetFaith.PriestNeuterPlural] formalize this authority as the protector of holiness itself.#!"
+ take_stewardship_of_the_sacred_river_decision_tooltip:0 "Formalize control of the Ganges as a divine appointment"
+ take_stewardship_of_the_sacred_river_decision_confirm:0 "Call the [ROOT.Char.GetFaith.AltPriestTermPlural] to the river"
+ capital_province_in_ganges_region:0 "Your [realm|E] Capital is located in the Ganges Plain region"
+ MY_VASSAL_OR_LIEGE_MUST_NOT_BE_RULER_OF_GANGES:0 "Authority as Steward of the Sacred Waters cannot be seized from a vassal or a liege"
+ vassal_or_liege_seizure_warning:0 "\n\n@warning_icon!#X $MY_VASSAL_OR_LIEGE_MUST_NOT_BE_RULER_OF_GANGES$#!"

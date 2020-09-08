@@ -1,0 +1,15 @@
+﻿l_english:
+ yearly.0001.pos_descriptor:0 "[ROOT.Char.Custom2('DescriptorPositive', SCOPE.sC('second') )] "
+ yearly.0001.no_descriptor:0 ""
+
+ yearly.0001.diplomacy:0 "manners and etiquette"
+ yearly.0001.martial:0 "tactics and strategy"
+ yearly.0001.stewardship:0 "record-keeping and finance"
+ yearly.0001.intrigue:0 "subtlety and observation"
+ yearly.0001.learning:0 "philosophy and theology"
+
+ yearly.0001.diplomacy_short:0 "etiquette"
+ yearly.0001.martial_short:0 "military"
+ yearly.0001.stewardship_short:0 "finance"
+ yearly.0001.intrigue_short:0 "intrigue"
+ yearly.0001.learning_short:0 "theology"

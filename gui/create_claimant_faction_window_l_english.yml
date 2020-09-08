@@ -1,0 +1,6 @@
+﻿l_english:
+ CREATE_CLAIMANT_FACTION_NO_CLAIMANT_IN_REALM:0 "@warning_icon!#X Is not in [CHARACTER.GetShortUINamePossessive] realm#!"
+ CREATE_CLAIMANT_FACTION_NO_CLAIMANT_UNLANDED:0 "@warning_icon!#X Is not unlanded#!"
+ CREATE_CLAIMANT_FACTION_INVITE:0 "#T Invite as claimant#!"
+ CREATE_CLAIMANT_FACTION_SELECT_CLAIMANT:0 "@warning_icon!#X No claimant selected#!"
+ CREATE_CLAIMANT_FACTION_SELECT_TITLE:0 "@warning_icon!#X No title selected#!"

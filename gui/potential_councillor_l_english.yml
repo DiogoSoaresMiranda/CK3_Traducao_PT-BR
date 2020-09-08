@@ -1,0 +1,13 @@
+﻿l_english:
+ POTENTIAL_COUNCILLOR_TITLE:0 "Appoint a [CouncilPositionType.GetName]"
+ CHARACTER_SORT_ALL_SKILLS:1 "Sum of all Skills"
+ POTENTIAL_COUNCILLOR_REASSIGN:0 "Reassign"
+ POTENTIAL_COUNCILLOR_ASSIGN:0 "Assign"
+ POTENTIAL_COUNCILLOR_SWAP:0 "Swap"
+ FIRE_COUNCILLOR_CONFIRMATION_DESCRIPTION:0 "[CHARACTER.GetShortUINameNoTooltip] will be fired from my council."
+ FIRE_COUNCILLOR_CONFIRMATION_DESCRIPTION_WITH_EFFECT:0 "[CHARACTER.GetShortUINameNoTooltip] will be fired from my council having the following efffect:"
+ POTENTIAL_COUNCILLOR_ASSIGN_TT_TITLE:0 "#T Assign to $NAME$ position#!"
+ POTENTIAL_COUNCILLOR_REASSIGN_TT_TITLE:0 "#T Reassign to $NAME$ position#!"
+ POTENTIAL_COUNCILLOR_SWAP_TT_TITLE:0 "#T Swap Council positions#!"
+ POTENTIAL_COUNCILLOR_SWAP_TT_DESC:0 "Swap [CHARACTER.GetShortUINamePossessiveNoTooltip] $CHARACTER_POSITION$ position with [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] $TARGET_POSITION$ position"
+ NO_POTENTIAL_COUNCILLORS:1 "There are no [vassals|E] or [courtiers|E] elegibles for this position"

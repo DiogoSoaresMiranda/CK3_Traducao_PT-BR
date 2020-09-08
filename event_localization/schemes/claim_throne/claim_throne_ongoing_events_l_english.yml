@@ -1,0 +1,32 @@
+﻿l_english:
+ # Target is followed by ill omens
+ claim_throne_ongoing.1001.t:0 "Ill Omens"
+ claim_throne_ongoing.1001.desc:0 "I clearly do not stand alone in my ambition to rule [target_title.GetNameNoTooltip]! Ravens have been gathering on the roofs of [target.GetTitledFirstNamePossessive] [target.Custom('ResidenceBuilding')], and a few nights ago even the stars seemed to be falling, all over [target_title.GetNameNoTierNoTooltip].\n\nPeasants and nobles alike whisper that it is a sign that [target.GetFirstNameNoTooltip] has lost the favor of [ROOT.Char.GetFaith.PantheonTerm]."
+ claim_throne_ongoing.1001.a:0 "It is time for a new [target.GetTitleAsNameNoTooltip]!"
+ claim_throne_ongoing.1001.b:0 "Only the [ROOT.Char.GetFaith.AltPriestTermPlural] can interpret these signs."
+ # Gradually take on more responsibility in the realm
+ claim_throne_ongoing.1002.t:0 "Earned Authority"
+ claim_throne_ongoing.1002.desc:0 "My pursuit of the title of [target.GetTitleAsName] of [target_title.GetNameNoTier] is not driven by some simple desire for power, but because I am the only one who can bear the responsibility. Even [target.GetTitledFirstName] seems to acknowledge this, as I am granted ever-more important tasks in the service of the realm.\n\nSoon I might as well be acting as [target.GetTitleAsNameNoTooltip] in all but name."
+ claim_throne_ongoing.1002.a:0 ""Not to worry, my liege, I will take care of this as well...""
+ claim_throne_ongoing.1002.b:0 "This is all getting a bit much, actually."
+ # Buying support from vassals
+ claim_throne_ongoing.1003.t:0 "Earning Support"
+ claim_throne_ongoing.1003.desc:0 "I am quite aware that if I were to serve as [target.GetTitleAsName] of [target_title.GetNameNoTier], I require the support of my now-fellow vassals more than [target.GetTitledFirstName] currently has.\n\nIllustrating how generous I would be as [target.GetTitleAsName] could go a long way."
+ claim_throne_ongoing.1003.a:0 "Nothing can be too good for my future servants!"
+ claim_throne_ongoing.1003.b:0 "I will need all my gold for the coming struggle."
+ # Lunatic declares themselves ruler
+ claim_throne_ongoing.1004.t:0 "Declaration of Rulership"
+ claim_throne_ongoing.1004.desc:0 "It might seem as if I have to work to claim rulership over the [target_title.GetName], but I already hold a title of far greater authority.\n\nI am the [ROOT.Char.GetLadyLord|U] of All Radishes in [target_title.GetNameNoTierNoTooltip]!"
+ claim_throne_ongoing.1004.a:0 "Castellan, fetch me my radish-seal!"
+ claim_throne_ongoing.1004.b:0 "No, not [ROOT.Char.GetLadyLord] of all Radishes in [target_title.GetNameNoTierNoTooltip]..."
+ claim_throne_ongoing.1004.b_flavor:0 "...but in the world!"
+
+ claim_throne_ongoing.1005.t:0 "[ROOT.Char.GetLadyLord|U] of the Radishes"
+ claim_throne_ongoing.1005.desc:0 "I have had several servants punished for what I thought was a mockery, as they referred to me as "Your Radishness", but now my Chancellor has shown me the writ I had drawn up insisting on it.\n\nIt feels like a cruel joke the world is playing on me, but at the same time there is a vague memory stirring in the foggy parts of my mind..."
+ claim_throne_ongoing.1005.a:0 "What... what have I been doing?"
+ claim_throne_ongoing.1005.b:0 "I do not make mistakes. You will all follow the writ."
+
+ claim_throne_ongoing.1006.t:0 "Staunch Support"
+ claim_throne_ongoing.1006.desc:0 "As with so many other things, my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('friend'))], [friend.GetTitledFirstName], sees eye to eye with me on the matter that [target.GetTitledFirstName] is not fit to rule [target_title.GetNameNoTier].\n\n"I can think of far better candidates," [friend.GetSheHe] lets me know in confidence. "And you stand first among them. Give the word, and you have my support.""
+ claim_throne_ongoing.1006.a:0 "Friendship is the most honorable form of loyalty."
+ claim_throne_ongoing.1006.b:0 "Spend your efforts letting others know how suitable I am."

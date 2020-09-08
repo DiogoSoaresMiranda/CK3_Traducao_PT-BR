@@ -1,0 +1,55 @@
+﻿l_english:
+ bm_1066_hastings:0 "The Fate of England"
+ bm_1066_hastings_desc:1 "When the childless King Edward the Confessor died it plunged England into a succession crisis unlike any that had come before.\n\nThree men attempted to secure the throne for themselves: Harold Godwinson, William the Bastard, and Harald Hardrade, while Svend and Malcom stood by, ready to pounce at any sign of weakness.\n\n#bold Who will stand victorious after this tumultuous time in history?#!"
+
+ bookmark_hastings_england:0 "King Harold of England"
+ bookmark_hastings_england_desc:2 "Harold Godwinson was the leader of a powerful noble house, and the brother-in-law of the King, when the childless King Edward died. Now, elected the new King of England by his peers, he is faced with the challenge of holding onto the throne, as the covetous Duke of Normandy, as well as King Harald of Norway, spurred on and aided by Harold's exiled brother, seek to replace him!\n\n#bold With a large army at your back and the support of the Anglo-Saxon lords — will the wolves find that they have bitten off more than they can chew?"
+
+ bookmark_hastings_england_alt_tostig:0 "$Tostig$"
+ bookmark_hastings_england_alt_eadgifu:0 "$Eadgifu$ $nick_the_fair$"
+
+ bookmark_hastings_normandy:0 "William the Bastard"
+ bookmark_hastings_normandy_desc:1 "The House of Normandy trace their lineage back to Norse vikings, and established themselves on the mainland of Europe over 200 years ago. Now, William II dreams of leading his family to rule the Kingdom of England, and he believes his status as successor to the throne was promised by the late King Edward, and even recognized by Harold Godwinson himself. However, now that Edward is gone, Harold has broken his oath and taken the crown for himself!\n\n#bold William is at war with England. Can you muster your forces and claim what is rightfully yours?"
+
+ bookmark_hastings_normandy_alt_robert:0 "$Robert$ $nick_the_curthose$"
+ bookmark_hastings_normandy_alt_william:0 "$William$ $nick_the_red$"
+
+ bookmark_hastings_norway:0 "Harald Hardrade"
+ bookmark_hastings_norway_desc:1 "Having displayed formidable military talent since youth, Harald has recently tried, and failed, to conquer Denmark. Now, he looks beyond the sea — by ancient contract, the crown of England should have passed to Harald, when the last King died without an heir. But, instead, the Anglo-Saxons have put Harold Godwinson on the throne! Luckily, the false King has made enemies, and Tostig Godwinson, Harold's own brother, lives in exile in Norway...\n\n#bold By using his own enemies against him, can you give this Varangian viking control over the North Sea?"
+ 
+ bookmark_hastings_norway_alt_olaf:0 "$Olaf$"
+ bookmark_hastings_norway_alt_ingegerd:0 "$Ingegerd$"
+
+ bookmark_hastings_denmark:0 "King Svend of Denmark"
+ bookmark_hastings_denmark_desc:1 "With blood ties to England and Norway, Svend has strong claims to both thrones. Unfortunately, his armies are small and undisciplined, making a war of conquest unfeasible. However, there are other ways to pursue one's dreams...\n\n#bold If your children were to be married into powerful families, it could grant many useful alliances — alliances you could leverage to found an empire that would rival Rome itself!#!"
+
+ bookmark_hastings_denmark_alt_harald:0 "$Harald$ $nick_the_whetstone$"
+ bookmark_hastings_denmark_alt_knud:0 "$Knud$"
+
+ bookmark_hastings_scotland:0 "King Malcolm of Scotland"
+ bookmark_hastings_scotland_desc:1 "Known to Scotland as the "Great Chief", Malcolm III's situation is tenuous, but full of opportunity. To the south, the rich lands of Northumbria lie vulnerable as England is torn apart by war, but Norse warlords and Gaelic highlanders yet contest the king's rule at home.\n\n#bold The British Isles teem with dangers and opportunities: can you pluck a rose from this garden of thorns?#!"
+
+ bookmark_hastings_scotland_alt_duncan:0 "$Duncan$"
+ bookmark_hastings_scotland_alt_donald:0 "$Donald$ $nick_the_fair$"
+
+ bookmark_hastings_france_regency:0 "#D Anna of Kiev#!"
+ bookmark_hastings_france_regency_desc:0 "#D Queen Mother of France, guiding the hand of the infant Philippe.#!"
+ bookmark_hastings_english_magnate:0 "Eadgifu the Fair"
+ bookmark_hastings_english_magnate_desc:0 "As one of the wealthiest landholders in all of England and Harold's former wife, I have long been held in high esteem by the other Anglo-Saxon rulers.\n\nThough Harold took a new wife when he ascended to the throne, I am still powerful and influential in my own right, and I am determined to secure my legacy."
+ war_1066_Norman_Conquest:0 "Norman Conquest of England"
+ war_1066_Harald_Invasion:0 "Norwegian Invasion of England"
+ war_1066_Seljuk_Invasion:0 "Seljuk Invasion of Armenia"
+ war_1066_Sinhalese_Rebellion:0 "Sinhalese Rebellion"
+
+ debug_bm_1340_history:0 "#D History Debug: 1340#!"
+ debug_bm_1340_history_desc:0 "Run this to debug history files up until 1340"
+
+ ### CHARACTERS
+
+ # 1066
+ KING_MALCOLM:0 "King Malcolm"
+ KING_HAROLD:0 "King Harold"
+ EADGIFU:0 "Eadgifu the Fair"
+ BASTARD_WILLIAM:0 "William the Bastard"
+ KING_SVEND:0 "King Svend"
+ KING_HARALD:0 "Harald Hardrade"

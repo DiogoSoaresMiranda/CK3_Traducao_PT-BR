@@ -1,0 +1,21 @@
+﻿l_english:
+ chancellor_task_foreign_affairs_opinion:0 "Foreign Affairs"
+ chancellor_task_domestic_affairs_opinion:0 "Domestic Affairs"
+ chancellor_task_neighbor_decreased_opinion:0 "Diplomatic Incident"
+ chancellor_task_neighbor_increased_opinion:0 "Deft Diplomacy"
+ chancellor_task_powerful_vassal_decreased_opinion:0 "Incompetent Chancellor"
+ chancellor_task_powerful_vassal_increased_opinion:0 "Deft Diplomacy"
+ marshal_task_increase_control_baron_decrease_opinion:0 "Disrespectful Marshal"
+ marshal_task_increase_control_baron_increase_opinion:0 "Respectful Conduct"
+ court_chaplain_fabricated_claim_opinion:0 "Fabricated Claim"
+ court_chaplain_fabricated_claim_on_vassal_opinion:0 "Fabricated Claim on Vassal"
+ task_religious_relations_opinion:0 "Religious Relations"
+ bad_religious_relations_opinion:0 "Theological Dispute"
+ bonus_religious_relations_opinion:0 "Admires My Councillor"
+ court_chaplain_upsetting_claim_fabrication_opinion:0 "Undermining Vassal Balance"
+ court_chaplain_vassal_claim_target_upset_modifier:0 "Claim Fabrication Discovered"
+
+ spouse_held_local_tourney_opinion:0 "Spouse Held Local Tourney"
+ spouse_martial_display_of_force_opinion:0 "Display of Force"
+
+ spouse_coerced_gift_opinion:0 "Coerced Gift"

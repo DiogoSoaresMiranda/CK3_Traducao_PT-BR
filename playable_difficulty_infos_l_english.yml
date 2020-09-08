@@ -1,0 +1,15 @@
+﻿l_english:
+ PLAYABLE_DIFFICULTY_INFO_SEPARATOR:0 "$COMMA$"
+
+ pdi_at_war:0 "Em [war|E]"
+ pdi_no_player_heir:0 "Sem [player_heir|E]"
+ pdi_primary_heir_of_wrong_dynasty:0 "[primary_heir|E] é da [dynasty|E] errada"
+ pdi_cannot_have_children:0 "Não pode ter filhos"
+ pdi_female_under_male_dominated_doctrine:0 "[faith|E] prefere [rulers|E] homens"
+ pdi_male_under_female_dominated_doctrine:0 "[faith|E] prefere [rulers|E] mulheres"
+ pdi_liege_of_hostile_faith:0 "[liege|E] tem uma [faith|E] hostil"
+ pdi_patrilinial_marriage_as_woman:1 " [patrilineal|E] [marriage|E]"
+ pdi_matrilinial_marriage_as_man:1 "[matrilineal|E] [marriage|E]"
+ pdi_is_in_debt:0 "Em [debt|E]"
+ pdi_has_poor_health:0 "[health|E]: $action_dying$"
+   #ReiCoringa 3/9/2020

@@ -1,0 +1,36 @@
+﻿l_english:
+ lifestyle_soldier_source_modifier:0 "Soldier Source"
+ lifestyle_soldier_source_modifier_desc:0 "A soldier in the target's capital is willingly sharing information."
+
+ lifestyle_studied_habits_modifier:0 "Studied Habits"
+ lifestyle_studied_habits_modifier_desc:0 "The target's habits have been studied."
+
+ lifestyle_converted_informants_modifier:0 "Informants"
+ lifestyle_converted_informants_modifier_desc:0 "Informants in the target's court is divulging information."
+
+ lifestyle_intercepting_communication_modifier:0 "Intercepting Communication"
+ lifestyle_intercepting_communication_modifier_desc:0 "The target's communications are being read."
+
+ lifestyle_intercepted_communication_modifier:0 "Intercepted Communication"
+ lifestyle_intercepted_communication_modifier_desc:0 "The target's communications were intercepted once."
+
+ lifestyle_close_to_courtier_modifier:0 "Close to a Courtier"
+ lifestyle_close_to_courtier_modifier_desc:1 "By getting close to one of target's courtiers I have easier access to the target"
+
+ intrigue_scheme_mapped_surroundings_modifier:0 "Mapped Surroundings"
+ intrigue_scheme_mapped_surroundings_modifier_desc:0 "The access and escape routes have been carefully mapped."
+
+ intrigue_scheme_tattletale_modifier:0 "Tattletale"
+ intrigue_scheme_tattletale_modifier_desc:0 "Someone hasn't kept their mouth shut."
+
+ intrigue_scheme_in_a_hurry_modifier:0 "In A Hurry"
+ intrigue_scheme_in_a_hurry_modifier_desc:0 "There is no time, we must move #EMP now#!."
+
+ intrigue_scheme_no_contact_modifier:0 "Minimal Contact"
+ intrigue_scheme_no_contact_modifier_desc:0 "Contact has been reduced to a minimum to avoid discovery."
+
+ intrigue_scheme_involved_modifier:0 "Involved"
+ intrigue_scheme_involved_modifier_desc:0 "The schemer's interest in the target is widely known."
+
+ intrigue_scheme_messenger_pigeon_modifier:0 "Messenger Pigeon"
+ intrigue_scheme_messenger_pigeon_modifier_desc:0 "A trained messenger pigeon is ready to deliver secret messages."

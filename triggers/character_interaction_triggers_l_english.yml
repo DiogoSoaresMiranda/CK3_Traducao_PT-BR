@@ -1,0 +1,5 @@
+﻿l_english:
+
+ IS_PLAYER_HEIR_OF:0 "#D TODO this trigger should probably be replaced with the coded version!#!"
+
+ CHARACTER_IS_PRESSING_TARGET_CHARACTERS_CLAIM:0 "[CHARACTER.GetShortUIName|U] is pressing [TARGET_CHARACTER.GetShortUINamePossessive] Claim"

@@ -1,0 +1,11 @@
+﻿l_english:
+ disinherited_opinion:0 "Disinherited"
+ disinherited_house_member_opinion:0 "Disinherited a [house|E] Member"
+ restored_inheritance_opinion:0 "Restored Inheritance"
+ restored_house_member_inheritance_opinion:0 "Restored a [house|E] Member Inheritance"
+ denounced_opinion:0 "Denounced"
+ denounced_house_member_opinion:0 "Denounced a [dynasty|E] Member"
+ denounced_trait_crime:1 "Denounced by [dynast|E]"
+ forgave_denounced_opinion:0 "Was Denounced"
+ forgave_house_member_opinion:0 "Forgave House Member"
+ 

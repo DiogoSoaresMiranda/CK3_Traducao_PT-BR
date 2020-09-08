@@ -1,0 +1,13 @@
+﻿l_english:
+ cat_story_modifier:0 "Pet Cat"
+ cat_story_modifier_desc:0 "This character enjoys the company of a feline companion"
+ dog_story_modifier:0 "Pet Dog"
+ dog_story_modifier_desc:0 "A loyal dog follows this character wherever they go"
+ dog_story_walking_modifier:0 "Walking Dog"
+ dog_story_walking_modifier_desc:0 "This character enjoys frequent walks with their dog"
+ dog_story_fur_carpet_modifier:0 "Fur Carpet"
+ dog_story_fur_carpet_modifier_desc:0 "This character has a beautiful fur carpet"
+ cat_story_allergy_modifier:0 "Cat Sensitivity"
+ cat_story_allergy_modifier_desc:0 "This character is experiencing bothersome symptoms from the presence of a cat"
+ cat_killing_rodents_modifier:0 "Rat Free"
+ cat_killing_rodents_modifier_desc:0 "This character's residence is almost completely devoid of rats"

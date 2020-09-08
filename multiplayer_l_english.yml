@@ -1,0 +1,10 @@
+﻿l_english:
+ RANDOM_COUNT:0 "Conde Aleatorio"
+ RANDOM_SEED:0 "Seed(semente) Aleatoria"
+ GAMESTATE_CHECKSUM:0 "Gamestate checksum"
+ LIVING_CHARACTERS:0 "Personagens Vivos"
+ MULTIPLAYER_GUI_PUBLIC_MICROSOFT_ONLY:0 "Somente Microsoft"
+ MULTIPLAYER_GUI_PUBLIC_MICROSOFT_ONLY_TT:1 "#T $MULTIPLAYER_GUI_PUBLIC_MICROSOFT_ONLY$\n#!$JOM_BULLET_WITH_TAB$ O jogo esta listado e visivel apenas para jogadores utilizando a Loja Microsoft\n$JOM_BULLET_WITH_TAB$Jogadores que saibam a senha podem se juntar ao jogo,se existir algum, qualquer um pode jogar\n$JOM_BULLET_WITH_TAB$Jogadores tambem podem se juntar se forem convidados ou se o Host compartilhar o ID do Servidor\n$JOM_BULLET_WITH_TAB$Somente jogadores usando contas Microsoft podem se juntar"
+ MULTIPLAYER_GUI_CLICK_TO_SELECT:0 "Clique no mapa para selecionar um [character|E] para jogar"
+ MULTIPLAYER_GUI_SERVER_BROWSER_PASTE_ID:0 "#T Copiar o ID do Servidor#!"
+   #ReiCoringa 3/9/2020

@@ -1,0 +1,17 @@
+﻿l_english:
+ SUCCESSION_LAW_CHANGE_WINDOW_TITLE:0 "Mudar Lei de Sucessão"
+ SUCCESSION_LAW_CHANGE_WINDOW_TITLES_INHERITANCE:0 "Meus Títulos"
+ SUCCESSION_LAW_CHANGE_WINDOW_POWERFUL_VASSALS:0 "[powerful_vassal|E] Aprova"
+ SUCCESSION_LAW_CHANGE_WINDOW_POWERFUL_VASSALS_DESC:0 "Todos os Vassalos Poderosos devem aprovar para que se possa mudar a Lei de Sucessão #bold any#! "
+ SUCCESSION_LAW_CHANGE_WINDOW_CHANGE:0 "Mudar Lei"
+ SUCCESSION_LAW_CHANGE_WINDOW_CHOOSE_NEW:0 "Disponível [SuccessionLawChangeWindow.GetLaws.GetLawGroup.GetName]"
+ SUCCESSION_LAW_CHANGE_WINDOW_PARTITION_LAWS:0 "Multiplos [heirs|E]"
+ SUCCESSION_LAW_CHANGE_WINDOW_SINGLE_HEIR_LAWS:0 "Único [heir|E]"
+ SUCCESSION_LAW_CHANGE_WINDOW_ENACT_COST:0 "Custo: [SuccessionLawChangeWindow.GetSelectedLaw.GetShortCostString]"
+ SUCCESSION_LAW_CHANGE_WINDOW_ENACT_COST_TOOLTIP:0 "#T Custo#!\n [SuccessionLawChangeWindow.GetSelectedLaw.GetCostDescription]"
+ SUCCESSION_LAW_CHANGE_WINDOW_POWERFUL_APPROVE:0 "#weak Aprova#!"
+ SUCCESSION_LAW_CHANGE_WINDOW_POWERFUL_OPPOSE:0 "#X Opõe-se#!"
+ SUCCESSION_LAW_CHANGE_WINDOW_POWERFUL_APPROVE_TT:1 "#T Aprova Mudança na Lei de Sucessão#!\n[Character.GetShortUIName] suporta, ou pelo menos não pode se opor, à mudança para [succession_law|E].\n\n[Character.GetSheHe|U] aprova devido à:\n$BULLET_WITH_TAB$Tem uma [opinion|E] positiva de você ou\n$BULLET_WITH_TAB$Sendo [cowed|E] por você\n$BULLET_WITH_TAB$Sendo [imprisoned|E] (por qualquer um)"
+ SUCCESSION_LAW_CHANGE_WINDOW_POWERFUL_OPPOSE_TT:2 "#T Opõe-se à Mudança na Lei de Sucessão#!\n[Character.GetShortUIName] irá impedir qualquer mudança na [succession_law|E].\n\n Para ser aprovada, [Character.GetShortUIName] deve:\n$BULLET_WITH_TAB$Ter uma [opinion|E] positiva de você ou\n$BULLET_WITH_TAB$Ser [cowed|E] por você\n$BULLET_WITH_TAB$Ser [imprisoned|E] (por qualquer um)"
+###Renato 08/09/2020###
+ #########Kingdorugha 8/9/2020#########

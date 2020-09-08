@@ -1,0 +1,42 @@
+﻿l_english:
+ pilgrimage_sympathetic_towards_faiths_modifier:0 "Sympathy to Heathens"
+ pilgrimage_disdainful_towards_faiths_modifier:0 "Disdain for Heathens"
+
+ pilgrimage_foreign_guards_modifier:0 "Foreign Guards"
+ pilgrimage_foreign_guards_modifier_desc:0 "This character has hired foreign personal guards from distant lands"
+
+ pilgrimage_divine_protection_modifier:0 "Divine Protection"
+ pilgrimage_divine_protection_modifier_desc:0 "This character has safely traveled with almost no protection through foreign lands"
+
+ new_pilgrimage_companions_modifier:0 "Varied Pilgrimage Companions"
+ new_pilgrimage_companions_modifier_desc:0 "This character has traveled with a wide range of different people"
+
+ pilgrimage_completely_lost_modifier:0 "Got Lost"
+ pilgrimage_completely_lost_modifier_desc:0 "This character got completely lost on a pilgrimage"
+
+ showy_about_pilgrimage_modifier:0 "Theatrical Pilgrimage"
+ showy_about_pilgrimage_modifier_desc:0 "This character has made sure that everyone knows how pious their pilgrimage was"
+
+ pilgrimage_worldly_modifier:0 "Worldly Pilgrimage"
+ pilgrimage_worldly_modifier_desc:0 "A pilgrimage has taught this character much about the world"
+
+ dedicated_to_pilgrimage_modifier:0 "Dedicated Pilgrim"
+
+ hajj_halq_modifier:0 "Halq"
+ hajj_halq_modifier_desc:0 "This character's head has been shaved clean, a sign of their recent completion of the Hajj."
+
+ pilgrimage_armed_pilgrimages_modifier:0 "Determined Pilgrim"
+ pilgrimage_armed_pilgrimages_modifier_desc:0 "This character has been on a Pilgrimage while following the [GetFaithDoctrine('tenet_armed_pilgrimages').GetBaseName] [core_tenet|E]."
+ pilgrimage_mendicant_preachers_modifier:0 "Poverty's Journey"
+ pilgrimage_mendicant_preachers_modifier_desc:0 "This character has been on a Pilgrimage while following the [GetFaithDoctrine('tenet_mendicant_preachers').GetBaseName] [core_tenet|E]."
+ pilgrimage_pentarchy_modifier:0 "The Seats of Bishops"
+ pilgrimage_pentarchy_modifier_desc:0 "This character has been on a Pilgrimage while following the [GetFaithDoctrine('tenet_pentarchy').GetBaseName] [core_tenet|E]."
+ pilgrimage_struggle_submission_modifier:0 "Display of Submission"
+ pilgrimage_struggle_submission_modifier_desc:0 "This character has been on a Pilgrimage while following the [GetFaithDoctrine('tenet_struggle_submission').GetBaseName] [core_tenet|E]."
+ pilgrimage_ancestor_worship_modifier:0 "In the Footsteps of My Forebears"
+ pilgrimage_ancestor_worship_modifier_desc:0 "This character has been on a Pilgrimage while following the [GetFaithDoctrine('tenet_ancestor_worship').GetBaseName] [core_tenet|E]."
+
+ pilgrimage_religious_reflections_modifier:0 "Met Mystic on Pilgrimage"
+
+ pilgrimage_rest_and_good_health_modifier:0 "Restful Traveler"
+ pilgrimage_rest_and_good_health_modifier_desc:0 "This character takes it very easy when journeying."

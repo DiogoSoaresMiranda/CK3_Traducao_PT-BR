@@ -1,0 +1,6 @@
+﻿l_english:
+ #TownType
+ barony_town_type_city:0 "city"
+ barony_town_type_castle_town:0 "castle town"
+ barony_town_type_town:0 "town"
+ barony_town_type_village:0 "village"

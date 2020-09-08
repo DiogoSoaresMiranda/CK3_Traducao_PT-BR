@@ -1,0 +1,13 @@
+﻿l_english:
+ EDIT_BANNERS_LABEL:0 "Edit"
+ EDIT_BANNERS_TOOLTIP:0 "#T Edit Rally Points#!"
+ RAISE_BANNER:0 "Raise Army"
+ BANNER_RAISES_TIME:0 "$TIME_TO_RAISE$ $VALUE|0$ days"
+ BANNER_NUMBER_OF_MEN:0 "[soldiers|E]: $VALUE|0$"
+ BANNER_ALREADY_RAISED:1 "#N All Soldiers from this Rally Point are already raised#!"
+ BANNER_NOT_BEING_RAISED:0 "#N No Armies are currently being raised from this Rally Point#!"
+ BANNER_RAISE_PROMPT:1 "#T Raise Army and all Soldiers assigned to this Rally Point#!"
+ BANNER_CANCEL_RAISING:0 "Cancel Raising"
+ BANNER_CANCEL_RAISING_PROMPT:0 "#T Cancel Raising from this Rally Point and dismiss Army#!"
+ BANNER_LIST_DOMAIN_LIMIT_PENALTY_TOOLTIP:0 "@warning_icon!#X Above [domain_limit|E]. Levies from [domain] reduced by $PENALTY|%0$"
+ 

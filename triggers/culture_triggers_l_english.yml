@@ -1,0 +1,18 @@
+﻿l_english:
+
+ HAS_INNOVATION_THIRD:0 "The [CULTURE.GetName] culture has the [INNOVATION.GetName] innovation"
+ NOT_HAS_INNOVATION_THIRD:0 "The [CULTURE.GetName] culture does #bold not#! have the [INNOVATION.GetName] innovation"
+
+ MUST_BE_UNLOCKED_BY_DECISION:0 "Must be unlocked by decision"
+
+ HAS_CULTURAL_ERA_OR_LATER:0 "[CULTURE.GetName|U] culture has reached $ERA$ era"
+
+ DE_JURE_DRIFTING_TOWARDS_TRIGGER:0 "[TITLE.GetName] is de jure drifting towards [TARGET_TITLE.GetName]"
+ NOT_DE_JURE_DRIFTING_TOWARDS_TRIGGER:0 "[TITLE.GetName] is #bold not#! de jure drifting towards [TARGET_TITLE.GetName]"
+ DE_JURE_DRIFTING_TOWARDS_THIRD_TRIGGER:0 "Is de jure drifting towards [TARGET_TITLE.GetName]"
+ NOT_DE_JURE_DRIFTING_TOWARDS_THIRD_TRIGGER:0 "Is #bold not#! de jure drifting towards [TARGET_TITLE.GetName]"
+
+
+ DE_JURE_DRIFT_PROGRESS_TRIGGER:0 "De jure drift progress of [TITLE.GetName] towards [TARGET_TITLE.GetName] is $OPERATOR$ $VALUE|V0$"
+
+ YOU_CAN_ONLY_CHANGE_CULTURE_ONCE:0 "You cannot willingly change your culture more than once per lifetime"

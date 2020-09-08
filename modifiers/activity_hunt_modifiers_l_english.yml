@@ -1,0 +1,75 @@
+﻿l_english:
+ held_hunt_modifier:0 "Hunted Recently"
+ held_hunt_modifier_desc:0 "This character has recently arranged a Hunt, and may not do so again until the specified date."
+ 
+ hunt_punished_locals_modifier:0 "Punished Poachers"
+ hunt_punished_locals_modifier_desc:0 "People in this County bear the burden of making up for poachers in the forests."
+ 
+ hunt_poacher_training_modifier:0 "Poacher Training"
+ hunt_poacher_training_modifier_desc:0 "This character has been trained by poachers to hunt."
+ 
+ hunt_upset_hunting_county_modifier:0 "Poaching Outrage"
+ hunt_upset_hunting_county_modifier_desc:0 "This County is upset over the way it has been treated for the actions of a handful of poachers"
+
+ modifier_hunt_hunting_trophy:0 "Hunting Trophy"
+ modifier_hunt_hunting_trophy_desc:0 "An impressive hunting trophy hangs in this character's great hall, showing off their achievements."
+ 
+ modifier_hunt_friend_of_animal:0 "Friend of Animals"
+ modifier_hunt_friend_of_animal_desc:0 "This character has an uncanny ability to handle animals."
+ 
+ hunt_guide_local_madman_modifier:0 "Local Guide"
+
+ hunt_killed_local_madman_modifier:1 "Killed Local"
+ 
+ hunt_talked_to_madman_modifier:1 "Listened to Local Concerns"
+
+ hunt_peasants_denied_forest_modifier:0 "Peasants Denied Forest"
+ hunt_peasants_denied_forest_modifier_desc:0 "The peasants of this County have been denied the right to forage in the forests."
+
+ hunt_peasants_hunted_modifier:0 "Hunted Peasants"
+ hunt_peasants_hunted_modifier_desc:0 "Peasants are afraid of settling in this County, due to the unspeakable things that have happened here."
+
+ hunt_aided_peasants_modifier:0 "Aided Peasants"
+ hunt_aided_peasants_modifier_desc:0 "The poorest people of this County have received significant charitable aid."
+
+ hunt_fresh_air_and_exercise_modifier:0 "Fresh Air and Exercise"
+ hunt_fresh_air_and_exercise_modifier_desc:0 "This character has enjoyed rigorous exercise during their hunts."
+
+ hunt_focused_attention_modifier:0 "Focused Attention"
+ hunt_focused_attention_modifier_desc:0 "This character knows how to focus on the things that demand immediate attention."
+
+ modifier_hunt_dog_trophy_modifier:0 "Hunting Trophy"
+ modifier_hunt_dog_trophy_modifier_desc:0 "An impressive hunting trophy hangs in this character's great hall, showing off their achievements."
+
+ modifier_hunt_dog_fighting_modifier:0 "Improved Prowess"
+ modifier_hunt_dog_fighting_modifier_desc:0 "This character has perform an impressive feat of prowess during their hunts."
+
+ modifier_hunt_resisted_advances:0 "Resisted Advances"
+ modifier_hunt_resisted_advances_desc:0 "This character has resisted the siren song of temptation."
+
+ hunt_mediated_fight_modifier:0 "Mediator"
+ hunt_mediated_fight_modifier_desc:0 "This character has successfully negotiated between two people in conflict– a valuable lesson."
+
+ hunt_protected_peasants_modifier:0 "Protected Peasants"
+ hunt_protected_peasants_modifier_desc:0 "The peasants of this county feel protected"
+
+ hunt_disturbed_locals_modifier:0 "Disturbed Locals"
+ hunt_disturbed_locals_modifier_desc:0 "The locals in this county just wants to be left alone"
+
+ hunt_focused_effort_modifier:0 "Focused Hunting Effort"
+ hunt_focused_effort_modifier_desc:0 "This character is very focused on the hunt"
+
+ hunt_treated_injury_modifier:0 "Practiced Field Surgery"
+ hunt_treated_injury_modifier_desc:0 "This character has some recent experience with very trying medical treatments"
+
+ hunt_tasted_the_belt_modifier:0 "Tasted the Belt"
+ hunt_tasted_the_belt_modifier_desc:0 "This character is suffering from a bruised rear"
+
+ hunt_treated_wound_modifier:0 "Dressed Wounds"
+ hunt_treated_wound_modifier_desc:0 "This character's wounds have been seen to in some fashion"
+
+ hunt_chose_truth_modifier:0 "Humble Honesty"
+ hunt_chose_truth_modifier_desc:0 "This character has spoken the truth at the detriment of themselves"
+
+ hunt_mystical_animal_modifier:0 "Hunted Mystical Animal"
+ hunt_mystical_animal_modifier_desc:0 "This character hunted, and killed, a mystical white animal"

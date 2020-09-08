@@ -1,0 +1,9 @@
+﻿l_english:
+ line_break:0 "\n"
+ double_line_break:0 "\n\n"
+ do_not_execute_plot_tooltip:0 "Os conspiradores irão continuar no aguardo. Por enquanto..."
+ outcome_in_a_few_days:0 "Em alguns dias"
+ outcome_in_a_few_weeks:0 "Em algumas semanas"
+ outcome_in_a_few_months:0 "Em alguns meses"
+ outcome_in_a_few_years:0 "Em alguns anos"
+   #ReiCoringa 3/9/2020

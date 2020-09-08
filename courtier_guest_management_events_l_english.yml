@@ -1,0 +1,25 @@
+﻿l_english:
+ courtier_guest_management.0001.t:2 "Your [liege.Custom2('RelationToMeShort', SCOPE.sC('child'))] [child.GetShortUINameNoTooltip], is About To Leave Court"
+ courtier_guest_management.desc:0 "[child.GetTitledFirstName] has no reason to stay at court and will soon leave"
+
+ courtier_guest_management.0102.t:0 "My Last Chance"
+ courtier_guest_management.0102.desc:0 "[courtier.GetTitledFirstName] has decided that [courtier.GetHerHis] time in [capital.GetNameNoTierNoTooltip] has come to an end. The servants have packed [courtier.GetHerHis] chests and [courtier.GetSheHe] has said [courtier.GetHerHis] farewells.\n\nWith [courtier.GetTitledFirstNameNoTooltip] goes [courtier.GetHerHis] claim on the [courtier_claim.GetName]. If I want to press it and make [courtier.GetHerHim] my vassal, this is my last chance to make [courtier.GetHerHim] stay."
+
+ courtier_guest_management.0102.a:0 "Give me one year, and I will press your claim!"
+ courtier_guest_management.0102.a.rl.desc:0 "In one year's time"
+ courtier_guest_management.0102.a.stay:0 "If you have pressed [courtier.GetTitledFirstNamePossessiveNoTooltip] claim"
+ courtier_guest_management.0102.a.stay.tt:0 "[courtier.GetShortUIName|U] stays at court"
+ courtier_guest_management.0102.a.leave:0 "If you have #bold not#! pressed [courtier.GetTitledFirstNamePossessiveNoTooltip] claim"
+ courtier_guest_management.0102.b:0 "May your journey be swift and safe."
+ courtier_guest_management.1001.t:0 "Notable Guest Has Arrived"
+ courtier_guest_management.1001.claimant.desc:0 "[exceptional_guest.GetShortUIName|U] has a claim on the [guest_claim.GetName]"
+ courtier_guest_management.1001.marriage_start.desc:0 "[exceptional_guest.GetShortUIName|U] would make a good [exceptional_guest.Custom('WifeHusband')] for"
+ courtier_guest_management.1001.marriage_me.desc:1 "you"
+ courtier_guest_management.1001.marriage_my_sons.desc:1 "one of your sons"
+ courtier_guest_management.1001.marriage_my_daughters.desc:1 "one of your daughters"
+ courtier_guest_management.1001.marriage_my_child.desc:0 "my [marriage_child.Custom('GetDaughterSon')] [marriage_child.GetShortUIName]"
+ courtier_guest_management.1001.vassal.desc:0 "[exceptional_guest.GetShortUIName|U] would make for a loyal and accomplished vassal"
+ courtier_guest_management.1001.commander.desc:0 "[exceptional_guest.GetShortUIName|U] would make for an accomplished commander"
+ courtier_guest_management.1001.knight.desc:0 "[exceptional_guest.GetShortUIName|U] is an experienced fighter"
+ courtier_guest_management.1001.physician.desc:0 "[exceptional_guest.GetShortUIName|U] is a trained healer"
+

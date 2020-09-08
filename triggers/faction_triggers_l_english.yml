@@ -1,0 +1,25 @@
+﻿l_english:
+
+ CAN_CREATE_FACTION_TRIGGER:0 "Can create a $TYPE|V$ [faction|E] against [TARGET_CHARACTER.GetShortUIName]"
+ NOT_CAN_CREATE_FACTION_TRIGGER:0 "Can #bold not#! create a $TYPE|V$ [faction|E] against [TARGET_CHARACTER.GetShortUIName]"
+ I_CAN_CREATE_FACTION_TRIGGER:1 "You can create a $TYPE|V$ [faction|E] against [TARGET_CHARACTER.GetShortUIName]"
+ NOT_I_CAN_CREATE_FACTION_TRIGGER:1 "You can #bold not#! create a $TYPE|V$ [faction|E] against [TARGET_CHARACTER.GetShortUIName]"
+ THEY_CAN_CREATE_FACTION_TRIGGER:0 "[CHARACTER.GetShortUIName|U] can create a $TYPE|V$ [faction|E] against [TARGET_CHARACTER.GetShortUIName]"
+ NOT_THEY_CAN_CREATE_FACTION_TRIGGER:0 "[CHARACTER.GetShortUIName|U] can #bold not#! create a $TYPE|V$ [faction|E] against [TARGET_CHARACTER.GetShortUIName]"
+
+ CAN_JOIN_FACTION_TRIGGER:0 "Can join the [FACTION.GetNameNoTooltip]"
+ NOT_CAN_JOIN_FACTION_TRIGGER:0 "Can #bold not#! join the [FACTION.GetNameNoTooltip]"
+ I_CAN_JOIN_FACTION_TRIGGER:1 "You can join the [FACTION.GetNameNoTooltip]"
+ NOT_I_CAN_JOIN_FACTION_TRIGGER:0 "You can #bold not#! join the [FACTION.GetNameNoTooltip]"
+ THEY_CAN_JOIN_FACTION_TRIGGER:0 "[CHARACTER.GetShortUIName|U] can join the [FACTION.GetNameNoTooltip]"
+ NOT_THEY_CAN_JOIN_FACTION_TRIGGER:0 "[CHARACTER.GetShortUIName|U] can #bold not#! join the [FACTION.GetNameNoTooltip]"
+
+ WAS_BLOCKED_FROM_JOINING_TRIGGER:0 "Was recently forbidden to join factions"
+ I_WAS_BLOCKED_FROM_JOINING_TRIGGER:1 "You were recently forbidden to join factions"
+ THEY_WAS_BLOCKED_FROM_JOINING_TRIGGER:0 "[CHARACTER.GetShortUIName|U] was recently forbidden to join factions"
+
+ BARONS_CANNOT_JOIN_INDEPENDENCE_FACTIONS:0 "[barons|E] cannot join [independence_factions|E]"
+ 
+ CANNOT_START_FACTION_AGAINST_CHARACTER:0 "It is not possible to start a [faction|E] against [CHARACTER.GetShortUIName]"
+
+ CHARACTER_CANNOT_BE_IN_FACTION_DUE_TO_MODIFIER:0 "You have a [modifier|E] preventing you from being in a [faction|E]"
