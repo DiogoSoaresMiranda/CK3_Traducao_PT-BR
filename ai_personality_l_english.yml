@@ -59,3 +59,4 @@
  compassion_strong_adj:0 "[Select_CString( CHARACTER.IsFemale, 'Graciosa', 'Gracioso' )]"
  compassion_strong_neg_noun:0 "[Select_CString( CHARACTER.IsFemale, 'Vilã', 'Vilão' )]"
  compassion_strong_neg_adj:0 "[Select_CString( CHARACTER.IsFemale, 'Má', 'Mau' )]"
+#ReiCoringa 08/09/2020
