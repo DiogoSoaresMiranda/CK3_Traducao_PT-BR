@@ -205,7 +205,7 @@
  trait_greedy:0 "Ganancioso"
  trait_greedy_desc:0 "Esse personagem mantem a mão fechada sob sua bolsa e sempre está procurando um jeito de engordá-la."
  trait_greedy_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] keeps a tight grip on [ROOT.GetCharacter.GetHerHis] purse and is always looking for ways to engorge it."
- trait_diligent:0 "Aplicado"
+ trait_diligent:0 "Esforçado"
  trait_diligent_desc:0 "Esse personagem não corre do trabalho duro."
  trait_diligent_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] não correr do trabalho duro."
  trait_lazy:0 "Preguiçoso"
