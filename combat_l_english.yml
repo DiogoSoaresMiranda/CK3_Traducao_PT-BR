@@ -18,7 +18,7 @@ l_english:
  DEFENDER_LEADER:0 "Líder Defensor"
  COMBAT_MODIFIER_HEADER:0 "$TYPE$: $VALUE|2+=%$"
  END_OF_COMBAT:0 "[battle|E] foi finalizada"
- DEPLOYED:0 "Movimentação: "
+ DEPLOYED:0 "Implantado: "
  DIED:0 "Morreu: "
  # Maneuver Combat Actions
  default_maneuver:0 "Formação de Batalha"
@@ -45,7 +45,7 @@ l_english:
  default_pursuit:0 "Perseguir"
  overextension:0 "Superextensão"
  frenzied_pursuit:0 "Perseguir Arduamente"
- sacrificial_countercharge:0 "Contra-ataque" 
+ sacrificial_countercharge:0 "Contra-ataque Suicida" 
  looting:0 "Saquear acampamento inimigo"
  # General Combat Actions
  frightened:0 "Amedrontado"
