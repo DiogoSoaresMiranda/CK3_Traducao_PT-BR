@@ -1,25 +1,25 @@
 ﻿l_english:
- bm_1066_iberia:0 "Iberia in Pieces"
- bm_1066_iberia_desc:0 "When the old king Ferdinand I passed away his three sons all inherited a piece of his Iberian kingdom. Greed, ambition, and holy wars soon push the Iberian Peninsula to boil, and the bonds between family members start to fray.\n\n#bold Are any of the Fernandez siblings strong, or cunning, enough to emerge victorious over the rest? How will war and diplomacy mold the Iberian peninsula?#!"
+ bm_1066_iberia:0 "Iberia em Pedaços"
+ bm_1066_iberia_desc:0 "Quando o antigo rei Ferdinand I faleceu, todos os seus três filhos herdaram um pedaço do seu reino Iberiano. A ganância, a ambição e as guerras sagradas logo fizeram a Península Ibérica ferver e os laços entre os membros da família começarem a se desgastar.\n\n#bold Há algum dos irmãos de Fernandez fortes ou espertos o suficiente para se sobressair vitorioso ? Como a guerra e a diplomacia moldarão a Península Ibérica ?#!"
 
  # Carcía Fernandez, King of Galicia, Iberia
- bookmark_iberia_king_garcia:0 "King García"
- bookmark_iberia_king_garcia_desc:0 "Given the most troubled kingdom of the three brothers, García tried many extreme remedies to stabilize his rule. However, the fragile land was soon too tempting for his brother Alfonso who invaded in 1071. This attack kicked off the many wars that followed between the brothers, but García would spend most of this time behind bars.\n\n#bold Take up arms against your brothers and lead this unstable kingdom to glory and victory!#!"
+ bookmark_iberia_king_garcia:0 "Rei García"
+ bookmark_iberia_king_garcia_desc:0 "Sendo o mais conturbado reino dentre os três irmãos, García tentou muitos métodos extremos remedies para estabilizar seu reinado. Entretanto, a frágil terra logo se tornou muito tentadora para seu irmão Alfonso, que a invadiu em 1071. Esse ataque deu início a muitas guerras que se seguiram entre os irmãos, mas García passaria a maior parte desse tempo atrás das grades.\n\n#bold Pegue as armas contra seus irmãos e conduza este reino instável à glória e vitória!#!"
 
  bookmark_iberia_king_alfonso_alt_sancha:0 "$Sancha$"
  bookmark_iberia_king_alfonso_alt_nuno:0 "$NuN_o$"
 
  # Alfonso VI Fernandez, King of León, Iberia
- bookmark_iberia_king_alfonso:0 "King Alfonso VI"
- bookmark_iberia_king_alfonso_desc:0 "The middle son, and his father's favorite, Alfonso inherited the rich middle kingdom of León. He moved on to outsmart and subjugate both his brothers, and he ruled over the reunited kingdom of his father.\n\n#bold Through political and familiar diplomacy and aggression, do you have what it takes to unite the three kingdoms under one banner?#!"
+ bookmark_iberia_king_alfonso:0 "Rei Alfonso VI"
+ bookmark_iberia_king_alfonso_desc:0 "O filho do meio, e favorito de seu pai, Alfonso herdou o rico reino do meio de Léon. Ele passou a ser mais esperto e subjugar os dois irmãos e governou o reino reunido de seu pai.\n\n#bold Através da diplomacia política e familiar e da agressão, você tem o que é preciso para unir os três reinos sob uma bandeira?#!"
 
- # Sancho II Fernandez, King of Castille, Iberia
- bookmark_iberia_king_sancho:0 "King Sancho II"
- bookmark_iberia_king_sancho_desc:0 "Sancho was cheated out of his full inheritance by his father's division of the land among all three brothers. A man of opportunity, he quickly took up arms against his brothers as soon as the peace started to crumble, but only briefly got to rule the reunited kingdom before he was assassinated.\n\n#bold Through military action and planning, can you restore the full kingdom to its glory under the one rightful ruler, and hold on to power?#!"
+ # Sancho II Fernandez, Rei de Castille, Iberia
+ bookmark_iberia_king_sancho:0 "Rei Sancho II"
+ bookmark_iberia_king_sancho_desc:0 "Sancho foi roubado de sua herança total pela divisão das terras de seu pai entre os três irmãos. Um homem de oportunidade, ele rapidamente levantou armas contra seus irmãos assim que a paz começou a ruir, mas apenas por um breve período conseguiu governar o reino reunido antes de ser assassinado.\n\n#bold Por meio de ação militar e planejamento, você pode restaurar todo o reino à sua glória sob o governante de direito e manter o poder?#!"
 
  bookmark_iberia_king_sancho_alt_rodrigo:0 "$Rodrigo$"
 
- # Urraca Fernandez, Countess of Zamorra, Iberia
+ # Urraca Fernandez, Condessa of Zamorra, Iberia
  bookmark_iberia_infanta_urraca:0 "Infanta Urraca"
  bookmark_iberia_infanta_urraca_desc:0 "The oldest of Ferdinand's children, Urraca had widespread influence over both her brothers and the Church. She and her sister Elvira received lordship over all the monasteries in the three kingdoms, and she did not sit idly by as her brothers tore each other apart.\n\n#bold To outmaneuver her brothers and secure her place in history Urraca needs both patience and daring – will you succeed?#!"
 
@@ -31,3 +31,4 @@
 
  bookmark_iberia_king_antso_alt_ramiro:0 "$Ramiro$"
  bookmark_iberia_king_antso_alt_sancho:0 "$Sancho$"
+ ###becalette 09/09/2020###
