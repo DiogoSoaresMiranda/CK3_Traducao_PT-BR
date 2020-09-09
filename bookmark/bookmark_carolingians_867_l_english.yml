@@ -1,38 +1,38 @@
 ﻿l_english:
- bm_867_carolingians:0 "The Carolingians"
- bm_867_carolingians_desc:1 "After the passing of Louis the Pious, the once-great Carolingian Empire was divided up into the three separate Kingdoms of East, West, and Middle Francia. Since then, these realms have only splintered further as wars, rebellions, and inheritance variously cause instability and fragmentation.\n\n#bold Are any of the Karlings strong enough to reunite their empire? Or will their family squabbles leave them vulnerable to exploitation by opportunists?#!"
+ bm_867_carolingians:0 "Os carolíngios"
+ bm_867_carolingians_desc:1 "Após a morte de Luís, o Piedoso, o outrora grande Império Carolíngio foi dividido em três reinos separados do Oriente e do Ocidente, e Middle Francia. Desde então, esses reinos se fragmentaram ainda mais à medida que guerras, rebeliões e heranças causam instabilidade e fragmentação.\n\n#bold Algum dos Karling é forte o suficiente para reunir seu império? Ou as brigas de suas famílias os deixarão vulneráveis à exploração por oportunistas?#!"
 
  #Charles the Bald
- bookmark_carolingians_charles_the_bald:0 "Charles the Bald"
- bookmark_carolingians_charles_the_bald_desc:0 "At the time of Charles' birth, his fully grown half-brothers already ruled their own kingdoms within the Carolingian empire. Without a crown of his own, he became known as 'the Bald,' though he eventually did inherit Aquitaine and West Francia. In the future he will even inherit Italy and the Holy Roman Empire itself, but his line will not persevere — his last grandson will die childless just seven years after his own death.\n\n#bold Can you change the course of history and ensure a long and prosperous line of Charles' decedents?#!"
+ bookmark_carolingians_charles_the_bald:0 "Carlos o Calvo"
+ bookmark_carolingians_charles_the_bald_desc:0 "Na época do nascimento de Charles, seus meio-irmãos adultos já governavam seus próprios reinos dentro do império carolíngio. Sem uma coroa própria, ele ficou conhecido como "o Calvo", embora tenha herdado a Aquitânia e a Frância Ocidental. No futuro, ele herdará até mesmo a Itália e o próprio Sacro Império Romano, mas sua linhagem não perseverará - seu último neto morrerá sem filhos apenas sete anos após sua própria morte.\n\n#bold Você pode mudar o curso da história e garantir uma linha longa e próspera de descendentes de Charles?#!"
 
  bookmark_carolingians_charles_the_bald_alt_judith:0 "$Judith$"
  bookmark_carolingians_charles_the_bald_alt_louis:0 "$Louis$ $nick_the_stammerer$"
 
  #King Lothaire
- bookmark_carolingians_king_lothaire:0 "King Lothaire II"
- bookmark_carolingians_king_lothaire_desc:0 "Though he was in love with his mistress Waldrada, Lothaire's father forced him into a political marriage with Teutberga. Their union produced no children, and Lothaire's life has been a continuous struggle to divorce his wife and get his bastard children legitimized. Though he never stops trying, Lothaire will go on to die without a legal heir.\n\n#bold Can you overcome the machinations of those who plot against you and ensure the continuation of your house?#!"
+ bookmark_carolingians_king_lothaire:0 "Rei Lotário II"
+ bookmark_carolingians_king_lothaire_desc:0 "Embora estivesse apaixonado por sua amante Waldrada, o pai de Lothaire o forçou a um casamento político com Teutberga. A união deles não gerou filhos, e a vida de Lothaire tem sido uma luta contínua para se divorciar de sua esposa e legitimar seus filhos bastardos. Embora ele nunca pare de tentar, Lothaire irá morrer sem um herdeiro legal.\n\n#bold Você pode superar as maquinações daqueles que conspiram contra você e garantir a continuidade de sua casa?#!"
 
  bookmark_carolingians_king_lothaire_alt_waldrada:0 "$Waldrada$"
  bookmark_carolingians_king_lothaire_alt_teutberga:0 "$Teutberga$"
 
  #Ludwig the German
- bookmark_carolingians_ludwig_the_german:0 "Ludwig the German"
- bookmark_carolingians_ludwig_the_german_desc:0 "An ambitious man, Ludwig has long sought to reconquer the pieces of the Empire he considers his birthright. These ambitions have suffered from setback after setback however, as his various military campaigns all ended in failure and his rebellious sons have pried away most of his own lands from his control.\n\n#bold Can you reverse Ludwig's misfortunes and regain the Empire for his descendants, or are his sons destined to be relegated to a mere footnote in history?#!"
+ bookmark_carolingians_ludwig_the_german:0 "Luís o Germânico"
+ bookmark_carolingians_ludwig_the_german_desc:0 "Um homem ambicioso, Ludwig há muito busca reconquistar as peças do Império que considera seu direito de nascença. Essas ambições sofreram revés após revés, no entanto, já que suas várias campanhas militares terminaram em fracasso e seus filhos rebeldes arrancaram a maior parte de suas próprias terras de seu controle.\n\n#bold Você pode reverter os infortúnios de Ludwig e reconquistar o Império para seus descendentes, ou seus filhos estão destinados a ser relegados a uma mera nota de rodapé na história??#!"
 
  bookmark_carolingians_ludwig_the_german_alt_youngerludwig:0 "$Ludwig$ $nick_the_younger$"
  bookmark_carolingians_ludwig_the_german_alt_karl:0 "$Karl$"
 
  #King Louis of Italy
- bookmark_carolingians_king_louis:0 "King Louis II"
- bookmark_carolingians_king_louis_desc:1 "Imperial power had diminished so much by the time Louis was crowned Holy Roman Emperor that the title no longer offered any real authority. Though he managed to reclaim the Kingdom of Provence, Louis' uncles and brother, unburdened by any sort of allegiance to the Imperial Crown, continue to act as they please. Saddled with quarrelsome neighbors and an unstable realm, Louis II will die before siring a son.\n\n#bold Can you regain all the lost territories of the Empire and reestablish the Imperial Crown as a real power?#!"
+ bookmark_carolingians_king_louis:0 "Rei Luís II"
+ bookmark_carolingians_king_louis_desc:1 "O poder imperial havia diminuído tanto na época em que Luís foi coroado Sacro Imperador Romano que o título não oferecia mais nenhuma autoridade real. Embora ele tenha conseguido recuperar o Reino da Provença, os tios e o irmão de Luís, aliviados por qualquer tipo de lealdade à Coroa Imperial, continuam a agir como bem entendem. Sobrecarregado com vizinhos briguentos e um reino instável, Luís II morrerá antes de gerar um filho.\n\n#bold Você pode recuperar todos os territórios perdidos do Império e restabelecer a Coroa Imperial como um poder real?#!"
 
  bookmark_carolingians_king_louis_alt_ermengarde:0 "$Ermengarde$"
  bookmark_carolingians_king_louis_alt_engelberga:0 "$Engelberga$"
 
  # King Karlmann of Bavaria
- bookmark_carolingians_king_karlmann:1 "Prince Karlmann"
- bookmark_carolingians_king_karlmann_desc:0 "The eldest son of Ludwig the German, Karlmann rebelled against his father and forced him to give him control over the lands of Bavaria. He will expand this domain in wars with Slavs to the east and later on will even be elected King of Italy — though an unfortunate stroke will force him to abdicate the thrones of Bavaria and Italy to his younger brothers. He will die just a few years later.\n\n#bold With a little luck, will you be able to avoid Karlmann's unfortunate demise and establish a legacy that will last the ages?#!"
+ bookmark_carolingians_king_karlmann:1 "Príncipe Karlmann"
+ bookmark_carolingians_king_karlmann_desc:0 "Filho mais velho de Ludwig, o alemão, Karlmann rebelou-se contra seu pai e o forçou a lhe dar o controle das terras da Baviera. Ele expandirá este domínio em guerras com os eslavos ao leste e mais tarde será até eleito rei da Itália - embora um golpe infeliz o force a abdicar dos tronos da Baviera e da Itália para seus irmãos mais novos. Ele vai morrer poucos anos depois.\n\n#bold Com um pouco de sorte, você será capaz de evitar a morte infeliz de Karlmann e estabelecer um legado que durará para sempre?#!"
 
  bookmark_carolingians_king_karlmann_alt_arnulf:0 "$Arnulf$"
  bookmark_carolingians_king_karlmann_alt_hemma:0 "$Hemma$"
