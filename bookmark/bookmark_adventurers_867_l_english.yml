@@ -39,7 +39,7 @@
  bookmark_adventurers_almos_arpad_alt_linutika:0 "$LinU_tika$"
 
  #EVENTS
- bookmark.0101.t:0 "O que há em um nome?"
+ bookmark.0101.t:0 "O que há em um Nome?"
  bookmark.0101.desc_intro:0 "Por gerações [hausaland.GetNameNoTier] foi governado pelo Magajiya, uma linha de governantes matriarcais da qual sou o último.\n\nOur as tradições nos serviram bem, mas o mundo está mudando. Os feitos heróicos de minha [ROOT.Char.Custom2('RelationToMeShort', bayajidda)] [bayajidda.GetFirstName] ganharam para ele grande riqueza e respeito... embora como [bayajidda.GetSheHe] vem de terras distantes, [bayajidda.GetHerHis] sucessos também pressagiam grandes mudanças para meu povo.\n\n"
  bookmark.0101.desc_living:1 "Meu filho, [bewo.GetTitledFirstName], é a menina dos olhos de seu pai. Embora seja um mero bebê, eu me pergunto se ele vai identificar mais com seu pai aventureiro, ou meu próprio legado tradicional?"
  bookmark.0101.desc_dead:1 "Meu filho, [bewo.GetTitledFirstName], era a menina dos olhos de seu pai. Embora seja um mero bebê, eu me pergunto se ele se identificará mais com a lenda de seu pai aventureiro ou com meu próprio legado tradicional?"
