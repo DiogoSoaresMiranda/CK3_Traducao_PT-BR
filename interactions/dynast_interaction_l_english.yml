@@ -4,11 +4,11 @@
  disinherit_interaction_desc:0 "$dynasty_interaction_header$Remover [recipient.GetShortUINameNoTooltip] da [line_of_succession|E]"
  disinherit_interaction_notification:0 "Membro da dinastia deserdado"
 
- restore_inheritance_interaction:0 "Restaurar a sucessão"
+ restore_inheritance_interaction:0 "Restaurar a herança"
  restore_inheritance_interaction_desc:0 "$dynasty_interaction_header$Restaurar [recipient.GetShortUINameNoTooltip] para a natural [line_of_succession|E]\n\n#weak Isso está disponível porque [recipient.GetSheHe] foi [disinherited|E]"
- restore_inheritance_interaction_notification:0 "Sucessão restaurada"
+ restore_inheritance_interaction_notification:0 "Herança restaurada"
 
- denounce_interaction:0 "denunciar"
+ denounce_interaction:0 "Denunciar"
  denounce_interaction_desc:0 "$dynasty_interaction_header$[denounce|E] [recipient.GetShortUINameNoTooltip]\n\n#weak Isso dará a todos os membros da nossa [dynasty|E] uma [imprisonment_reason|E] contra [recipient.GetHerHim]"
  denounce_interaction_notification:0 "Membro da Dinastia denunciado"
 
