@@ -10,7 +10,7 @@
  ATTACKER_IGNORE_CB_COST_PIETY_LOSE_LEVEL_WARNING:0 "Perder [piety_level] (Result: [GetPietyLevelName( '(int32)$LEVEL$' )])"
  ATTACKER_IGNORE_CB_COST_PRESTIGE_LOSE_LEVEL_WARNING:0 "Perder[prestige_level] (Result: [GetPrestigeLevelName( '(int32)$LEVEL$' )])"
  DECLARE_WAR_INTERACTION_NO_SELECTED_TITLE:0 "@warning_icon!#X Nenhum [title|E] selecionado#!"
- DECLARE_WAR_NO_CASUS_BELLI_CHOSEN:0 "Nenhuma [casus_belli|E] alterada"
+ DECLARE_WAR_NO_CASUS_BELLI_CHOSEN:0 "Nenhuma [casus_belli|E] escolhida"
  DECLARE_WAR_NO_CASUS_BELLI_CHOSEN_WARNING_TOOLTIP:0 "@warning_icon!#X $DECLARE_WAR_NO_CASUS_BELLI_CHOSEN$#!"
  DECLARE_WAR_ADDITIONAL_WARNING_STRONG_HOOK_LIEGE:1 "Irá usar o [strong_hook|E] que você tem  em seu [liege|E]"
  DECLARE_WAR_ADDITIONAL_WARNING_IS_HOLY_WAR:1 "[holy_war|E]: [DEFENDER.GetFaith.GetName] [rulers|E] pode se juntar à [war|E]"
