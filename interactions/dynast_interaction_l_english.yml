@@ -1,37 +1,40 @@
 ﻿l_english:
  dynasty_interaction_header:1 "[dynast_interaction|E]\n"
- disinherit_interaction:0 "Disinherit"
- disinherit_interaction_desc:0 "$dynasty_interaction_header$Remove [recipient.GetShortUINameNoTooltip] from the [line_of_succession|E]"
- disinherit_interaction_notification:0 "Disinherited Dynasty Member"
+ disinherit_interaction:0 "Deserdar"
+ disinherit_interaction_desc:0 "$dynasty_interaction_header$Remover [recipient.GetShortUINameNoTooltip] da [line_of_succession|E]"
+ disinherit_interaction_notification:0 "Membro da dinastia deserdado"
 
- restore_inheritance_interaction:0 "Restore Inheritance"
- restore_inheritance_interaction_desc:0 "$dynasty_interaction_header$Restore [recipient.GetShortUINameNoTooltip] to the natural [line_of_succession|E]\n\n#weak This is available because [recipient.GetSheHe] has been [disinherited|E]"
- restore_inheritance_interaction_notification:0 "Restored Inheritance"
+ restore_inheritance_interaction:0 "Restaurar a sucessão"
+ restore_inheritance_interaction_desc:0 "$dynasty_interaction_header$Restaurar [recipient.GetShortUINameNoTooltip] para a natural [line_of_succession|E]\n\n#weak Isso está disponível porque [recipient.GetSheHe] foi [disinherited|E]"
+ restore_inheritance_interaction_notification:0 "Sucessão restaurada"
 
- denounce_interaction:0 "Denounce"
- denounce_interaction_desc:0 "$dynasty_interaction_header$[denounce|E] [recipient.GetShortUINameNoTooltip]\n\n#weak This will give all members of our [dynasty|E] an [imprisonment_reason|E] against [recipient.GetHerHim]"
- denounce_interaction_notification:0 "Denounced Dynasty member"
+ denounce_interaction:0 "denunciar"
+ denounce_interaction_desc:0 "$dynasty_interaction_header$[denounce|E] [recipient.GetShortUINameNoTooltip]\n\n#weak Isso dará a todos os membros da nossa [dynasty|E] uma [imprisonment_reason|E] contra [recipient.GetHerHim]"
+ denounce_interaction_notification:0 "Membro da Dinastia denunciado"
 
- forgive_interaction:0 "Forgive"
- denounced_change_to_forgiven:0 "The #V $denounced_opinion$ Opinion#! #weak (-50)#! changes to #V $forgave_denounced_opinion$#! #weak (-25)#! (#P +25#! [opinion|E])"
- forgiven_changed_to_denounced:0 "The #V $forgave_denounced_opinion$ Opinion#! #weak (-25)#! changes to #V $denounced_opinion$#! #weak (-50)#! (#N -25#! [opinion|E])"
- forgive_interaction_desc:0 "$dynasty_interaction_header$Retract the [denouncement|E] of [recipient.GetShortUINameNoTooltip]"
- forgive_interaction_notification:0 "Forgave Dynasty Member"
+ forgive_interaction:0 "Perdoar"
+ denounced_change_to_forgiven:0 "A #V $denounced_opinion$ Opinion#! #weak (-50)#! mudou para #V $forgave_denounced_opinion$#! #weak (-25)#! (#P +25#! [opinion|E])"
+ forgiven_changed_to_denounced:0 "A #V $forgave_denounced_opinion$ Opinion#! #weak (-25)#! mudou para #V $denounced_opinion$#! #weak (-50)#! (#N -25#! [opinion|E])"
+ forgive_interaction_desc:0 "$dynasty_interaction_header$Retirar [denouncement|E] do [recipient.GetShortUINameNoTooltip]"
+ forgive_interaction_notification:0 "Membro da dinastia perdoado"
 
- call_dynasty_member_to_war_interaction:0 "Call Dynasty Member To War"
- call_dynasty_member_to_war_interaction_desc:0 "Call [recipient.GetShortUINameNoTooltip] to serve [recipient.GetHerHis] [dynasty|E] in war"
+ call_dynasty_member_to_war_interaction:0 "Chame um membro da dinastia para a guerra"
+ call_dynasty_member_to_war_interaction_desc:0 "Chamar [recipient.GetShortUINameNoTooltip] para servir [recipient.GetHerHis] [dynasty|E] na guerra"
  call_dynasty_member_to_war_interaction_extra_icon:0 "$hook_extra_icon$"
 
- dynast_legitimize_bastard_interaction:1 "Legitimize Bastard #weak (Dynasty)#!"
- dynast_legitimize_bastard_interaction_desc:2 "$dynasty_interaction_header$Declare [recipient.GetShortUINameNoTooltip] to be a $game_concept_legitimized_bastard$\n\n#weak This is available because [recipient.GetSheHe] is a [bastard|E] of my [dynasty|E]"
- dynast_legitimize_bastard_interaction_notification:0 "Legitimized Bastard"
+ dynast_legitimize_bastard_interaction:1 "Legitimar bastardo #weak (Dynasty)#!"
+ dynast_legitimize_bastard_interaction_desc:2 "$dynasty_interaction_header$Declarar [recipient.GetShortUINameNoTooltip] ser um $game_concept_legitimized_bastard$\n\n#weak Isso está disponível porque [recipient.GetSheHe] é um [bastard|E] da minha [dynasty|E]"
+ dynast_legitimize_bastard_interaction_notification:0 "Bastardo legitimado"
 
- dynast_claim_title_interaction:0 "Claim Title"
- dynast_claim_title_interaction_desc:0 "$dynasty_interaction_header$[claim|EU] a [title|E] held by [recipient.GetShortUINameNoTooltip] for yourself"
- dynast_claim_title_interaction_notification:0 "Claimed Title"
+ dynast_claim_title_interaction:0 "Título de reivindicação"
+ dynast_claim_title_interaction_desc:0 "$dynasty_interaction_header$[claim|EU] um [title|E] realizado por [recipient.GetShortUINameNoTooltip] você mesmo"
+ dynast_claim_title_interaction_notification:0 "Título Reivindicado"
 
- dynast_end_dynasty_wars_interaction:0 "End Dynasty Wars"
- dynast_end_dynasty_wars_interaction_desc:0 "$dynasty_interaction_header$Demand that [recipient.GetShortUINameNoTooltip] immediately ends all their offensive wars against any other members of our [dynasty|E]"
- dynast_end_dynasty_wars_interaction_notification:0 "Ended Dynasty War"
+ dynast_end_dynasty_wars_interaction:0 "Fim das guerras da dinastia"
+ dynast_end_dynasty_wars_interaction_desc:0 "$dynasty_interaction_header$Exija que [recipient.GetShortUINameNoTooltip] termina imediatamente todas as suas guerras ofensivas contra qualquer outro membro da nossa [dynasty|E]"
+ dynast_end_dynasty_wars_interaction_notification:0 "Guerra da dinastia finalizada"
 
- recipient_secondary_legitimize_bastard_interaction:0 "Bastard"
+ recipient_secondary_legitimize_bastard_interaction:0 "Bastardo"
+ 
+ 
+ ###GUNTER 10/09/2020###
