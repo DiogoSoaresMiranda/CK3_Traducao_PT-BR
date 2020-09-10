@@ -173,3 +173,4 @@
  tooltip_scandinavian_elective_capital_opinion:0 "Capital [county_opinion|E]: $VALUE|=+0$"
  tooltip_scandinavian_elective_capital_development:0 "Capital [county_development|E]: $VALUE|=+0$"
  tooltip_scandinavian_elector_vote_prowess:0 "[candidate.GetSheHe|U] é um guerreiro de grande [prowess|E]: $VALUE|=+0$"
+###MichaelBigaton 10/09/2020###
