@@ -156,3 +156,4 @@ l_english:
  education_intrigue_tt.affinity:0 "\n\n#P [ROOT.Char.Custom('ChildhoodPersonalityTrait')] crianças com essas personalidade costuma se dar bem com uma Educação em Intriga.#!"
  education_intrigue_tt.disaffinity:0 "\n\n#N [ROOT.Char.Custom('ChildhoodPersonalityTrait')] crianças com essas personalidade costuma se esforçar em uma Educação em Intriga.#!"
  education_intrigue_effect_desc:0 "Escolher essa [education_focus|E] também tera os seguintes efeitos:"
+#deid 11/09/2020#
