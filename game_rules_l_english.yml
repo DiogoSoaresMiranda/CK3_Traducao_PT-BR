@@ -209,7 +209,7 @@ l_english:
  setting_launch_immediate:0 "Imediata"
  setting_launch_immediate_desc:0 "A Migração Húngara estará para começar no inicio do jogo."
  setting_launch_random:0 "Aleatória"
- setting_launch_random_desc:0 "A AI tentara iniciar a Migração Húngara a qualquer tempo entre 5 anos depois que o jogo inicia e 910."
+ setting_launch_random_desc:0 "A AI tentara iniciar a Migração Húngara a qualquer momento entre 5 anos, depois que o jogo iniciar e 910."
  setting_launch_off:0 "Somente o jogador"
  setting_launch_off_desc:0 "A AI não tentara iniciar a Migração Húngara."
 #deid 10/09/2020#
