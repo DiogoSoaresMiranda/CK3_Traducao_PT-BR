@@ -5,7 +5,7 @@
  PLACE_BANNER_PROMPT:0 "Clique no Mapa para criar um novo [rally_point|E]"
  EDIT_BANNER_MERGE_PROMPT:0 "Transfira [levies] para $NAME|V$ clicando no Mapa"
  EDIT_BANNER_MOVE_PROMPT:0 "Mova o [rally_point|E] clicando no Mapa"
- BANNERS_VIEW_PROVINCE_TOOLTIP_HEADER_NO_REALM:0 "#D Fora do Senhorio#!"
+ BANNERS_VIEW_PROVINCE_TOOLTIP_HEADER_NO_REALM:0 "#D Fora do Reino#!"
  BANNERS_VIEW_PROVINCE_TOOLTIP_HEADER_NO_ACCESSIBLE:0 "#D [capital] do [vassal] que possui esse [barony] está fora da Área do Senhorio#!"
  BANNERS_VIEW_PROVINCE_TOOLTIP_HEADER_MOVE:0 "Mover [rally_point|E] para $NAME|V$"
  BANNERS_VIEW_PROVINCE_TOOLTIP_HEADER_ONLY_MOVE_AREA:0 "#D O [rally_point|E] só pode se mover dentro da sua área#!"
