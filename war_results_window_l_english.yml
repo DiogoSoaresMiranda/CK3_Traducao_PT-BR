@@ -2,7 +2,7 @@
  WAR_RESULTS_VICTORY:0 "#I Vitória #!"
  WAR_RESULTS_DEFEAT:0 "#X Derrota #!"
  WAR_RESULTS_WHITE_PEACE:0 "Paz branca"
- WAR_RESULTS_INVALIDATED:1 "#Alto inválido #!"
+ WAR_RESULTS_INVALIDATED:1 "#high Inválido #!"
  WAR_RESULTS_UNKNOWN:0 "Desconhecido"
  WAR_RESULTS_DATES:0 "[WarResultsWindow.GetStartDate.GetStringShort] – [WarResultsWindow.GetEndDate.GetStringShort]"
  WAR_RESULTS_GOLD:0 "[gold_i]$VALUE|+0$ "
