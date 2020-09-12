@@ -3,7 +3,7 @@
  almohad.1001.desc:0 "Parece que uma outra crença está tomando conta em [almohad_county.GetName]. Esse movimento religioso se autodenomina como os Almohads, e fala sobre a necessidade de limpar Maghreb dos hereges e mal orientados.\n\nOs magistrados locais estão preocupados, mas com certeza um grupo religioso marginal liderado por teólogos desonrados não é nada para se preocupar?"
  almohad.1001.a:0 "Por que isso deveria me preocupar?"
  almohad.1001.a.flavor:0 "Quando uma religião marginal nas províncias conseguiu causar problemas pra alguem?"
- almohad.1001.b:0 "Vamos acabar com isso ates que tome proporções maiores..."
+ almohad.1001.b:0 "Vamos acabar com isso antes que tome proporções maiores..."
  almohad.1001.b.conversion_tt:0 "Se você ja estiver convertendo a crença em [almohad_county.GetName], o progresso será perdido caso escolha essa opção!"
  almohad.1001.player_warning:0 "@warning_icon! #X Falha em desconverter [almohad_county.GetNameNoTier] de [masmudi.GetName] rápido o suficiente, levará à ascensão dos Almohads. Esteja preparado.#!"
 
