@@ -8,3 +8,5 @@
  TRIGGER_LINE_BLOCKER:0 "@warning_icon! #X $TEXT$#!"
  TRIGGER_AND:0 "Todos estes:"
  TRIGGER_OR:0 "Pelo menos um destes:"
+ 
+ ##ZetaBroll 13/09/2020##
