@@ -6,5 +6,5 @@
  TRIGGER_LINE_INACTIVE_FAILED:0 "@trigger_fail_inactive! #trigger_inactive $TEXT$#!"
  TRIGGER_LINE_INACTIVE_UNDEFINED:0 "#trigger_inactive   •  $TEXT$#!"
  TRIGGER_LINE_BLOCKER:0 "@warning_icon! #X $TEXT$#!"
- TRIGGER_AND:0 "All of these:"
- TRIGGER_OR:0 "At least one of these:"
+ TRIGGER_AND:0 "Todos estes:"
+ TRIGGER_OR:0 "Pelo menos um destes:"
