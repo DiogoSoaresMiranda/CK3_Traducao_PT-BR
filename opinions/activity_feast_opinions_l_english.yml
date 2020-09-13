@@ -1,6 +1,6 @@
 ﻿l_english:
- feast_hosted_successful_feast:0 "Banquete organizada"
- feast_host_failed_to_appear:0 "Banquete cancelada"
+ feast_hosted_successful_feast:0 "Banquete organizado"
+ feast_host_failed_to_appear:0 "Banquete cancelado"
  feast_got_stew_all_over_me:0 "Acidente culinário"
  feast_disgracefully_ate_from_floor:0 "Comeu do chão"
  feast_left_food_around_to_rot:0 "Comida Deixada para Apodrecer"
@@ -42,7 +42,7 @@
  feast_murdered_someone:0 "Assassinato na festa"
  offered_attention_at_feast_opinion:0 "Ofereceu-me atenção"
  feast_saved_my_life_opinion:0 "Salvou a minha vida"
- feast_threw_me_out_opinion:0 "Expulso na festa"
+ feast_threw_me_out_opinion:0 "Expulso da festa"
  feast_rejected_dalliance_opinion:0 "Dalliance rejeitada"
  attended_party_opinion:0 "Festa assistida"
  
