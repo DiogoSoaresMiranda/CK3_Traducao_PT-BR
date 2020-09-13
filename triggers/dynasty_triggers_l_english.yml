@@ -1,13 +1,15 @@
 ﻿l_english:
 
- HAS_DYNASTY_PRESTIGE_TRIGGER:0 "[dynasty|E] [DYNASTY.GetBaseName] has $NUM|V0$ [dynasty_prestige|E]"
- NOT_HAS_DYNASTY_PRESTIGE_TRIGGER:0 "[dynasty|E] [DYNASTY.GetBaseName] does not have $NUM|V0$ [dynasty_prestige|E]"
+ HAS_DYNASTY_PRESTIGE_TRIGGER:0 "[dynasty|E] [DYNASTY.GetBaseName] tem $NUM|V0$ [dynasty_prestige|E]"
+ NOT_HAS_DYNASTY_PRESTIGE_TRIGGER:0 "[dynasty|E] [DYNASTY.GetBaseName] não tem $NUM|V0$ [dynasty_prestige|E]"
 
- HAS_DYNASTY_PRESTIGE_LEVEL_TRIGGER:0 "[dynasty|E] [DYNASTY.GetBaseName] have a [dynasty_prestige_level|E] $COMPARATOR$ $NUM|V0$"
- NOT_HAS_DYNASTY_PRESTIGE_LEVEL_TRIGGER:0 "[dynasty|E] [DYNASTY.GetBaseName] #bold do not#! have a [dynasty_prestige_level|E] $COMPARATOR$ $NUM|V0$"
+ HAS_DYNASTY_PRESTIGE_LEVEL_TRIGGER:0 "[dynasty|E] [DYNASTY.GetBaseName] tem um [dynasty_prestige_level|E] $COMPARATOR$ $NUM|V0$"
+ NOT_HAS_DYNASTY_PRESTIGE_LEVEL_TRIGGER:0 "[dynasty|E] [DYNASTY.GetBaseName] #bold do não#! tem um [dynasty_prestige_level|E] $COMPARATOR$ $NUM|V0$"
 
- HAS_DYNASTY_MODIFIER:0 "The [dynasty|E] [DYNASTY.GetBaseName] has the $MODIFIER|V$ modifier"
+ HAS_DYNASTY_MODIFIER:0 "O [dynasty|E] [DYNASTY.GetBaseName] tem o $MODIFIER|V$ modifier"
 
- HAS_HOUSE_MODIFIER:0 "The [house|E] [DYNASTY_HOUSE.GetName] has the $MODIFIER|V$ modifier"
- ADULT_HOUSE_MEMBERS_AT_LEAST:0 "At least $PERCENT|%$ of adult [house|E] members:"
- ADULT_HOUSE_MEMBERS_COUNT_AT_LEAST:0 "At least $COUNT$ adult [house|E] members:"
+ HAS_HOUSE_MODIFIER:0 "O [house|E] [DYNASTY_HOUSE.GetName] tem o $MODIFIER|V$ modifier"
+ ADULT_HOUSE_MEMBERS_AT_LEAST:0 "Pelo menos $PERCENT|%$ de adultos [house|E] membros:"
+ ADULT_HOUSE_MEMBERS_COUNT_AT_LEAST:0 "Pelo menos $COUNT$ adultos [house|E] membros:"
+
+###ZetaBroll 12/09/2020###
