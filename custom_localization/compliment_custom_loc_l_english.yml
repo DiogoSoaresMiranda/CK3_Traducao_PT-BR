@@ -11,7 +11,7 @@
  compliment_implacable:0 "implacável"
  compliment_modest:0 "modesto"
  compliment_charming:0 "charmoso"
- compliment_thoughtful:0 "contemplativo"
+ compliment_thoughtful:0 "pensativo"
  compliment_benevolent:0 "benevolente"
  compliment_perceptive:0 "perceptivo"
  compliment_sensible:0 "sensível"
@@ -19,6 +19,7 @@
  compliment_fallback:0 "amigável"
 
  #ComplimentAdjectiveArticle
+
  compliment_fair_article:0 "um justo"
  compliment_handsome_article:0 "um belo"
  compliment_impressive_article:0 "um impressionante"
@@ -27,15 +28,16 @@
  compliment_modest_article:0 "um modesto"
  compliment_charming_article:0 "um charmoso"
  compliment_benign_article:0 "um bondoso"
- compliment_thoughtful_article:0 "um contemplativo"
+ compliment_thoughtful_article:0 "um pensativo"
  compliment_perceptive_article:0 "um perceptivo"
- compliment_sensible_article:0 "um sensível"
+ compliment_sensible_article:0 "um sensato"
  compliment_serene_article:0 "um sereno"
  compliment_fallback_article:0 "um amigável"
 
  #ComplimentSentence
+
  compliment_sentence_comfortable:0 "Eu nunca estou tão confortável quanto como quando estou em vossa companhia"
- 
+
  #FormalComplimentAdjective
  formal_compliment_great:0 "grande"
  formal_compliment_venerable:0 "venerável"
@@ -45,6 +47,7 @@
  formal_compliment_noble:0 "nobre"
  formal_compliment_gallant:0 "galante"
  formal_compliment_chivalrous:0 "cortês"
+
  formal_compliment_elegant:0 "elegante"
  formal_compliment_stately:0 "imponente"
  formal_compliment_gracious:0 "gracioso"
@@ -64,7 +67,7 @@
  compliment_saucy:0 "atrevido"
  compliment_festive:0 "festivo"
  compliment_noble:0 "nobre"
- compliment_rowdy:0 "desordeiro"
+ compliment_rowdy:0 "arruaceiro"
  compliment_affable:0 "afável"
  compliment_enchanting:0 "encantador"
  compliment_gallant:0 "galante"
@@ -87,6 +90,7 @@
  compliment_stag:0 "especulador"
  compliment_delightful:0 "encantador"
  compliment_vixen:0 "turbulenta"
+
 
  ###########################################################################################
  # Female-tagged keys, for translations which require adjectives to have assigned genders. #
