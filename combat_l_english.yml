@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  COMBAT_NAME:1 "Batalha da [PROVINCE.GetNameNoTooltip]"
  TOTAL_DEAD_AND_INITIAL_MEN:0 "$DEAD$"
  TOTAL_DEAD_AND_INITIAL_MEN_TOOLTIP:0 "Casualidades: $DEAD|V$\nInitial [soldiers|E]: $INITIAL|V$"

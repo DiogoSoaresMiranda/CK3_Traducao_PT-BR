@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  FACTION_DISCONTENT_POWER_ABOVE_THRESHOLD:0 "[faction_military_power|E] acima do limite: #V $VALUE|0=-$#!"
  FACTION_DISCONTENT_POWER_BELOW_THRESHOLD:0 "[faction_military_power|E] está abaixo do limite: #V $VALUE|0=-$#!"
  FACTION_POWER_HARD_RULE:0 "[GetPerk( 'hard_rule_perk' ).GetName( GetPlayer )]: #V +$VALUE|0$#!"
