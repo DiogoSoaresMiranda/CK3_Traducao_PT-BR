@@ -4,7 +4,7 @@
  signature_weapon_sword_draws:0 "saca"
 
  signature_weapon_mace:0 "maça"
- signature_weapon_mace_lift:0 "levanta"
+ signature_weapon_mace_lift:0 "levantar"
  signature_weapon_mace_lifts:0 "levanta"
 
  signature_weapon_axe:0 "machado"
@@ -12,15 +12,15 @@
  signature_weapon_axe_hefts:0 "saca"
 
  signature_weapon_hammer:0 "martelo"
- signature_weapon_hammer_raise:0 "ergue"
- signature_weapon_hammer_raises:0 "ergue"
+ signature_weapon_hammer_raise:0 "levantar"
+ signature_weapon_hammer_raises:0 "levanta"
 
  signature_weapon_spear:0 "lança"
  signature_weapon_spear_couch:0 "levanta"
  signature_weapon_spear_couches:0 "levanta"
 
  signature_weapon_dagger:0 "adaga"
- signature_weapon_dagger_brandish:0 "brande"
+ signature_weapon_dagger_brandish:0 "brandir"
  signature_weapon_dagger_brandishes:0 "brande"
 
  signature_weapon_a_quick_slash:0 "um golpe rápido"
