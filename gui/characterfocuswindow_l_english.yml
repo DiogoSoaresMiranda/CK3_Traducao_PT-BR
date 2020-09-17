@@ -1,6 +1,6 @@
 ﻿l_english:
- EDUCATION_FOCUS_VIEW_TITLE:0 "Escolha o foco da Educação"
- LIFESTYLE_FOCUS_VIEW_TITLE:0 "Escolha o foco do Estilo de Vida"
+ EDUCATION_FOCUS_VIEW_TITLE:0 "Escolher foco em Educação"
+ LIFESTYLE_FOCUS_VIEW_TITLE:0 "Escolher foco em Estilo de Vida"
  CHANGE_FOCUS:0 "Mudar o foco"
  CHOOSE_FOCUS:0 "Escolher o foco"
  CHARACTER_ALREADY_HAVE_THIS_FOCUS:0 "@warning_icon!#X [CHARACTER.GetShortUINameNoTooltip] já tem esse foco!#!"
