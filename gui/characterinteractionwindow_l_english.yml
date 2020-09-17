@@ -6,7 +6,7 @@
  interaction_category_diplomacy:0 "Diplomacia"
  interaction_category_friendly:0 "Pessoal"
  interaction_category_hostile:0 "Hostil"
- interaction_category_vassal:0 "Vassalagem e Tribunal"
+ interaction_category_vassal:0 "Vassalagem e Corte"
  interaction_category_religion:0 "Religião"
  interaction_category_house_head:0 "Chefe da casa"
  interaction_category_prison:0 "Prisão"
