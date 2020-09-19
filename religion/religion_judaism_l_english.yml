@@ -16,20 +16,20 @@
  judaism_house_of_worship:0 "sinagoga"
  judaism_house_of_worship_plural:0 "sinagogas"
  judaism_religious_symbol:0 "menorah"
- judaism_religious_text:0 "a Torá"
+ judaism_religious_text:0 "A Torá"
  judaism_religious_head_title:1 "Nasi"
- judaism_religious_head_title_name:0 "Sumo Sacerdote"
- judaism_devotee:0 "nazireu"
- judaism_devotee_plural:0 "nazireus"
+ judaism_religious_head_title_name:0 "Kohen Gadol"
+ judaism_devotee:0 "nazir"
+ judaism_devotee_plural:0 "nazirs"
  judaism_priest:0 "rabino"
  judaism_priest_plural:0 "rabinos"
- judaism_bishop:0 "semichá"
- judaism_bishop_plural:0 "semichás"
- judaism_divine_realm:0 "Trono de Deus"
+ judaism_bishop:0 "semuchim"
+ judaism_bishop_plural:0 "semuchim"
+ judaism_divine_realm:0 "Araboth"
  judaism_positive_afterlife:0 "Olam Haba"
  judaism_negative_afterlife:0 "Sheol"
  judaism_death_deity_name:0 "O Anjo da Morte"
- judaism_death_deity_name_possessive:0 "do Anjo da Morte"
+ judaism_death_deity_name_possessive:0 "O Anjo da Morte"
  judaism_witchgodname_raziel:0 "Raziel"
 
  judaism_creator_god_name:0 "$judaism_high_god_name$"
@@ -74,7 +74,8 @@
  haymanot_adj:0 "Haymanot"
  haymanot_adherent:0 "Haymanot"
  haymanot_adherent_plural:0 "Haymanot"
- haymanot_desc:0 "Os rabinos, ou kahen, julgam em questões de direito religioso, mas trabalham em conjunto com um círculo de anciãos que julgam em questões de tradição e vida."
+ haymanot_desc:0 "Os rabinos, ou kahen, julgam em termos de leis religiosas, mas eles trabalham junto a uma cúpula de anciões, os quais julgam em termos de tradição e vida."
+
  haymanot_religious_text:0 "Orit"
  haymanot_religious_head_title:0 "Liqa Kahnet"
  haymanot_devotee:0 "Monkosa"
@@ -89,20 +90,23 @@
  malabarism_adj:0 "Malabari"
  malabarism_adherent:0 "Malabari"
  malabarism_adherent_plural:0 "Malabari"
- malabarism_desc:1 "À medida que os descendentes das tribos de Israel se espalharam pelo mundo, eles construíram comunidades menores de oeste a leste, atuando como tribos próprias. Também chamados judeus Cochin, eles fizeram seu novo lar no Reino Cochin do Sul da Índia. Lá, eles se misturaram com o povo local e trocaram culturas."
+ malabarism_desc:1 "Após os descendentes das tribos de Israel se espalharem pelo mundo, eles criaram comunidades menores de leste a oeste, vivendo de forma independente. Também chamados de Judeus de Cochin, eles fizeram sua nova morada no reino Cochin do sul da Índia. Lá, eles se misturaram ao povo local e trocaram experiências culturais."
 
  #Samaritan
- samaritan:0 "Samaritanism"
- samaritan_adj:0 "Samaritan"
- samaritan_adherent:0 "Samaritan"
- samaritan_adherent_plural:0 "Samaritans"
- samaritan_desc:0 "Descendentes das tribos que colonizaram Samaria, os samaritanos seguem uma versão original, inalterada, da Torá. Desta forma, eles estão praticando a verdadeira religião de Moisés, servindo aos deveres diretos concedidos por Deus."
+ samaritan:0 "Samaritanismo"
+ samaritan_adj:0 "Samaritano"
+ samaritan_adherent:0 "Samaritano"
+ samaritan_adherent_plural:0 "Samaritanos"
+ samaritan_desc:0 "Originados das tribos que colonizaram Samaria, os samaritanos seguiram uma versão original e não modificada da Torá. Nesse sentido, eles praticam a verdadeira religião de Moisés, servindo aos deveres diretos concedidos por Deus."
 
  #Kabarism
- kabarism:0 "Kabarism"
- kabarism_adj:0 "Kabarite"
- kabarism_adherent:0 "Kabar"
- kabarism_adherent_plural:0 "Kabars"
- kabarism_desc:0 "A Kabars enfatiza a interpretação comum e correta do Halakha, em conjunto com as tradições Kabbalist compartilhadas."
- 
+ kabarism:0 "Cabarismo"
+ kabarism_adj:0 "Cabarita"
+ kabarism_adherent:0 "Cabarita"
+ kabarism_adherent_plural:0 "Cabaritas"
+ kabarism_desc:0 "Cabaristas focam na interpretação mais correta e comum da Halakha, junto com as tradições compartilhadas do Cabalismo.
+
+###CEFALOS 17/09/2020###.
+
  ###Sergio Oak + 13/09/2020###
+
