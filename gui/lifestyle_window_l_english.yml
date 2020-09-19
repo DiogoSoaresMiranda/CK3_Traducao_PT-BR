@@ -1,6 +1,6 @@
 ﻿l_english:
  LIFESTYLE_WINDOW_DESCRIPTION:0 "[Lifestyle.GetDescription]\n\n#dark;italic [Lifestyle.GetHighlightDescription]#!"
- REFUND_PERKS:0 "Redefinir Regalias"
+ REFUND_PERKS:0 "Redefinir Perks"
  CURRENT_FOCUS:1 " (Atual)"
  FOCUS_CANCHANGE:1 "Atual: [Character.GetFocus.GetName]"
  FOCUS_CANCHANGE_NO_FOCUS:0 "Atual: Sem Foco"
@@ -31,11 +31,11 @@
  LIFESTYLE_BASE_GAIN:0 "Base"
  LIFESTYLE_PROGRESS_STRING:0 "Tempo para a próxima [perk|E]: $ETA$\n#P +$PROGRESS|0$#!/mês"
  SELECT_FOCUS_TEXT:0 "Escolher Foco"
- LIFESTYLE_SELECT_TOOLTIP:1 "#T [Lifestyle.GetNameNoTooltip]#!\n[Lifestyle.GetDescription]\n\nRegalias para desbloquear disponíveis: [Character.GetPerkPoints( Lifestyle.Self )|+]\n\n#I Clique para visualizar#!"
- REFUND_PERKS_CONFIRM_TITLE:0 "Redefinir Regalias"
+ LIFESTYLE_SELECT_TOOLTIP:1 "#T [Lifestyle.GetNameNoTooltip]#!\n[Lifestyle.GetDescription]\n\nPerks para desbloquear disponíveis: [Character.GetPerkPoints( Lifestyle.Self )|+]\n\n#I Clique para visualizar#!"
+ REFUND_PERKS_CONFIRM_TITLE:0 "Redefinir Perks"
  REFUND_PERKS_CONFIRM_DESC:1 "$EFFECTS$\n#weak Isto só pode ser feito uma vez na vida!!#!"
  REFUND_PERKS_CONFIRM_ACCEPT:0 "Redefinir"
- REFUND_PERKS_TOOLTIP:0 "#T Redefinir Regalias#!\n[CharacterLifestyleWindow.CanRefundPerksDesc]\n[CharacterLifestyleWindow.RefundPerksEffectsDesc]\n#weak Isto só pode ser feito uma vez na vida!#!\n#I Clique para redefinir"
+ REFUND_PERKS_TOOLTIP:0 "#T Redefinir Perks#!\n[CharacterLifestyleWindow.CanRefundPerksDesc]\n[CharacterLifestyleWindow.RefundPerksEffectsDesc]\n#weak Isto só pode ser feito uma vez na vida!#!\n#I Clique para redefinir"
  PLAYER_LIFESTYLE_TOOLTIP:1 "[GetLifestyleTooltipForCharacter( GetPlayer )]\n[GetLifestyleTooltipWarnings( GetPlayer )]\n\n#I Clique para visualizar [lifestyle|E]#!"
  PLAYER_EDUCATION_FOCUS_TOOLTIP:1 "[GetLifestyleTooltipForCharacter( GetPlayer )]\n\n#I Clique para visualizar [education_focus|E]#!"
  PLAYER_LIFESTYLE_TOOLTIP_NO_FOCUS_WARNING:0 "@warning_icon!#X Você não escolheu um [lifestyle|E]#!"
@@ -48,7 +48,7 @@
  UNLOCKED_PERKS:0 "[Lifestyle.GetNameNoTooltip] [perks|E] desbloqueado: [Character.GetPerkPointsUsed( Lifestyle.Self )]/[Lifestyle.GetPerksInLifestyle]"
  LIFESTYLE_WINDOW_TITLE:0 "[Lifestyle.GetNameNoTooltip] [lifestyle|E]"
  LIFESTYLE_FOCUS_HEADER:0 "Estilo de vida [focus|E]"
- LIFESTYLE_POINTS_TOOLTIP:0 "#T [Lifestyle.GetNameNoTooltip] Regalias Disponíveis: [Character.GetPerkPoints( Lifestyle.Self )|+]#!"
- PERK_POINTS_ASSIGNED_TRIGGER:0 "Você não tem nenhuma Regalia para ser redefinida!"
+ LIFESTYLE_POINTS_TOOLTIP:0 "#T [Lifestyle.GetNameNoTooltip] Perks Disponíveis: [Character.GetPerkPoints( Lifestyle.Self )|+]#!"
+ PERK_POINTS_ASSIGNED_TRIGGER:0 "Você não tem nenhuma Perk para ser redefinida!"
 
 ### LorD Magnus - 18/09/2020 - Commit 01 ###
