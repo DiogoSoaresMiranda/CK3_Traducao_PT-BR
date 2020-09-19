@@ -3,15 +3,15 @@
  judaism_religion_adj:0 "Judeu"
  judaism_religion_adherent:0 "Judeu"
  judaism_religion_adherent_plural:0 "Judeus"
- judaism_religion_desc:0 "Uma vida boa é vivida segundo o pacto entre os Hebreus e o Deus único e absoluto."
- judaism_high_god_name:0 "O Senhor"
- judaism_high_god_name_possessive:0 "O Senhor"
- judaism_high_god_alternate:0 "O Santo"
- judaism_high_god_alternate_possessive:0 "O Santo"
+ judaism_religion_desc:0 "Uma boa vida é vivida de acordo com o pacto celebrado entre o povo hebreu e o Deus único e absoluto."
+ judaism_high_god_name:0 "Deus"
+ judaism_high_god_name_possessive:0 "do Senhor"
+ judaism_high_god_alternate:0 "O Santíssimo"
+ judaism_high_god_alternate_possessive:0 "do Santíssimo"
  judaism_good_god_hashem:0 "HaShem"
  judaism_good_god_el_shaddai:0 "Adonai"
  judaism_devil_name:0 "Ba'al"
- judaism_devil_name_possessive:0 "ba'al"
+ judaism_devil_name_possessive:0 "do Ba'al"
  judaism_evil_god_the_adversary:0 "o Adversário"
  judaism_house_of_worship:0 "sinagoga"
  judaism_house_of_worship_plural:0 "sinagogas"
@@ -60,14 +60,14 @@
  rabbinism_adj:0 "Rabínico"
  rabbinism_adherent:0 "Rabinista"
  rabbinism_adherent_plural:0 "Rabinistas"
- rabbinism_desc:0 "O Rabinismo enfatiza o propósito dos rabinos como intérpretes das leis de Halakha. Leis e tradições são o que garantem que o pacto com o Senhor será mantido, e os rabinos guardam essas leis."
+ rabbinism_desc:0 "O rabinismo enfatiza o propósito dos rabinos como intérpretes da lei religiosa do Halacá. São as leis e tradições que asseguram o cumprimento do pacto com o Senhor, e os rabinos guardam essas leis."
 
  #Karaite
  karaism:0 "Caraísmo"
  karaism_adj:0 "Caraíta"
  karaism_adherent:0 "Caraíta"
  karaism_adherent_plural:0 "Caraítas"
- karaism_desc:0 "No tocante a leis religiosas, o Tanakh é mais alta e absoluta autoridade. O papel dos rabinos não é de reavaliar e adaptar as regras do pacto e sim interpretar o significado literal delas."
+ karaism_desc:0 "Em matéria de direito religioso, só o Tanakh é a autoridade máxima e absoluta. O papel dos rabinos não é o de reavaliar e adaptar as regras do pacto, mas o de interpretar o seu significado literal."
 
  #Haymanot
  haymanot:0 "Haymanot"
@@ -75,6 +75,7 @@
  haymanot_adherent:0 "Haymanot"
  haymanot_adherent_plural:0 "Haymanot"
  haymanot_desc:0 "Os rabinos, ou kahen, julgam em termos de leis religiosas, mas eles trabalham junto a uma cúpula de anciões, os quais julgam em termos de tradição e vida."
+
  haymanot_religious_text:0 "Orit"
  haymanot_religious_head_title:0 "Liqa Kahnet"
  haymanot_devotee:0 "Monkosa"
@@ -106,3 +107,6 @@
  kabarism_desc:0 "Cabaristas focam na interpretação mais correta e comum da Halakha, junto com as tradições compartilhadas do Cabalismo.
 
 ###CEFALOS 17/09/2020###.
+
+ ###Sergio Oak + 13/09/2020###
+
