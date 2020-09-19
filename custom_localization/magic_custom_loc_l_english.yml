@@ -1,9 +1,9 @@
 ﻿l_english:
- magic_user_witch:0 "witch"
- magic_user_sorcerer:0 "sorcerer"
- magic_practice_witchcraft:0 "witchcraft"
- magic_practice_sorcery:0 "sorcery"
+ magic_user_witch:0 "bruxa"
+ magic_user_sorcerer:0 "feiticeiro"
+ magic_practice_witchcraft:0 "bruxaria"
+ magic_practice_sorcery:0 "feitiçaria"
  
- magic_superstition_harvest:0 "poor harvest"
- magic_superstition_weather:0 "bad weather"
- magic_superstition_animals:0 "sick animals"
+ magic_superstition_harvest:0 "colheita ruim"
+ magic_superstition_weather:0 "mau tempo"
+ magic_superstition_animals:0 "animais doentes"
