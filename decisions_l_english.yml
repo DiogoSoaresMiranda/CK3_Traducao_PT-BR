@@ -1,5 +1,5 @@
-﻿﻿﻿l_english:
- DECISION_ON_COOLDOWN:0 "@warning_icon!#X $DECISION_NAME$ unavailable until [DATE.GetStringLong]#!"
+﻿l_english:
+ DECISION_ON_COOLDOWN:0 "@warning_icon!#X $DECISION_NAME$ indisponível até [DATE.GetStringLong]#!"
  ALREADY_PLANNING_ACTIVITY:0 "Você está planejando outro [activity|E]"
  start_hunt_decision:0 "Convite de Caça"
  start_hunt_decision_tooltip:1 "Uma [hunt|E] será realizada"
@@ -9,9 +9,11 @@
  start_hunt_decision_prestige:1 "Você pode ter oportunidades para aumentar seu [prestige|E]"
  start_hunt_decision_stress:0 "#P    Reduzir seu [stress|E]#!"
  start_hunt_decision_stress_lazy:0 "#N Você não vai perder [stress|E] já que você é [GetTrait('lazy').GetName( GetPlayer )]#!"
- start_hunt_decision_confirm:0 "Soar um barulho!"
 
- host_feast_decision:0 "Festa Anfitriã"
+ start_hunt_decision_confirm:0 "Soe o chifre!"
+
+ host_feast_decision:0 "Banquete do Hospedeiro"
+
  host_feast_decision_tooltip:0 "Uma [feast|E] será realizada"
  host_feast_decision_opening_desc:0 "#F Abrir os barris e convidar os convidados de honra não é apenas um dever, mas uma oportunidade de reafirmar laços de lealdade, muitas vezes, é um grande prazer!#!"
  host_feast_decision_desc_vassals:1 "O seu vassalos pode aumentar' [opinion|E] de você"
