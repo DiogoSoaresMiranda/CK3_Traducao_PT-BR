@@ -1,6 +1,6 @@
 ﻿l_english:
  COUNCILWINDOW_TITLE:0 "Conselho"
- COUNCILWINDOW_POWERFUL_VASSAL_INFO:0 "@warning_icon!#X [CouncilWindow.GetNumberOfPowerfulVassalsNotInCouncil|V] [vassalo_poderoso|E] demanda para estar no [conselho|E]#!"
+ COUNCILWINDOW_POWERFUL_VASSAL_INFO:0 "@warning_icon!#X [CouncilWindow.GetNumberOfPowerfulVassalsNotInCouncil|V] [powerful_vassals|E] demanda estar no [council|E]#!"
  COUNCILWINDOW_TT_REPLACE:1 "#T Nomear um [ACTIVE_COUNCIL_TASK.GetPositionName]#!"
  COUNCILWINDOW_SELECT_COUNCILLOR:0 "Não selecionado [CouncilPositionType.GetName]"
  COUNCILLOR_RELEVANCE:0 "Relevância"
