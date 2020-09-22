@@ -1,21 +1,21 @@
 ﻿l_english:
  judaism_religion:0 "Judaísmo"
- judaism_religion_adj:0 "Judeu"
+ judaism_religion_adj:0 "Judaica"
  judaism_religion_adherent:0 "Judeu"
  judaism_religion_adherent_plural:0 "Judeus"
  judaism_religion_desc:0 "Uma boa vida é vivida de acordo com o pacto celebrado entre o povo hebreu e o Deus único e absoluto."
- judaism_high_god_name:0 "Deus"
+ judaism_high_god_name:0 "O Senhor"
  judaism_high_god_name_possessive:0 "do Senhor"
  judaism_high_god_alternate:0 "O Santíssimo"
  judaism_high_god_alternate_possessive:0 "do Santíssimo"
  judaism_good_god_hashem:0 "HaShem"
  judaism_good_god_el_shaddai:0 "Adonai"
  judaism_devil_name:0 "Ba'al"
- judaism_devil_name_possessive:0 "do Ba'al"
+ judaism_devil_name_possessive:0 "de Ba'al"
  judaism_evil_god_the_adversary:0 "o Adversário"
  judaism_house_of_worship:0 "sinagoga"
  judaism_house_of_worship_plural:0 "sinagogas"
- judaism_religious_symbol:0 "menorah"
+ judaism_religious_symbol:0 "menorá"
  judaism_religious_text:0 "A Torá"
  judaism_religious_head_title:1 "Nasi"
  judaism_religious_head_title_name:0 "Sumo Sacerdote de Israel"
@@ -29,7 +29,7 @@
  judaism_positive_afterlife:0 "Olam Haba"
  judaism_negative_afterlife:0 "Sheol"
  judaism_death_deity_name:0 "O Anjo da Morte"
- judaism_death_deity_name_possessive:0 "O Anjo da Morte"
+ judaism_death_deity_name_possessive:0 "do Anjo da Morte"
  judaism_witchgodname_raziel:0 "Raziel"
 
  judaism_creator_god_name:0 "$judaism_high_god_name$"
@@ -60,7 +60,8 @@
  rabbinism_adj:0 "Rabínico"
  rabbinism_adherent:0 "Rabinista"
  rabbinism_adherent_plural:0 "Rabinistas"
- rabbinism_desc:0 "O rabinismo enfatiza o propósito dos rabinos como intérpretes da lei religiosa do Halachá. São as leis e tradições que asseguram o cumprimento do pacto com o Senhor, e os rabinos guardam essas leis."
+ rabbinism_desc:0 "O rabinismo enfatiza o propósito dos rabinos como intérpretes da lei religiosa da Halachá. São as leis e tradições que asseguram o cumprimento do pacto com o Senhor, e os rabinos guardam essas leis."
+
 
  #Karaite
  karaism:0 "Caraísmo"
@@ -86,7 +87,7 @@
  haymanot_bishop_plural:0 "Shmagles"
 
  #Malabar
- malabarism:0 "Malabarism"
+ malabarism:0 "Malabarismo"
  malabarism_adj:0 "Malabari"
  malabarism_adherent:0 "Malabari"
  malabarism_adherent_plural:0 "Malabari"
@@ -104,10 +105,10 @@
  kabarism_adj:0 "Cabarita"
  kabarism_adherent:0 "Cabarita"
  kabarism_adherent_plural:0 "Cabaritas"
- kabarism_desc:0 "Cabaristas focam na interpretação mais correta e comum da Halachá, junto com as tradições compartilhadas do Cabalismo.
+ kabarism_desc:0 "Cabaristas focam na interpretação mais correta e comum da Halachá, junto com tradições cabalísticas compartilhadas.
+
 
 ###CEFALOS 17/09/2020###
+###Sergio Oak + 13/09/2020###
 
- ###Sergio Oak + 13/09/2020###
 
-###CEFALOS 19/09/2020###.
