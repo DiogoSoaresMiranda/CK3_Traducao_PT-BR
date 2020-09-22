@@ -18,14 +18,14 @@
  judaism_religious_symbol:0 "menorá"
  judaism_religious_text:0 "A Torá"
  judaism_religious_head_title:1 "Nasi"
- judaism_religious_head_title_name:0 "Kohen Gadol"
- judaism_devotee:0 "nazir"
- judaism_devotee_plural:0 "nazirs"
+ judaism_religious_head_title_name:0 "Sumo Sacerdote de Israel"
+ judaism_devotee:0 "nazireu"
+ judaism_devotee_plural:0 "nazireus"
  judaism_priest:0 "rabino"
  judaism_priest_plural:0 "rabinos"
- judaism_bishop:0 "semuchim"
- judaism_bishop_plural:0 "semuchim"
- judaism_divine_realm:0 "Araboth"
+ judaism_bishop:0 "Semichá"
+ judaism_bishop_plural:0 "Semichás"
+ judaism_divine_realm:0 "o sétimo céu"
  judaism_positive_afterlife:0 "Olam Haba"
  judaism_negative_afterlife:0 "Sheol"
  judaism_death_deity_name:0 "O Anjo da Morte"
@@ -61,6 +61,7 @@
  rabbinism_adherent:0 "Rabinista"
  rabbinism_adherent_plural:0 "Rabinistas"
  rabbinism_desc:0 "O rabinismo enfatiza o propósito dos rabinos como intérpretes da lei religiosa da Halachá. São as leis e tradições que asseguram o cumprimento do pacto com o Senhor, e os rabinos guardam essas leis."
+
 
  #Karaite
  karaism:0 "Caraísmo"
@@ -106,7 +107,8 @@
  kabarism_adherent_plural:0 "Cabaritas"
  kabarism_desc:0 "Cabaristas focam na interpretação mais correta e comum da Halachá, junto com tradições cabalísticas compartilhadas.
 
-###CEFALOS 17/09/2020###.
 
- ###Sergio Oak + 13/09/2020###
+###CEFALOS 17/09/2020###
+###Sergio Oak + 13/09/2020###
+
 
