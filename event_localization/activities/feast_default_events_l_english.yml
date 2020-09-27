@@ -47,17 +47,17 @@
  feast_default.1008.a.flavor:0 "#F [secret_recipient.GetSheHe|U] is not buying my excuses..."
 
  feast_default.1009.t:0 "$feast_header$ Sullied Judgment"
- feast_default.1009.desc:0 "Enquanto [secret_recipient.GetTitledFirstNamePossessive] seus olhos se esbugalhavam com as minhas palavras, Eu percebo o que acabei de dizer sobre [secret_owner.GetTitledFirstName]. Eu luto para empurrar minha caneca.\n\n"Eu bebi demais." Eu tento me levantar, balançando um pouco. "Não confie em uma palavra que eu digo!""
+ feast_default.1009.desc:0 "Enquanto os olhos de [secret_recipient.GetTitledFirstNamePossessive] se esbugalhavam com as minhas palavras, Eu percebo o que acabei de dizer sobre [secret_owner.GetTitledFirstName]. Eu luto para afastar a minha caneca.\n\n"Eu bebi demais." Eu tento me levantar, balançando um pouco. "Não confie em uma palavra que eu digo!""
  feast_default.1009.a:0 "O que eu fiz..."
 
  feast_default.1010.t:0 "$feast_header$ Promessa é Dívida"
- feast_default.1010.desc:1 "O que eu prometi na noite passada? Não consigo me lembrar o que levou a isso, mas eu me lembro de dar um tapa nas costas de [favor_recipient.Custom2('MyCharacterIntroduction', ROOT.Char )], dizendo [favor_recipient.GetHerHim] que eu faria qualquer coisa [favor_recipient.GetSheHe] que me fosse pedida.\n\nAgora aparecem os rumores do "juramento" Eu jurei!"
+ feast_default.1010.desc:1 "O que eu prometi na noite passada? Não consigo me lembrar o que levou a isso, mas eu me lembro de dar um tapa nas costas de [favor_recipient.Custom2('MyCharacterIntroduction', ROOT.Char )], dizendo para [favor_recipient.GetHerHim] que eu faria qualquer coisa que [favor_recipient.GetSheHe] me pedisse.\n\nAgora rumores do "juramento" que eu fiz começam a aparecer!"
  feast_default.1010.a:0 "Promessa é dívida, não importa o que."
  feast_default.1010.b:0 "Foram apenas divagações bêbadas!"
  feast_default.1010.every_participant_with_high_opinion:1 "Todos os outros participantes que respeitam [favor_recipient.GetFirstNameNoTooltip]"
 
  feast_default.1011.t:0 "$feast_header$ No Caminho da Guerra"
- feast_default.1011.desc:0 "Isso é intoxicante – a bebida em meu sangue, e a raiva em minhas veias.\n\nMeu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest_to_murder'))] [guest_to_murder.GetTitledFirstName] tropeça em mim fora do corredor, e eu me engano [guest_to_murder.GetHerHim] para o [disliked_guest.Custom('InsultAdjective')] [disliked_guest.GetTitledFirstName]. Em um instante o sangue de [guest_to_murder.GetHerHis] está escorrendo pela minha lâmina. Enquanto o corpo de [guest_to_murder.GetHerHis] cai no chão Eu de repente me sinto muito calmo."
+ feast_default.1011.desc:0 "Isso é intoxicante – a bebida em meu sangue, e a raiva em minhas veias.\n\nMeu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest_to_murder'))] [guest_to_murder.GetTitledFirstName] tropeça em mim fora do corredor, e eu me engano [guest_to_murder.GetHerHim] com [disliked_guest.Custom('InsultAdjective')] [disliked_guest.GetTitledFirstName]. Em um instante o sangue [guest_to_murder.GetHerHis] está escorrendo pela minha lâmina. Enquanto o corpo [guest_to_murder.GetHerHis] cai no chão, Eu de repente me sinto muito sóbrio."
  feast_default.1011.a:0 "[guest_to_murder.GetSheHe|U] quem veio na direção da minha faca! Eu juro!"
  feast_default.1011.a.success:0 "As pessoas acreditam que foi um acidente"
  feast_default.1011.a.failure:0 "As pessoas não acreditam na minha mentira"
@@ -67,11 +67,11 @@
  feast_default.1011.c:0 "[disliked_guest.GetTitledFirstNameNoTooltip], como você pôde?!"
 
  feast_default.1012.t:0 "$feast_header$ Líquidos Letais"
- feast_default.1012.desc_opening:0 "Meu [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('guest_to_murder'))] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest_to_murder'))] [guest_to_murder.GetTitledFirstNamePossessive] a aceitação feliz de mais um copo abafa o respingo de minha própria bebida enquanto eu a derramo no chão.\n\nEnquanto a respiração de [guest_to_murder.GetHerHis] fica difícil, e todas as cores somem da face de [guest_to_murder.GetHerHis], Eu posso sentir o sorriso se espalhando por mim. Uma pequena risada escapa de mim enquanto o corpo de  [guest_to_murder.GetHerHis] bate na mesa."
- feast_default.1012.a:1 "Um brinde ao [guest_to_murder.GetTitleTierName|U], e [guest_to_murder.GetHerHis] sede de vida!"
+ feast_default.1012.desc_opening:0 "A aceitação de [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('guest_to_murder'))] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest_to_murder'))] [guest_to_murder.GetTitledFirstNamePossessive] por mais um copo abafa o respingo de minha própria bebida enquanto eu a derramo no chão.\n\nEnquanto a respiração [guest_to_murder.GetHerHis] fica difícil, e todas as cores somem da face de [guest_to_murder.GetHerHis], Eu posso sentir o sorriso se espalhando por meu rosto. Uma pequena risada escapa de mim enquanto o corpo [guest_to_murder.GetHerHis] bate na mesa."
+ feast_default.1012.a:1 "Um brinde ao [guest_to_murder.GetTitleTierName|U], e sua sede por vida!"
 
  feast_default.1013.t:0 "$feast_header$ Protetor"
- feast_default.1013.desc:0 "Enquanto o meu [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('guest_to_kill'))] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest_to_kill'))] [guest_to_kill.GetTitledFirstName] espreita em direção ao meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest_to_save'))] [guest_to_save.GetTitledFirstName] com uma raiva fervente em [guest_to_kill.GetHerHis] eyes and a knife in [guest_to_kill.GetHerHis] hand I do not even stop to think.\n\nI grab the closest thing that can be used as a weapon, and charge."
+ feast_default.1013.desc:0 "Enquanto meu [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('guest_to_kill'))] [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest_to_kill'))] [guest_to_kill.GetTitledFirstName] espreita em direção ao meu [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('guest_to_save'))] [guest_to_save.GetTitledFirstName] com uma raiva fervente em seus olhos e uma faca em sua mão, eu nem mesmo paro para pensar.\n\nEu pego a coisa mais próxima que pode ser usada como arma, e faço minha investida."
  feast_default.1013.a:0 "Who knew cutlery could be so sharp?"
  feast_default.1013.a_1:0 "I hope [ROOT.Char.GetFaith.NegativeAfterLife] greets that [guest_to_kill.Custom('InsultAdjective')] [guest_to_kill.Custom('InsultNoun')] warmly."
  feast_default.1013.b:0 "I will deflect the knife!"
