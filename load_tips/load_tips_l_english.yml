@@ -119,13 +119,15 @@
  LOADING_TIP_118:0 "#T $game_concept_nominations$#!\n\n$game_concept_nominate_desc$"
  
  
- #LOADING_TIP_0:0 "Right-Click on Character Portraits to interact with them!"
- #LOADING_TIP_1:0 "You can hover over icons and highlighted text in Tooltips for even more information!"
- #LOADING_TIP_2:0 "Illegitimate bastards cannot pass your Dynasty on."
- #LOADING_TIP_3:0 "You need a reason to declare war. Choose your Casus Belli wisely."
- #LOADING_TIP_4:0 "In a matrilineal marriage, children are born to their mother's Dynasty."
- #LOADING_TIP_5:0 "Children are born with Prestige equivalent to a fraction of their parents' Dynasties' Renown."
- #LOADING_TIP_6:0 "Your 'Domain' is the land you personally own. There is a limit to how much you can hold, so you need to rely on Vassals to expand further."
- #LOADING_TIP_7:0 "Your 'Realm' consists of both your own land and that of your Vassals."
- #LOADING_TIP_8:0 "'Powerful Vassals' expect a seat on your Council."
+ #LOADING_TIP_0:0 "Clique com botão direito sob o retrato de um personagem para interagir com eles!"
+ #LOADING_TIP_1:0 "Você pode passar o mouse sobre os ícones e o texto destacado nas Dicas de ferramentas para obter ainda mais informações!"
+ #LOADING_TIP_2:0 "Bastardos Ilegítimos não podem continuar sua Dinastia."
+ #LOADING_TIP_3:0 "Você precisa de uma rasão para declarar guerra. Escolha seu Casus Belli sabiamente."
+ #LOADING_TIP_4:0 "Em um casamento matrilinear, crianças nascerão na Dinastia de sua mãe."
+ #LOADING_TIP_5:0 "Crianças nascem com um Prestígio equivalente a uma fração do Renome da Dinastia dos seus pais."
+ #LOADING_TIP_6:0 "Seu 'Domínio' é a terra que você pessoalemente possui. Há um limite para o tanto de terras que você pode ter, então você precisa confiar em Vassalos para expandir ainda mais."
+ #LOADING_TIP_7:0 "Seu 'Reino' consiste em sua própria terra e na de seus vassalos."
+ #LOADING_TIP_8:0 "'Vassalos' Poderosos esperam um lugar no seu Conselho."
+ 
+ ##becalette##
  
