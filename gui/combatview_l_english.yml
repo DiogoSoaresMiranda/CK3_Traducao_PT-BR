@@ -1,3 +1,3 @@
 ﻿l_english:
- TOTAL_STRENGTH:0 "This side's total [soldiers|E]"
- TOTAL_REGIMENTS:0 "This side's fighting [regiments|E]"
+ TOTAL_STRENGTH:0 "[soldiers|E] totais desse lado"
+ TOTAL_REGIMENTS:0 "[regiments|E] em combate desse lado"

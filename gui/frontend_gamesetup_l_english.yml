@@ -1,19 +1,20 @@
 ﻿l_english:
- SELECT_CHARACTER_ON_MAP:0 "Choose a Character on the Map."
- PICK_ANY_CHARACTER:1 "Play as any Ruler in [GameSetup.GetSelectedBookmark.GetDate.GetYear]..."
- BOOKMARK_DISABLED:0 "This Bookmark is disabled"
+ SELECT_CHARACTER_ON_MAP:0 "Escolha um personagem no mapa."
+ PICK_ANY_CHARACTER:1 "Jogue como qualquer governante em [GameSetup.GetSelectedBookmark.GetDate.GetYear]..."
+ BOOKMARK_DISABLED:0 "Este Marco está desativado"
  BOOKMARK_NOT_PICKED_CHARACTER:0 "Choose a Character in the Bookmark before starting the game. Or, choose freely by clicking 'Choose any Character'."
  SINGLEPLAYER:0 "Single Player"
 
- GAMESETUP_TUTORIAL_PROMPT_HEADER:1 "Welcome to Crusader Kings III"
- GAMESETUP_TUTORIAL_PROMPT_INTRO:0 "Crusader Kings III is a deep strategy game of dynasties and intrigue!"
- GAMESETUP_TUTORIAL_PROMPT_RECOMMEND:0 "If you are new to the world of Crusader Kings, we strongly recommend you play the tutorial."
- GAMESETUP_TUTORIAL_PROMPT_ABOUT_RULER:0 "In the tutorial, you will play as $bookmark_rags_to_riches_petty_king_murchad$, a Ruler in Ireland. Lead your family and Dynasty to defeat your enemies and become King of Ireland!"
- GAMESETUP_TUTORIAL_PROMPT_ASK:0 "Learn the game as $bookmark_rags_to_riches_petty_king_murchad$?"
+ GAMESETUP_TUTORIAL_PROMPT_HEADER:1 "Bem-vindo ao Crusader Kings III"
+ GAMESETUP_TUTORIAL_PROMPT_INTRO:0 "Crusader Kings III é um jogo de estratégia profunda de dinastias e intriga!"
+ GAMESETUP_TUTORIAL_PROMPT_RECOMMEND:0 "Se você é novo no mundo de Crusader Kings, recomendamos fortemente que você jogue o tutorial."
+ GAMESETUP_TUTORIAL_PROMPT_ABOUT_RULER:0 "No tutorial, você jogará como $bookmark_rags_to_riches_petty_king_murchad$, um governante na Irlanda. Lidere sua família e dinastia para derrotar seus inimigos e se tornar o Rei da Irlanda!"
+ GAMESETUP_TUTORIAL_PROMPT_ASK:0 "Aprenda o jogo como $bookmark_rags_to_riches_petty_king_murchad$?"
 
- GAMESETUP_TUTORIAL_PROMPT_DISABLE:0 "Maybe Later"
+ GAMESETUP_TUTORIAL_PROMPT_DISABLE:0 "Talvez mais tarde"
  GAMESETUP_TUTORIAL_PROMPT_PLAY_TUTORIAL:0 "$GAMESETUP_PLAY_TUTORIAL$"
- GAMESETUP_PLAY_TUTORIAL:0 "Play Tutorial"
- GAMESETUP_GAME_INFO:0 "Game Info"
+ GAMESETUP_PLAY_TUTORIAL:0 "Jogar Tutorial"
+ GAMESETUP_GAME_INFO:0 "Informação do Jogo"
  
- GAMESETUP_TUTORIAL_PROMPT_PLAY_BUTTON_TOOLTIP:0 "#T Play as $bookmark_rags_to_riches_petty_king_murchad$, in 1066#!"
+ GAMESETUP_TUTORIAL_PROMPT_PLAY_BUTTON_TOOLTIP:0 "#T Jogar como $bookmark_rags_to_riches_petty_king_murchad$, em 1066#!"
+###MichaelBigaton 25/09/2020###

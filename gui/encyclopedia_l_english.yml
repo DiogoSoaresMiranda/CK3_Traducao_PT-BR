@@ -1,9 +1,9 @@
 l_english:
  HEADING_ENCYCLOPEDIA:0 "Enciclopédia"
  OPEN_ENCYCLOPEDIA:1 "#T Abrir Enciclopédia#!\nProcure termos na Enciclopédia."
- ENCYCLOPEDIA_PAGE_BUILDINGS:0 "Construções"
+ ENCYCLOPEDIA_PAGE_BUILDINGS:0 "Edifícios"
  ENCYCLOPEDIA_BUILDING_ENTRY:0 "[BUILDING.GetDescription]\n\n#S Custo Base:\n#![BUILDING.GetBaseCostDescription]\n\n#S Efeito:\n#![BUILDING.GetEffectDescription]\n\n"
- ENCYCLOPEDIA_PAGE_GAME_CONCEPTS:0 "Conceitos do Jogo"
+ ENCYCLOPEDIA_PAGE_GAME_CONCEPTS:0 "Conceitos de jogo"
  ENCYCLOPEDIA_PAGE_FACTIONS:0 "Facções"
  ENCYCLOPEDIA_PAGE_GOVERNMENTS:0 "Governos"
  ENCYCLOPEDIA_PAGE_LAWS:0 "Leis"
