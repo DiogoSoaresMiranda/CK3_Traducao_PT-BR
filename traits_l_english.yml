@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
 #Reasons
  ALREADY_CONTAINTS_TRAIT:0 "$CHARACTER_NAME$ com id '$CHARACTER_ID$' já tem o traço $TRAIT_KEY$"
  CONTAINTS_OPPOSITE_TRAIT:0 "Trait $TRAIT_KEY$ não pode ser adicionado porque $CHARACTER_NAME$ com id '$CHARACTER_ID$' já tem o traço oposto $OPOSITE_KEY$"

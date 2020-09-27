@@ -7,14 +7,16 @@
 
  GOVERNMENT_DISALLOWS_TRIGGER:0 "[government|E] disallows: $RULE|V$"
 
- HAS_GOVERNMENT_TRIGGER_GLOBAL:0 "Has a $GOVERNMENT|V$ government"
- NOT_HAS_GOVERNMENT_TRIGGER_GLOBAL:0 "Does #bold not#! have a $GOVERNMENT|V$ government"
- HAS_GOVERNMENT_TRIGGER_FIRST:0 "You have a $GOVERNMENT|V$ government"
- NOT_HAS_GOVERNMENT_TRIGGER_FIRST:0 "You do #bold not#! have $GOVERNMENT|V$ government"
- HAS_GOVERNMENT_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|V] has $GOVERNMENT|V$ government"
- NOT_HAS_GOVERNMENT_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|V] does #bold not#! have a $GOVERNMENT|V$ government"
+ HAS_GOVERNMENT_TRIGGER_GLOBAL:0 "Tem um governo $GOVERNMENT|V$ "
+ NOT_HAS_GOVERNMENT_TRIGGER_GLOBAL:0 " #bold Não#! tem um governo $GOVERNMENT|V$ "
+ HAS_GOVERNMENT_TRIGGER_FIRST:0 "Você tem um governo $GOVERNMENT|V$ "
+ NOT_HAS_GOVERNMENT_TRIGGER_FIRST:0 "Você #bold não#! tem um governo $GOVERNMENT|V$ "
+ HAS_GOVERNMENT_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|V] tem um governo $GOVERNMENT|V$ "
+ NOT_HAS_GOVERNMENT_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|V] #bold não#! tem um governo $GOVERNMENT|V$ "
 
- HAS_SAME_GOVERNMENT_TRIGGER:0 "Has the same government as [TARGET_CHARACTER.GetShortUIName]"
+ HAS_SAME_GOVERNMENT_TRIGGER:0 "Tem o mesmo tipo de governo que [TARGET_CHARACTER.GetShortUIName]"
 
- MUST_HAVE_MALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName] does not have the [GetFaithDoctrine('doctrine_gender_equal').GetBaseName] Doctrine or the [GetFaithDoctrine('doctrine_gender_male_dominated').GetBaseName] Doctrine"
- MUST_HAVE_FEMALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName] does not have the [GetFaithDoctrine('doctrine_gender_equal').GetBaseName] Doctrine or the [GetFaithDoctrine('doctrine_gender_female_dominated').GetBaseName] Doctrine"
+ MUST_HAVE_MALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName] não tem a [GetFaithDoctrine('doctrine_gender_equal').GetBaseName] Doutrina ou a [GetFaithDoctrine('doctrine_gender_male_dominated').GetBaseName] Doutrina"
+ MUST_HAVE_FEMALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName] não tem a [GetFaithDoctrine('doctrine_gender_equal').GetBaseName] Doutrina ou a [GetFaithDoctrine('doctrine_gender_female_dominated').GetBaseName] Doutrina"
+
+##ZetaBroll  12/09/2020##

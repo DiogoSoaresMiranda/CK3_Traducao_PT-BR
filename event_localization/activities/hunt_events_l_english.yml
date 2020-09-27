@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  hunt_header:0 "Caçar:"
  hunt.1001.t:1 "$hunt_header$ O [ROOT.Char.Custom('LocalAnimal')|U]"
  hunt.1001.desc:0 "Meu [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('hunting_courtier_1') )], [hunting_courtier_1.GetTitledFirstName], é o primeiro a vê-lo. O [ROOT.Char.Custom('LocalAnimalDesc')] [ROOT.Char.Custom('LocalAnimal')] é difícil de ser distinguido pelo seu entorno, mas ele está nos observando pela vegetação rasteira.\n\nEu travo os olhos com o animal, e é como se ele pudesse sentir minhas intenções, porque ele, derrepende, decola!"
