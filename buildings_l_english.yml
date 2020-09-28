@@ -936,9 +936,9 @@
  building_royal_armory_03_desc:0 "O arsenal real não contém apenas uma quantidade impressionante de armas, mas também abriga ferreiros que forjam novos equipamentos. Embora possa ser um desperdício equipar meros camponeses com esses armamentos, eles também atraem aventureiros locais que adorariam nada mais do que lutar e morrer por nós, caso recebessem uma das espadas ..."
  
  building_type_jousting_lists_01:0 "Motivos de Justa"
- building_type_jousting_lists_01_desc:0 "#F Por ter um terreno dedicado para justas, mais cavaleiros são incentivados a treinar e se juntar às bandeiras.#!"
+ building_type_jousting_lists_01_desc:0 "#F Por ter um terreno dedicado para justas, mais montadores e cavaleiros são incentivados a treinar e se juntar às bandeiras.#!"
  building_jousting_lists_01:0 "Campos de Justa"
- building_jousting_lists_01_desc:0 "Uma clareira é mantida aberta o ano todo para facilitar o treinamento de cavaleiros e cavaleiros."
+ building_jousting_lists_01_desc:0 "Uma clareira é mantida aberta o ano todo para facilitar o treinamento de montadores e cavaleiros."
  building_jousting_lists_02:0 "Campos de Torneio"
  building_jousting_lists_02_desc:0 "Com listas de justas e stands para o público, esses campos de torneio atraem uma grande quantidade de competidores."
  building_jousting_lists_03:0 "Arenas do Torneio Real"
