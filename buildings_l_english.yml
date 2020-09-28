@@ -555,7 +555,7 @@
  building_hagia_sophia_01:0 "Catedral Santa Sofia"
  building_hagia_sophia_01_desc:0 "$building_type_hagia_sophia_01_desc$"
  building_hagia_sophia_02:0 "Mesquita Santa Sofia"
- building_hagia_sophia_02_desc:0 "#F A Santa Soia é uma verdadeira maravilha da engenharia, com uma enorme cúpula e quatro minaretes impressionantes que se destacam como as características mais impressionantes. Iniciado em 537 DC pelo imperador Justiniano I, desde então foi transformado em uma mesquita inspiradora.\n\nE assim permanecerá por toda a eternidade, pois certamente nada poderia derrubar o poder de Roma.#!"
+ building_hagia_sophia_02_desc:0 "#F A Santa Sofia é uma verdadeira maravilha da engenharia, com uma enorme cúpula e quatro minaretes impressionantes que se destacam como as características mais impressionantes. Iniciado em 537 DC pelo imperador Justiniano I, desde então foi transformado em uma mesquita inspiradora.\n\nE assim permanecerá por toda a eternidade, pois certamente nada poderia derrubar o poder de Roma.#!"
  
  building_type_dome_of_the_rock_01:0 "Templo em Jerusalém"
  building_type_dome_of_the_rock_01_desc:0 "#F A Cúpula da Rocha está situada no centro do Monte do Templo, no local onde ficava o Templo de Salomão e o Segundo Templo Judaico. Diz-se que a pedra fundamental do templo é o lugar onde Deus criou o mundo e o primeiro ser humano, Adão. O Domo da Rocha e a vizinha Igreja do Santo Sepulcro atraem peregrinos abraâmicos de todo o mundo.#!"
