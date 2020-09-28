@@ -236,7 +236,7 @@
  building_type_logging_camps_01:1 "Silvicultura"
  building_type_logging_camps_01_desc:1 "#F Grandes quantidades de madeira, resina, carvão e outros recursos são colhidos dessas florestas, proporcionando uma excelente fonte próxima de material de construção para as cidades vizinhas.#!"
  building_logging_camps_01:1 "Acampamentos Madeireiros"
- building_logging_camps_01_desc:1 "Woodcutters have set up camp along the outskirts of the forest, working long days with cutting down trees."
+ building_logging_camps_01_desc:1 "Lenhadores montaram acampamento nos arredores da floresta, trabalhando longos dias cortando árvores."
  building_logging_camps_02:1 "Coletores de Resina"
  building_logging_camps_02_desc:1 "Ao longo de toda a floresta, a resina está sendo coletada para uso como adesivo ou para ser vendida ao clero para uso em diversos rituais."
  building_logging_camps_03:1 "Queimadores de Carvão"
@@ -253,7 +253,7 @@
  building_logging_camps_08_desc:1 "Enquanto machados e serras simples nos serviram até agora, a serraria é para aqueles como Deus é para os homens. Agora a floresta pode ser consumida em quase nenhum momento, com sua valiosa madeira abastecendo nossas cidades e vilas."
  
  building_type_peat_quarries_01:1 "Fazendas Pantanosas"
- building_type_peat_quarries_01_desc:1 "#F While wetlands will never offer the same opportunities for growing crops as plains, a seasonal glut of vegetation allow for the raising of animals. There are also opportunities for extracting both peat and salt.#!"
+ building_type_peat_quarries_01_desc:1 "#F Embora os pântanos nunca ofereçam as mesmas oportunidades de cultivo que as planícies, um excesso sazonal de vegetação permite a criação de animais. Também existem oportunidades para extrair turfa e sal.#!"
  building_peat_quarries_01:1 "Terras de Gado"
  building_peat_quarries_01_desc:1 "A fertilidade dos pântanos é um excelente pasto para animais pastoris de todos os tamanhos."
  building_peat_quarries_02:1 "Pedreiras de Turfa"
@@ -272,7 +272,7 @@
  building_peat_quarries_08_desc:1 "Grandes rebanhos de animais se alimentam da abundante vida vegetal dos pântanos, crescendo e crescendo."
  
  building_type_hill_farms_01:0 "Fazendas da colina"
- building_type_hill_farms_01_desc:1 "#F The rolling hills of this province stand covered in fields. While farming on a slope helps with keeping crops watered, the limited area means smaller yields.#!"
+ building_type_hill_farms_01_desc:1 "#F As colinas desta província estão cobertas de campos. Enquanto cultivar em uma encosta ajuda a manter as safras regadas, a área limitada significa rendimentos menores.#!"
  building_hill_farms_01:1 "Campos de Encosta"
  building_hill_farms_01_desc:1 "Ao longo das encostas das muitas colinas existem numerosos pequenos campos, cultivando safras e sustentando uma pequena população de camponeses."
  building_hill_farms_02:1 "Caiu Pastagens"
@@ -291,7 +291,7 @@
  building_hill_farms_08_desc:1 "As colinas fornecem o ambiente perfeito para pomares, principalmente da variedade de maçã."
  
  building_type_hill_forts_01:0 "Fortes de Colina"
- building_type_hill_forts_01_desc:1 "#F Built upon a steep hill or cliff, these massive fortifications stand firm against any besieging army that lacks the ability of flight!#!"
+ building_type_hill_forts_01_desc:1 "#F Construídas sobre uma colina ou penhasco íngreme, essas fortificações maciças se mantêm firmes contra qualquer exército sitiante que não tenha a habilidade de voar!#!"
  building_hill_forts_01:1 "Pequeno Forte"
  building_hill_forts_01_desc:1 "O forte da colina ergue-se orgulhosamente no topo de uma colina, forçando qualquer sitiante a lutar uma batalha difícil."
  building_hill_forts_02:1 "Terraplenagem Simples"
@@ -310,7 +310,7 @@
  building_hill_forts_08_desc:1 "A terraplenagem ao redor do forte da colina é tão complexa e confusa que os exércitos inimigos mal sabem qual entrada eles devem invadir, algo que funciona a nosso favor - especialmente visto que metade deles leva a armadilhas mortais ..."
  
  building_type_plantations_01:1 "Agricultura do Deserto"
- building_type_plantations_01_desc:1 "#F These plantations focus on growing the fruits and vegetables that are hardy enough to withstand the harsh climate.#!"
+ building_type_plantations_01_desc:1 "#F Essas plantações se concentram no cultivo de frutas e vegetais que são resistentes o suficiente para suportar o clima rigoroso.#!"
  building_plantations_01:1 "Pequenas Plantações"
  building_plantations_01_desc:1 "Apesar da falta de água, essas pequenas plantações conseguem produzir frutas particularmente resistentes."
  building_plantations_02:1 "Feitorias"
@@ -329,7 +329,7 @@
  building_plantations_08_desc:1 "Essas plantações agora produzem um excedente definitivo, que pode ser comercializado e vendido com lucro."
  
  building_type_outposts_01:0 "Postos Avançados"
- building_type_outposts_01_desc:1 "#F A series of outposts skirt all significant settlements in this province, providing an early warning system in case of raids or animal attacks.#!"
+ building_type_outposts_01_desc:1 "#F Uma série de postos avançados contorna todos os assentamentos significativos nesta província, fornecendo um sistema de alerta precoce em caso de invasões ou ataques de animais.#!"
  building_outposts_01:1 "Torres de Vigia"
  building_outposts_01_desc:1 "Para rastrear animais (e invasões), uma série de pontos de vista são controlados por guardas vigilantes. Se um animal perigoso for avistado, não demorará muito para que a notícia se espalhe para que o gado vulnerável possa ser levado para a segurança."
  building_outposts_02:1 "Postos Militares Avançados"
@@ -348,7 +348,7 @@
  building_outposts_08_desc:1 "Imponentes postos avançados talhados em pedra agora se erguem em direção aos céus, fazendo sua presença ser sentida pelos soldados e guardas de caravana alojados dentro."
  
  building_type_watchtowers_01:0 "Torres de Vigia"
- building_type_watchtowers_01_desc:1 "#F Several grand watchtowers stand guard over the toiling peasantry, providing excellent vantage points for archers.#!"
+ building_type_watchtowers_01_desc:1 "#F Várias grandes torres de vigilância vigiam o camponês trabalhador, proporcionando excelentes pontos de observação para os arqueiros.#!"
  building_watchtowers_01:1 "Torres de Tijolos de Barro"
  building_watchtowers_01_desc:1 "Essas torres feitas de tijolos fornecem uma defesa simples, mas eficaz."
  building_watchtowers_02:1 "Casas-Torre"
@@ -367,7 +367,7 @@
  building_watchtowers_08_desc:1 "Estas imponentes torres são feitas inteiramente de pedra, encimadas por uma cúpula. As técnicas de construção envolvidas os tornam quase inexpugnáveis por invasores."
  
  building_type_quarries_01:1 "Pedreiras"
- building_type_quarries_01_desc:1 "#F The mountains of this province provide local construction with an excellent supply of building material.#!"
+ building_type_quarries_01_desc:1 "#F As montanhas desta província proporcionam à construção local um excelente abastecimento de material de construção.#!"
  building_quarries_01:1 "Pedreiras Simples"
  building_quarries_01_desc:2 "A pedra extraída de fácil acesso fornece materiais de construção para construções próximas."
  building_quarries_02:1 "Minas Rasas de Minério"
@@ -386,7 +386,7 @@
  building_quarries_08_desc:1 "Os altos-fornos funcionam quentes durante o dia, fundindo ferro, chumbo e cobre. A qualidade do metal que eles produzem é além de excelente."
  
  building_type_military_camps_01:0 "Acampamentos militares"
- building_type_military_camps_01_desc:1 "#F A simple training ground where local peasants are readied for war.#!"
+ building_type_military_camps_01_desc:1 "#F Um campo de treinamento simples onde os camponeses locais são preparados para a guerra.#!"
  building_military_camps_01:1 "Esconder Tendas"
  building_military_camps_01_desc:1 "Ao convocarem levas, são reunidos em acampamentos rudimentares onde dormem em tendas simples. Embora não seja o mais confortável, é um tipo de acampamento barato e portátil."
  building_military_camps_02:1 "Cozinheiros de Acampamento"
@@ -405,7 +405,7 @@
  building_military_camps_08_desc:1 "Os quadrados maiores de levantamento fornecem não apenas um local para os soldados se reunirem, mas também um para treinar para as próximas batalhas."
  
  building_type_ramparts_01:1 "Fortes Florestais"
- building_type_ramparts_01_desc:1 "#F These fortifications are constructed in such a way that they are a part of the forest that they protect. Advancing armies find themselves hindered by fortifications, but also tangled in the undergrowth.#!"
+ building_type_ramparts_01_desc:1 "#F Essas fortificações são construídas de forma que façam parte da floresta que protegem. Os exércitos em avanço encontram-se impedidos por fortificações, mas também presos na vegetação rasteira.#!"
  building_ramparts_01:1 "Fortes de Toras"
  building_ramparts_01_desc:1 "Pequenos fortes de madeira fazem parte da floresta, usando árvores como paliçada natural."
  building_ramparts_02:1 "Muralhas de Terra"
@@ -424,7 +424,7 @@
  building_ramparts_08_desc:1 "Essas grandes fortalezas de pedra se destacam como montanhas da floresta, protegendo uma grande faixa de terra."
  
  building_type_elephant_pens_01:1 "Elefantaria"
- building_type_elephant_pens_01_desc:1 "#F Elephants are kept and trained here. They make excellent beasts of burden, useful for both work and war.#!"
+ building_type_elephant_pens_01_desc:1 "#F Os elefantes são mantidos e treinados aqui. Eles são excelentes bestas de carga, úteis tanto para o trabalho quanto para a guerra.#!"
  building_elephant_pens_01:1 "Canetas de Elefante"
  building_elephant_pens_01_desc:1 "Estes estábulos resistentes podem manter até o elefante mais rebelde protegido."
  building_elephant_pens_02:1 "Armadilhas para Elefantes"
@@ -443,7 +443,7 @@
  building_elephant_pens_08_desc:1 "Os criadores de elefantes garantem que novos bezerros nasçam e sejam criados apenas com o melhor e mais saudável estoque."
  
  building_type_guild_halls_01:1 "Guildas"
- building_type_guild_halls_01_desc:1 "#F The city provides all major guilds and burgher families with ample locale to organize and practice their crafts.#!"
+ building_type_guild_halls_01_desc:1 "#F A cidade oferece a todas as grandes guildas e famílias burguesas um amplo local para organizar e praticar seu artesanato.#!"
  building_guild_halls_01:0 "Salões da Guilda"
  building_guild_halls_01_desc:0 "$building_type_guild_halls_01_desc$"
  building_guild_halls_02:1 "Guilda de Escultores"
@@ -462,7 +462,7 @@
  building_guild_halls_08_desc:1 "Os artesãos usam uma grande variedade de materiais não apenas para produzir obras de arte, mas também inovações totalmente novas. Sua engenhosidade e habilidade refinada estão chamando a atenção de altos nobres em todos os lugares."
  
  building_type_monastic_schools_01:1 "Mosteiros"
- building_type_monastic_schools_01_desc:1 "#F This school teaches many subjects and is a rare center of high learning, but the students enrolled here primarily study to prepare themselves for future careers in the clergy.#!"
+ building_type_monastic_schools_01_desc:1 "#F Esta escola ensina muitas disciplinas e é um raro centro de ensino superior, mas os alunos matriculados aqui estudam principalmente para se prepararem para futuras carreiras no clero.#!"
  building_monastic_schools_01:1 "Salas de Oração"
  building_monastic_schools_01_desc:1 "As salas de oração hospedam sermões e permitem um lugar de contemplação silenciosa."
  building_monastic_schools_02:1 "Escolas Monásticas"
@@ -481,7 +481,7 @@
  building_monastic_schools_08_desc:1 "O claustro forma uma barreira sólida contra o mundo exterior, separando efetivamente a vida dos que vivem dentro de seus muros da vida dos camponeses de fora.."
  
  building_type_hunting_grounds_01:0 "Caça"
- building_type_hunting_grounds_01_desc:1 "#F Dotted throughout these lands are several large lodges where hunters of wild game can gather and plan their excursions.#!"
+ building_type_hunting_grounds_01_desc:1 "#F Espalhados por essas terras estão várias grandes cabanas onde os caçadores de animais selvagens podem se reunir e planejar suas excursões.#!"
  building_hunting_grounds_01:1 "Alojamentos do Caçador"
  building_hunting_grounds_01_desc:1 "Os caçadores se reúnem nesses alojamentos para planejar suas excursões ao deserto e também servem como lugares para guardar troféus e se encontrar após uma caçada bem-sucedida."
  building_hunting_grounds_02:1 "Canetas de Caça"
@@ -500,48 +500,48 @@
  building_hunting_grounds_08_desc:1 "Os guarda-caça são responsáveis pelo bem-estar das terras e de todos os animais nelas contidos. Sempre que os nobres decidem ir caçar, os guarda-caça sabem para onde enviá-los para que a caça encontre uma presa."
  
  building_type_theodosian_walls_01:0 "As paredes Teodosianas"
- building_type_theodosian_walls_01_desc:1 "#F The Theodosian Walls were built during the reign of Emperor Theodosius II in the early 5th century, but they still remain some of the most formidable fortifications built by human hands.#!"
+ building_type_theodosian_walls_01_desc:1 "#F As Muralhas de Teodósio foram construídas durante o reinado do Imperador Teodósio II no início do século V, mas ainda permanecem algumas das fortificações mais formidáveis construídas por mãos humanas.#!"
  building_theodosian_walls_01:0 "Paredes Teodósicas"
  building_theodosian_walls_01_desc:0 "$building_type_theodosian_walls_01_desc$"
  
  building_type_aurelian_walls_01:0 "As Muralhas Aurelianas"
- building_type_aurelian_walls_01_desc:1 "#F The Aurelian Walls were built during the reign of the Roman Emperors Aurelian and Probus. To this day they provide formidable defense, completely enclosing the seven hills of Rome.#!"
+ building_type_aurelian_walls_01_desc:1 "#F As Muralhas Aurelianas foram construídas durante o reinado dos imperadores romanos Aureliano e Probo. Até hoje eles fornecem uma defesa formidável, envolvendo completamente as sete colinas de Roma.#!"
  building_aurelian_walls_01:0 "Muralhas Aurelianas"
  building_aurelian_walls_01_desc:0 "$building_type_aurelian_walls_01_desc$"
  
  building_type_the_colosseum_01:0 "O Coliseu"
- building_type_the_colosseum_01_desc:0 "#F The Colosseum is one of the largest amphitheaters ever built and has hosted countless spectacles such as gladiatorial combat, animal hunts and even reconstructed sea battles. Its construction was started by the Roman emperor Vespasian in AD 72 and was completed in AD 80 under his successor, Titus.\n\nDespite its vibrant history, its primary use today is for harvesting marble and bronze for use elsewhere.#!"
+ building_type_the_colosseum_01_desc:0 "#F O Coliseu é um dos maiores anfiteatros já construídos e já recebeu inúmeros espetáculos, como combates de gladiadores, caça a animais e até batalhas navais reconstruídas. Sua construção foi iniciada pelo imperador romano Vespasiano em 72 DC e concluída em 80 DC sob seu sucessor, Titus.\n\nDespite com sua história vibrante, seu uso principal hoje é a colheita de mármore e bronze para uso em outros lugares.#!"
  building_the_colosseum_01:0 "$building_type_the_colosseum_01$"
  building_the_colosseum_01_desc:0 "$building_type_the_colosseum_01_desc$"
  
  building_type_hadrians_wall_01:0 "Muralha de Adriano"
- building_type_hadrians_wall_01_desc:0 "#F Hadrian's Wall was built during Roman times to keep the northern Picts out of the province of Britannia. Nowadays it serves no defensive purpose, but the stones make for a cheap and convenient source of building material!#!"
+ building_type_hadrians_wall_01_desc:0 "#F A Muralha de Adriano foi construída durante a época romana para manter os pictos do norte fora da província da Britânia. Hoje em dia não tem nenhum propósito defensivo, mas as pedras são uma fonte barata e conveniente de material de construção!#!"
  building_hadrians_wall_01:0 "$building_type_hadrians_wall_01$"
  building_hadrians_wall_01_desc:0 "$building_type_hadrians_wall_01_desc$"
  
  building_type_offas_dyke_01:0 "Dique de Offa"
- building_type_offas_dyke_01_desc:0 "#F Offa's Dyke, which is a long ditch flanked by a wall of earth, was constructed by the Anglo-Saxon king of Mercia to defend the border towards Wales. This raised earthwork offers an advantage to whoever stands on the side of the wall, as any attackers have to fight an uphill battle from the ditch.#!"
+ building_type_offas_dyke_01_desc:0 "#F O Dique de Offa, que é um longo fosso flanqueado por uma parede de terra, foi construído pelo rei anglo-saxão da Mércia para defender a fronteira com o País de Gales. Este trabalho de terraplenagem oferece uma vantagem para quem está ao lado da parede, já que qualquer atacante tem que lutar uma batalha difícil a partir da vala.#!"
  building_offas_dyke_01:0 "$building_type_offas_dyke_01$"
  building_offas_dyke_01_desc:0 "$building_type_offas_dyke_01_desc$"
  
  building_type_buddhas_of_bamian_01:0 "Budas de $b_bamiyan$"
- building_type_buddhas_of_bamian_01_desc:0 "#F Carved out of the mountainside, the massive Buddhas of Bamian loom over any visitors. While the area surrounding them is no longer the thriving center of Buddhist learning as it once was, there's still numerous Buddhist pilgrims and scholars visiting the statues. A shrewd $rf_eastern$ ruler might even be able to pull a profit from the pilgrims, in addition to gaining some personal insights.#!"
+ building_type_buddhas_of_bamian_01_desc:0 "#F Esculpidos na encosta da montanha, os enormes Budas de Bamian pairam sobre qualquer visitante. Embora a área ao redor deles não seja mais o centro próspero do aprendizado budista como antes, ainda há vários peregrinos e estudiosos budistas visitando as estátuas. Astuto $rf_eastern$ governante pode até mesmo ser capaz de extrair lucro dos peregrinos, além de obter algumas percepções pessoais.#!"
  building_buddhas_of_bamian_01:0 "$building_type_buddhas_of_bamian_01$"
  building_buddhas_of_bamian_01_desc:0 "$building_type_buddhas_of_bamian_01_desc$"
  NOT_BUDDHAS_OF_BAMIAN_ENABLED:1 "O [holder|E] deve ser do $rf_eastern$ [religious_family|E]"
  
  building_type_petra_01:0 "Petra"
- building_type_petra_01_desc:0 "#F The city of Petra is a true wonder of the ancient world. Carved directly out of naturally occuring rose-tinted rock, the city stands as a curiosity that intrigues even the mightiest sultan.#!"
+ building_type_petra_01_desc:0 "#F A cidade de Petra é uma verdadeira maravilha do mundo antigo. Esculpida diretamente na rocha cor de rosa de ocorrência natural, a cidade é uma curiosidade que intriga até o mais poderoso sultão.#!"
  building_petra_01:0 "$building_type_petra_01$"
  building_petra_01_desc:0 "$building_type_petra_01_desc$"
  
  building_type_house_of_wisdom_01:0 "Casa da Sabedoria"
- building_type_house_of_wisdom_01_desc:0 "#F The House of Wisdom contains a vast collection of books, and the scribes therein work tirelessly both day and night to translate even more great works of literature. The sources vary from Greek, Persian, Indian and many more — truly, it contains the entire world's knowledge! A shining beacon of human knowledge! And comfortably far from the illiterate horsemen of the steppe...#!"
+ building_type_house_of_wisdom_01_desc:0 "#F A Casa da Sabedoria contém uma vasta coleção de livros, e os escribas trabalham incansavelmente, dia e noite, para traduzir ainda mais grandes obras da literatura. As fontes variam de grego, persa, indiano e muitos mais - na verdade, ele contém todo o conhecimento do mundo!, Um farol brilhante de conhecimento humano!, E confortavelmente longe dos analfabetos cavaleiros da estepe...#!"
  building_house_of_wisdom_01:0 "$building_type_house_of_wisdom_01$"
  building_house_of_wisdom_01_desc:0 "$building_type_house_of_wisdom_01_desc$"
  
  building_type_palace_of_aachen_01:1 "$building_palace_of_aachen_01$"
- building_type_palace_of_aachen_01_desc:0 "#F The Palace of Aachen was chosen by Charlemagne to be the center of power of the Carolingian Empire. It served a both political and religious purpose, and is still an excellent place for hosting important gatherings.#!"
+ building_type_palace_of_aachen_01_desc:0 "#F O Palácio de Aachen foi escolhido por Carlos Magno para ser o centro do poder do Império Carolíngio. Serviu a um propósito político e religioso, e ainda é um excelente local para receber reuniões importantes.#!"
  building_palace_of_aachen_01:0 "Palácio de Aachen"
  building_palace_of_aachen_01_desc:0 "$building_type_palace_of_aachen_01_desc$"
  
