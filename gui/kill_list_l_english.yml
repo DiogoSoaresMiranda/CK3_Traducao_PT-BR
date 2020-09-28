@@ -1,6 +1,7 @@
 ﻿l_english:
- KILL_LIST:0 "Kill List"
- KILL_LIST_LABEL:0 "[KillListWindow.GetCharacter.GetUINamePossessive|U] Kills"
- OPEN_KILL_LIST_TOOLTIP:0 "Open Kill List"
- DEATH_DATE:0 "Death Date"
- DEATH_REASON:0 "Death Reason"
+ KILL_LIST:0 "Lista de mortes"
+ KILL_LIST_LABEL:0 "Mortes de [KillListWindow.GetCharacter.GetUINamePossessive|U]"
+ OPEN_KILL_LIST_TOOLTIP:0 "Abrir lista de mortes"
+ DEATH_DATE:0 "Data do óbito"
+ DEATH_REASON:0 "Motivo da Morte"
+###MichaelBigaton 27/09/2020###
