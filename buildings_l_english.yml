@@ -696,7 +696,7 @@
  building_holy_site_great_mosque_of_cordoba_01:0 "$building_type_holy_site_great_mosque_of_cordoba_01$"
  building_holy_site_great_mosque_of_cordoba_01_desc:0 "$building_type_holy_site_great_mosque_of_cordoba_01_desc$"
  
- building_type_walls_of_genoa_01:0 "As muralhas de Gênova"
+ building_type_walls_of_genoa_01:0 "As Muralhas de Gênova"
  building_type_walls_of_genoa_01_desc:0 "#F As Muralhas de Gênova foram construídas no século 9, depois que a cidade recebeu uma autonomia significativa. As paredes, juntamente com a proteção da linha de costa, permitem que a área se desenvolva e prospere.#!"
  building_walls_of_genoa_01:0 "$building_type_walls_of_genoa_01$"
  building_walls_of_genoa_01_desc:0 "$building_type_walls_of_genoa_01_desc$"
@@ -712,7 +712,7 @@
  building_holy_site_great_mosque_of_samarra_01_desc:0 "$building_type_holy_site_great_mosque_of_samarra_01_desc$"
  
  building_type_holy_site_prophetic_mosque_01:0 "Mesquita do Profeta"
- building_type_holy_site_prophetic_mosque_01_desc:0 "#F A Mesquita do Profeta, ou the Al-Masjid an-Nabawi, é uma mesquita ao ar livre criada pelo próprio profeta Maomé. Foi uma das primeiras mesquitas que ele construiu, e o local ficava perto de onde ele residia.#!"
+ building_type_holy_site_prophetic_mosque_01_desc:0 "#F A Mesquita do Profeta, ou Al-Masjid an-Nabawi, é uma mesquita ao ar livre criada pelo próprio profeta Maomé. Foi uma das primeiras mesquitas que ele construiu, e o local ficava perto de onde ele residia.#!"
  building_holy_site_prophetic_mosque_01:0 "$building_type_holy_site_prophetic_mosque_01$"
  building_holy_site_prophetic_mosque_01_desc:0 "$building_type_holy_site_prophetic_mosque_01_desc$"
  
@@ -741,7 +741,7 @@
  building_nalanda_university:0 "$building_type_nalanda_university$"
  building_nalanda_university_desc:0 "$building_type_nalanda_university_desc$"
  
- building_type_rammelsberg_mines_01:0 "As Minas Rammelsberg"
+ building_type_rammelsberg_mines_01:0 "A Mina de Rammelsberg"
  building_type_rammelsberg_mines_01_desc:1 "#F Na base do Monte Rammelsberg há uma mina de prata lucrativa e sempre procurada.#!"
  building_rammelsberg_mines_01:1 "Assentamento de Mineração de Rammelsberg"
  building_rammelsberg_mines_01_desc:1 "Um pequeno assentamento de mineração surgiu perto de onde estão os veios de minério. Os colonizadores começaram a abrir os veios e a extrair o minério, mas até agora estão apenas arranhando a superfície."
@@ -760,7 +760,7 @@
  #building_rammelsberg_mines_08:0 "Rammelsberg Mines VIII"
  #building_rammelsberg_mines_08_desc:0 "$building_type_rammelsberg_mines_01_desc$"
 
- building_type_falun_mines_01:0 "As Minas Falun"
+ building_type_falun_mines_01:0 "A Mina de Falun"
  building_type_falun_mines_01_desc:1 "#F Também conhecido como "Stora Kopparberget" #italic (A Grande Montanha de Cobre)#! esta mina produz grandes quantidades de cobre.#!"
  building_falun_mines_01:1 "Assentamento de Mineração Falun"
  building_falun_mines_01_desc:1 "$building_rammelsberg_mines_01_desc$"
@@ -779,7 +779,7 @@
  #building_falun_mines_08:0 "Falun Mines VIII"
  #building_falun_mines_08_desc:0 "$building_type_falun_mines_01_desc$"
 
- building_type_kutna_hora_mines_01:0 "Mina Kutná Hora"
+ building_type_kutna_hora_mines_01:0 "A Mina de Kutná Hora"
  building_type_kutna_hora_mines_01_desc:1 "#F A mina Kutná Hora é uma grande mina de prata localizada nas terras do Mosteiro de Sedlec. Com o apoio dos Abades locais #italic (e mineiros Alemães)#! a indústria na área está prosperando.#!"
  building_kutna_hora_mines_01:1 "Assentamento de Mineração Kutná Hora"
  building_kutna_hora_mines_01_desc:1 "$building_rammelsberg_mines_01_desc$"
@@ -798,7 +798,7 @@
  #building_kutna_hora_mines_08:0 "Kutná Hora Mines VIII"
  #building_kutna_hora_mines_08_desc:0 "$building_type_kutna_hora_mines_01_desc$"
  
- building_type_schwaz_mines_01:0 "Mina de Schwaz"
+ building_type_schwaz_mines_01:0 "A Mina de Schwaz"
  building_type_schwaz_mines_01_desc:0 "#F A mina de prata Schwaz fica na base das montanhas Kellerjoch e Eiblschrofen, no meio de um vale. A oportunidade de mineração significa que muitas pessoas são atraídas para a área."
  building_schwaz_mines_01:0 "Acordo de Mineração de Schwaz"
  building_schwaz_mines_01_desc:0 "$building_rammelsberg_mines_01_desc$"
@@ -809,7 +809,7 @@
  building_schwaz_mines_04:0 "Complexo de Mineração Schwaz"
  building_schwaz_mines_04_desc:0 "$building_rammelsberg_mines_04_desc$"
  
- building_type_argentiera_mines_01:0 "Mina Argentiera"
+ building_type_argentiera_mines_01:0 "As Mina de Argentiera"
  building_type_argentiera_mines_01_desc:0 "#F A Argentaria del Sigerro é rica em veios de prata subterrâneos. Com incentivo e desenvolvimento suficientes, esta área poderia ser explorada para grandes quantidades de prata preciosa."
  building_argentiera_mines_01:0 "Acordo de Mineração Argentiera"
  building_argentiera_mines_01_desc:0 "$building_rammelsberg_mines_01_desc$"
@@ -820,7 +820,7 @@
  building_argentiera_mines_04:0 "Complexo Mineiro Argentiera"
  building_argentiera_mines_04_desc:0 "$building_rammelsberg_mines_04_desc$"
  
- building_type_siderokausia_mines_01:0 "Minas de Siderokausia"
+ building_type_siderokausia_mines_01:0 "As Minas de Siderokausia"
  building_type_siderokausia_mines_01_desc:0 "#F As minas da Siderokausia são ricas em prata e ouro, e são exploradas por doze aldeias separadas, cada uma administrando uma parte das minas."
  building_siderokausia_mines_01:0 "Assentamento de Mineração Siderokausia"
  building_siderokausia_mines_01_desc:0 "$building_rammelsberg_mines_01_desc$"
@@ -831,7 +831,7 @@
  building_siderokausia_mines_04:0 "Complexo Mineiro Siderokausia"
  building_siderokausia_mines_04_desc:0 "$building_rammelsberg_mines_04_desc$"
  
- building_type_mali_mines_01:0 "Minas de Ouro de Mali"
+ building_type_mali_mines_01:0 "As Minas de Ouro de Mali"
  building_type_mali_mines_01_desc:0 "#F As minas de Mali estão realmente transbordando de ouro. Riqueza sem fim flui de suas profundezas para os tesouros dos governantes locais, que se adornam com o metal precioso."
  building_mali_mines_01:0 "Assentamento de Mineração de Ouro"
  building_mali_mines_01_desc:0 "$building_rammelsberg_mines_01_desc$"
@@ -842,7 +842,7 @@
  building_mali_mines_04:0 "Complexo de Mineração de Ouro"
  building_mali_mines_04_desc:0 "$building_rammelsberg_mines_04_desc$"
  
- building_type_kremnica_mines_01:0 "Minas de Kremnica"
+ building_type_kremnica_mines_01:0 "As Minas de Kremnica"
  building_type_kremnica_mines_01_desc:0 "#F As montanhas Kremnican são abundantes em ouro. Com sangue, suor e a ajuda de algumas centenas de mineiros alemães experientes, esse ouro será cunhado em Florins em pouco tempo!"
  building_kremnica_mines_01:0 "Assentamento de Mineração Kremnica"
  building_kremnica_mines_01_desc:0 "$building_rammelsberg_mines_01_desc$"
@@ -853,8 +853,8 @@
  building_kremnica_mines_04:0 "Complexo Mineiro Kremnica"
  building_kremnica_mines_04_desc:0 "$building_rammelsberg_mines_04_desc$"
  
- building_type_kollur_mines_01:0 "As Minas Kollur"
- building_type_kollur_mines_01_desc:0 "#F As minas Kollur exploram a maior fenda de diamantes de todo o subcontinente indiano. O trabalho é extremamente perigoso, mas as riquezas são inimagináveis."
+ building_type_kollur_mines_01:0 "As Minas de Kollur"
+ building_type_kollur_mines_01_desc:0 "#F As minas de Kollur exploram a maior fenda de diamantes de todo o subcontinente indiano. O trabalho é extremamente perigoso, mas as riquezas são inimagináveis."
  building_kollur_mines_01:0 "Poços de Mineração Kollur"
  building_kollur_mines_01_desc:0 "Apenas um poço de argila e cascalho, trabalhadores vestidos de tanga labutam aqui noite e dia para extrair diamantes."
  building_kollur_mines_02:0 "Minas Kollur"
