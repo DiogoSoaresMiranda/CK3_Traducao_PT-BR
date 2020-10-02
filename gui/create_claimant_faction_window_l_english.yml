@@ -1,5 +1,5 @@
 ﻿l_english:
- CREATE_CLAIMANT_FACTION_NO_CLAIMANT_IN_REALM:0 "@warning_icon!#X Não está no reino [CHARACTER.GetShortUINamePossessive]#!"
+ CREATE_CLAIMANT_FACTION_NO_CLAIMANT_IN_REALM:0 "@warning_icon!#X Não está no reino de [CHARACTER.GetShortUINamePossessive]#!"
  CREATE_CLAIMANT_FACTION_NO_CLAIMANT_UNLANDED:0 "@warning_icon!#X Não está sem terra#!"
  CREATE_CLAIMANT_FACTION_INVITE:0 "#T Convidar como reivindicador#!"
  CREATE_CLAIMANT_FACTION_SELECT_CLAIMANT:0 "@warning_icon!#X Nenhum reivindicador selecionado#!"
