@@ -1,6 +1,6 @@
 ﻿l_english:
  # Knight wounded/slain event strings for use in battle events. 
- knight_wounded_no_enemy_friendly:2 "Nosso $knight_culture_player_no_tooltip_lowercase$ [CHARACTER.GetShortUINameNoTooltip] foi ferido por um solado inimigo!"
+ knight_wounded_no_enemy_friendly:2 "Nosso $knight_culture_player_no_tooltip_lowercase$ [CHARACTER.GetShortUINameNoTooltip] foi ferido por um soldado inimigo!"
  knight_wounded_no_enemy_enemy:2 "Um dos nossos valentes soldados conseguiu ferir o nosso inimigo [CHARACTER.Custom('KnightCultureNoTooltipLowercase')] [CHARACTER.GetShortUINameNoTooltip]!"
  knight_wounded_by_enemy_friendly:2 "Nosso $knight_culture_player_no_tooltip_lowercase$ [CHARACTER.GetShortUINameNoTooltip] foi ferido por [TARGET_CHARACTER.GetShortUINameNoTooltip]!"
  knight_wounded_by_enemy_enemy:2 "Nosso $knight_culture_player_no_tooltip_lowercase$ [TARGET_CHARACTER.GetShortUINameNoTooltip] feriu [CHARACTER.GetShortUINameNoTooltip]!"
