@@ -1,13 +1,13 @@
 ﻿l_english:
- claim_my_throne_success_discovered_opinion:0 "Requerente Falso"
- claim_my_throne_success_undiscovered_opinion:0 "Requerente Inesperado"
+ claim_my_throne_success_discovered_opinion:0 "Reivindicador Falso"
+ claim_my_throne_success_undiscovered_opinion:0 "Reivindicador Inesperado"
  claim_my_throne_failure_opinion:0 "Tentou falsificar a reivindicação"
 
  claim_throne_aiding_liege_opinion:0 "Me ajudando"
 
- claim_throne_bought_support_opinion:0 "Comprou o meu apoio"
+ claim_throne_bought_support_opinion:0 "Comprou meu apoio"
 
  claim_throne_self_declared_opinion:0 "Governante autodeclarado"
 
-
-###Tradutor Diotrephes1 data 02/10/2020###
+### Diotrephes1 - Inicial - 02/10/2020 ###
+### yLordMagnus - Ajustes - 03/10/2020 ###
