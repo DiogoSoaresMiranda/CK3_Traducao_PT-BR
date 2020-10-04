@@ -29,7 +29,7 @@
  FRONTEND_LOGIN_FOR_MUTLIPLAYER:0 "Conecte-se para poder acessar o modo Multijogador"
  FRONTEND_LOGIN_FOR_MUTLIPLAYER_TT:0 "Abrir janela para Conectar-se"
  FRONTEND_LOGGED_IN:0 "Conectado"
- FRONTEND_JOIN_MULTIPLAYER:0 "Entrar no Jogo"
+ FRONTEND_JOIN_MULTIPLAYER:0 "Entrar em um Jogo"
  FRONTEND_SELECT_GAME_TO_LOAD:0 "Selecione um jogo salvo para carregar"
  FRONTEND_END_GAME:0 "Finalizar Jogo"
  FRONTEND_LEAVE_GAME:0 "Sair do Jogo"
