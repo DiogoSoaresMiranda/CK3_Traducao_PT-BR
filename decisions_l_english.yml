@@ -9,9 +9,7 @@
  start_hunt_decision_prestige:1 "Você pode ter oportunidades para aumentar seu [prestige|E]"
  start_hunt_decision_stress:0 "#P    Reduzir seu [stress|E]#!"
  start_hunt_decision_stress_lazy:0 "#N Você não vai perder [stress|E] já que você é [GetTrait('lazy').GetName( GetPlayer )]#!"
-
  start_hunt_decision_confirm:0 "Soe o chifre!"
-
  host_feast_decision:0 "Banquete do Hospedeiro"
 
  host_feast_decision_tooltip:0 "Uma [feast|E] será realizada"
@@ -33,8 +31,8 @@
  borrow_from_holy_order_decision_tooltip:0 "Você vai pedir dinheiro emprestado de uma Ordem Sagrada"
  borrow_from_holy_order_decision_desc:0 "Estou precisando de dinheiro, e quem melhor para pedir ajuda do que os servos de [ROOT.Char.GetFaith.HighGodName]? Posso enviar cartas, e espero obter uma resposta."
  borrow_from_holy_order_decision_confirm:0 "Escreva as perguntas!"
- borrow_from_holy_order_decision_effect_tooltip:1 "Você pede emprestado [SCOPE.ScriptValue('holy_order_gold_value')|P00] [gold|E][gold_i] a partir de um [holy_order|E]\n\n@warning_icon!# A [holy_order|E] começará a fazer demandas se você não pagar o empréstimo\n@warning_icon!# Você não pode pedir mais dinheiro emprestado novamente até que tenha pago este empréstimo"
- borrow_from_holy_order_gold_condition:0 "O pedido não tem ouro suficiente"
+ borrow_from_holy_order_decision_effect_tooltip:1 "Você pede emprestado [SCOPE.ScriptValue('holy_order_gold_value')|P00] [gold|E][gold_i] a partir de um [holy_order|E]\n\n@warning_icon! A [holy_order|E] começará a fazer demandas se você não pagar o empréstimo\n@warning_icon! Você não pode pedir mais dinheiro emprestado novamente até que tenha pago este empréstimo"
+ borrow_from_holy_order_gold_condition:1 "O pedido [ROOT.Char.GetFaith.GetAdjective] não tem ouro suficiente"
 
  escape_from_prison_decision:0 "Escapar da Prisão"
  escape_from_prison_decision_tooltip:0 "Tentativa de escapar da prisão"
@@ -43,7 +41,7 @@
  escape_from_prison_decision_failure.tt:0 "Sua tentativa de fuga falhou miseravelmente"
  escape_from_prison_decision_failure_outcome.tt:0 "[imprisoner.GetTitledFirstName] pode estar... descontente"
  escape_from_prison_decision_confirm:0 "Nenhuma barra vai me segurar!"
- escape_from_prison_decision_effect_tooltip:0 "@warning_icon!# O sucesso de sua tentativa depende de sua [prowess|E] e seu [traits|E]"
+ escape_from_prison_decision_effect_tooltip:0 "@warning_icon! O sucesso de sua tentativa depende de sua [prowess|E] e seu [traits|E]"
 
  tribal_challenge_ruler_decision:0 "Desafie o [ROOT.Char.GetLiege.GetTitleAsNameNoTooltip|U]"
  tribal_challenge_ruler_decision_desc:0 "[ROOT.Char.GetLiege.GetFirstName] carrega o título de [ROOT.Char.GetLiege.GetTitleAsNameNoTooltip] como se fosse inquestionável [ROOT.Char.GetLiege.GetHersHis]; como se não fosse apenas habilidade e força que devesse decidir nosso líder.\n\nI, [ROOT.Char.GetFullNameNoTooltip], questão [ROOT.Char.GetLiege.GetHerHis] direito ao título, a todos [ROOT.Char.GetLiege.GetPrimaryTitle.GetNameNoTier], e eu não ficarei mais em silêncio!"
@@ -77,7 +75,7 @@
  commit_suicide_decision:1 "Tentativa de Suicídio"
  commit_suicide_decision_desc:0 "Só existe escuridão e dor. As pessoas me dizem que vai melhorar, mas como eles sabem? O que isso me ajuda neste momento? Está na hora de se livrar das armadilhas deste reino mortal."
  commit_suicide_decision_tooltip:1 "Chegou a hora de partir deste mundo"
- commit_suicide_decision_effect_tooltip:0 "@warning_icon!# Você vai tentar acabar com sua vida, tem certeza que é isso que você quer?"
+ commit_suicide_decision_effect_tooltip:0 "@warning_icon! Você vai tentar acabar com sua vida, tem certeza que é isso que você quer?"
  commit_suicide_decision_confirm:0 "Minha hora chegou"
 
  pet_dog_decision:0 "Animal de Estimação [ROOT.Char.Custom('DogStoryName')]"
@@ -124,10 +122,10 @@
  renounce_vow_of_poverty_decision_desc:0 "Não há como negar o fato de que preciso de um orçamento maior para governar efetivamente meu reino. O pragmatismo exige a revogação do meu voto de pobreza."
  renounce_vow_of_poverty_decision_confirm:0 "Renuncie voto de Pobreza"
 
- initiate_consolamentum_decision:0 "Iniciar Consolamento"
- initiate_consolamentum_decision_tooltip:0 "É hora de se preparar para o fim desta vida"
- initiate_consolamentum_decision_desc:0 "#F Como o fim da minha vida se aproxima, devo iniciar o ritual de consolamento para limpar minha alma do pecado e seguir em frente deste mundo.#!"
- initiate_consolamentum_decision_confirm:0 "Iniciar Consolamento"
+ #initiate_consolamentum_decision:0 "Iniciar Consolamento"
+ #initiate_consolamentum_decision_tooltip:0 "É hora de se preparar para o fim desta vida"
+ #initiate_consolamentum_decision_desc:0 "#F Como o fim da minha vida se aproxima, devo iniciar o ritual de consolamento para limpar minha alma do pecado e seguir em frente deste mundo.#!"
+ #initiate_consolamentum_decision_confirm:0 "Iniciar Consolamento"
 
  seek_aid_of_the_spirits_decision:0 "Buscar ajuda dos Espíritos"
  seek_aid_of_the_spirits_decision_tooltip:0 "Tentar entrar em contato com os espíritos"
@@ -283,7 +281,7 @@
  form_switzerland_kingdom_decision_confirm:0 "Nossas reivindicações não podem ser negadas!"
  form_switzerland_kingdom_decision_desc:0 "Se todos os Cantões Alpinos forem reunidos, o Império terá que reconhecer sua reivindicação como uma Confederação unificada."
  form_switzerland_kingdom_decision_tooltip:0 "A Confederação Suíça será fundada."
- form_switzerland_kingdom_decision_effect_tooltip:0 "A Confederação Suíça será fundada"
+ form_switzerland_kingdom_decision_effect_tooltip:1 "Se você tem o [completely_control|E] de [savoy.GetName], isso irá se tornar parte da [switzerland.GetName]"
 
  form_austria_kingdom_decision:0 "Forma Arquiduque da Áustria"
  form_austria_kingdom_decision_confirm:0 "Forme o Arquiduque da Áustria"
@@ -474,7 +472,7 @@
  build_grand_church_decision_confirm:0 "Iniciar a construção #EMP imediatamente#!!"
 
  accept_cannibalism_decision:0 "[ROOT.Char.GetFaith.GetAdjectiveNoTooltip] Canibalismo"
- accept_cannibalism_decision_desc:0 "Nosso criador [ROOT.Char.GetFaith.CreatorName] nós fez em [ROOT.Char.GetFaith.GetHerHis|U] imagem. Ao absorver o reflexo do divino, nos aproximamos de [ROOT.Char.GetFaith.HighGodNameAlternate]."
+ accept_cannibalism_decision_desc:1 "Nosso criador [ROOT.Char.GetFaith.CreatorName] nós fez em [ROOT.Char.GetFaith.CreatorHerHis|U] imagem. Ao absorver o reflexo do divino, nos aproximamos de [ROOT.Char.GetFaith.HighGodNameAlternate]."
  all_my_family_members:1 "Todos [close_family_members|E]"
  all_my_intimidated_vassals:1 "Todos [intimidated|E] vassalos"
  accept_cannibalism_decision_confirm:0 "Nós festejamos!"
@@ -528,14 +526,16 @@
  promote_hungarian_settlement_decision_convert_county:0 "May convert to a nearby Christian [faith|E]"
 
  revive_magyar_paganism_decision:1 "Revive $magyar_pagan$"
- revive_magyar_paganism_decision_desc:0 "Christianity might have its advantages, but it has caused no end of grief and unrest amongst our subjects. Perhaps it is time to rekindle our connection with the ancient rites..."
- revive_magyar_paganism_decision_tooltip:0 "Abandon [ROOT.Char.GetFaith.GetNameNoTooltip] and embrace the traditions of our ancestors"
- revive_magyar_paganism_decision_confirm:0 "Renounce [ROOT.Char.GetFaith.GetNameNoTooltip]"
- revive_magyar_paganism_decision_province_conversion_tooltip:1 "Some [THIS.Char.GetCulture.GetNameNoTooltip] [counties|E] might convert to $magyar_pagan$"
+ revive_magyar_paganism_decision_desc:1 "[ROOT.Char.GetFaith.GetReligion.GetNameNoTooltip] might have its advantages, but it has caused no end of grief and unrest amongst our subjects. Perhaps it is time to rekindle our connection with the ancient rites..."
+ revive_magyar_paganism_decision_tooltip:1 "Abandon [ROOT.Char.GetFaith.GetNameNoTooltip] and embrace the traditions of our ancestors"
+ revive_magyar_paganism_decision_confirm:1 "Renounce [ROOT.Char.GetFaith.GetNameNoTooltip]"
+ revive_magyar_paganism_decision_scripted_effect.county_conversions.tt:0 "[counties|E] in your [realm|E] that share your [culture_group|E] might convert to $magyar_pagan$"
+ revive_magyar_paganism_decision.adjust_the_faith.tt:0 "You may swap some of the tenets of $magyar_pagan$"
+ hungarian_resettlement.every_converted_province:0 "$EFFECT_LIST_BULLET$ All [counties|E] that convert"
 
  dynasty_of_many_crowns_decision:0 "Dynasty of Many Crowns"
- dynasty_of_many_crowns_decision_desc:0 "One day, our dynasty will rule realms across the world. Through marriage and conquest, the [ROOT.Char.GetDynasty.GetNameNoTooltip] name will be known to all."
- dynasty_of_many_crowns_decision_confirm:0 "Declare sovereignty"
+ dynasty_of_many_crowns_decision_desc:1 "One day, our dynasty will rule realms across the world. Through marriage and conquest, the [ROOT.Char.GetDynasty.GetBaseNameNoTooltip] name will be known to all."
+ dynasty_of_many_crowns_decision_confirm:1 "Our legacy shall endure for eternity!"
  dynasty_of_many_crowns_decision_tooltip:0 "Bring fame and glory to the [ROOT.Char.GetDynasty.GetBaseName] [dynasty|E]"
 
  found_witch_coven_decision:0 "Found Witch Coven"
@@ -571,7 +571,7 @@
  unite_the_slavs_decision_tooltip:0 "Unite the Slavic peoples and found the [empire|E] of Slavia"
  unite_the_slavs_decision_confirm:0 "Found Slavia"
  unite_the_slavs_decision_desc:0 "If all of the Slavic peoples unite, there is no one who can stop us. I will bring about the mightiest empire the world has ever known!"
- unite_the_slavs_decision_titles_tt:1 "Every Slavic [kingdom|E] [title|E] you own will become [de_jure|E] of [slavia.GetName]"
+ unite_the_slavs_decision_titles_tt:2 "Every Slavic [kingdom|E] [title|E] will become [de_jure|E] of the [slavia.GetName]"
  unite_the_slavs_decision_effects_innovations_tt:1 "All Slavic cultures in your realm will discover up to 3 [innovations|E] from other Slavic cultures"
 
  #DEFENDERS OF HIGHGOD
@@ -589,6 +589,7 @@
  unite_the_spanish_thrones_decision_confirm:0 "Unite the Thrones"
  unite_the_spanish_thrones_decision_tooltip:0 "The Spanish thrones will be united once more"
  unite_the_spanish_thrones_decision_titles_tt:1 "Every Spanish [kingdom|E] [title|E] you own (except your [primary_title|E]) will be destroyed and their territories will become [de_jure|E] of your Primary Title ([THIS.Char.GetPrimaryTitle.GetNameNoTier])"
+ unite_the_spanish_thrones_decision_primary:0 "Your [primary_title|E] is an Iberian [kingdom|E]"
 
  #UNITE AFRICA
  unite_africa_decision:0 "Unite Africa"
@@ -599,27 +600,27 @@
  unite_africa_decision_generic_desc:0 "The peoples of Africa are proud, brave and strong. Yet, so many are misled and worship false gods. The time has come to unite them all under [ROOT.Char.GetFaith.HighGodName]."
  every_non_root_faith_vassal_africa:0 "Every non-[THIS.Char.GetFaith.GetAdjective] [vassal|E] or below in Africa"
  every_non_root_faith_county_africa:0 "Every non-[THIS.Char.GetFaith.GetAdjective] county in Africa"
- every_non_africa_uniter_faith_convert:0 "Converts to [africa_uniter.GetFaith.GetName]"
+ every_non_africa_uniter_faith_convert:1 "Converts to [africa_uniter.GetFaith.GetName|V]"
 
  #AVENGE THE BATTLE OF TOURS
  avenge_the_battle_of_tours_decision:0 "Avenge the Battle of Tours"
  avenge_the_battle_of_tours_decision_desc:0 "In 732, the Umayyad forces were defeated by the Franks on the road to Tours. Had things gone differently, all of Europe would be under Muslim rule today.\n\nI will avenge our fallen martyrs and make their dream a reality."
  avenge_the_battle_of_tours_decision_confirm:0 "Avenge the Battle of Tours"
  avenge_the_battle_of_tours_decision_tooltip:0 "March up the Road of the Martyrs and right past wrongs"
- every_non_avenger_faith_convert:0 "Converts to [avenger.GetFaith.GetName]"
+ every_non_avenger_faith_convert:1 "Converts to [avenger.GetFaith.GetName|V]"
  every_non_root_faith_vassal_west_europe:0 "Every non-[THIS.Char.GetFaith.GetAdjective] vassal or below in Western Europe"
  every_non_root_faith_county_west_europe:1 "Every non-[THIS.Char.GetFaith.GetAdjective] county in your realm in Western Europe"
 
- #FORMA PORTUGAL
- form_portugal_decision:0 "Forma Portugal"
- form_portugal_decision_desc:0 "Assim que tiver o controlo da costa ocidental da Península Ibérica, posso formar o Reino de Portugal e estabelecer a nossa própria cultura única."
- portguese_convert_list:1 "Cada [THIS.Char.GetCulture.GetGroup.GetName] [culture_group|E] sujeito no [THIS.Char.GetUINamePossessive] Reino Português"
- portguese_convert_list_court:1 "Cada [THIS.Char.GetCulture.GetName] [courtier|E]"
- portugese_convert_iberian_counties:0 "Cada [THIS.Char.GetCulture.GetGroup.GetName] [culture_group|E] county in the Kingdom of Portugal"
+ #FORM PORTUGAL
+ form_portugal_decision:0 "Form Portugal"
+ form_portugal_decision_desc:0 "Once I am in control of the western coast of the Iberian Peninsula, I can form the Kingdom of Portugal and establish our own unique culture."
+ portguese_convert_list:1 "Every [THIS.Char.GetCulture.GetGroup.GetName] [culture_group|E] subject in [THIS.Char.GetUINamePossessive] Portuguese realm"
+ portguese_convert_list_court:1 "Every [THIS.Char.GetCulture.GetName] [courtier|E]"
+ portugese_convert_iberian_counties:0 "Every [THIS.Char.GetCulture.GetGroup.GetName] [culture_group|E] county in the Kingdom of Portugal"
  portugese_convert_non_iberian_counties:0 "Every other county in the Kingdom of Portugal"
- form_portugal_decision_confirm:0 "Forma Portugal"
- form_portugal_decision_tooltip:0 "Forma o [kingdom|E] de Portugal e estabelecer os portugueses [culture|E]"
- form_portugal_decision_effects_de_jure_tt:1 "[title_d_porto.GetNameNoTier], [title_d_coimbra.GetNameNoTier], [title_d_beja.GetNameNoTier], e [title_d_algarve.GetNameNoTier] tornar-se [de_jure|E] parte de #V [title_k_portugal.GetName]#! "
+ form_portugal_decision_confirm:0 "Form Portugal"
+ form_portugal_decision_tooltip:0 "Form the [kingdom|E] of Portugal and establish the Portuguese [culture|E]"
+ form_portugal_decision_effects_de_jure_tt:1 "[title_d_porto.GetNameNoTier], [title_d_coimbra.GetNameNoTier], [title_d_beja.GetNameNoTier], and [title_d_algarve.GetNameNoTier] become [de_jure|E] part of the #V [title_k_portugal.GetName]#! "
 
 
  #Form custom kingdom or empire
@@ -632,10 +633,10 @@
  found_empire_decision_confirm:0 "Gather the realm"
  found_empire_decision_tooltip:0 "Found an entirely new Empire title"
  create_new_kingdom:1 "You create a new Kingdom"
- create_title_every_held_duchy:1 "Every Duchy title you hold"
+ create_title_every_held_duchy:2 "Every Duchy title you [hold|E] or [completely_control|E]"
  create_custom_kingdom_de_jure_changes:1 "Becomes [de_jure|E] [duchies|E] of your new Kingdom"
  create_new_empire:1 "You create a new Empire"
- create_title_every_held_kingdom:1 "Every Kingdom title you hold"
+ create_title_every_held_kingdom:2 "Every Kingdom title you [hold|E] or [completely_control|E]"
  create_custom_empire_de_jure_changes:1 "Becomes [de_jure|E] [kingdoms|E] of your new Empire"
  NEW_CREATED_TITLE_NAME:0 "[old_title.GetBaseNameNoTierNoTooltip]"
 
@@ -691,7 +692,7 @@
  adopt_special_succession_decision_desc:0 "Partition succession makes us weak and divided. Perhaps the realm's magnates would accept a historical alternative..."
  adopt_special_succession_decision_confirm:0 "Think on the matter"
  adopt_special_succession_decision_tooltip:0 "Replace my partition [succession|E] with a local type of Elective $game_concept_succession$"
- adopt_special_succession_decision_effects.tt:0 "You may pick a form of traditional Elective [succession|E] based on your [culture|E], or your capital's, provided one is available\n$EFFECT_LIST_BULLET$It will be applied to any of your top-[rank|E] [titles|E] using Partition [succession|E]"
+ adopt_special_succession_decision_effects.tt:1 "You may pick a form of traditional Elective [succession|E] based on your [culture|E]\n$EFFECT_LIST_BULLET$It will be applied to any of your top-[rank|E] [titles|E] using Partition [succession|E]"
  implemented_traditional_succession_law_opinion:0 "Implemented Traditional Succession Law"
  found_kingdom_decision_advanced_succesion:0 "Does not have the Advanced Succession law"
  found_kingdom_decision_elective_succesion:0 "Does not have the Elective Succession law"
@@ -821,4 +822,5 @@
  launch_hungarian_migration_decision_flavour_effect:0 "You gain the single-use special [hungarian_invasion_casus_belli|E]"
  launch_hungarian_migration_decision_confirm:0 "Send riders to each tribe!"
  launch_hungarian_migration_decision_before_last_date:0 "The date is 911.1.1 or earlier"
+
  ###BasaraMestre-10-09-2020###

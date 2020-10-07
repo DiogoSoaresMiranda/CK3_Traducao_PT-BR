@@ -111,7 +111,7 @@ l_english:
  setting_random_ruler_placement_on:0 "Ligado"
  setting_random_ruler_placement_on_desc:0 "Governantes são colocados aleatoriamente no mapa. Os Reinos são amplamente os mesmos, mas Títulos são mantidos por governantes diferentes."
  setting_random_ruler_placement_on_conversion:0 "Ligado (Conversão)"
- setting_random_ruler_placement_on_conversion_desc:0 "Governantes são colocados aleatoriamente no mapa. Eles serão convertidos para a crença local."
+ setting_random_ruler_placement_on_conversion_desc:0 "Governantes são colocados aleatoriamente no mapa. Eles serão convertidos para a crença Historica do Governante local."
  
  rule_diplomatic_range:0 "Alcance da Diplomacia"
  setting_default_diplomatic_range:0 "Padrão"

@@ -99,7 +99,7 @@
  
  council_rights:0 "Direitos do Conselho"
  council_rights_none:0 "não $council_rights$"
- council_rights_none_desc:0 "#flavor o [vassal] não recebe nenhum privilégio fora do comum quando se trata de [council]."
+ council_rights_none_desc:0 "#flavor o [vassal] não recebe nenhum privilégio fora do comum quando se trata de [council].#!"
  council_rights_none_short:0 "Nenhum"
  council_rights_guaranteed:0 "$council_rights$ Garantido"
  council_rights_guaranteed_desc:0 "#emphasis #bold [vassal|E] Privilege:#!#!\nThe #high $force_onto_council$#! [interaction|E] pode ser usado em will\n\n#flavor o [vassal] é concedido especial [council] privilégios, e esperará um assento permanente no [council]. Conceder este privilégio a muitos [vassals] acabará por perturbar o [powerful_vassals] do [realm|E].#!"

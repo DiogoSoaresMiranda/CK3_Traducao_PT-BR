@@ -2,7 +2,7 @@
  
  iberia_north_africa.0005.t:0 "Uma Espanha Unida"
  iberia_north_africa.0005.desc:0 "Mais uma vez, os tronos da Espanha foram unidos em um [ROOT.Char.GetTitleAsNameNoTooltip]. Os falsos monarcas foram destronados, enquanto orgulhosos [ROOT.Char.GetPrimaryTitle.GetNameNoTier] permanecem mais fortes que nunca.\n\nUm dia eu deverei partir deste mundo e ir para [ROOT.Char.GetFaith.DivineRealm], porém meu legado irá permanecer na Terra para sempre. Eles irão me chamar '[ROOT.Char.GetTitledFirstNameNoTooltip] — [ROOT.Char.GetMotherFather|U] da Espanha.'"
- iberia_north_africa.0005.a:0 "Esta é a aurora de uma nova era."
+ iberia_north_africa.0005.a:1 "Esta é a aurora de uma nova era."
 
  iberia_north_africa.0006.start.desc:0 "Um depois do outro, os Reinos da Espanha caíram sobre as leis de [spain_uniter.GetPrimaryTitle.GetNameNoTier]."
  iberia_north_africa.0006.relation_former.desc:0 "Meu [ROOT.Char.Custom2('RelationToMe', spain_uniter)] [spain_uniter.GetTitledFirstName]"
