@@ -51,6 +51,6 @@
  HOLDING_TT_TERRAIN:0 "[terrain|E]: [Holding.GetProvince.GetTerrain.GetNameNoTooltip]"
  HOLDING_TT_SUPPLY_TT:0 "#T [supply_limit|E]: [Holding.GetProvince.GetSupplyLimitFor( GetPlayer )]\n#![Holding.GetProvince.GetSupplyLimitDescFor( GetPlayer )]"
  HOLDING_TT_SUPPLY:0 "[supply_limit|E]: #tooltip:HOLDING_TT_SUPPLY_TT [Holding.GetProvince.GetSupplyLimitFor( GetPlayer )]#!"
- HOLDING_TT_EMPTY:0 "No Holding\nControlled by: [Holding.GetProvince.GetTitle.GetDeJureLiege.GetHolder.GetUIName]"
+ HOLDING_TT_EMPTY:0 "Sem Propriedade\nControlado por: [Holding.GetProvince.GetTitle.GetDeJureLiege.GetHolder.GetUIName]"
  HOLDING_CLICK_TOOLTIP:0 "#I Clique para selecionar#!"
  
