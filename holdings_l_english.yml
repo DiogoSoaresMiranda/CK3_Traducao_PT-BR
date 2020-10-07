@@ -30,7 +30,7 @@
  SUPPLY_FROM_DEVELOPMENT:0 "[development|E]"
  SUPPLY_MULT_SAME_SUB_REALM:0 "Próprio [realm|E]"
  SUPPLY_MULT_SAME_REALM:0 "Próprio [top_realm|E]"
- COUNTY_HOLDING_MODIFIER_INCOME:0 "Renda de propriedades $TYPE|V$ no [county|E]"
+ COUNTY_HOLDING_MODIFIER_INCOME:0 "Renda de $TYPE|V$s no [county|E]"
  COUNTY_DEVELOPMENT_TAX_MOD:1 "Do [county_development|E]: $VALUE|=+%0$"
  COUNTY_DEVELOPMENT_LEVY_MOD:1 "Do [county_development|E]: $VALUE|=+%0$"
  IGNORED_DEVELOPMENT:0 "#weak $VALUE$#! "
