@@ -4,15 +4,15 @@
  qiangic_religion_adj:0 "Hsexje"
  qiangic_religion_adherent:0 "Hsexjemi"
  qiangic_religion_adherent_plural:0 "Hsexjem"
- qiangic_religion_desc:0 "The folk religions of the Qiangic tribes focus on the worship of the Gods of nature and their ancestors, as well as the veneration of white flint stones which are said to possess spirits of nature."
+ qiangic_religion_desc:0 "As religiões populares das tribos Qiang se concentram na adoração dos Deuses da natureza e seus ancestrais, bem como na veneração de pederneiras brancas, que dizem possuir espíritos da natureza."
  
  qiangic_high_god_name:0 "Mubyasei"
- qiangic_high_god_name_possessive:0 "Mubyasei's"
- qiangic_high_god_shehe:0 "He"
- qiangic_high_god_herselfhimself:0 "Himself"
- qiangic_high_god_herhis:0 "His"
+ qiangic_high_god_name_possessive:0 "Mubyasei"
+ qiangic_high_god_shehe:0 "Ele"
+ qiangic_high_god_herselfhimself:0 "Ele mesmo"
+ qiangic_high_god_herhis:0 "Dele"
  qiangic_high_god_name_alternate:0 "Abba Chi"
- qiangic_high_god_name_alternate_possessive:0 "Abba Chi's"
+ qiangic_high_god_name_alternate_possessive:0 "Abba Chi"
  qiangic_good_god_mubyasei:0 "Mubyasei"
  qiangic_good_god_abba_chi:0 "Abba Chi"
  qiangic_good_god_abba_sei:0 "Abba Sei"
@@ -21,9 +21,9 @@
  qiangic_good_god_tugantsu:0 "Tugantshu"
  qiangic_good_god_mupitha:0 "Mupitha"
  qiangic_devil_name:0 "Dul"
- qiangic_devil_name_possessive:0 "Dul's"
- qiangic_devil_shehe:0 "he"
- qiangic_devil_herselfhimself:0 "himself"
+ qiangic_devil_name_possessive:0 "Dul"
+ qiangic_devil_shehe:0 "Ele"
+ qiangic_devil_herselfhimself:0 "Ele mesmo"
  qiangic_evil_god_dul:0 "Dul"
  qiangic_house_of_worship:0 "hseji"
  qiangic_house_of_worship_plural:0 "hseji"
@@ -46,63 +46,63 @@
  qiangic_positive_afterlife:0 "Mudu"
  qiangic_negative_afterlife:0 "Sseb-gveal"
  qiangic_death_name:0 "Ddeaxi"
- qiangic_death_name_possessive:0 "Ddeaxi's"
+ qiangic_death_name_possessive:0 "Ddeaxi"
 
  qiangic_creator_god_name:0 "$qiangic_high_god_name$"
  qiangic_creator_god_name_possessive:0 "$qiangic_high_god_name_possessive$"
  qiangic_health_god_name:0 "Sibeahse" #medicine god
- qiangic_health_god_name_possessive:0 "Sibeahse's"
+ qiangic_health_god_name_possessive:0 "Sibeahse"
  qiangic_fertility_god_name:0 "Ixihse" #birth god
- qiangic_fertility_god_name_possessive:0 "Ixihse's"
+ qiangic_fertility_god_name_possessive:0 "Ixihse"
  qiangic_wealth_god_name:0 "Zziguhse" #money god
- qiangic_wealth_god_name_possessive:0 "Zziguhse's"
+ qiangic_wealth_god_name_possessive:0 "Zziguhse"
  qiangic_household_god_name:0 "Jishse" #house god
- qiangic_household_god_name_possessive:0 "Jishse's"
+ qiangic_household_god_name_possessive:0 "Jishse"
  qiangic_fate_god_name:0 "leass"
  qiangic_fate_god_name_possessive:0 "leass'"
  qiangic_knowledge_god_name:0 "Abba Sei"
- qiangic_knowledge_god_name_possessive:0 "Abba Sei's"
+ qiangic_knowledge_god_name_possessive:0 "Abba Sei"
  qiangic_war_god_name:0 "Gvugvuahse" #war god
- qiangic_war_god_name_possessive:0 "Gvugvuahse's"
+ qiangic_war_god_name_possessive:0 "Gvugvuahse"
  qiangic_trickster_god_name:0 "Abba Mullah"
- qiangic_trickster_god_name_possessive:0 "Abba Mullah's"
+ qiangic_trickster_god_name_possessive:0 "Abba Mullah"
  qiangic_night_god_name:0 "Xishueahse" #moon god
- qiangic_night_god_name_possessive:0 "Xishueahse's"
+ qiangic_night_god_name_possessive:0 "Xishueahse"
  qiangic_water_god_name:0 "Dsehse" #water god
- qiangic_water_god_name_possessive:0 "Dsehse's"
+ qiangic_water_god_name_possessive:0 "Dsehse"
 
  #Rrmeaism
  rrmeaism:0 "Vvluphixje" # lit. White Stone Worship
  rrmeaism_adj:0 "Vvluphixje"
  rrmeaism_adherent:0 "Vvluphimi"
  rrmeaism_adherent_plural:0 "Vvluphim"
- rrmeaism_desc:0 "The religion of the Rrmea, or Qiang, focus much of their worship on the veneration of white stones, or Vvluphi. Shaman-priests known as xbi wear a monkey fur hat and beat a sheep-skin drum while performing rituals."
+ rrmeaism_desc:0 "A religião dos Rrmea, ou Qiang, concentra grande parte de sua adoração na veneração das pedras brancas, ou Vvluphi. Os sacerdotes xamãs conhecidos como xbi usam um chapéu de pele de macaco e batem um tambor de pele de ovelha durante a realização de rituais."
  
- rrmeaism_old:0 "Old Vvluphixje"
- rrmeaism_old_adj:0 "Old Vvluphixje"
- rrmeaism_old_adherent:0 "Old Vvluphimi"
- rrmeaism_old_adherent_plural:0 "Old Vvluphim"
+ rrmeaism_old:0 "Velha Vvluphixje"
+ rrmeaism_old_adj:0 "Velha Vvluphixje"
+ rrmeaism_old_adherent:0 "Velha Vvluphimi"
+ rrmeaism_old_adherent_plural:0 "Velha Vvluphim"
 
  #Melieism (Tangut Root West)
  melieism:0 "Melie" # lit. Root West
  melieism_adj:0 "Melie"
- melieism_adherent:0 "Melieist"
- melieism_adherent_plural:0 "Melieists"
- melieism_desc:0 "The indigenous beliefs of the Tangut people focused around the White Crane being the heavenly male aspect of the divine, while the Red Monkey was seen as the earthly female aspect of divinity, and non-Buddhist Tangut society was divided into two classes along these principles: the priestly 'Black-headed' and the 'Red-faced' commoners."
+ melieism_adherent:0 "Melieista"
+ melieism_adherent_plural:0 "Melieistas"
+ melieism_desc:0 "As crenças nativas do povo Tangut se concentravam em que o Garça Branca era o aspecto masculino celestial do divino, enquanto o Macaco Vermelho era visto como o aspecto feminino terreno da divindade, e a sociedade Tangut não budista era dividida em duas classes ao longo desses princípios : os sacerdotais 'cabeça preta' e os cidadãos 'cara vermelha'. "
  
  
- melieism_old:0 "Old Melie"
- melieism_old_adj:0 "Old Melie"
- melieism_old_adherent:0 "Old Melieist"
- melieism_old_adherent_plural:0 "Old Melieists"
+ melieism_old:0 "Velho Melie"
+ melieism_old_adj:0 "Velho Melie"
+ melieism_old_adherent:0 "Velho Melieista"
+ melieism_old_adherent_plural:0 "Velho Melieistas"
  
  tangut_high_god_name:0 "Mewn" # lit. Crane
  tangut_high_god_name_possessive:0 "Mewn's"
- tangut_high_god_shehe:0 "He"
- tangut_high_god_herselfhimself:0 "Himself"
- tangut_high_god_herhis:0 "His"
+ tangut_high_god_shehe:0 "Ele"
+ tangut_high_god_herselfhimself:0 "Ele mesmo"
+ tangut_high_god_herhis:0 "Dele"
  tangut_high_god_name_alternate:0 "Phôn Mbin" # lit. White Loftiness
- tangut_high_god_name_alternate_possessive:0 "Phôn Mbin's"
+ tangut_high_god_name_alternate_possessive:0 "Phôn Mbin"
  tangut_good_god_mewn:0 "Mewn"
  tangut_good_god_viei:0 "Viei" # lit. Monkey
  tangut_religious_symbol:0 "Mewn" # white crane
@@ -145,3 +145,5 @@
  tangut_night_god_name_possessive:0 "$tangut_high_god_name_possessive$"
  tangut_water_god_name:0 "$tangut_fertility_god_name$"
  tangut_water_god_name_possessive:0 "$tangut_fertility_god_name_possessive$"
+
+###CEFALOS 27/09/2020###
