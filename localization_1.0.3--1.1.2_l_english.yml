@@ -45,4 +45,10 @@
  ayyar_flavor:0 "#F Young and eager, members of the Ayyar fighting clubs serve as willing and able soldiers ready to be called upon at a moment's notice.#!"
  nick_the_oppressor:0 "the Oppressor"
  nick_the_apostate:0 "the Apostate"
+ MY_REALM_WINDOW_ABSOLUTE_COUNTY_CONTROL:0 "[control|E]: $ABSOLUTE_COUNTY_CONTROL$"
+ #Paraphrasing Alfred the Great:
+ dynn_Wessex_motto:0 "What punishments may befall us when we do not cherish or transmit learning?"
+ dynn_Harris_motto:0 "Holders of Quill and Sword"
+ dynn_Cywinski_motto:0 "The bigger, the stronger"
+ 
  
