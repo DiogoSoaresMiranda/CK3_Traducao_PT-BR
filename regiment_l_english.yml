@@ -42,12 +42,12 @@
  BASE_VALUE_SIEGE:0 "Base: $VALUE|V1$"
 
  #MaA types
- skirmishers:0 "Skirmishers"
- archers:0 "Archers"
- light_cavalry:0 "Light Cavalry"
- heavy_cavalry:0 "Heavy Cavalry"
- pikemen:1 "Spearmen"
- heavy_infantry:0 "Heavy Infantry"
+ skirmishers:2 "[skirmishers|E]"
+ archers:2 "[archers|E]"
+ light_cavalry:2 "[light_cavalry|E]"
+ heavy_cavalry:2 "[heavy_cavalry|E]"
+ pikemen:2 "[spearmen|E]"
+ heavy_infantry:2 "[heavy_infantry|E]"
  
  #Base MaA
  light_footmen:0 "Light Footmen"
@@ -59,7 +59,7 @@
  crossbowmen:0 "Crossbowmen"
  
  #Siege MaA
- siege_weapon:1 "Siege Weapons"
+ siege_weapon:2 "[siege_weapons|E]"
  onager:0 "Onagers"
  mangonel:0 "Mangonels"
  trebuchet:0 "Trebuchets"

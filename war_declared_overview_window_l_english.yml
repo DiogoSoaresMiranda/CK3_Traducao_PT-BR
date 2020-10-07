@@ -1,6 +1,6 @@
 ﻿l_english:
  WAR_DECLARED_OVERVIEW_DISMISS:0 "Reúna as tropas!"
- WAR_DECLARED_OVERVIEW_DISMISS_TOOLTIP:0 "Feche a janela"
+ #WAR_DECLARED_OVERVIEW_DISMISS_TOOLTIP:0 "Feche a janela"
  WAR_DECLARED_OVERVIEW_FLAVOR:0 "[WAR.Custom('WarDeclaredOpening')][WAR.Custom('WarDeclaredFlavor')]"
 
  war_declared_opening.neutral:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateGreeting',ROOT.War.GetActiveCB.GetDefender)]\n\n"
@@ -19,10 +19,10 @@
  war_declared_flavor.subjugation.arrogant:0 "Que insolência, para você fingir ser um soberano igual quando eu sou tão claramente superior a você! Vou esmagar seus exércitos patéticos no campo de batalha e forçá-los a se ajoelhar perante a mim!"
  war_declared_flavor.conquest:0 "Você é um governante débil e não merece as terras que possui. Eu vou te mostrar como é ser um verdadeiro soberano - quando eu tomar essas terras de você!"
  war_declared_flavor.peasant:0 "Sua arrogância não tem limites. Não se preocupe, em breve você aprenderá uma lição de humildade!"
- war_declared_flavor.populist:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)] Se é a guerra que você quer, então você a terá! Não vamos deixar ninguém nos impedir de formar um novo reino!"
+ war_declared_flavor.populist:1 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('NegativeSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)] Se é a guerra que você quer, então você a terá! Não vamos deixar ninguém nos impedir de formar um novo reino!"
  war_declared_flavor.independence:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('NegativeSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)] Vivemos sob seu reinado por muito tempo. Não podemos mais tolerar isso. Vamos nos libertar a força!"
- war_declared_flavor.liberty:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)] Não podemos mais tolerar leis rígidas que violam nossos antigos direitos. Vamos eliminá-las com a espada!"
- war_declared_flavor.claimant:0 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('AppropriateSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)] Você é falso e um tirano. É hora de colocar o monarca legítimo no trono!"
+ war_declared_flavor.liberty:1 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('NegativeSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)] Não podemos mais tolerar leis rígidas que violam nossos antigos direitos. Vamos eliminá-las com a espada!"
+ war_declared_flavor.claimant:1 "[ROOT.War.GetActiveCB.GetAttacker.Custom2('NegativeSupplimentaryGreeting',ROOT.War.GetActiveCB.GetDefender)] Você é falso e um tirano. É hora de colocar o monarca legítimo no trono!"
  war_declared_flavor.retraction_refused:0 "$char_interaction.0221.desc$"
  war_declared_flavor.revocation_refused:0 "$char_interaction.0201.desc$"
  war_declared_flavor.imprisonment_refused:0 "Você é um tirano e me recuso a me submeter à sua autoridade! O país se levantará contra seu governo nefasto!"

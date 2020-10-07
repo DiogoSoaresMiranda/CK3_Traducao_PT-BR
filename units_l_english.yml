@@ -34,7 +34,7 @@
  UNIT_STATE_MOVING:0 "Marchando"
  UNIT_STATE_RAIDING:0 "Invadindo"
  UNIT_STATE_RETREATING:0 "Recuando para [PROVINCE.GetName]"
- KNIGHT_IN_THIS_ARMY_TOOLTIP:1 "[knight_i]É um $knight_culture_player$ neste [army|E]"
+ KNIGHT_IN_THIS_ARMY_TOOLTIP:2 "É um $knight_culture_player$ neste [army|E]"
  KNIGHT_IN_ARMY_TOOLTIP:1 "[knight_i]É um $knight_culture_player$ em outro [army|E]"
  UNIT_HOSTILE:0 "Este [army|E] é [hostile_army|E]"
  SUPPLY_BREAKDOWN_FRIENDLY_TERRITORY:0 "Em território amigável"

@@ -99,7 +99,7 @@
  party_baron.3004.a:0 "#EMP [party_baron.GetSheHe|U]#! precisa ser quebrado!"
  party_baron.3004.b:0 "Eu estou... indo longe demais?"
 
- party_baron.4001.desc:0 "A perda de [previous_character.Custom2('YourCharacterIntroduction', ROOT.Char)] tem sido difícil de aceitar. [party_baron.GetSheHe|U] foi um bom amigo, e você deveria ter orgulho do tipo de [previous_character.GetWomanMan] que [previous_character.GetSheHe] foi.\n\nEsse deve ser um tempo difícil para você, mas saiba que terá meu apoio!"
+ party_baron.4001.desc:1 "A perda de [previous_character.Custom2('YourCharacterIntroduction', ROOT.Char)] tem sido difícil de aceitar. [previous_character.GetSheHe|U] foi um bom amigo, e você deveria ter orgulho do tipo de [previous_character.GetWomanMan] que [previous_character.GetSheHe] foi.\n\nEsse deve ser um tempo difícil para você, mas saiba que terá meu apoio!"
  party_baron.4001.a:0 "Obrigado por suas palavras tão gentis."
 
  party_baron.4002.opening:0 "[party_baron.Custom2('AppropriateGreeting', ROOT.Char)]"

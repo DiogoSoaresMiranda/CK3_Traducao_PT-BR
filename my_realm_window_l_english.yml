@@ -112,7 +112,7 @@
  MY_REALM_WINDOW_DOMAIN_LEVIES:0 "[domain|E] [levies|E]"
  MY_REALM_WINDOW_VASSAL_LEVIES:0 "[vassal|E] [levies|E]"
  ME_REALM_WINDOW_EMPTY_HOLDINGS:1 "Empty holdings: #high [GetDataModelSize(CountyGroup.GetEmptyHoldings)]#!"
- MY_REALM_WINDOW_POWERFUL_VASSAL:0 "Powerful Vassal"
+ MY_REALM_WINDOW_POWERFUL_VASSAL:1 "[powerful_vassal|X]"
  MY_REALM_WINDOW_TITLES_LOST_ON_SUCCESSION:0 "@warning_icon! Titles lost on succession: [MyRealmWindow.GetNumTitlesLost]"
  MY_REALM_WINDOW_VASSAL_LIMIT:0 "[vassal_limit|E]: "
  MY_REALM_WINDOW_VASSAL_LIMIT_VALUE:0 "[GetPlayer.GetNumVassalsTowardsLimit]/[GetPlayer.GetVassalLimit]"

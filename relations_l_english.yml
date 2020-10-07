@@ -320,7 +320,7 @@
 
  #Frame playable
  FRAME_RELATION_ME:1 "#T This is you#!"
- FRAME_RELATION_MY_HEIR:1 "#T This is your [heir|E]#!"
+ FRAME_RELATION_MY_HEIR:2 "#T This is your [player_heir|E]#!"
 
  #Frame dynasty
  FRAME_RELATION_DYNAST:2 "#T [dynast|E] da Sua [dynasty|E]\n#!$TT_DYNAST_DESC$"

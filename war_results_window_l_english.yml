@@ -17,7 +17,7 @@
  WAR_RESULTS_MY_WAR_CHEST_SHARE:1 "Seu baú de guerra compartilhado"
  WAR_RESULTS_GAIN_NOTHING:1 "#weak Sua contribuição foi menor do que o necessário $VALUE$, então você não ganha nada#!"
  WAR_RESULTS_DISMISS:0 "Que assim seja"
- WAR_RESULTS_DISMISS_TOOLTIP:0 "Fechar janela e dispensar notificação"
+ #WAR_RESULTS_DISMISS_TOOLTIP:0 "Fechar janela e dispensar notificação"
  WAR_RESULTS_INVALIDATED_DESC:0 "A guerra terminou de forma inconclusiva porque o [casus_belli|E] não são válidos\nNinguém ganha ou perde nada"
  WAR_OVER_GREETING:0 "[TARGET_CHARACTER.Custom2('AppropriateGreeting', CHARACTER.Self)]\n[TARGET_CHARACTER.Custom2('AppropriateSupplimentaryGreeting', CHARACTER.Self)]"
  SECONDARY_WIN:0 "Vencemos a guerra liderada por [CHARACTER.GetUIName] contra [TARGET_CHARACTER.GetUIName]."

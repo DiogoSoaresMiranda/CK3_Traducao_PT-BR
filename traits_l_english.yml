@@ -613,7 +613,7 @@
  trait_mujahid_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] fez seu dever islâmico e participou de uma Jiade."
  	#Muslim version of Pilgrim
  trait_hajjaj:0 "Hajjaj"
- trait_hajjaj_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] completou uma peregrinação a um local sagrado islâmico."
+ trait_hajjaj_desc:1 "[ROOT.GetCharacter.GetFirstNameNoTooltip] completou o Hajj,  uma peregrinação até a Casa de Allah em Mecca."
  	#Muslim male & female versions of Blood of the Prophet, respectively
  trait_sayyid:0 "Sayyid"
  trait_sayyida:0 "Sayyida"
@@ -727,7 +727,7 @@
  trait_adventurer_desc:0 "Este personagem levou uma vida de bravura e ação, como um aventureiro."
  trait_adventurer_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] levou uma vida de bravura e ação, como um aventureiro."
  	# Female version of Child of Consort
- trait_child_of_concubine:0 "Filho da Concubina"
+ trait_child_of_concubine:1 "Filho da Concubina"
  trait_child_of_concubine_desc:0 "Este personagem nasceu de uma concubina."
  trait_child_of_concubine_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] nasceu de uma concubina."
  	# Male version of Child of Concubine
@@ -863,7 +863,7 @@
  trait_crusader_king_hellenism_male:0 "Arconte"
  trait_crusader_king_hellenism_female:0 "Arquontessa"
  trait_crusader_king_hinduism:0 "Rajarishi"
- trait_crusader_king_islam:0 "Moinuddin"
+ trait_crusader_king_islam:1 "Amir al-Mu'minin"
  trait_crusader_king_jainism:0 "Monarca Irênico"
  trait_crusader_king_judaism:0 "Nagid"
  trait_crusader_king_magyar:0 "Escolhido de Hadùr"
