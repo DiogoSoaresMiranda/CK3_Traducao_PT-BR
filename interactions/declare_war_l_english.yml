@@ -13,7 +13,7 @@
  DECLARE_WAR_NO_CASUS_BELLI_CHOSEN:0 "Nenhuma [casus_belli|E] escolhida"
  DECLARE_WAR_NO_CASUS_BELLI_CHOSEN_WARNING_TOOLTIP:0 "@warning_icon!#X $DECLARE_WAR_NO_CASUS_BELLI_CHOSEN$#!"
  DECLARE_WAR_ADDITIONAL_WARNING_STRONG_HOOK_LIEGE:1 "Irá usar o [strong_hook|E] que você tem  em seu [liege|E]"
- DECLARE_WAR_ADDITIONAL_WARNING_IS_HOLY_WAR:1 "[holy_war|E]: [DEFENDER.GetFaith.GetName] [rulers|E] pode se juntar à [war|E]"
+ DECLARE_WAR_ADDITIONAL_WARNING_IS_HOLY_WAR:2 "[holy_war|E]: [DEFENDER.GetFaith.GetAdjective] [rulers|E] pode se juntar à [war|E]"
  DECLARE_WAR_ATTACKER_ALLY_COUNT:0 "Allies: [DeclareWarInteractionWindow.GetAllyCountForAttacker]"
  DECLARE_WAR_DEFENDER_ALLY_COUNT:0 "Allies: [DeclareWarInteractionWindow.GetAllyCountForDefender]"
  DECLARE_WAR_CHANGE_WAR_GOAL_TITLE:1 "Alterar objetivos"

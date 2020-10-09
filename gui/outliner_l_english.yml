@@ -17,3 +17,4 @@
  OUTLINER_ARMY_CLICK_TO_SELECT:0 "#I Click to Select the Army#!"
  OUTLINER_ARMY_CLICK_TO_PAN:0 "#I Click to go to location#!"
  OUTLINER_ARMY_RIGHT_CLICK_TO_PAN:0 "#I Right-click to go to location#!"
+ OUTLINER_PINNED_CHARACTER: "[Character.GetShortUINameNotMeNoTooltip]#medium , [Character.GetAge]#!"

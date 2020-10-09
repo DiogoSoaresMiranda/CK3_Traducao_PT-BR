@@ -489,7 +489,7 @@
 
  stewardship_domain_special.3012.t:0 "[stewardship_domain_special_3010_county.GetNameNoTier] Visit"
  stewardship_domain_special.3012.desc.a:0 "[stewardship_domain_special_3010_baron.GetTitledFirstName] explains apologetically that the people here are an unruly lot, and that they need to be made to understand that my rule shall not be questioned. Their passive acceptance is not enough, I need loyalty and obedience.\n\nHow can I convince them to comply?"
- stewardship_domain_special.3012.desc.b:0 "The people here are an unruly lot.  They need to be made to understand that my rule shall not be questioned.  Their passive acceptance is not enough, I need loyalty and obedience.\nHow can I convince them to comply?"
+ stewardship_domain_special.3012.desc.b:0 "The people here are an unruly lot. They need to be made to understand that my rule shall not be questioned. Their passive acceptance is not enough, I need loyalty and obedience.\nHow can I convince them to comply?"
  stewardship_domain_special.3012.a:0 "With gold, I shall show my generosity."
  stewardship_domain_special.3012.b:0 "Impress them with a grand speech about my rule."
  stewardship_domain_special.3012.b.success:0 "I impress the people with my speech"
@@ -508,7 +508,7 @@
  stewardship_domain_special.3014.b:0 "At least I learned something."
  stewardship_domain_special.3014.c:0 "My words move the realm."
  stewardship_domain_special.3014.e:0 "Let them hate, so long as they fear."
- stewardship_domain_special.3014.f:0 "This so frustrating. Will I ever improve my diplomacy?"
+ stewardship_domain_special.3014.f:0 "This is so frustrating. Will I ever improve my diplomacy?"
  stewardship_domain_special.3014.f.tt:0 "I did not learn anything about stewardship."
 
  stewardship_domain_special.8031.t:0 "$stewardship_domain_special.8001.t$: Bringing Life"

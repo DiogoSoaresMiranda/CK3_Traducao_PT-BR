@@ -29,9 +29,9 @@
  combat_event.1002.pow_message.desc.end:0 "after winning the Battle of [combat_location.GetName]!"
 
  combat_event.1003.pow_message.t:0 "Allied Combatants Captured"
- combat_event.1003.pow_message.desc.single:0 "[primary_prisoner.Custom2('MyCharacterIntroduction', ROOT.Char)|U] was taken prisoner"
- combat_event.1003.pow_message.desc.double:0 "[primary_prisoner.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and [secondary_prisoner.Custom2('MyCharacterIntroduction', ROOT.Char)] were taken prisoner"
- combat_event.1003.pow_message.desc.multiple:0 "[primary_prisoner.Custom2('MyCharacterIntroduction', ROOT.Char)|U] and [ROOT.Var('num_other_relevant_captured_combatants').GetValue|V0] others were taken prisoner"
+ combat_event.1003.pow_message.desc.single:1 "[primary_prisoner.Custom2('YourCharacterIntroduction', ROOT.Char)|U] was taken prisoner"
+ combat_event.1003.pow_message.desc.double:1 "[primary_prisoner.Custom2('YourCharacterIntroduction', ROOT.Char)|U] and [secondary_prisoner.Custom2('YourCharacterIntroduction', ROOT.Char)] were taken prisoner"
+ combat_event.1003.pow_message.desc.multiple:1 "[primary_prisoner.Custom2('YourCharacterIntroduction', ROOT.Char)|U] and [ROOT.Var('num_other_relevant_captured_combatants').GetValue|V0] others were taken prisoner"
  combat_event.1003.pow_message.desc.end:1 "by your foe [combat_winner.GetTitledFirstName] after [combat_winner.GetSheHe] won the Battle of [combat_location.GetName]!"
 
  combat_event.1004.pow_message.t:0 "[ROOT.Char.Custom2('RelationToMeShort', primary_prisoner)|U] Taken Prisoner"

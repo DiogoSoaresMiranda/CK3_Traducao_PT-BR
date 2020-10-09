@@ -1,15 +1,16 @@
 ﻿l_english:
- INCOMPATIBLE_TENET_ARMED_PILGRIMAGES_TRIGGER:0 "Incompatível com o [core_tenet|E] das Peregrinações Armadas"
- INCOMPATIBLE_TENET_MONASTICISM_TRIGGER:0 "Incompatível com o [core_tenet|E] do Monasticismo"
- INCOMPATIBLE_TENET_PACIFISM_TRIGGER:0 "Incompatível com o [core_tenet|E] do Pacifismo"
- INCOMPATIBLE_TENET_HUMAN_SACRIFICE_TRIGGER:0 "Incompatível com o [core_tenet|E] do Sacrifício Humano"
- INCOMPATIBLE_TENET_MENDICANT_PREACHERS_TRIGGER:0 "Incompatível com o [core_tenet|E] dos Pregadores Mendicantes"
- INCOMPATIBLE_TENET_HEDONISTIC_TRIGGER:0 "Incompatível com o [core_tenet|E] do Hedonista"
- INCOMPATIBLE_TENET_GNOSTICISM_TRIGGER:0 "Incompatível com o [core_tenet|E] do Gnosticismo"
- INCOMPATIBLE_TENET_EASTERN_SYNCRETISM_TRIGGER:0 "Incompatível com o [core_tenet|E] do Sincretismo Oriental"
+ INCOMPATIBLE_TENET_ARMED_PILGRIMAGES_TRIGGER:1 "Incompatível com o [core_tenet|E] [GetFaithDoctrine('tenet_armed_pilgrimages').GetName( GetPlayer.GetFaith )]"
+ INCOMPATIBLE_TENET_MONASTICISM_TRIGGER:1 "Incompatível com o [core_tenet|E] [GetFaithDoctrine('tenet_monasticism').GetName( GetPlayer.GetFaith )]"
+ INCOMPATIBLE_TENET_PACIFISM_TRIGGER:1 "Incompatível com o [core_tenet|E] [GetFaithDoctrine('tenet_pacifism').GetName( GetPlayer.GetFaith )]"
+ INCOMPATIBLE_TENET_DHARMIC_PACIFISM_TRIGGER:1 "Incompatível com o [core_tenet|E] [GetFaithDoctrine('tenet_dharmic_pacifism').GetName( GetPlayer.GetFaith )]"
+ INCOMPATIBLE_TENET_HUMAN_SACRIFICE_TRIGGER:1 "Incompatível com o [core_tenet|E] [GetFaithDoctrine('tenet_human_sacrifice').GetName( GetPlayer.GetFaith )]"
+ INCOMPATIBLE_TENET_MENDICANT_PREACHERS_TRIGGER:1 "Incompatível com o [core_tenet|E] [GetFaithDoctrine('tenet_mendicant_preachers').GetName( GetPlayer.GetFaith )]"
+ INCOMPATIBLE_TENET_HEDONISTIC_TRIGGER:1 "Incompatível com o [core_tenet|E] [GetFaithDoctrine('tenet_hedonistic').GetName( GetPlayer.GetFaith )]"
+ INCOMPATIBLE_TENET_GNOSTICISM_TRIGGER:1 "Incompatível com o [core_tenet|E] [GetFaithDoctrine('tenet_gnosticism').GetName( GetPlayer.GetFaith )]"
+ INCOMPATIBLE_TENET_EASTERN_SYNCRETISM_TRIGGER:1 "Incompatível com o [core_tenet|E] [GetFaithDoctrine('tenet_eastern_syncretism').GetName( GetPlayer.GetFaith )]"
  INCOMPATIBLE_TENET_OTHER_SYNCRETISM_TRIGGER:0 "Você só pode selecionar um [core_tenet|E] sincrético para sua [faith|E]"
- INCOMPATIBLE_TENET_FALSE_CONVERSION_SANCTION_TRIGGER:0 "Incompatível com o [core_tenet|E] de Falsas Conversões Sancionadas"
- INCOMPATIBLE_TENET_PENTARCHY_TRIGGER:0 "Incompatível com o [core_tenet|E] da Pentarquia"
+ INCOMPATIBLE_TENET_FALSE_CONVERSION_SANCTION_TRIGGER:1 "Incompatível com o [core_tenet|E] [GetFaithDoctrine('tenet_false_conversion_sanction').GetName( GetPlayer.GetFaith )]"
+ INCOMPATIBLE_TENET_PENTARCHY_TRIGGER:1 "Incompatível com o [core_tenet|E] [GetFaithDoctrine('tenet_pentarchy').GetName( GetPlayer.GetFaith )]"
 
  DOCTRINE_PLURALISM_FUNDAMENTALIST:0 "Incompatível com a [doctrine|E] Fundamentalista"
  NOT_DOCTRINE_PLURALISM_FUNDAMENTALIST:0 "Requer a [doctrine|E] Fundamentalista"
@@ -39,6 +40,6 @@
  NOT_MY_HEALTH_NEAR_DEATH:0 "Meu estado de [health|E] #bold não#! é de quase morte"
  
  COURT_CHAPLAIN_CANT_FIRE_DOCTRINES:2 "[CHARACTER.GetFaith.GetName] #bold não#! tem #V Revocable Clerical Appointment#! [doctrine|E].\n\nSem tal $game_concept_doctrine$, sempre há um [court_chaplain|E] ou [realm_priest|E]."
- COURT_CHAPLAIN_CANT_REASSIGN_DOCTRINES:1 "[CHARACTER.GetFaith.GetName] #bold não#! tem [GetFaithDoctrine('doctrine_clerical_succession_temporal_appointment').GetBaseName] ou [GetFaithDoctrine('doctrine_clerical_succession_spiritual_appointment').GetBaseName] #V Clerical Appointment#! [doctrines|E].\n\nSem nenhuma dessas $game_concept_doctrines$, compromissos clericais são para toda a vida."
+ COURT_CHAPLAIN_CANT_REASSIGN_DOCTRINES:2 "[CHARACTER.GetFaith.GetName] does #bold not#! have the [GetFaithDoctrine('doctrine_clerical_succession_temporal_appointment').GetBaseName] or [GetFaithDoctrine('doctrine_clerical_succession_temporal_fixed_appointment').GetBaseName] #V Clerical Appointment#! [doctrines|E].\n\nWithout one of these $game_concept_doctrines$, [rulers|E] cannot assign [court_chaplains|E] and [realm_priests|E]."
 
 ###CEFALOS 26/09/2020###

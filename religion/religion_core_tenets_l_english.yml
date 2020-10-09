@@ -1,5 +1,6 @@
 ﻿l_english:
  doctrine_core_tenets_name:0 "Princípios:"
+ tenets_name:0 "Princípios"
 
  #Abrahamic Tenets
  tenet_communion_name:0 "Comunhão"
@@ -12,7 +13,7 @@
  tenet_armed_pilgrimages_name:0 "Peregrinações Armadas"
  tenet_armed_pilgrimages_desc:0 "Nossos peregrinos viajam pelo mundo para visitar nossos locais sagrados - teremos prazer em empunhar a espada para mantê-los seguros de qualquer um que tente prejudicá-los"
  doctrine_parameter_cheaper_holy_wars_active:0 "Custa aos [rulers|E] desta [faith|E] #P -20%#! menos [piety|E] para declarar [holy_wars|E]"
- doctrine_parameter_great_holy_wars_active:1 "Se houver, o [head_of_faith|E] pode declarar uma [great_holy_war|E] quando a [faith|E] tiver alto [fervor|E]
+ doctrine_parameter_great_holy_wars_active:1 "Se houver, o [head_of_faith|E] pode declarar uma [great_holy_war|E] quando a [faith|E] tiver alto [fervor|E]"
  doctrine_parameter_ghw_no_hof_conversion_buffs_active:0 "Se nenhum [head_of_faith|E] existir, adeptos ganham um bônus para o [convert_county|E] [councillor_task|E] por [holy_site|E] controlado"
  doctrine_parameter_pilgrimage_decision_active:1 "Personagens desta [faith|E] ganham um bônus adicional após a conclusão bem sucedida de uma [pilgrimage|E]"
 
@@ -23,7 +24,7 @@
  tenet_divine_marriage_name:0 "Casamento Divino"
  tenet_divine_marriage_desc:0 "O sangue do divino corre pelas veias de nossos reis e rainhas. Manter nossas linhagens puras é a melhor maneira de garantir que o reinado de nossa família continue por séculos."
  doctrine_parameter_divine_marriage_opinion:0 "Adeptos que são casados com um membro [close_family|E] tem $VALUE|0+=$ [opinion|E] dos [vassals|E] da mesma [faith|E]"
- doctrine_parameter_divine_marriage_piety_gain_active:1 "Casando com um membro [close_family|E] pela primeira vez garante uma grande quantidade de [piety|E] se você é #V $doctrine_monogamy_name$#!"
+ doctrine_parameter_divine_marriage_piety_gain_active:2 "O bonus de casamento de [GetFaithDoctrine('doctrine_monogamy').GetBaseName] tambem garante uma grande quantidade de [piety|E] se voce se casar com um membro [close_family|E]"
  
  tenet_pacifism_name:0 "Pacifismo"
  tenet_pacifism_desc:0 "Violência é um ato abominável que só leva ao sofrimento, dor e arrependimento. Trabalhando para evitá-la sempre que possível, podemos construir sociedades mais fortes e seguras para os fiéis viverem."
@@ -50,7 +51,7 @@
 
  tenet_gnosticism_name:0 "Gnosticismo"
  tenet_gnosticism_desc:0 "Através do conhecimento, a centelha divina que reside dentro de todos os humanos pode ser libertada e retornar para sua fonte celestial no reino espiritual."
- doctrine_parameter_hostility_override_tenet_gnosticism:0 "Considera outras [faiths|E] Gnósticas como [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] em vez de #V Hostile#! ou #V Evil#!"
+ doctrine_parameter_hostility_override_tenet_gnosticism:0 "Considera outras [faiths|E] Gnósticas como [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] em vez de $hostility_hostile_tooltippable$ ou $hostility_evil_tooltippable$"
  doctrine_parameter_granting_titles_gives_stress:0 "Abrir mão dos [titles|E] alivia uma quantidade proporcional de [stress|E]"
 
  tenet_mendicant_preachers_name:0 "Pregadores Mendicantes"
@@ -231,7 +232,7 @@
 
  tenet_unreformed_syncretism_name:0 "Tradições Folclóricas Sincréticas"
  tenet_unreformed_syncretism_desc:0 "Quem somos nós para dizer aos outros que suas tradições não são verdadeiras? Não é nossa função pregar sobre os costumes que eles praticaram por séculos: em vez disso, nós devemos aprender em silêncio sobre seus costumes."
- doctrine_parameter_hostility_override_unreformed_faith_doctrine:0 "Considera [GetFaithDoctrine('unreformed_faith_doctrine').GetBaseName] [faiths|E], e é considerado por [GetFaithDoctrine('unreformed_faith_doctrine').GetBaseNameNoTooltip] $game_concept_faiths$, como [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] em vez de #V Evil#!"
+ doctrine_parameter_hostility_override_unreformed_faith_doctrine:1 "Considera [GetFaithDoctrine('unreformed_faith_doctrine').GetBaseName] [faiths|E], e é considerado por [GetFaithDoctrine('unreformed_faith_doctrine').GetBaseNameNoTooltip] $game_concept_faiths$, como [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] em vez de $hostility_evil_tooltippable$"
  doctrine_parameter_unreformed_syncretic_actor_opinion_active:2 "Bônus mútuo de [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] com [GetFaithDoctrine('unreformed_faith_doctrine').GetBaseName] [faiths|E]"
  doctrine_parameter_opinion_of_unreformed_syncretic_recipient_opinion_active:0 ""
  doctrine_parameter_unreformed_syncretic_recipient_opinion_active:1 "Bônus mútuo de [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] com [faiths|E] que tem o $tenet_unreformed_syncretism_name$ [core_tenet|E]"
@@ -242,7 +243,7 @@
  #This is deliberately left blank. It should not be deleted or filled in: such will break the loc.
  doctrine_parameter_hostility_override_special_doctrine_is_christian_faith:1 ""
  #Instead, add these doctrine parameters to appropriate tenets (presently Christian Syncretism & Pastoral Isolation).
- doctrine_parameter_is_christian_faith_bilateral_loc_override:0 "Considera [faiths|E] cristãs e é considerado por $game_concept_faiths$ cristãs como [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] em vez de #V Evil#!"
+ doctrine_parameter_is_christian_faith_bilateral_loc_override:1 "Considera [faiths|E] cristãs e é considerado por $game_concept_faiths$ cristãs como [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] em vez de $hostility_evil_tooltippable$"
  doctrine_parameter_is_christian_faith_pastoral_isolation_loc_override:0 "Sempre considera outras [faiths|E] cristãs como [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V], independente das diferenças doutrinárias"
  doctrine_parameter_christian_syncretic_actor_opinion_active:1 "Bônus mútuo de [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] com [faiths|E] cristãs"
  doctrine_parameter_opinion_of_christian_syncretic_recipient_opinion_active:0 ""
@@ -251,7 +252,7 @@
 
  tenet_islamic_syncretism_name:0 "Sincretismo Islâmico"
  tenet_islamic_syncretism_desc:0 "As palavras do profeta são indiscutivelmente sábias e justas, e quaisquer outras dúvidas que tenhamos, devemos observar seus pensamentos e ações."
- doctrine_parameter_hostility_override_special_doctrine_is_islamic_faith:0 "Considera [faiths|E] islâmicas e é considerado por $game_concept_faiths$ islâmicas como [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] em vez de #V Evil#!"
+ doctrine_parameter_hostility_override_special_doctrine_is_islamic_faith:0 "Considera [faiths|E] islâmicas e é considerado por $game_concept_faiths$ islâmicas como [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] em vez de $hostility_evil_tooltippable$"
  doctrine_parameter_islamic_syncretic_actor_opinion_active:1 "Bônus mútuo de [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] com [faiths|E] islâmicas"
  doctrine_parameter_opinion_of_islamic_syncretic_recipient_opinion_active:0 ""
  doctrine_parameter_islamic_syncretic_recipient_opinion_active:1 "Bônus mútuo de [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] com [faiths|E] que tem o $tenet_islamic_syncretism_name$ [core_tenet|E]"
@@ -259,7 +260,7 @@
 
  tenet_jewish_syncretism_name:0 "Sincretismo Judaico"
  tenet_jewish_syncretism_desc:0 "Embora não concordemos com suas afirmações sobre o povo escolhido de Deus, a sabedora da Torá Judaica é inegável e há muito a ser aprendido com o texto."
- doctrine_parameter_hostility_override_special_doctrine_is_jewish_faith:0 "Considera [faiths|E] judaicas e é considerado por $game_concept_faiths$ judaicas como [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] em vez de #V Evil#!"
+ doctrine_parameter_hostility_override_special_doctrine_is_jewish_faith:0 "Considera [faiths|E] judaicas e é considerado por $game_concept_faiths$ judaicas como [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] em vez de $hostility_evil_tooltippable$"
  doctrine_parameter_jewish_syncretic_actor_opinion_active:1 "Bônus mútuo de [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] com [faiths|E] judaicas"
  doctrine_parameter_opinion_of_jewish_syncretic_recipient_opinion_active:0 ""
  doctrine_parameter_jewish_syncretic_recipient_opinion_active:1 "Bônus mútuo de [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] com [faiths|E] que tem o $tenet_jewish_syncretism_name$ [core_tenet|E]"
@@ -277,7 +278,7 @@
  doctrine_parameter_self_mutilation_active:0 "#D Pode [decide|E] realizar automutilação, ganhando [piety|E] ao custo de receber o [trait|E] [GetTrait('wounded_1').GetName( GetPlayer )] [trait|E]#!"
 
  tenet_sacred_shadows_name:0 "Mentiras Sagradas"
- tenet_sacred_shadows_desc:0 "Mentir é a mais profunda arte que existe. Aqueles que podem convencer os outros de suas mentiras são santos. Aqueles que podem mentir para si mesmos com sucesso são imparáveis.""
+ tenet_sacred_shadows_desc:0 "Mentir é a mais profunda arte que existe. Aqueles que podem convencer os outros de suas mentiras são santos. Aqueles que podem mentir para si mesmos com sucesso são imparáveis."
  doctrine_parameter_piety_gain_from_successful_intrigue_schemes:0 "Adeptos ganham piedade por completarem com sucesso [schemes|E] de [intrigue|E]"
  doctrine_parameter_adherents_more_likely_to_join_schemes:0 "Adeptos são mais propensos a se tornarem Agentes nos de outros [schemes|E] personagens"
 

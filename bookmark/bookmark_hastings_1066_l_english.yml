@@ -3,19 +3,19 @@
  bm_1066_hastings_desc:1 "Quando o rei Eduardo, o Confessor, sem filhos, morreu, mergulhou a Inglaterra em uma crise de sucessão diferente de todas as anteriores.\n\nThree os homens tentaram garantir o trono para si próprios: Harold Godwinson, William o Bastard, e Harald Hardrade, while Svend e Malcom stood por, pronto para atacar qualquer sinal de fraqueza.\n\n#bold Quem sairá vitorioso após este período tumultuado da história?#!"
 
  bookmark_hastings_england:0 "Rei Harold of England"
- bookmark_hastings_england_desc:2 "Harold Godwinson era o líder de uma poderosa casa nobre e o cunhado do rei quando o rei Eduardo morreu, sem filhos. Agora, eleito o novo rei da Inglaterra por seus pares, ele se depara com o desafio de se manter no trono, como o ambicioso duque da Normandia, bem como o rei Harald da Noruega, estimulado e auxiliado por Harold's irmão exilado, procure substituí-lo!\n\n#bold Com um grande exército em suas costas e o apoio dos senhores anglo-saxões - os lobos descobrirão que morderam mais do que podem mastigar?"
+ bookmark_hastings_england_desc:2 "Harold Godwinson era o líder de uma poderosa casa nobre e o cunhado do rei quando o rei Eduardo morreu, sem filhos. Agora, eleito o novo rei da Inglaterra por seus pares, ele se depara com o desafio de se manter no trono, como o ambicioso duque da Normandia, bem como o rei Harald da Noruega, estimulado e auxiliado por Harold's irmão exilado, procure substituí-lo!\n\n#bold Com um grande exército em suas costas e o apoio dos senhores anglo-saxões - os lobos descobrirão que morderam mais do que podem mastigar?#!"
 
  bookmark_hastings_england_alt_tostig:0 "$Tostig$"
  bookmark_hastings_england_alt_eadgifu:0 "$Eadgifu$ $nick_the_fair$"
 
  bookmark_hastings_normandy:0 "William o Bastardo"
- bookmark_hastings_normandy_desc:1 "A Casa da Normandia traça sua linhagem até os vikings nórdicos e se estabeleceram no continente europeu há mais de 200 anos. Agora, William II sonha em liderar sua família para governar o Reino da Inglaterra, e ele acredita que seu status como sucessor do trono foi prometido pelo falecido rei Edward, e até mesmo reconhecido por Harold Godwinson ele mesmo. Contudo, agora isso Edward se foi, Harold quebrou seu juramento e tomou a coroa para si!\n\n#bold William está em guerra com a Inglaterra. Você pode reunir suas forças e reivindicar o que é seu por direito?"
+ bookmark_hastings_normandy_desc:1 "A Casa da Normandia traça sua linhagem até os vikings nórdicos e se estabeleceram no continente europeu há mais de 200 anos. Agora, William II sonha em liderar sua família para governar o Reino da Inglaterra, e ele acredita que seu status como sucessor do trono foi prometido pelo falecido rei Edward, e até mesmo reconhecido por Harold Godwinson ele mesmo. Contudo, agora isso Edward se foi, Harold quebrou seu juramento e tomou a coroa para si!\n\n#bold William está em guerra com a Inglaterra. Você pode reunir suas forças e reivindicar o que é seu por direito?#!"
 
  bookmark_hastings_normandy_alt_robert:0 "$Robert$ $nick_the_curthose$"
  bookmark_hastings_normandy_alt_william:0 "$William$ $nick_the_red$"
 
  bookmark_hastings_norway:0 "Harald Hardrade"
- bookmark_hastings_norway_desc:1 "Tendo mostrado um talento militar formidável desde a juventude, Harald recentemente tentou, e falhou, conquistar a Dinamarca. Agora, ele olha além do mar - por contrato antigo, a coroa da Inglaterra deveria ter passado para Harald, quando o último rei morreu sem herdeiro. Mas, em vez disso, os anglo-saxões colocaram Harold Godwinson no trono! Felizmente, o falso rei fez inimigos, e Tostig Godwinson, o próprio irmão de Harold's , vive no exílio na Noruega ...\n\n#bold Usando seus próprios inimigos contra ele, você pode dar a este viking varangiano o controle do Mar do Norte?"
+ bookmark_hastings_norway_desc:1 "Tendo mostrado um talento militar formidável desde a juventude, Harald recentemente tentou, e falhou, conquistar a Dinamarca. Agora, ele olha além do mar - por contrato antigo, a coroa da Inglaterra deveria ter passado para Harald, quando o último rei morreu sem herdeiro. Mas, em vez disso, os anglo-saxões colocaram Harold Godwinson no trono! Felizmente, o falso rei fez inimigos, e Tostig Godwinson, o próprio irmão de Harold's , vive no exílio na Noruega ...\n\n#bold Usando seus próprios inimigos contra ele, você pode dar a este viking varangiano o controle do Mar do Norte?#!"
  
  bookmark_hastings_norway_alt_olaf:0 "$Olaf$"
  bookmark_hastings_norway_alt_ingegerd:0 "$Ingegerd$"
@@ -32,10 +32,10 @@
  bookmark_hastings_scotland_alt_duncan:0 "$Duncan$"
  bookmark_hastings_scotland_alt_donald:0 "$Donald$ $nick_the_fair$"
 
- bookmark_hastings_france_regency:0 "#D Anna de Kiev#!"
- bookmark_hastings_france_regency_desc:0 "#D Rainha Mãe da França, guiando a mão do menino Philippe.#!"
- bookmark_hastings_english_magnate:0 "Eadgifu o Justo"
- bookmark_hastings_english_magnate_desc:0 "Como uma das proprietárias de terras mais ricas de toda a Inglaterra e ex-esposa de Harold, Há muito tempo sou tido em alta estima pelos outros governantes anglo-saxões.\n\nThough Harold se casou com uma nova esposa quando subiu ao trono. Ainda sou poderos e influente por direito próprio, e estou determinado a garantir meu legado."
+ #bookmark_hastings_france_regency:0 "#D Anna de Kiev#!"
+ #bookmark_hastings_france_regency_desc:0 "#D Rainha Mãe da França, guiando a mão do menino Philippe.#!"
+ #bookmark_hastings_english_magnate:0 "Eadgifu o Justo"
+ #bookmark_hastings_english_magnate_desc:0 "Como uma das proprietárias de terras mais ricas de toda a Inglaterra e ex-esposa de Harold, Há muito tempo sou tido em alta estima pelos outros governantes anglo-saxões.\n\nThough Harold se casou com uma nova esposa quando subiu ao trono. Ainda sou poderos e influente por direito próprio, e estou determinado a garantir meu legado."
  war_1066_Norman_Conquest:0 "Conquista de Normanda sobre a Inglaterra"
  war_1066_Harald_Invasion:0 "Invasão Norueguesa sobre a Inglaterra"
  war_1066_Seljuk_Invasion:0 "Invasão Seljuk da Armênia"

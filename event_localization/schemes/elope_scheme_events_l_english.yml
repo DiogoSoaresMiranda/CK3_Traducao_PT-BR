@@ -16,6 +16,7 @@
 #Success event owner
  elope.1001.t:0 "$elope_event_title$ Love Endures"
  elope.1001.start.desc:0 "As we wait, I cannot help but imagine everything that might go wrong. I feel utterly powerless — a feeling that I #EMP don't#! care to get further acquainted with.\n\nI spot a torch ahead, moving in our direction, and gesture to my guards to hide."
+ elope.1001.start.desc_brave:0 "As we wait, I cannot help but wonder where [target.GetFirstName] is now. Did [target.GetSheHe] make it out okay? Will there be pursuers?\n\nI spot a torch ahead, moving in our direction, and gesture to my guards to hide."
  elope.1001.end.desc:0 "The light moves closer and we can make out two silhouettes. One is carrying a sword, that much is clear. The other... it must be #EMP [target.GetHerHim]#!!\n\nI run to meet my [target.Custom('LoverPetName')], and [target.GetSheHe] throw [target.GetHerselfHimself] in my open arms. The embrace is swift, but sweet as honey. With [target.GetHerHis] hand in mine, I begin to run."
  elope.1001.a:0 "Hurry, my love! The [ROOT.Char.Custom('DefaultPriestTitle')] is waiting!"
  

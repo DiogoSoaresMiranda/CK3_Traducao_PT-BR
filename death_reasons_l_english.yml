@@ -116,6 +116,6 @@
  death_murder_known_killer:0 "foi assassinado por [TARGET_CHARACTER.GetUIName]"
  death_literalist_debate:0 "suffered a heart attack after being utterly destroyed in a literalist debate"
  death_literalist_debate_killer:0 "suffered a heart attack after [TARGET_CHARACTER.GetUIName] utterly destroyed [CHARACTER.GetHerHim] in a literalist debate"
- death_hunting_accident_killer:0 "$death_murder_killer$"
+ death_hunting_accident_killer:1 "foi morto por [TARGET_CHARACTER.GetUIName] durante um "acidente" em uma caçada"
 
 ###arthurlololol-10-09-2020###

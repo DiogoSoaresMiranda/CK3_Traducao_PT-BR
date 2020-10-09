@@ -606,7 +606,7 @@
  shy_neg_quirk_adverb_1:0 "awkwardly"
  impatient_neg_quirk_adverb_1:0 "impatiently"
  greedy_neg_quirk_adverb_1:0 "rapaciously"
- lustful_neg_quirk_adverb_1:0 "a little too intimately"
+ lustful_neg_quirk_adverb_1:1 "lewdly"
  chaste_neg_quirk_adverb_1:0 "reservedly"
  temperate_neg_quirk_adverb_1:0 "plainly"
  gluttonous_neg_quirk_adverb_1:0 "insistently"

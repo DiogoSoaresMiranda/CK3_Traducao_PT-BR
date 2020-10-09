@@ -55,7 +55,7 @@
 
  #The Stables
  sex_scene.0003.opening_stables_1:1 "The scandal it would cause if I had been caught with my [second.Custom2('RelationToMe', SCOPE.sC('second'))], but there was no one else in the stables that evening."
- sex_scene.0003.conclusion_stables_1:0 "I only hope that our moans of passion where drowned out by the stomping and whinnying of the horses."
+ sex_scene.0003.conclusion_stables_1:0 "I only hope that our moans of passion were drowned out by the stomping and whinnying of the horses."
 
 #A copse
  sex_scene.0003.opening_copse_1:1 "I met my [second.Custom2('RelationToMe', SCOPE.sC('second'))] in a copse not far from the [second.Custom('ResidenceBuilding')]. My heart was pounding, even though I knew no one would see us there..."

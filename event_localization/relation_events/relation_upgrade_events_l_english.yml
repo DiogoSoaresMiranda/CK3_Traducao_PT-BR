@@ -129,7 +129,7 @@
  relation_upgrade.2101.b_tt_2:0 "Disease outbreak in [capital.GetNameNoTooltip]"
  relation_upgrade.2101.c:0 "[peasant.GetSheHe|U] will have a dignified burial."
 
- relation_upgrade.2102.desc_opening:0 "The entourage of [rival.Custom2('MyCharacterIntroduction', ROOT.Char)] stops some way away from [rival_capital.GetNameNoTier]. Before I have time to send out an envoy something is launched from their camp towards my [rival.Custom('ResidenceBuilding')].\n\nA mangled body, ravaged by disease, falls from the sky;"
+ relation_upgrade.2102.desc_opening:1 "The entourage of [corpse_rival.Custom2('MyCharacterIntroduction', ROOT.Char)] stops some way away from [rival_capital.GetNameNoTier]. Before I have time to send out an envoy something is launched from their camp towards my [rival.Custom('ResidenceBuilding')].\n\nA mangled body, ravaged by disease, falls from the sky;"
  relation_upgrade.2102.desc_bubonic_plague:0 "covered in large buboes leaking pus and blood that can be seen even from where I am standing"
  relation_upgrade.2102.desc_smallpox:0 "skin marred by rashes and bumps that can be seen even from where I am standing."
  relation_upgrade.2102.desc_ending:0 "\n\nIt lands with a squelch, spreading blood, intestines, and panic."

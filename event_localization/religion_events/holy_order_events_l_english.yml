@@ -35,7 +35,7 @@
  holy_order.0202.b:0 "As a fellow devotee... Please lend me more time!"
  holy_order.0202.b.tt:0 "[recipient.GetTitledFirstNameNoTooltip] will give you 5 more years"
  holy_order.0202.c:0 "Maybe we can find an alternative way of payment...?"
- holy_order.0202.c.tt:0 "@warning_icon!#X The [recipient.GetTitleAsNameNoTooltip] will ask something of you"
+ holy_order.0202.c.tt:0 "@warning_icon!#X The [recipient.GetTitleAsNameNoTooltip] will ask something of you#!"
  holy_order.0202.d:0 "The gold is more useful in my hands!"
 
  holy_order.0203.desc:0 "I do not look kindly upon those who break their word, and neither does [ROOT.Char.GetFaith.HighGodNameAlternate]. To rectify this slight you will lease the [province.GetName] to us so that we may further [ROOT.Char.GetFaith.HighGodNamePossessive] work."

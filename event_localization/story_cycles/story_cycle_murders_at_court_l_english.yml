@@ -98,10 +98,10 @@
  murders_at_court.9004.desc_ending:1 "\n\nAs we finally track [murderer.GetTitleAsNameNoTooltip] down [murderer.GetSheHe] is advancing on [victim.GetTitledFirstName], knife in hand.\n\n"Stop right there!""
 
  murders_at_court.9021.t:1 "Murders At Court: Dark Magic"
- murders_at_court.9021.desc:2 "When I finally track [murderer.Custom2('MyCharacterIntroduction', ROOT.Char)] down [murderer.GetSheHe] is kneeling on [murderer.GetHerHis] bare knees in front of an old tome, forehead pressed against the floor and arms raised above [murderer.GetHerHis] head at an almost unnatural angle.\n\n"
+ murders_at_court.9021.desc:3 "When my guards and I finally track [murderer.Custom2('MyCharacterIntroduction', ROOT.Char)] down [murderer.GetSheHe] is kneeling on [murderer.GetHerHis] bare knees in front of an old tome, forehead pressed against the floor and arms raised above [murderer.GetHerHis] head at an almost unnatural angle.\n\n"
 
  murders_at_court.9031.t:1 "Murders At Court: The Hunger"
- murders_at_court.9031.desc:1 "When I finally track [murderer.Custom2('MyCharacterIntroduction', ROOT.Char)] down [murderer.GetSheHe] is gnawing on what looks like a human #EMP finger#!."
+ murders_at_court.9031.desc:2 "When my guards and I finally track [murderer.Custom2('MyCharacterIntroduction', ROOT.Char)] down [murderer.GetSheHe] is gnawing on what looks like a human #EMP finger#!."
 
  murders_at_court.9041.t:0 "Murders At Court: Escaped"
  murders_at_court.9041.desc_opening:0 "The only thing waiting for me when I finally track [murderer.Custom2('MyCharacterIntroduction', ROOT.Char)] down is"
@@ -114,9 +114,9 @@
  murders_at_court.9099.t:1 "Murders At Court: Bloody Dealings"
  murders_at_court.9099.t_wrong:0 "Murders At Court: The Mistake"
  murders_at_court.9099.desc_wrong:0 "When I finally track [murderer.Custom2('MyCharacterIntroduction', ROOT.Char)] down [murderer.GetSheHe] does not even try to run. In fact, [murderer.GetSheHe] looks at me with utter confusion.\n\n"Finally I have found you, murderer!"\n\n"I'm sorry, what? You think #EMP I#! murdered all those people?!"
- murders_at_court.9099.desc_nothing:0 "When I finally track [murderer.Custom2('MyCharacterIntroduction', ROOT.Char)] down [murderer.GetSheHe] does not even try to run.\n\n"
+ murders_at_court.9099.desc_nothing:1 "When I finally track [murderer.Custom2('MyCharacterIntroduction', ROOT.Char)] down [murderer.GetSheHe] does not even try to run from me and the guards.\n\n"
  murders_at_court.9099.desc:1 ""Hello [ROOT.Char.GetFirstNameNoTooltip]," [murderer.GetSheHe] says, looking me up and down. "It is about time you found me. I take it you enjoyed my... #EMP gifts#!?"\n\nThe smile that spreads over [murderer.GetHerHis] face sends a shiver down my spine."
 
  murders_at_court.9999.t:1 "Murders At Court: A Curse Lifted"
  murders_at_court.9999.desc:0 "As time goes on and no new bodies turn up I gradually relax again. The killer has stopped!\n\nHowever, I cannot help but notice that the murders stopped as soon as [murderer.GetTitledFirstName] died..."
- murders_at_court.9999.a:0 "Now that [murderer.GetSheHe] is gone I might newer know for sure..."
+ murders_at_court.9999.a:0 "Now that [murderer.GetSheHe] is gone I might never know for sure..."

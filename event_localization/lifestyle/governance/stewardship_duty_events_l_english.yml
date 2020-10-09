@@ -95,7 +95,7 @@
  stewardship_duty.4010.bribe:0 "A generous gift will change [faction_member.GetHerHis] mind."
  stewardship_duty.4010.bribe.flavor:0 "Self-serving [faction_member.GetWomenMen] will be more inclined to accept a bribe."
  stewardship_duty.4010.favor:0 "If [faction_member.GetSheHe] helps me now, I will return the favor."
- stewardship_duty.4010.favor.flavor:0 "Self-serving or compassionate [faction_member.GetWomenMen] will be more inclined to be accept this offer."
+ stewardship_duty.4010.favor.flavor:0 "Self-serving or compassionate [faction_member.GetWomenMen] will be more inclined to accept this offer."
  stewardship_duty.4010.prestige:0 "Old-fashioned flattery is good at inspiring loyalty."
  stewardship_duty.4010.prestige.flavor:0 "Arrogant or honorable [faction_member.GetWomenMen] are more likely to be swayed by flattery."
  stewardship_duty.4010.piety:0 "Remind [faction_member.GetHerHim] that my interests are [faction_member.GetFaith.HighGodNamePossessive] interests."
@@ -163,7 +163,7 @@
  stewardship_duty.4043.desc:0 "It wasn't a negotiation — it was a demand. I made it clear to [my_vassal.GetTitledFirstName] [my_vassal.GetSheHe] continues to hold [my_vassal.GetHerHis] titles only because it pleases me, and that if [my_vassal.GetSheHe] wished to stay on my good side [my_vassal.GetSheHe] would need to make concessions.\n\n[my_vassal.GetSheHe|U] hastily agreed, glad for me to depart without further incident."
  stewardship_duty.4043.a:0 "$stewardship_duty.4041.a$"
 
- stewardship_duty.4044.desc:0 "[my_vassal.GetTitledFirstName] balked at my demand that [my_vassal.GetSheHe] accept a more restrictive contract.\n\n[my_vassal.GetSheHe|U] told me even though I was [ROOT.Char.GetTitleAsNameNoTooltip] and Ruler of this land, [my_vassal.GetHerHis] current contract entitles [my_vassal.GetHerHim] to certain privliages that I cannot simply take away — at least not rightfully."
+ stewardship_duty.4044.desc:0 "[my_vassal.GetTitledFirstName] balked at my demand that [my_vassal.GetSheHe] accept a more restrictive contract.\n\n[my_vassal.GetSheHe|U] told me even though I was [ROOT.Char.GetTitleAsNameNoTooltip] and Ruler of this land, [my_vassal.GetHerHis] current contract entitles [my_vassal.GetHerHim] to certain privileges that I cannot simply take away — at least not rightfully."
  stewardship_duty.4044.a:0 "$stewardship_duty.4042.a$"
 
  # Faction Organizing — Lower a faction's discontent during wartime, by Sean Hughes

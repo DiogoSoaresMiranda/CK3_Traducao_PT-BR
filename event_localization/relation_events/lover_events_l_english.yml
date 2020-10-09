@@ -384,9 +384,9 @@
  lover.3219.d.tt:0 "#F I will find a better opportunity to show [lover.GetHerHim] how much I miss [lover.GetHerHim]!#!"
 
  lover.3220.desc_opening:0 "Every day without you is empty, and every moment out of your embrace is torment."
- lover.3220.desc_hair:0 "To remind your of my love when I cannot be present I have sent you a personal gift: a lock of my hair."
- lover.3220.desc_smallclothes:0 "To remind your of my love when I cannot be present I have sent you an intimate gift: some of my smallclothes."
- lover.3220.desc_object:0 "To remind your of my love when I cannot be present I have sent you a gift echoing our past: [ROOT.Char.Custom2('LoverSeductionObjectIndefinite', SCOPE.sC('original_lover'))]."
+ lover.3220.desc_hair:0 "To remind you of my love when I cannot be present I have sent you a personal gift: a lock of my hair."
+ lover.3220.desc_smallclothes:0 "To remind you of my love when I cannot be present I have sent you an intimate gift: some of my smallclothes."
+ lover.3220.desc_object:0 "To remind you of my love when I cannot be present I have sent you a gift echoing our past: [ROOT.Char.Custom2('LoverSeductionObjectIndefinite', SCOPE.sC('original_lover'))]."
  lover.3220.a:0 "This is such a lovely gift!"
  lover.3220.b:0 "What am I supposed to do with this?"
  lover.3220.b.tt_smallclothes:0 "#F Ew. Just ew.#!"

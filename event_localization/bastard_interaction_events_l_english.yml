@@ -1,7 +1,7 @@
 ﻿l_english:
  legitimize_bastard_interaction:1 "Legitimize Bastard #weak (House)#!"
  legitimize_bastard_interaction_extra_icon:0 "$hook_extra_icon$"
- legitimize_bastard_interaction_desc_house_head:1 "$house_head_interaction_header$Declare [secondary_recipient.GetShortUINameNoTooltip] to be a [legitimized_bastard|E]\n\n#weak This is available because [secondary_recipient.GetSheHe] is a [bastard|E] of my [house|E]"
+ legitimize_bastard_interaction_desc_house_head:1 "$house_head_interaction_header$Declare [secondary_recipient.GetShortUINameNoTooltip] to be a [legitimized_bastard|E]\n\n#weak This is available because [secondary_recipient.GetSheHe] is a [bastard|E] of my [house|E]#!"
  legitimize_bastard_interaction_desc_not_house_head:0 "Request that [recipient.GetShortUINameNoTooltip] acknowledges your [bastard|E] as [legitimate|E]\n#weak ([recipient.GetShortUINameNoTooltip] is the [house_head_head|E] of your [house|E])#!"
  legitimize_bastard_interaction_notification:0 "Bastard Legitimized"
  legitimize_bastard_interaction_decline_notification:0 "Bastard Not Legitimized"

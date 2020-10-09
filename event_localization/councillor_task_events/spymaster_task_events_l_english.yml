@@ -1,4 +1,4 @@
-﻿l_english: 
+﻿l_english:
  spymaster_task.0311.t:0 "A Secret Uncovered"
  spymaster_task.0311.councillor_liege_opening:0 "While performing [councillor.GetHerHis] duties as my [councillor.GetCouncilTitle], [councillor.GetTitledFirstName] has uncovered a secret held by [secret_holder.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]."
  spymaster_task.0311.spymaster_opening:0 "While investigating for my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('councillor_liege'))], [councillor_liege.GetTitledFirstName], I have uncovered a secret held by [secret_holder.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]."
@@ -12,7 +12,7 @@
  spymaster_task.0341.a.detached:0 "Utterly disgusting, but useful to know."
 
  spymaster_task.0342.t:0 "Espionage: Sodomy"
- spymaster_task.0311.sodomy.accepted:0 "\n\n[secret_holder.GetSheHe|U] enjoys the intimate company of other [secret_holder.GetWomenMen]. [secret_holder.GetHerHis|U] fellow [secret_holder.GetFaith.GetAdjective]s consider this a grave sin, and while that makes little sense, it could give me the leverage I need..."
+ spymaster_task.0311.sodomy.accepted:1 "\n\n[secret_holder.GetSheHe|U] enjoys the intimate company of other [secret_holder.GetWomenMen]. [secret_holder.GetHerHis|U] fellow [secret_holder.GetFaith.GetAdherentNamePlural] consider this a grave sin, and while that makes little sense, it could give me the leverage I need..."
  spymaster_task.0311.secret_sodomy.illegal_shared:0 "\n\n[secret_holder.GetSheHe|U] enjoys the intimate company of other [secret_holder.GetWomenMen]. Unlike me, however, [secret_holder.GetFirstName] has not done a good enough job of covering up [secret_holder.GetHerHis] sins."
  spymaster_task.0311.secret_sodomy.illegal:0 "\n\n[secret_holder.GetSheHe|U] has been enjoying the intimate company of other [secret_holder.GetWomenMen]. The foolishness of thinking that such a sin against [ROOT.Char.GetFaith.HighGodName] would go unnoticed..."
  spymaster_task.0342.a:0 "You will regret giving in to your desires, [secret_holder.GetFirstNameNoTooltip]."
@@ -45,7 +45,7 @@
  spymaster_task.0346.t:0 "Espionage: Lovers"
  spymaster_task.0311.secret_lover.consort:0 "\n\nMy very own [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('secret_holder'))] has taken [lover.Custom2('MyCharacterIntroduction', ROOT.Char)] as a lover!"
  spymaster_task.0311.secret_lover.consort_is_lover:0 "\n\n[secret_holder.GetSheHe|U] has taken my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover'))], [lover.GetTitledFirstName], as [secret_holder.GetHerHis] lover!"
- spymaster_task.0311.secret_lover.lover_close_to_me:0 "\n\n[secret_holder.GetSheHe|U] has taken my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover'))] as a lover. Who can even say how it happened, but the sheer disgrace for them both if this became known!"
+ spymaster_task.0311.secret_lover.lover_close_to_me:1 "\n\n[secret_holder.GetSheHe|U] has taken my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('lover'))], [lover.GetTitledFirstName], as a lover. Who can even say how it happened, but the sheer disgrace for them both if this became known!"
  spymaster_task.0311.secret_lover.lustful:0 "\n\n[secret_holder.GetSheHe|U] has been engaged in carnality with [lover.GetTitledFirstName], running [secret_holder.GetHerHis] hands across the [lover.GetTitleTierNamePossessive] body, locking lips in all manner of ways... Oh, the scandal if this was to become public knowledge!"
  spymaster_task.0311.secret_lover:0 "\n\n[secret_holder.GetSheHe|U] has secretly taken [lover.Custom2('MyCharacterIntroduction', ROOT.Char)] as a lover."
  spymaster_task.0346.a.consort:0 "The outrage!"
@@ -54,7 +54,7 @@
 
  spymaster_task.0347.t:0 "Espionage: Unbeliever"
  spymaster_task.0311.secret_non_believer.shared:0 "\n\nLike me, [secret_holder.GetSheHe] has [secret_holder.GetHerHis] doubts about [secret_holder.GetHerHis] devotion to [ROOT.Char.GetFaith.HighGodName]. Unlike me, [secret_holder.GetSheHe] does not know how to hide it as well as [secret_holder.GetSheHe] should."
- spymaster_task.0311.secret_non_believer.other_faith:0 "\n\nIt seems as if [secret_holder.GetSheHe] might be starting to see the truth of the false god [secret_holder.GetFaith.HighGodName]. Of course, [secret_holder.GetHerHis] fellow [secret_holder.GetFaith.GetAdjective]s are unlikely to be as understanding as me."
+ spymaster_task.0311.secret_non_believer.other_faith:1 "\n\nIt seems as if [secret_holder.GetSheHe] might be starting to see the truth of the false god [secret_holder.GetFaith.HighGodName]. Of course, [secret_holder.GetHerHis] fellow [secret_holder.GetFaith.GetAdherentNamePlural] are unlikely to be as understanding as me."
  spymaster_task.0311.secret_non_believer:0 "\n\n[secret_holder.GetSheHe|U] seems to be harboring doubts about [secret_holder.GetFaith.GetAdjective] doctrine. Oh [secret_holder.GetFirstNameNoTooltip]... What would the [secret_holder.GetFaith.AltPriestTermPlural] say?"
  spymaster_task.0347.a:0 "The sign of a weak soul."
 
@@ -74,10 +74,10 @@
  spymaster_task.0349.a:0 "What evil is [secret_holder.GetSheHe] planning?"
 
  spymaster_task.0350.t:0 "Espionage: Bastard"
- spymaster_task.0311.secret_bastard.i_am_real_father:0 "\n\nNot only is [bastard.GetSheHe] in fact a bastard, but... I am [bastard.GetHerHis] true father."
- spymaster_task.0311.secret_bastard.i_am_not_father:0 "\n\n[bastard.GetSheHe] is not my true child, but the [bastard.Custom('DaughterSon')] of [secret_holder.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]!"
- spymaster_task.0311.secret_bastard.father_is_interesting:0 "\n\n[bastard.GetSheHe|U] is in fact the bastard child of [bastard.GetHerHis] mother [mother.GetTitledFirstName] and my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('actual_father'))], [actual_father.GetTitledFirstName]!"
- spymaster_task.0311.secret_bastard:0 "\n\n[bastard.GetSheHe|U] is in fact the bastard child of [bastard.GetHerHis] mother [mother.GetTitledFirstName] and [actual_father.GetTitledFirstName]!"
+ spymaster_task.0311.secret_bastard.i_am_real_father:1 "\n\nNot only is [bastard.GetTitledFirstName] in fact a bastard, but... I am [bastard.GetHerHis] true father!"
+ spymaster_task.0311.secret_bastard.i_am_not_father:1 "\n\n[bastard.GetTitledFirstName] is not my true child, but the [bastard.Custom('DaughterSon')] of [secret_holder.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)]!"
+ spymaster_task.0311.secret_bastard.father_is_interesting:1 "\n\n[bastard.GetTitledFirstName] is in fact the bastard child of [mother.GetTitledFirstName] and my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('actual_father'))], [actual_father.GetTitledFirstName]!"
+ spymaster_task.0311.secret_bastard:1 "\n\n[bastard.GetTitledFirstName] is in fact the bastard child of [mother.GetTitledFirstName] and [actual_father.GetTitledFirstName]!"
  spymaster_task.0350.a.related:0 "How could you keep this from me, [mother.GetFirstNameNoTooltip]?"
  spymaster_task.0350.a:0 "Unbelievable!"
 
@@ -113,10 +113,10 @@
  spymaster_task.1001.a.tt:1 "Someone in your realm has learned one of your [secrets|E].\n\n"
  spymaster.1001.notification:0 "Secret Documents Lost"
 
- spymaster_task.1002.greeting:0 "[ROOT.Char.Custom2('GreetingToGeneric', second)]"
+ spymaster_task.1002.greeting:1 "To whom it may concern..."
  spymaster_task.1002.desc:0 "I have enclosed the incriminating documents. Let me reiterate that you are not to speak of this to anyone. Not even my liege, [councillor_liege.GetTitledFirstName], is aware that these exist, and it must stay that way."
  spymaster_task.1002.a:0 "I do not think I was supposed to receive this..."
- spymaster_task.1002.a.tt:1 "#F ...but who am I to pass up a gift from a [councillor.GetCouncilTitle]#!?"
+ spymaster_task.1002.a.tt:1 "#F ...but who am I to pass up a gift from a [councillor.GetCouncilTitle]?#!"
  spymaster_task.1003.a.tt:1 "Someone in your realm has learned one of [courtier.GetTitledFirstNamePossessiveNoTooltip] [secrets|E].\n\n"
  spymaster_task.1003.notification:0 "Secret Letter Lost"
 
@@ -159,7 +159,7 @@
  spymaster_task.3002.a:0 "What is [councillor_liege.GetSheHe] plotting?"
 
  spymaster_task.3003.end:1 "Thankfully, [councillor_liege.GetTitledFirstName] has promised that the machinations of [councillor_liege.GetHerHis] [councillor.GetCouncilTitle] will come to an end immediately."
- spymaster_task.3003.a:0 "But why where they here in the first place?"
+ spymaster_task.3003.a:0 "But why were they here in the first place?"
  
  spymaster_task.3004.desc:0 "You cannot have believed that the agents of your [councillor.GetCouncilTitle] would go unnoticed at my court forever? I demand that you cease this rebellious behavior at once!"
  spymaster_task.3004.a:0 "You must be imagining things..."

@@ -213,7 +213,7 @@
 
  intrigue_scheme_ongoing.5017.t:0 "Gullible [target.Custom2('RelationToMe', SCOPE.sC('spouse'))|U]"
  intrigue_scheme_ongoing.5017.desc:0 "I can barely contain my glee as I find [spouse.GetTitledFirstName], [target.GetTitledFirstNamePossessive] [target.Custom2('RelationToMe', SCOPE.sC('spouse'))] waiting for me along with a small equipage. If I could get #EMP [spouse.GetHerHim]#! to help me in my scheme...\n\n"You sent word that you wanted to see me, my [ROOT.Char.GetLadyLord]?""
- intrigue_scheme_ongoing.5017.a:0 "Your [spouse.Custom2('RelationToMe', SCOPE.sC('target'))] has been calling you [target.Custom('InsultAdjectiveArticle')] [target.Custom('InsultNoun')]."
+ intrigue_scheme_ongoing.5017.a:1 "Your [spouse.Custom2('RelationToMe', SCOPE.sC('target'))] has been calling you [spouse.Custom('InsultAdjectiveArticle')] [spouse.Custom('InsultNoun')]."
  intrigue_scheme_ongoing.5017.a.success:0 "[spouse.GetTitledFirstNameNoTooltip] believes me"
  intrigue_scheme_ongoing.5017.a.failure:0 "The [target.GetTitleAsNameNoTooltip] convinces [spouse.GetHerHim] that it's a lie"
  intrigue_scheme_ongoing.5017.b:0 "Please, tell me about your [target.Custom('ResidenceBuilding')]!"
@@ -225,7 +225,7 @@
  intrigue_scheme_ongoing.5018.msg.t:0 "Supplies burned in accident"
 
  intrigue_scheme_ongoing.5019.t:0 "Secret Tunnel"
- intrigue_scheme_ongoing.5019.desc:0 "My agent [agent.GetTitledFirstName] approaches me with a bunch of papers clutched in [agent.GetHerHis] hands.\n\n"I found old architectural papers of the [target.GetTitleAsNamePossessive] [target.Custom('ResidenceBuilding')]! They might be a bit outdated, but look here...""
+ intrigue_scheme_ongoing.5019.desc:1 "My agent [agent.GetTitledFirstName] approaches me with a bunch of parchment clutched in [agent.GetHerHis] hands.\n\n"I found old architectural sketches of the [target.GetTitleAsNamePossessive] [target.Custom('ResidenceBuilding')]! They might be a bit outdated, but look here...""
  intrigue_scheme_ongoing.5019.a:0 "That looks like a tunnel we can use!"
  intrigue_scheme_ongoing.5019.b:0 "If only I had this many hidden places... Call the mason."
 

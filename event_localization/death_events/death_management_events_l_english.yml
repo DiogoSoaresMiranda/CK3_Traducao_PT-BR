@@ -35,10 +35,11 @@
 
  death_management.1007.t:0 "A Twist of Fate"
  death_management.1007.start_murder:0 "[dead_character.GetTitledFirstName] has been murdered! Now we will never know what kind of"
- death_management.1007.start:2 "Today, with the passing of [dead_character.GetTitledFirstName], the future of [ROOT.Char.GetPrimaryTitle.GetNameNoTier] has changed in its course. We will never know what kind of"
- death_management.1007.mytitle:1 "[ROOT.Char.GetTitleTierName]"
- death_management.1007.ruler:0 "ruler"
- death_management.1007.end:3 "[dead_character.GetSheHe] would have become, or if [dead_character.GetHerHis] death is a blessing or a curse on this [ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip]."
+ death_management.1007.start:3 "Today, with the passing of [dead_character.GetTitledFirstName], the future of [ROOT.Char.GetPrimaryTitle.GetNameNoTier] has changed in its course."
+ death_management.1007.same_or_higher_tier:0 "We will never know if [dead_character.GetHerHis] reign would have united our lands together,"
+ death_management.1007.mytitle:2 "We will never know what kind of [ROOT.Char.GetTitleTierName] [dead_character.GetSheHe] would have become,"
+ death_management.1007.ruler:1 "We will never know what kind of ruler [dead_character.GetSheHe] would have become,"
+ death_management.1007.end:4 "or if [dead_character.GetHerHis] death is a blessing or a curse on this [ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip]."
  death_management.1007.a:0 "One tale ends, and another begins."
  death_management.1007.a.tt:1 "Your heir, [dead_character.GetTitledFirstName], has [THIS.Char.Custom('DiedHouse_arrest')]."
 
@@ -46,28 +47,28 @@
  death_management.1006.desc:0 "The twist and turns of fate have not always been to my advantage – [ROOT.Char.GetFaith.HighGodName] know that I was cursed the day I met [dead_character.GetTitledFirstName]. Today, however, that curse has been lifted! Fate has smiled upon me and brought that [dead_character.Custom('InsultAdjective')] [dead_character.Custom('InsultNoun')] to [dead_character.GetHerHis] grave!"
  death_management.1006.a.tt:1 "Your rival, [dead_character.GetTitledFirstName], has [THIS.Char.Custom('DiedHouse_arrest')]."
 
- death_management.parent.desc:1 "Your [dead_character.Custom('MotherFather')], [dead_character.GetTitledFirstName], died."
+ death_management.parent.desc:2 "Your [dead_character.Custom('MotherFather')], [dead_character.GetTitledFirstName], [dead_character.GetDeathReason]."
 
- death_management.sibling.desc:1 "Your [dead_character.Custom('SisterBrother')], [dead_character.GetTitledFirstNameNoTooltip], died."
+ death_management.sibling.desc:2 "Your [dead_character.Custom('SisterBrother')], [dead_character.GetTitledFirstNameNoTooltip], [dead_character.GetDeathReason]."
 
- death_management.betrothed.desc:1 "Your betrothed, [dead_character.GetFirstNameNoTooltip], died."
+ death_management.betrothed.desc:2 "Your betrothed, [dead_character.GetFirstNameNoTooltip], [dead_character.GetDeathReason]."
 
- death_management.liege_councillor.desc:1 "Your [councillor|E], [dead_character.GetFirstNameNoTooltip], died."
+ death_management.liege_councillor.desc:2 "Your [councillor|E], [dead_character.GetFirstNameNoTooltip], [dead_character.GetDeathReason]."
 
- death_management.liege.desc:1 "Your vassal, [dead_character.GetFirstNameNoTooltip], died."
+ death_management.liege.desc:2 "Your vassal, [dead_character.GetFirstNameNoTooltip], [dead_character.GetDeathReason]."
 
- death_management.pinned.desc:0 "A person of interest to you, [dead_character.GetNameNoTooltip], died."
+ death_management.pinned.desc:2 "A person of interest to you, [dead_character.GetFullNameNoTooltip], [dead_character.GetDeathReason]."
 
  death_management.1008.desc:0 "[dead_character.GetTitledFirstName], the spouse of my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('spouse_of_dead_character'))] [spouse_of_dead_character.GetFirstName], has passed away. All those carefully crafted plans have been crushed by [ROOT.Char.GetFaith.DeathDeityNamePossessive] fickle impulse, though such complaints might seem petty and insubstantial compared to [dead_character.GetHerHis] family's pain..."
  death_management.1008.a:0 "Rest in peace."
- death_management.1008.a.tt:0 "The spouse of [spouse_of_dead_character.GetFirstName], [dead_character.GetTitledFirstName], died."
- death_management.spouse_child.desc:0 "The spouse of your heir [spouse_of_dead_character.GetFirstName], [dead_character.GetTitledFirstName], died."
+ death_management.1008.a.tt:1 "The spouse of [spouse_of_dead_character.GetFirstName], [dead_character.GetTitledFirstName], [dead_character.GetDeathReason]."
+ death_management.spouse_child.desc:1 "The spouse of your heir [spouse_of_dead_character.GetFirstName], [dead_character.GetTitledFirstName], [dead_character.GetDeathReason]."
 
  death_management.1009.t:0 "An Unforeseen Tragedy"
  death_management.1009.desc:1 "[dead_character.GetTitledFirstName], the betrothed of my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('betrothed_of_dead_character'))] [betrothed_of_dead_character.GetFirstName], has passed away. All those carefully crafted plans have been crushed by [ROOT.Char.GetFaith.DeathDeityNamePossessive] fickle impulse, though such complaints might seem petty and insubstantial compared to [dead_character.GetHerHis] family's pain..."
  death_management.1009.a:0 "Rest in peace, little one."
  death_management.1009.a.tt:0 "The betrothed of [betrothed_of_dead_character.GetFirstName], [dead_character.GetTitledFirstName], has [THIS.Char.Custom('DiedHouse_arrest')] and the marriage agreement is void."
- death_management.betrothed_child.desc:1 "The betrothed of [betrothed_of_dead_character.GetFirstName], [dead_character.GetTitledFirstName], died."
+ death_management.betrothed_child.desc:2 "The betrothed of [betrothed_of_dead_character.GetFirstName], [dead_character.GetTitledFirstName], [dead_character.GetDeathReason]."
 
  death_management.1010.t:0 "No More Lessons"
  death_management.1010.murderer:0 "As the news that [dead_character.GetTitledFirstName] has passed away spreads throughout the hallways I have to fight to keep my face under control.\n\nIt is not until I am in a carriage headed for home that it truly sinks in... [dead_character.GetSheHe] is gone."
@@ -187,7 +188,7 @@
  death_management.3002.tt:1 "Your [dead_character.Custom('MotherFather')], [dead_character.GetTitledFirstName], has died in your dungeon."
 
  death_management.3006.t:0 "Outliving My Rival"
- death_management.3006.desc:0 "When my gaoler brought the joyous news, I could scarce believe it! My [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('dead_character'))], [dead_character.GetTitledFirstName], has finally perished in my dungeon.\n\nTo think that I will live in a world free from that [dead_character.Custom('InsultNoun')], and to think that I was the one who brought it about. I am so happy I could dance!"
+ death_management.3006.desc:1 "When my gaoler brought the joyous news, I could scarce believe it! My rival, [dead_character.GetTitledFirstName], has finally perished in my dungeon.\n\nTo think that I will live in a world free from that [dead_character.Custom('InsultNoun')], and to think that I was the one who brought it about. I am so happy I could dance!"
  death_management.3006.a:0 "On [dead_character.GetHerHis] shallow grave!"
  death_management.3006.a.tt:2 "Your [rival|E] [dead_character.GetFirstNameNoTooltip] has died!"
 
@@ -263,6 +264,7 @@
 
  death_management.4008.t:0 "All That Could Have Been"
  death_management.4008.desc.like_my_prison:0 "Despite my actions I never hated [dead_character.GetTitledFirstName]. I even imagined our future together from time to time — the things we would achieve and the family we would build. All those dreams came crashing down as I was told my betrothed had died as my prisoner. This is not how things were supposed to happen!"
+ death_management.4008.desc.like:0 "When I was told of the death of my betrothed [dead_character.GetTitledFirstName] as a prisoner of [house_arrest_holder.GetTitledFirstName], all my dreams of a life with [dead_character.GetTitledFirstName] came crashing down. Now none of the things I had imagined will happen. Our hopes, dreams, and the family we would've built... All gone."
  death_management.4008.desc.dislike:0 "When I was told of the death of my betrothed [dead_character.GetTitledFirstName] as a prisoner of [house_arrest_holder.GetTitledFirstName], I cannot deny that I was relieved. Of course, I am not happy [dead_character.GetSheHe] is dead, but I am glad I will not have to marry [dead_character.GetHerHim] now. I would have been miserable, and 'until death do us part' is a really long time..."
  death_management.4008.desc.dislike_my_prison:0 "When I was told that my betrothed [dead_character.GetTitledFirstName] had passed away as my prisoner, I cannot deny that I was relieved. Of course, I am not happy [dead_character.GetSheHe] is dead, but I am glad I will not have to marry [dead_character.GetHerHim] now. I would have been miserable, and 'until death do us part' seemed like such a far away concept..."
  death_management.4008.desc.neutral_my_prison:0 "Since my betrothal to [dead_character.GetTitledFirstName] was made official, I have experienced both excitement and fear at the thought of our pending marriage. Now that [dead_character.GetSheHe] has passed away as my prisoner, I miss [dead_character.GetHerHim], despite never really having known [dead_character.GetHerHim]. Who knows what we could have had together?"

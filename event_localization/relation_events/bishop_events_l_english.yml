@@ -12,7 +12,7 @@
  bishop.1001.d:0 "Surely this can all be... forgotten?"
 
  bishop.1011.desc_opening:0 "Your involvement in the [faction.GetNameNoTooltip] targeting [targeting.GetTitledFirstName] is most unseemly — if you do not withdraw from it, I will be forced to take drastic action."
- bishop.1011.desc_cannibal:0 "\n\nSay, your [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('cannibal_food'))] [cannibal_food.GetTitledFirstName] looks very tasty. It would be a #EMP shame#! if something were to happened to [cannibal_food.GetHerHim]..."
+ bishop.1011.desc_cannibal:0 "\n\nSay, your [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('cannibal_food'))] [cannibal_food.GetTitledFirstName] looks very tasty. It would be a #EMP shame#! if something were to happen to [cannibal_food.GetHerHim]..."
  bishop.1011.desc_beating:0 "\n\nA group of zealots is roaming close by, handing out divine punishment with little mercy. Your [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('to_beat_up'))] [to_beat_up.GetTitledFirstName] still walks the streets alone sometimes, right...?"
  bishop.1011.a:0 "I am not courting the ire of the [bishop.GetFaith.HouseOfWorship]."
  bishop.1011.b:0 "Your words can do me no harm!"

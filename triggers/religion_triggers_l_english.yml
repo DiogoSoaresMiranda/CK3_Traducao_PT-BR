@@ -38,8 +38,8 @@
  IT_HAS_DOMINANT_RULING_GENDER_TRIGGER:0 "As [doctrines] do [FAITH.GetName] permite [rulers] garantir [titles] para [CHARACTER.GetWomenMen]"
  NOT_IT_HAS_DOMINANT_RULING_GENDER_TRIGGER:0 "As [doctrines] do [FAITH.GetName] #bold not#! permite [rulers] garantir [titles] para [TARGET_CHARACTER.GetWomenMen]"
 
- I_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:0 "Você detém pelo menos $VALUE|0V$ [FAITH.GetName] [holy_sites|E]"
- I_DO_NOT_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:0 "Você #bold not#! detém pelo menos $VALUE|0V$ [FAITH.GetName] [holy_sites|E]"
+ I_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:2 "Seu [realm|E] contem pelo menos $VALUE|0V$ [FAITH.GetName] [holy_sites|E] com [FAITH.GetAdjectiveNoTooltip] [holders|E]"
+ I_DO_NOT_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:2 "Seu [realm|E] #bold não#! contem pelo menos $VALUE|0V$ [FAITH.GetName] [holy_sites|E] com [FAITH.GetAdjectiveNoTooltip] [holders|E]"
  
  NOT_RELIGION_TAG_TRIGGER:0 "Sua [faith] é #bold not#! parte de $RELIGION|V$"
 

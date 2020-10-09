@@ -21,7 +21,7 @@
  yearly.3002.b:0 "I do forgive, if you let people know of my generosity."
 
  yearly.3003.t:0 "An Insulting Accusation"
- yearly.3003.desc:0 "When I present [neighbor.GetTitledFirstNamePossessiveNoTooltip] letter to [vassal.GetTitledFirstName], it is first met with confusion, then anger. "You believe [neighbor.GetHerHis] word over mine? Have I not always been a loyal servant!""
+ yearly.3003.desc:1 "When I present [neighbor.GetTitledFirstNamePossessiveNoTooltip] letter to [vassal.GetTitledFirstName], it is first met with confusion, then anger. "You believe [neighbor.GetHerHis] word over mine? Have I not always been a loyal servant!"\n [vassal.GetHerHis|U] indignation plants a seed of doubt in my mind. Perhaps I acted too quickly. I should make amends before I ruin this relationship any further!"
  yearly.3003.friend:0 "\nThankfully, my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('friend'))] intervenes. "This is merely to warn you of [neighbor.GetTitledFirstNamePossessive] slander," [friend.GetTitledFirstName] says."
  yearly.3003.a:0 "Yes. In fact I wish to reward you for your loyalty!"
  yearly.3003.b:0 "You have always been such a good servant."

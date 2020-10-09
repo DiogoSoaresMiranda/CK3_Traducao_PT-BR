@@ -17,7 +17,7 @@
  sway_ongoing.1004.a:0 "Oh no..."
 
  sway_ongoing.1005.t:0 "Sway: The Good [target.GetTitleAsNameNoTooltip]"
- sway_ongoing.1005.desc:0 "While hosting lords and ladies from realms near and far some opportunities to portray [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)] in a good light have presented themselves.\n\n"My [ROOT.Char.GetLadyLord], pray tell, who is the most [target.Custom('FormalComplimentAdjective')] person you have heard of?""
+ sway_ongoing.1005.desc:0 "While hosting lords and ladies from realms near and far, some opportunities to portray [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)], in a good light have presented themselves.\n\n"My [ROOT.Char.GetLadyLord], pray tell, who is the most [target.Custom('FormalComplimentAdjective')] person you have heard of?""
  sway_ongoing.1005.a:0 "[target.GetTitledFirstNameNoTooltip], without a doubt!"
  sway_ongoing.1005.b:0 "Well, me, of course!"
 

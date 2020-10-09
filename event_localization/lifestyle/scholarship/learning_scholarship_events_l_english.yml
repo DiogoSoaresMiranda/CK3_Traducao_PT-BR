@@ -141,7 +141,7 @@
 
  learning_scholarship_special.3002.desc:0 "The first reagent I need to obtain is lead sugar, an ingredient used to sweeten wines.\n\nI could find a supplier to import what I need, though it would be expensive. Alternatively, I can cheaply manufacture my own by burning metallic lead and dissolving the ashes in vinegar..."
  learning_scholarship_special.3002.a:0 "One must spend money to make money!"
- learning_scholarship_special.3002.b:0 "How can I learn if other people to do all the work!?"
+ learning_scholarship_special.3002.b:0 "How can I learn if other people do all the work!?"
  learning_scholarship_special.3002.a.success:0 "I create the lead sugar without incident"
  learning_scholarship_special.3002.a.failure:0 "The lead fumes give me a headache"
  learning_scholarship_special.3002.tt:0 "I obtain the lead sugar"
@@ -163,7 +163,7 @@
 
  learning_scholarship_special.3005.desc:0 "After mixing the lead sugar into the solution, it suddenly turned a vibrant yellow! I had a moment of worry when the mixture became clear after boiling, but once it cooled back down, I saw small golden-colored crystals form in my flask.\n\nUpon examination, I can tell these crystals are not true gold, as they are translucent. However, it is possible that this reaction is one of the fabled '12 vital processes' needed to create gold!"
  learning_scholarship_special.3005.a:0 "Am I one step closer to true transmutation?"
- learning_scholarship_special.3006.desc:0 "Upon mixing the lead sugar into the boiled seaweed ash the mixture suddenly turned a vibrant yellow.\n\nWhile I did not manage to produce actual gold, I did find that my solution can be used as a dye which rivals saffron in brilliance. Selling this dye will allow allow me to recoup some of my costs."
+ learning_scholarship_special.3006.desc:0 "Upon mixing the lead sugar into the boiled seaweed ash the mixture suddenly turned a vibrant yellow.\n\nWhile I did not manage to produce actual gold, I did find that my solution can be used as a dye which rivals saffron in brilliance. Selling this dye will allow me to recoup some of my costs."
  learning_scholarship_special.3006.a:0 "Pretty, if uneconomical to produce."
  learning_scholarship_special.3007.desc:0 "After burning the seaweed and mixing it with water, I was left with an alarming amount of disgusting brown sludge. Unsure of what to do at this point, I mixed the lead sugar into the solution, but no observable change occurred.\n\nUnfortunately the only use I can think of for my experiment is to use it as fertilizer."
  learning_scholarship_special.3007.a:0 "I guess the crops will grow well this year?"

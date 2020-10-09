@@ -47,5 +47,5 @@
  councillor_spouse_martial.1005.t:1 "Spouse: Leaving an Impression"
  councillor_spouse_martial.1005.desc:0 "[vassal.GetTitledFirstName] is coming to [capital.GetNameNoTier] to pay me tribute. However, [councillor.GetTitledFirstName] suggests that a military display could ensure continued loyalty.\n\n"Seeing your overwhelming might would make anyone think twice if treason ever crossed their mind," my [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))] points out."
  councillor_spouse_martial.1005.a:0 "Yes, [vassal.GetFirstNameNoTooltip] will see soldiers everywhere [vassal.GetSheHe] turns!"
- councillor_spouse_martial.1005.a.tt:0 "[vassal.GetFirstNameNoTooltip] becomes [cowed|E]"
+ councillor_spouse_martial.1005.a.tt:1 "[vassal.GetFirstNameNoTooltip] becomes more susceptible to [dread|E]"
  councillor_spouse_martial.1005.b:0 "A regular parade should suffice."

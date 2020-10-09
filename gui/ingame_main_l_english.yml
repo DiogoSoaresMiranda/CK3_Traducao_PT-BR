@@ -100,6 +100,17 @@
  PRESTIGE_LEVEL_LABEL_3:1 "@prestige_level_3_icon! [GetModifier( 'prestige_level_3' ).GetNameWithTooltip|L]"
  PRESTIGE_LEVEL_LABEL_4:1 "@prestige_level_4_icon! [GetModifier( 'prestige_level_4' ).GetNameWithTooltip|L]"
  PRESTIGE_LEVEL_LABEL_5:1 "@prestige_level_5_icon! [GetModifier( 'prestige_level_5' ).GetNameWithTooltip|L]"
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_0:0 "" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_1:0 "" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_2:0 "" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_3:0 "" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_4:0 "" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_5:0 "" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_6:0 "" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_7:0 "" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_8:0 "" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_9:0 "" Delete this
+ #DYNASTY_PRESTIGE_LEVEL_LABEL_10:0 "" Delete this
  PIETY_PROGRESS_TOOLTIP:0 "Progresso: $VALUE|0V$/$MAX|0$ para o próximo [piety_level|E]"
  PRESTIGE_PROGRESS_TOOLTIP:0 "Progresso: $VALUE|0V$/$MAX|0$ para o próximo [prestige_level|E]"
  DYNASTY_PRESTIGE_PROGRESS_TOOLTIP:0 "Progresso: $VALUE|0V$/$MAX|0$ para o próximo [dynasty_prestige_level|E]"

@@ -154,6 +154,7 @@
  witch.3014.guest.start.desc:0 "At the eve of the grand rite, we gather in an isolated glade. The great bonfire is warming our backs and the air is heavy with excitement."
  witch.3014.guest.good.desc:0 "[host.GetTitledFirstName] leads us through a spectacular ceremony. The ancient prayers roll of our tongues in an enchanting pattern, full of beauty and promise. We begin to dance, building towards a magnificent crescendo. We reach it together, howling [ROOT.Char.GetFaith.WitchGodHerHis|U] name at the moon as one."
  witch.3014.guest.bad.desc:0 "[host.GetTitledFirstName] leads us through an awkward ceremony. [host.GetSheHe|U] is trying hard to to make the night special, but [host.GetHerHis] attempts are feeble. At least the guest list is interesting..."
+ witch.3014.guest.fallback.desc:0 "[host.GetTitledFirstName] leads us through a ceremony with all the right words and gestures. The ancient prayers roll of our tongues in an enchanting pattern, but the beauty and power that usually accompanies it is diminished; [host.GetTitledFirstNameNoTooltip] does well enough, but something is missing nonetheless."
  witch.3014.host.end.desc:0 "\n\nNow that the main ceremony is finished, my guests and I are free to worship as it pleases us."
  witch.3014.guest.end.desc:0 "\n\nNow that the main ceremony is finished, we are free to worship as it pleases us."
  witch.3014.a:0 "Experiment with herbs together with [herbalist.GetFirstNameNoTooltip]."

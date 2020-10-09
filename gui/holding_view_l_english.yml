@@ -77,7 +77,7 @@
  ABORT_BUILDING_CONFIRM_ACCEPT:0 "Abort"
  ABORT_HOLDING_CONFIRM:0 "Aborting this construction will refund the cost, and allow another holding to be constructed here."
  CANCEL_HOLDING_CONSTRUCTION:0 "Abort [HoldingView.GetHolding.GetConstructingHoldingType.GetName] Construction"
- CANCEL_HOLDING_CONSTRUCTION_TOOLTIP:0 "Cancel the construction of the [HoldingView.GetHolding.GetConstructingHoldingType.GetName] in [HoldingView.GetProvince.GetTitle.GetNameNoTierNoTooltip], the cost will be refunded."
+ CANCEL_HOLDING_CONSTRUCTION_TOOLTIP:1 "Cancel [HoldingView.GetHolding.GetConstructingHoldingType.GetName] construction in [HoldingView.GetProvince.GetTitle.GetNameNoTierNoTooltip], and refund the cost."
  REPLACE_BUILDING:0 "Replace $TYPE$"
  REPLACE_BUILDING_BUTTON:0 "Replace"
  REPLACE_BUILDING_PROMPT:0 "#X Replacing this building will destroy the existing building. The cost of the building is not refunded.#!"
@@ -91,7 +91,7 @@
  BUILDING_PROVINCE_MODIFIER:0 "#T Holding:#!"
  BUILDING_COUNTY_MODIFIER:0 "#T County:#!"
  BUILDING_CHARACTER_MODIFIER:0 "#T Owner:#!"
- HOLDING_VIEW_WRONG_HOLDING_TYPE:0 "#T Wrong type of [holding|E]#!\n[Holding.GetType.GetName|V] holdings cannot be effectively held by characters with [Character.GetGovernment.GetName|V] government and will provide no [taxes|E] or [levies|E]."
+ HOLDING_VIEW_WRONG_HOLDING_TYPE:0 "#T Wrong type of [holding|E]#!\n[Holding.GetType.GetName|V] holdings cannot be effectively held by characters with [Character.GetGovernment.GetName|V] governments and will provide no [taxes|E] or [levies|E]."
  HOLDING_SELECTION_VIEW_WRONG_HOLDING_TYPE:1 "#T Wrong type of [holding|E]#!\nAs a [GetPlayer.GetGovernment.GetName|V] [ruler|E] you may not personally hold [HoldingTypeItem.GetHoldingType.GetName|V] Holdings. You will have to grant the Holding to someone after construction"
  YOUR_HOLDING_TEXT:0 "Your [HOLDING.GetType.GetName] [holding|E]"
  NOT_MY_HOLDING_TEXT:0 "[HOLDING.GetType.GetName] [holding|E]"
@@ -157,3 +157,6 @@
  FIND_VASSAL_BUTTON_HOLDING_VIEW_TOOLTIP:2 "#T $FIND_VASSAL_HEADER$#!\nChoose someone to grant the [HoldingView.GetCountyTitle.GetNameNoTooltip] to.\n\n$FIND_VASSAL_BUTTON_TOOLTIP_SEGMENT$"
  VASSAL_POSSESSIVE:0 "vassal's"
  HOLDING_VIEW_BUILDING_IN_VASSAL:0 "Constructing in your Vassal's [holding|E]"
+
+ CULTURE_COUNTY_WINDOW:0 "[Culture.GetNameNoTooltip]"
+ 

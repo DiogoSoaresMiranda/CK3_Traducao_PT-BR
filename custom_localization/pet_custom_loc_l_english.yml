@@ -29,8 +29,8 @@
  fur_color_black:0 "preto"
  fur_color_white:0 "brancp"
 
- cat_name:0 "[ROOT.Var( 'story_cycle_cat_name' ).GetFlagName]"
- cat_name_possessive:0 "[ROOT.Var( 'story_cycle_cat_name' ).GetFlagName]'s"
+ cat_name:1 "[ROOT.Char.GetLocalizedText( 'story_cycle_cat_name' )]"
+ cat_name_possessive:1 "do [ROOT.Char.Custom( 'CatStoryName' )]"
  cat_name_gyb:0 "Gyb"
  cat_name_mite:0 "Mite"
  cat_name_gray:0 "Gray"
@@ -41,8 +41,8 @@
  cat_name_shadow:0 "Shadow"
  cat_name_paws:0 "Paws"
 
- dog_name:0 "[ROOT.Var( 'story_cycle_dog_name' ).GetFlagName]"
- dog_name_possessive:1 "[ROOT.Var( 'story_cycle_dog_name' ).GetFlagName]'s"
+ dog_name:1 "[ROOT.Char.GetLocalizedText( 'story_cycle_dog_name' )]"
+ dog_name_possessive:2 "do [ROOT.Char.Custom( 'DogStoryName' )]"
  dog_name_amiable:0 "Amiable"
  dog_name_nosewise:0 "Nosewise"
  dog_name_holdfast:0 "Holdfast"

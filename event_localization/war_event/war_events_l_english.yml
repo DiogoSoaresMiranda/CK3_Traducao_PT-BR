@@ -13,6 +13,9 @@
  war_event.1001.desc:0 "It is strange how quickly a situation can change during war.\n\nIn the midst of fighting against [recipient.Custom2('MyCharacterIntroduction', ROOT.Char)], a missive from [liege_invalidator.Custom2('MyCharacterIntroduction', ROOT.Char)] arrives. [liege_invalidator.GetSheHe|U] is telling me to abandon my own cause and join [liege_invalidator.GetHerHim] in #EMP [liege_invalidator.GetHerHis]#! war against [recipient.GetTitledFirstName]."
  war_event.1001.a:0 "B-but what about my war!? Damn you!"
 
+ war_event.2003.desc:0 "Since [liege_invalidator.Custom2('MyCharacterIntroduction', invalidator)] now wages war against you my forces will join [liege_invalidator.GetHerHis] cause."
+ war_event.2003.a:0 "So be it."
+
  war_event.2001.t:0 "A New Opponent"
  war_event.2001.desc:0 "Nothing in this world is certain, especially in times of war. The [war.GetName] has been no different.\n\nAs this conflict is no longer against [previous_defender.Custom2('MyCharacterIntroduction', ROOT.Char)] but [defender.Custom2('MyCharacterIntroduction', ROOT.Char)] instead, it might be wise to reevaluate the situation."
  war_event.2001.a:0 "My goal is still the same."
@@ -40,13 +43,13 @@
  war_event.3003.2.b:0 "Maybe I should just end our alliance...?"
 
  war_event.neighbor_war.both_neighbors.t:0 "Neighbors' War Resolved"
- war_event.neighbor_war.both_neighbors.desc:0 "Your neighbor [winner.GetTitledFirstName] won against your other neighbor [loser.GetTitledFirstName] in the [this_war.GetName]!"
+ war_event.neighbor_war.both_neighbors.desc:1 "Your neighbor [winner.GetTitledFirstName] won against your other neighbor [loser.GetTitledFirstName] in the [war.GetName]!"
 
  war_event.neighbor_war.only_winner.t:0 "Neighboring Ruler Won War"
- war_event.neighbor_war.only_winner.desc:2 "Your neighbor [winner.GetTitledFirstName] has won against [loser.Custom2('YourCharacterIntroductionNoComma', this_player)] in the [this_war.GetName]!"
+ war_event.neighbor_war.only_winner.desc:3 "Your neighbor [winner.GetTitledFirstName] has won against [loser.Custom2('YourCharacterIntroductionNoComma', this_player)] in the [war.GetName]!"
 
  war_event.neighbor_war.only_loser.t:0 "Neighboring Ruler Lost War"
- war_event.neighbor_war.only_loser.desc:1 "Your neighbor [loser.GetTitledFirstName] has lost against [winner.Custom2('YourCharacterIntroductionNoComma', this_player)] in the [this_war.GetName]!"
+ war_event.neighbor_war.only_loser.desc:2 "Your neighbor [loser.GetTitledFirstName] has lost against [winner.Custom2('YourCharacterIntroductionNoComma', this_player)] in the [war.GetName]!"
 
  #Holy wars "soft invalidated" by faith change
  war_event.3101.t:0 "Newfound Faith"

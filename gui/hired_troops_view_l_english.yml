@@ -6,7 +6,6 @@
  HIRED_TROOPS_VIEW_LIST_MC_NUMBER_OF_SOLDIERS:0 "[MercenaryCompany.GetCurrentSoldiers] [soldiers|E]"
  HIRED_TROOPS_VIEW_LIST_HO_HEADER:1 "[GetPlayer.GetFaith.GetAdjective] [holy_orders|E]"
  HIRED_TROOPS_VIEW_LIST_HO_BUTTON_TOOLTIP:0 "#T [HolyOrder.GetName] #!\n#I Click to view details#!"
- HIRED_TROOPS_VIEW_LIST_HO_PLAYER_IS_PATRON:1 "#D You are the Patron :)#!"
  HIRED_TROOPS_VIEW_LIST_HO_NUMBER_OF_SOLDIERS:0 "[HolyOrder.GetCurrentSoldiers] [soldiers|E]"
  HIRED_TROOPS_VIEW_LIST_HO_NO_HOS:0 "There are no [GetPlayer.GetFaith.GetAdjective] Holy Orders"
  HIRED_TROOPS_VIEW_LIST_NO_WAR:0 "#T Mercenaries On Hold#!\nDuring times of peace, hired [mercenaries|E] will be on hold waiting for a war to start. They will raise automatically when the time comes."

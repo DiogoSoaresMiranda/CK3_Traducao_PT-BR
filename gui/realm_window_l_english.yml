@@ -34,7 +34,7 @@
  REALTIVE_STENGTH_ONE_MAA:0 "Their [men_at_arms|E] are mostly [REGIMENT_TYPE.GetName|L]."
  REALTIVE_STENGTH_TWO_MAA:0 "Their [men_at_arms|E] are mostly [REGIMENT_TYPE.GetName|L] and [REGIMENT_TYPE_2.GetName|L]."
  LIST_LEVIES_STRING:0 "[levies|E]: $CURRENT|0V$/$MAX|0V$ "
- LIST_KNIGHTS_STRING:1 "[knight_i]$knight_culture_player_plural$: $NUM|0V$ "
+ LIST_KNIGHTS_STRING:2 "[knight_i][CHARACTER.Custom( 'KnightCulturePlural' )]: $NUM|0V$ "
  LIST_MAA_STRING:0 "[men_at_arms|E]: $CURRENT|0V$/$MAX|0V$"
  LIST_EVENT_TROOPS_STRING:2 "[special_troops|E]: $CURRENT|0V$"
  LIST_MERCENARIES_STRING:0 "[mercenaries|E]: $CURRENT|0V$"
@@ -44,9 +44,9 @@
  REALM_WINDOW_AT_WAR_WITH_US:0 "At [war|e]"
  REALM_WINDOW_TRUCE_WITH_US:0 "[truce|e]\n[RealmWindow.GetTruceWithPlayerEndDate.GetStringShort]"
  
- REALM_WINDOW_DIPLOMACY_TOOLTIP_WAR_ATTACKER:1 "#tooltip_subheading #attacker_color Attacking#! [DEFENDER.GetUIName] in the [WAR.GetName|V]#!"
- REALM_WINDOW_DIPLOMACY_TOOLTIP_WAR_DEFENDER:1 "#tooltip_subheading #defender_color Defending#! against [ATTACKER.GetUIName] in the [WAR.GetName|V]#!"
- REALM_WINDOW_DIPLOMACY_TOOLTIP_WAR_PRIMARY:0 "\n#weak [ATTACKER.GetShortUIName|U] vs [DEFENDER.GetShortUIName|U]#!"
+ REALM_WINDOW_DIPLOMACY_TOOLTIP_WAR_ATTACKER:2 "#tooltip_subheading #attacker_color Attacking#! [DEFENDER.GetUIName] in the [WAR.GetName|V]#!\nWar Started: [WAR.GetStartDate.GetString|V]"
+ REALM_WINDOW_DIPLOMACY_TOOLTIP_WAR_DEFENDER:2 "#tooltip_subheading #defender_color Defending#! against [ATTACKER.GetUIName] in the [WAR.GetName|V]#!\nWar Started: [WAR.GetStartDate.GetString|V]"
+ REALM_WINDOW_DIPLOMACY_TOOLTIP_WAR_PRIMARY:1 ""
  REALM_WINDOW_DIPLOMACY_TOOLTIP_WAR_PARTICIPANT:0 "$BULLET_WITH_TAB$[CHARACTER.GetUIName|U]"
  REALM_WINDOW_DIPLOMACY_TOOLTIP_ALLY:0 "#T [allied|E] to [CHARACTER.GetUIName|U]#!"
  REALM_WINDOW_DIPLOMACY_TOOLTIP_ALLY_REASON_MARRIAGE:0 "Through [marriage|E]"
@@ -70,5 +70,5 @@
  REALM_OF_CHARACTER:0 "Realm of [CHARACTER.GetUIName]"
 
  RW_CHARACTER_BUTTON:0 "Character"
- RW_CHARACTER_BUTTON_TT:0 "#T Open the Character Window#!"
+ #RW_CHARACTER_BUTTON_TT:1 "" delete this
  

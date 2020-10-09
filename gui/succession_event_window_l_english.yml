@@ -151,7 +151,7 @@
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_ARROGANT:0 "Ever confident in [ROOT.Char.GetHerselfHimself], [ROOT.Char.GetFirstNamePossessiveNoTooltip] rule may bring glory or shame to the House [ROOT.Char.GetHouse.GetName] — only time will tell."
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_CYNICAL:0 "Never caring for the word of the [ROOT.Char.GetFaith.ReligiousText], many fear [ROOT.Char.GetFirstNamePossessiveNoTooltip] rule will come to an early end as [ROOT.Char.GetFaith.HighGodName] smites [ROOT.Char.GetHerHim]."
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_GREGARIOUS:0 "Well-spoken and outgoing, many expect [ROOT.Char.GetFirstNameNoTooltip] to have no problem charming the court to [ROOT.Char.GetHerHis] side."
- SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_ZEALOUS:0 "Spending long hours in prayer as to not upset [Religion.HighGodName], many are confident that [ROOT.Char.GetFirstNamePossessiveNoTooltip] reign will be a blessing to the realm."
+ SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_ZEALOUS:1 "Spending long hours in prayer as to not upset [ROOT.Char.GetFaith.HighGodName], many are confident that [ROOT.Char.GetFirstNamePossessiveNoTooltip] reign will be a blessing to the realm."
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_AMBITIOUS:0 "Being an ambitious [ROOT.Char.GetWomanMan], many expect the realm to grow and prosper under [ROOT.Char.GetHerHis] rule."
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_DILIGENT:0 "Energetic and collected, [ROOT.Char.GetFirstNameNoTooltip] will surely improve the realm under [ROOT.Char.GetHerHis] rule."
  SUCCESSION_EVENT_WINDOW_HEIR_TRAIT_DECEITFUL:0 "Devious and deceptive, [ROOT.Char.GetFirstNamePossessiveNoTooltip] feud with truth itself may also be [ROOT.Char.GetHerHis] undoing."
@@ -210,7 +210,7 @@
  SUCCESSION_EVENT_WINDOW_HEIR_UNIMPRESSIVE:0 "Without many accomplishments to [ROOT.Char.GetHerHis] name, it is hard to tell what kind of ruler [ROOT.Char.GetSheHe] will become yet."
 
  SUCCESSION_EVENT_WINDOW_GAME_OVER_INTRO:0 "Your lineage has come to an end"
- SUCCESSION_EVENT_WINDOW_GAME_OVER_INTRO_UNLANDED:0 "[ROOT.Char.GetFullNameNoTooltip] has lost all of [ROOT.Char.GetHerHis] titles and become landless"
+ SUCCESSION_EVENT_WINDOW_GAME_OVER_INTRO_UNLANDED:1 "[ROOT.Char.GetFullNameNoTooltip] has lost all of [ROOT.Char.GetHerHis] titles and became landless"
  SUCCESSION_EVENT_WINDOW_GAME_OVER_INTRO_BARON:0 "[ROOT.Char.GetFullNameNoTooltip] has lost all but [ROOT.Char.GetHerHis] barony titles"
  SUCCESSION_EVENT_WINDOW_GAME_OVER_CENTURIES:0 "For centuries you have followed the dynasty of [ROOT.Char.GetDynasty.GetName]"
  SUCCESSION_EVENT_WINDOW_GAME_OVER_CENTURY:0 "For over a century you have followed the dynasty of [ROOT.Char.GetDynasty.GetName]"
@@ -226,7 +226,6 @@
  SUCCESSION_EVENT_WINDOW_GAME_OVER_LOW_SPLENDOR:0 "but it has remained insignificant, leaving no lasting mark on history"
  SUCCESSION_EVENT_WINDOW_GAME_OVER_LOW_SPLENDOR_SHORT:0 "and it has remained insignificant, leaving no lasting mark on history"
  SUCCESSION_EVENT_WINDOW_GAME_OVER_MIN_SPLENDOR:0 "but it has remained obscure, unknown, and soon forgotten"
- SUCCESSION_EVENT_WINDOW_GAME_OVER_MIN_SPLENDOR_SHORT:0 "and it has grown into an obscure dynasty, unknown and soon forgotten"
 
 #########################################
  SUCCESSION_EVENT_WINDOW_DEAD_DESC:0 "[CHARACTER.Custom('DeathMessageIntro')] [CHARACTER.Custom('DeathMessageReason')] [CHARACTER.Custom('DeathMessageOutro')]"
@@ -238,14 +237,14 @@
  SUCCESSION_EVENT_WINDOW_HEADING_LINEAGE:0 "Lineage of [SuccessionEventWindow.GetPlayerHeir.GetShortUINameNotMeNoTooltip]"
  SUCCESSION_EVENT_WINDOW_HEADING_GAME_OVER:0 "Game Over"
  SUCCESSION_EVENT_WINDOW_HEADING_END_DATE_REACHED:0 "The End"
- SUCCESSION_SUCCESSOR_TAB_TT:0 "#T Show Successor"
+ SUCCESSION_SUCCESSOR_TAB_TT:0 "#T Show Successor#!"
  SUCCESSION_TITLES_TAB_TT:0 "#T Show Titles\n#!$SUCCESSION_LOST_TITLES$"
- SUCCESSION_LINEAGE_TAB_TT:0 "#T Show Lineage"
+ SUCCESSION_LINEAGE_TAB_TT:0 "#T Show Lineage#!"
  SUCCESSION_INHERITED_TITLES:0 "Inherited Titles"
  SUCCESSION_LOST_TITLES:0 "[Select_CString( EqualTo_int32( SuccessionEventWindow.GetNumberOfLostTitles, '(int32)0' ), '', '@warning_icon!')] Titles lost on Succession: [SuccessionEventWindow.GetNumberOfLostTitles]"
  SUCCESSION_LOST_TITLE_SHARE:0 "[SuccessionEventWindowLostTitlesItem.GetHeir.GetUINameNoTooltip]"
  SUCCESSION_RELATION_HOUSE:0 "[house|E] member"
  SUCCESSION_RELATION_DYNASTY:0 "[dynasty|E] member"
  SUCCESSION_DYNASTY_INFO:0 "[Dynasty.GetName]\n[SuccessionEventWindow.GetStartDate.GetYear] - [SuccessionEventWindow.GetEndDate.GetYear]\n[Dynasty.GetNumberOfMembers] Members ([SuccessionEventWindow.GetNumberOfPlayed] Played)\n[Dynasty.GetPrestigeLevelName]\n[GetDataModelSize( Dynasty.GetDynastyHouses )] [Select_CString( EqualTo_int32( GetDataModelSize( Dynasty.GetDynastyHouses ), '(int32)1' ), 'House', 'Houses' )]"
- SUCCESSION_NO_HEIR:0 "No [heir|E], your [dynasty|E] has died out after [SuccessionEventWindow.GetPlayedLength]"
+ SUCCESSION_NO_HEIR:2 "With no [player_heir|E], your line has died out after [SuccessionEventWindow.GetPlayedLength]."
  

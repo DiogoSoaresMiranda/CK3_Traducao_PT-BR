@@ -58,7 +58,7 @@
  task_foreign_affairs_notification_tooltip:0 "From $task_foreign_affairs$"
 
  task_domestic_affairs:0 "Domestic Affairs"
- task_domestic_affairs_effect_desc:1 "Direct Vassal Opinion: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_scale')|1]#!\n(Increases by #P +#![SCOPE.ScriptValue('chancellor_domestic_affairs_monthly_increase')|2P]/month up to #P +#![SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_max')|1P])\n$TAB$[councillor.GetCouncilTitle] [councillor.GetFirstNamePossessive] [diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_base')|2]#!"
+ task_domestic_affairs_effect_desc:1 "Opinião do [direct_vassal|E]: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_scale')|1]#!\n(Increases by #P +#![SCOPE.ScriptValue('chancellor_domestic_affairs_monthly_increase')|2P]/month up to #P +#![SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_max')|1P])\n$TAB$[councillor.GetCouncilTitle] [councillor.GetFirstNamePossessive] [diplomacy_skill|E]: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_base')|2]#!"
  task_domestic_affairs_bureaucrats_bonus_desc:1 "\n$TAB$[GetDynastyPerk('erudition_legacy_5').GetName]: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_erudition_bonus')|2]#!"
  task_domestic_affairs_chains_of_loyalty_bonus_desc:0 "\n$TAB$[GetPerk('chains_of_loyalty_perk').GetName(GetPlayer)]: #P +[SCOPE.ScriptValue('chancellor_domestic_affairs_opinion_chains_of_loyalty_bonus')|2]#!"
  SCALED_COUNCILLOR_DIPLOMACY_VALUE:1 "[councillor.GetCouncilTitle] [councillor.GetFirstNamePossessive] Diplomacy Skill"
@@ -196,7 +196,7 @@
 
  task_develop_county:0 "Increase Development in County"
  task_develop_county_VALUE_NAME:0 "[development_growth|E]"
- task_develop_county_complete_effect_desc:0 "At #V 100%#!:\n$TAB$Increase [development|E] by #P 1#!"
+ task_develop_county_complete_effect_desc:1 "#S At #V 100%#! #!:\n$TAB$Increase [development|E] by #P 1#!"
  task_develop_county_effect_desc:1 "\n[councillor.GetModifierDescForTask('task_develop_county')]"
  steward_develop_county_modifier:0 "Developing County"
  steward_develop_county_modifier_skill_desc:0 "$steward_develop_county_modifier$ — Steward Skill"

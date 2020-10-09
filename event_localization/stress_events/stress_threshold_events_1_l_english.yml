@@ -106,7 +106,7 @@
  stress_threshold.1721.n:0 "Perhaps I am craving the rarest meat..."
 
  stress_threshold.1731.t:0 "Mental Break: No Time for Myself"
- stress_threshold.1731.desc.intro:0 "Recently, ruling has seemed such hard work. It's like no subject of [ROOT.GetCharacter.GetPrimaryTitle.GetNameNoTierNoTooltip] can wipe their arse without my express instruction.\n\nI've planned a small get-away"
+ stress_threshold.1731.desc.intro:1 "Ruling has been such exhausting work as of late. It is like no subject of [ROOT.GetCharacter.GetPrimaryTitle.GetNameNoTierNoTooltip] can wipe their arse without my express instruction!\n\nI was in the middle of planning a small get-away"
  stress_threshold.1731.desc.lustful:0 "to a local brothel, where I intend to remain till I am chafed and aching,"
  stress_threshold.1731.desc.gluttonous:0 "to a famous tavern, where I will be trying exotic foreign cuisine,"
  stress_threshold.1731.desc.brave:0 "to a distant tourney with a reputation for a particular fierceness,"
@@ -121,7 +121,6 @@
  stress_threshold.1731.b.reclusive.effect:0 "$stress_threshold.1731.b.reclusive.gain$"
  stress_threshold.1731.c.profligate.gain:0 "I'll just stop to buy a few things on the way..."
  stress_threshold.1731.c.profligate.effect:0 "$stress_threshold.1731.c.profligate.gain$"
- #NOTE: Discuss w/ Sean?
  stress_threshold.1731.d.comfort_eater.gain:0 "I'll think about returning early over lunch"
  stress_threshold.1731.d.comfort_eater.effect:0 "$stress_threshold.1731.d.comfort_eater.gain$"
  stress_threshold.1731.e.journaller.gain:0 "$stress_threshold.1711.e.journaller.gain$"
@@ -133,7 +132,7 @@
  stress_threshold.1731.h.drunkard.gain:0 "I'll be drinking the entire ride, it seems."
  stress_threshold.1731.h.drunkard.effect:0 "$stress_threshold.1731.h.drunkard.gain$"
  stress_threshold.1731.i.hashishiyah.gain:0 "Do we have hashish cakes for the ride?"
- stress_threshold.1731.i.hashishiyah.effect:0 "$stress_threshold.1731.i.hashishiyah.effect$"
+ stress_threshold.1731.i.hashishiyah.effect:1 "$stress_threshold.1731.i.hashishiyah.gain$"
  stress_threshold.1731.g:0 "#EMP Fine#!, I'll cancel my plans."
 
  stress_threshold.2301.t:0 "Mental Break: Growing Needs"
@@ -229,6 +228,7 @@
  stress_threshold.2321.h.drunkard.list:0 "[vassals|E] and [courtiers|E] without [GetTrait('gluttonous').GetName(GetNullCharacter)], [GetTrait('forgiving').GetName(GetNullCharacter)], or [GetTrait('compassionate').GetName(GetNullCharacter)]"
  stress_threshold.2321.i.hashishiyah.list:0 "$stress_threshold.2321.h.drunkard.list$"
  stress_threshold.2321.j:0 "I grit my teeth and force a smile."
+
  stress_threshold.2331.t:0 "Mental Break: Estranged Authority"
  stress_threshold.2331.desc.intro:0 "Of late, my courtiers seem to avoid me at all costs. I hear whispers that "
  stress_threshold.2331.desc.calm:0 "they consider my calm outlook disturbing, devoid of emotion"

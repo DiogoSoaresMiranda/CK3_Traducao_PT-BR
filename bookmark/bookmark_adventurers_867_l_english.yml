@@ -44,19 +44,19 @@
  bookmark.0101.desc_living:1 "Meu filho, [bewo.GetTitledFirstName], é a menina dos olhos de seu pai. Embora seja um mero bebê, eu me pergunto se ele vai identificar mais com seu pai aventureiro, ou meu próprio legado tradicional?"
  bookmark.0101.desc_dead:1 "Meu filho, [bewo.GetTitledFirstName], era a menina dos olhos de seu pai. Embora seja um mero bebê, eu me pergunto se ele se identificará mais com a lenda de seu pai aventureiro ou com meu próprio legado tradicional?"
  bookmark.0101.a:1 "[bewo.GetFirstNameNoTooltip] deve levar as tradições do [ROOT.Char.GetCulture.GetNameNoTooltip] em uma nova era."
- bookmark.0101.a.tt:0 "[bewo.GetUIName] se tornará seu [dynastic|E] [heir|E]"
+ bookmark.0101.a.tt:1 "[bewo.GetUIName] se tornará seu [player_heir|E]"
  bookmark.0101.b:1 "Meu filho é meu filho, qualquer que seja seu nome ou cultura."
- bookmark.0101.b.tt:0 "#warning @warning_icon! Esta opção pode deixá-lo sem um [dynastic|E] [heir|E]!#!"
+ bookmark.0101.b.tt:1 "#warning @warning_icon! Esta opção pode deixá-lo sem um [player_heir|E]!#!"
  bookmark.0101.c:0 "Os Magajiya não precisam de homens para continuar seu legado!"
- bookmark.0101.c.tt:0 "Sua irmã [shawata.GetUIName] permanecerá sua [dynastic|E] [heir|E]"
+ bookmark.0101.c.tt:1 "Sua irmã [shawata.GetUIName] permanecerá sua [player_heir|E]"
 
  #WARS
  war_867_Aghlabid_Conquest_of_Sicily:0 "Conquista Aglábidas da Sicília"
  war_867_Saffarid_Tahirid_War:0 "Guerra Saffarid-Tahirid"
  war_867_Reconquest_of_Bari:0 "Reconquista de Bari"
- war_867_Lothbrok_Invasion_of_East_Anglia:0 "Filhos de Lothbrok Invasão de Ânglia Oriental"
- war_867_Lothbrok_Invasion_of_Lothian:0 "Filhos de Lothbrok Invasão de Lothian"
- war_867_Lothbrok_Invasion_of_Northumberland:0 "Filhos de Lothbrok Invasão da Nortúmbria"
+ war_867_Lothbrok_Invasion_of_East_Anglia:1 "Filhos de Loðbrók Invasão de Ânglia Oriental"
+ war_867_Lothbrok_Invasion_of_Lothian:1 "Filhos de Loðbrók Invasão de Lothian"
+ war_867_Lothbrok_Invasion_of_Northumberland:1 "Filhos de Loðbrók Invasão da Nortúmbria"
  
 
  #Tradutor 𝒥𝒫 data 09/09/2020

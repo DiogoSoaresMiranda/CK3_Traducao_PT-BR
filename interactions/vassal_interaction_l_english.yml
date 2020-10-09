@@ -18,7 +18,7 @@
  create_claimant_faction_against_interaction:0 "Iniciar facção reclamante"
  create_claimant_faction_against_interaction_desc:0 "Encontre uma [claimant_faction|E] contra [secondary_actor.GetShortUINameNoTooltip]"
 
- general_rebellion_decline_summary:0 "@warning_icon!#X If [recipient.GetShortUINameNoTooltip] declínios [recipient.GetSheHe] vai ser rebalar com outros [vassals|E]!#! descontentes"
+ general_rebellion_decline_summary:0 "[recipient.Custom2('RevokeTitleDeclineSummary', SCOPE.sC('actor'))]" # general_rebellion_decline_summary:0 "@warning_icon!#X If [recipient.GetShortUINameNoTooltip] declínios [recipient.GetSheHe] vai ser rebalar com outros [vassals|E]!#! descontentes"
 
  stop_attacker_vassal_war_interaction:0 "Parar a guerra entre vassalos"
  stop_defender_vassal_war_interaction:0 "Exija a rendição na guerra entre vassalos"

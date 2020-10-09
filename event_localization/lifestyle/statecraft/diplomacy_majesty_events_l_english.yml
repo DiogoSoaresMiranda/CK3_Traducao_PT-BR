@@ -89,6 +89,7 @@
  diplomacy_majesty.4072.desc:0 "Despite many weeks of study, I just cannot get a solid grasp of the [my_vassal.GetCulture.GetName] language. I have learned some words, but the grammar, the phrasing... they continue to elude me. I can't imagine this is productive."
  diplomacy_majesty.4072.a:0 "I must keep trying!"
  diplomacy_majesty.4072.b:0 "My time is better spent elsewhere."
+ diplomacy_majesty.4072.c:0 "$diplomacy_majesty.4070.b$"
 
  diplomacy_majesty.4073.t:1 "$diplomacy_majesty.4070.t$: Fruitless Efforts"
  diplomacy_majesty.4073.desc:0 "As loathe as I am to admit it, I just don't think I will ever master the [my_vassal.GetCulture.GetName] language. I have tried and tried, but failed to make any progress... I must accept that."
@@ -180,7 +181,7 @@
 
  diplomacy_majesty_special.1014.desc:0 "Keeping in mind what I know about [debater.GetFirstNamePossessive] weaknesses, I think the most effective way to humiliate [debater.GetHerHim] in front of everyone is..."
  diplomacy_majesty_special.1014.a:0 "... acting ruthless and frighten [debater.GetHerHim]."
- diplomacy_majesty_special.1014.generic.tt:0 "#F The effectiveness of the tactic depends on how well it exploits [debater.GetTitledFirstNamePossessive] weaknesses."
+ diplomacy_majesty_special.1014.generic.tt:0 "#F The effectiveness of the tactic depends on how well it exploits [debater.GetTitledFirstNamePossessive] weaknesses.#!"
  diplomacy_majesty_special.1014.a.tt:0 "#F Works well against those who are cautious, kind-hearted, forgiving and lethargic.#!"
  diplomacy_majesty_special.1014.b:0 "... provoking [debater.GetHerHim] into losing [debater.GetHerHis] temper."
  diplomacy_majesty_special.1014.b.tt:0 "#F Works well against those who are bold, energetic, vindictive and honorable.#!"

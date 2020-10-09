@@ -82,6 +82,7 @@
  commission_epic.1002.scribes:0 "Some of my scribes are telling [powerful_vassal.Custom2('MyCharacterIntroduction', ROOT.Char)] about several exciting details they have discovered about my ancestors.\n\n"Now, I believe the part with the [ROOT.Char.Custom('CompositionDetail')] might actually be true, since—"\n\nIt is fascinating, to be sure, but do they not have a grand [ROOT.Char.Custom('CompositionType')] to complete? As for this particular anecdote..."
  commission_epic.1002.a:0 "It should be shared with all my vassals!"
  commission_epic.1002.b:0 "Put it in the [ROOT.Char.Custom('CompositionType')] so it will be done sooner!"
+ commission_epic.1002.b.tt:0 "Which also means I can take back some of the salary payment!"
 
  commission_epic.1003.t:0 "Family Epic: Writer's Retreat"
  commission_epic.1003.composer:0 "[composer.GetTitledFirstName] has been caught trying to sneak off from [composer.GetHerHis] duties! Thankfully a guard recognized [composer.GetHerHim] as [composer.GetSheHe] passed the gates.\n\n"It is exhausting work," [composer.GetSheHe] defends [composer.GetHerselfHimself]. "Day and night, my benevolent [ROOT.Char.GetLadyLord]! I am desperate for a few days' rest.""

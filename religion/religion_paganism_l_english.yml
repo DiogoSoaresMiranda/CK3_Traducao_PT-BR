@@ -761,7 +761,7 @@ l_english:
  kushitism_pagan:0 "Cuxitismo"
  kushitism_pagan_adj:0 "Cuxita"
  kushitism_pagan_adherent:0 "Cuxita"
- kushitism_pagan_adherent_plural:0 "Cuxitas"
+ kushitism_pagan_adherent_plural:1 "Cuxitas"
 
  kushitism_pagan_old:0 "Velho Cuxitismo"
  kushitism_pagan_old_adj:0 "Velho Cuxita"
@@ -769,10 +769,10 @@ l_english:
  kushitism_pagan_old_adherent_plural:0 "Velhos Cuxitas"
 
  #Tengrism
- tengrism_religion:1 "Xamanismo"
- tengrism_religion_adj:1 "Xamânico"
- tengrism_religion_adherent:1 "Xamanista"
- tengrism_religion_adherent_plural:1 "Xamanistas"
+ tengrism_religion:2 "Xamanismo"
+ tengrism_religion_adj:2 "Xamânico"
+ tengrism_religion_adherent:2 "Xamanista"
+ tengrism_religion_adherent_plural:2 "Xamanistas"
  tengrism_religion_desc:0 "Os tengristas vêem sua existência como sustentada por Tengri, o eterno céu azul, e Eje, a fértil mãe terra. Espera-se que os adeptos mantenham o mundo em equilíbrio, vivendo uma vida correta e respeitosa; o engano e a subversão são altamente estigmatizados."
 
  tengrism_high_god_name:0 "Tengri"

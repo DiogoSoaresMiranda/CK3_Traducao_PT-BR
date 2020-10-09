@@ -9,5 +9,5 @@
  BANNER_RAISE_PROMPT:1 "#T Convocar Exército e todos os Soldados atribuidos a esse Ponto de Encontro#!"
  BANNER_CANCEL_RAISING:0 "Cancelar Convocar"
  BANNER_CANCEL_RAISING_PROMPT:0 "#T Cancelar Convocar desse Ponto de Encontro e dispensar o Exército#!"
- BANNER_LIST_DOMAIN_LIMIT_PENALTY_TOOLTIP:0 "@warning_icon!#X Acima do [domain_limit|E]. Milícias de [domain] reduzidas por $PENALTY|%0$"
+ BANNER_LIST_DOMAIN_LIMIT_PENALTY_TOOLTIP:0 "@warning_icon!#X Acima do [domain_limit|E]. Milícias de [domain] reduzidas por $PENALTY|%0$#!"
  

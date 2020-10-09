@@ -87,7 +87,7 @@
 
  stress_trait_coping_decisions.7001.t:0 "Stress Coping: Confiding"
  stress_trait_coping_decisions.7001.desc:1 "After a long conversation with my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('confidant'))] [confidant.GetTitledFirstName] I can feel my thoughts calming down."
- stress_trait_coping_decisions.7001.desc_ending:1 "\n\nHowever, as I rejoin the court I can see the jealousy on the courtiers' faces... After all, who wouldn't want to have the [confidant.GetTitlePossessive] trust?"
+ stress_trait_coping_decisions.7001.desc_ending:2 "\n\nHowever, as I rejoin the court I can see the jealousy on the courtiers' faces... After all, who wouldn't want to have [confidant.GetFirstNamePossessive] trust?"
  stress_trait_coping_decisions.7001.a:0 "My mind is at ease though."
 
  stress_trait_coping_decisions.7002.desc:0 "After a long and exhaustive conversation I can feel my thoughts calming down."

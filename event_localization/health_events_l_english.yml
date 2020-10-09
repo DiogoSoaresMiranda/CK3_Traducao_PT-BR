@@ -184,10 +184,10 @@
  health.2101.t:1 "[SCOPE.Custom('EventTitleDisease')]: A Killer In Our Midst"
  health.2101.smallpox_outbreak.desc:0 "The curse of death has fallen upon my court — a case of smallpox has been discovered!"
  health.2101.smallpox_spreads.desc:0 "Yet another soul has been cursed with smallpox."
- health.2101.bubonic_plague_outbreak.desc:1 "[ROOT.Char.GetFaith.DeathDeityName] has raised [ROOT.Char.GetFaith.DeathDeityHerHis] scythe over my realm. The plague has arrived."
+ health.2101.bubonic_plague_outbreak.desc:2 "[ROOT.Char.GetFaith.DeathDeityName|U] has raised [ROOT.Char.GetFaith.DeathDeityHerHis] scythe over my realm — a case of the dreaded bubonic plague has been discovered!"
  health.2101.bubonic_plague_spreads.desc:0 "Yet another soul stands at Death's door, the dreaded buboes marring [sick_character.GetHerHis] skin."
  health.2101.imporant.desc:0 "My poor [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('sick_character')) ] [sick_character.GetFirstName] is fighting for [sick_character.GetHerHis] life."
- health.2101.prisoner.desc:0 "The unlucky [sick_character.GetWomanMan] is [sick_character.GetTitledFirstName], a prisoner."
+ health.2101.prisoner.desc:1 "The unlucky victim is [sick_character.GetTitledFirstName], one of my prisoners."
  health.2101.courtier_or_guest.desc:0 "The unfortunate victim is my [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('sick_character')) ] [sick_character.GetTitledFirstName]."
  health.2101.immune.desc:0 "\n\nWhile I am immune to the ravages of this devastating affliction, [sick_character.GetFirstNamePossessive] presence poses a danger to everyone else at my court."
  health.2101.not_immune.desc:0 "\n\nThe taint possessing [sick_character.GetHerHis] flesh is a danger to us all. While [sick_character.GetSheHe] remains afflicted, no life at court is safe."
@@ -226,8 +226,8 @@
  health.2102.smallpox.desc:0 "smallpox"
  health.2102.bubonic_plague.desc:0 "plague"
  health.2102.start2.desc:0 "which has ravaged my court is finally over."
- health.2102.physician.desc:0 "Its victims have either pulled through, or departed from this world.\n\n[physician.Custom2('MyCharacterIntroduction', ROOT.Char)|U] ensures me that all bodies have been properly handled and that the threat is wholly gone."
- health.2102.no_physician.desc:0 "The victims have either pulled through, or departed from this world; there is no disease left."
+ health.2102.physician.desc:1 "Its victims have all either recovered or departed from this world.\n\n[physician.Custom2('MyCharacterIntroduction', ROOT.Char)|U] ensures me that all bodies have been properly disposed of and that the threat is completely gone."
+ health.2102.no_physician.desc:1 "The victims have all either recovered or departed from this world; there is no disease left."
  health.2102.2_victims.desc:0 "\n\nYet, the road to recovery is long. We have lost [victim_1.Custom2('MyCharacterIntroduction', ROOT.Char)] and [victim_2.Custom2('MyCharacterIntroduction', ROOT.Char)], among many others. Life goes on, but the scars remain."
  health.2102.1_victim.desc:0 "\n\nYet, the road to recovery is long. We have lost [victim_1.Custom2('MyCharacterIntroduction', ROOT.Char)] and many others. Life goes on, but the scars remain."
  health.2102.root_victim.desc:0 "\n\nSome nights, I still wake up in a cold sweat, paralyzed by fear. I pulled through, yet the scars — the ones on my skin and the ones in my mind — will remain for many years."
@@ -273,6 +273,7 @@
  health.3101.d:0 "Leave me be!"
  health.3101.e:0 "Send for a physician! Now!"
  health.3101.e.tt:0 "My servants will search for possible [court_physicians|E]"
+ health.3101.f:0 "Oh [ROOT.Char.GetFaith.HighGodName], am I going to die like this...!?"
 
  safe_diseaste_treatment.tt:0 "A safe treatment might lessen symptom temporarily and has few risks"
  risky_diseaste_treatment.tt:0 "A risky treatment may have great outcomes, but could also lead to worsened symptoms or permanent injuries"
@@ -539,3 +540,6 @@
  
  health.5000.desc:0 "You become malnourished"
  health.5001.desc:0 "You become obese"
+
+ health.5002.desc:0 "You are no longer malnourished"
+ health.5003.desc:0 "You are no longer obese"

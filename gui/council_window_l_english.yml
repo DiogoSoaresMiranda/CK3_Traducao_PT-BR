@@ -62,7 +62,7 @@
  COUNCIL_WINDOW_CANT_REASSIGN_HEADER:0 "Não é possível atribuir um novo [councillor|E]:"
  COUNCIL_WINDOW_CANT_REASSIGN_WARNING:0 "Não é possível atribuir um novo [councillor|E]"
  COUNCIL_WINDOW_MAP_TASK_NAME:0 "Tarefa [PotentialTaskLocationWindow.GetActiveTask.GetPositionName]"
- COUNCIL_WINDOW_MAP_INSTRUCTION:1 "#I Clique com o botão esquerdo em um local no mapa para atribuir a tarefa\nClique com o botão direito para cancelar"
+ COUNCIL_WINDOW_MAP_INSTRUCTION:1 "#I Clique com o botão esquerdo em um local no mapa para atribuir a tarefa\nClique com o botão direito para cancelar#!"
  COUNCIL_WINDOW_MAP_INSTRUCTION_TT:0 "#I Clique para atribuir a tarefa aqui#!"
  COUNCIL_WINDOW_MAP_INSTRUCTION_CANCEL_TT:0 "#I Clique com o botão direito para cancelar#!"
  COUNCIL_WINDOW_MAP_COUNCILLOR_TYPE:0 "Seu [PotentialTaskLocationWindow.GetActiveTask.GetPositionName]"

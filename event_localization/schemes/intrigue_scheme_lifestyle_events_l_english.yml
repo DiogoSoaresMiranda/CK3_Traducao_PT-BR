@@ -60,7 +60,7 @@
  intrigue_scheme_lifestyle.3302.a.tt:0 "#F I could blackmail [target.GetHerHim], or force [target.GetHerHim] to do my bidding, or #EMP anything#!!#!"
 
  intrigue_scheme_lifestyle.3401.t:0 "A Way In"
- intrigue_scheme_lifestyle.3401.desc:0 "[target.GetTitledFirstNamePossessive] [target.Custom2('RelationToMe', SCOPE.sC('courtier_to_fool'))] [courtier_to_fool.GetTitledFirstName] is a [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('courtier_to_fool'))] [courtier_to_fool.GetWomanMan], and as I find myself in [courtier_to_fool.GetHerHis] company I am at first wary. However, I soon realize that [courtier_to_fool.GetSheHe] is not as averted to my company as I first though..."
+ intrigue_scheme_lifestyle.3401.desc:1 "[target.GetTitledFirstNamePossessive] [target.Custom2('RelationToMe', SCOPE.sC('courtier_to_fool'))] [courtier_to_fool.GetTitledFirstName] is a [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('courtier_to_fool'))] [courtier_to_fool.GetWomanMan], and as I find myself in [courtier_to_fool.GetHerHis] company I am at first wary. However, I soon realize that [courtier_to_fool.GetSheHe] is not as aversed to my company as I first thought..."
  intrigue_scheme_lifestyle.3401.a:0 "Please, my friend, tell me about yourself!"
  intrigue_scheme_lifestyle.3401.a.tt:0 "#F I am a wolf in sheep's clothing, closing in on my quarry...!#!"
  intrigue_scheme_lifestyle.3401.b:1 "This matter is between [target.GetFirstNameNoTooltip] and me."

@@ -3,7 +3,7 @@
  statecraft_well_mannered_modifier_desc:0 "Most mistakes and flaws of character can be forgiven if the offender has good manners."
  diplomacy_foreign_3001_trade_deal_modifier:0 "Trade Deal"
  statecraft_emphasises_unity_modifier:0 "Emphasizing Unity"
- statecraft_emphasises_unity_modifier_desc:0 "We are all of the same realm, as we stand united and strong against our enemies, not each other."
+ statecraft_emphasises_unity_modifier_desc:1 "This character is promoting realm unity, insisting on standing united and strong against external enemies, not fighting with each other."
  statecraft_just_judgements_modifier:0 "Just Judgements"
  statecraft_encouraged_feasting_modifier:0 "Encouraged Feasts"
  diplomacy_majesty_4030_basic_strategy_modifier:0 "Basic Conversational Tactics"

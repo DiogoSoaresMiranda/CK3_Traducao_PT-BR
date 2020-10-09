@@ -4,7 +4,7 @@
  # Distant Relation
  claim_throne_outcome.1001.t:0 "Claim Throne"
  claim_throne_outcome.1001.desc:0 "After all my hard work, it is finally time to present the evidence I have "come across", that I am in fact the rightful heir to [target_title.GetName] through an old dynastic marriage.\n\n[target.GetTitledFirstName] will be nothing more than a simple pretender as long as [target.GetSheHe] stands in my way!"
- claim_throne_outcome.1001.a:0 "I will soon be [target.GetTitleAsNameNoTooltip]!"
+ claim_throne_outcome.1001.a:1 "Soon I will rule [target.GetPrimaryTitle.GetNameNoTierNoTooltip]!"
  claim_throne_outcome.1001.b:0 "Perhaps I am being too rash..."
 
  claim_throne_outcome.2001.opening:0 "Finally, no one can doubt the fact that I have a reasonable claim on the [target_title.GetName]!"
@@ -46,6 +46,7 @@
  claim_throne_outcome.5001.distant_relation:0 "\n\nApparently there was a strategic marriage between our dynasties some generations ago, which [owner.GetSheHe] is now leveraging into an inheritance dispute."
  claim_throne_outcome.5001.mythical_founder:0 "\n\n[owner.GetFirstNameNoTooltip] claims to be descended from none other than [owner.Custom('ClaimThroneMythicalFounder')]! [owner.GetSheHe|U] believes that is all the reason [owner.GetSheHe] needs to be named ruler of the [target_title.GetNameNoTooltip]."
  claim_throne_outcome.5001.previous_holder_promise:0 "\n\n[owner.GetFirstNameNoTooltip] claims that [previous_holder.Custom2('RelationToMe', ROOT.Char)] swore on [previous_holder.GetHerHis] deathbed that the [target_title.GetTierAsNameNoTooltip] should pass to [owner.GetFirstNameNoTooltip]. Distressingly, [owner.GetSheHe] has found several people who will swear holy oaths that it is true."
+ claim_throne_outcome.5001.fallback:0 "\n\n[owner.GetFirstNameNoTooltip] refuses to say what the claims are based on, but [owner.GetSheHe] is refusing to back down!"
  claim_throne_outcome.5001.discovered:0 "\n\nThese claims are entirely fabricated, but there is enough uncertainty that they pose a real threat, should others support them!"
  claim_throne_outcome.5001.a:0 "As if I will give up my realm without a fight!"
  claim_throne_outcome.5002.a:0 "Does [owner.GetSheHe] really think [owner.GetSheHe] will get away with this?!"

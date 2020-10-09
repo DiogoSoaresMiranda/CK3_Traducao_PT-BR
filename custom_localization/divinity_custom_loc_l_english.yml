@@ -86,8 +86,8 @@
  rite_worship:0 "adoração"
 
  # Pilgrimage Name
- pilgrimage_default_header:0 "Peregrinação –"
- pilgrimage_hajj_header:0 "O Hajj –"
+ pilgrimage_default_header:0 "Peregrinação:"
+ pilgrimage_hajj_header:0 "O Hajj:"
 
 
  # GHWs given by which tenet?

@@ -33,7 +33,7 @@
  vassal.2001.b:0 "Your [child_to_educate.Custom('GetDaughterSon')] is your responsibility!"
 
  vassal.2101.t:0 "Fervent Feaster"
- vassal.2101.desc:0 ""Many months have passed since the Lords and Ladies of the realm gathered for a feast, my [ROOT.Char.GetTitleTierName]."\n\n[party_vassal.GetTitledFirstNamePossessive] voice is full of [ROOT.Char.Custom2('QuirkNounPosOrNeg', SCOPE.sC('party_vassal'))] as [party_vassal.GetSheHe] continues, "It would benefit you — not to mention those among us who appreciate a good feast — if this was remedied soon!""
+ vassal.2101.desc:1 ""Many months have passed since the Lords and Ladies of the realm gathered for a feast, my [ROOT.Char.GetTitleTierName]."\n\n[party_vassal.GetTitledFirstName] [ROOT.Char.Custom2('QuirkAdverbPosOrNeg', party_vassal)] continues, "It would benefit you — not to mention those among us who appreciate a good feast — if this was remedied soon!""
  vassal.2101.a:0 "I promise that a feast will be hosted soon!"
  vassal.2101.a_hyped:0 "Of course we should feast! I don't know why I waited so long."
  vassal.2101.a.tt:0 "#F [party_vassal.GetFirstNameNoTooltip] will remember the promise I made, and be grateful if it's fulfilled within ten years#!"

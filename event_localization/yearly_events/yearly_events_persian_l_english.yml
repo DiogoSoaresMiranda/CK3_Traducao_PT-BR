@@ -1,11 +1,11 @@
 ﻿l_english:
  yearly_persian.1002.t:0 "Nowruz"
- yearly_persian.1002.desc:0 "While my court celebrates the [persian.GetNameNoTooltip] festival of Nowruz every year, my duties as [ROOT.Char.GetTitleAsNameNoTooltip] often make it difficult for me to participate in the festivities.\n\nWith the equinox approaching and my realm in a prosperous and stable state, I wonder if I should take some extra time this year to get out of the [ROOT.Char.Custom('ResidenceBuilding')] and get into the holiday spirit?"
+ yearly_persian.1002.desc:1 "While my court celebrates the [iranian.GetName] festival of Nowruz every year, my duties as [ROOT.Char.GetTitleAsNameNoTooltip] often make it difficult for me to participate in the festivities.\n\nWith the equinox approaching and my realm in a prosperous and stable state, I wonder if I should take some extra time this year to get out of the [ROOT.Char.Custom('ResidenceBuilding')] and get into the holiday spirit?"
  yearly_persian.1002.a:0 "I'll honor Jamshid with generous gifts of gems and gold!"
  yearly_persian.1002.b:0 "This is a joyous occasion, best spent visiting others!"
  yearly_persian.1002.c:0 "Focus on the traditional Haft-sin ritual with my family."
  yearly_persian.1002.d:0 "I can't rest, there is too much work to do!"
- yearly_persian.1002.every_persian_character:0 "Every [persian.GetName] Vassal and Courtier"
+ yearly_persian.1002.every_iranian_character:1 "Every [iranian.GetName] [culture_group|E] Vassal and Courtier"
  yearly_persian.1002.every_friend_and_neighboring_ruler:0 "Every [friend|E] and neighboring [ruler|E]"
  yearly_persian.1002.every_spouse_and_close_family_member:0 "Every [spouse|E] and [close_family_member|E]"
  yearly_persian.1101.t:0 "Shu'ubiyya"

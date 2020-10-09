@@ -59,7 +59,7 @@
  seduce_outcome.2040.b:0 "After taking the castle, I withdraw."
 
  seduce_outcome.2050.t:0 "Secret Vows"
- seduce_outcome.2050.desc:0 "We meet at night, clandestinely, shielded from the eyes and ears of the world outside. I made a pledge to [target.GetHerHim]: “Let us be wed, truly, but in secret. No one will know but us two. A pure marriage, superior to that which convention has forced upon us!”\n\n[target.GetSheHe|U] nods [target.GetHerHis] assent, emotion leaving [target.GetHerHim] short of breath. Then, under the night's protective shroud, we consummate our secret vows..."
+ seduce_outcome.2050.desc:0 "We meet at night, clandestinely, shielded from the eyes and ears of the world outside. I made a pledge to [target.GetHerHim]: "Let us be wed, truly, but in secret. No one will know but us two. A pure marriage, superior to that which convention has forced upon us!"\n\n[target.GetSheHe|U] nods [target.GetHerHis] assent, emotion leaving [target.GetHerHim] short of breath. Then, under the night's protective shroud, we consummate our secret vows..."
  seduce_outcome.2050.a:0 "A bond to last forever!"
  seduce_outcome.2050.b:0 "A night of wonder, but we cannot meet like this again."
 
@@ -142,7 +142,7 @@
 
  seduce_outcome.3040.desc:0 "As the shadows lengthen I see [owner.GetTitledFirstName] approach me in the darkness beneath the castle wall, smiling [target.Custom('quirk_pos_adverb')] as [owner.GetSheHe] whispers: “You know why I have come.”\n\nI go towards [owner.GetHerHim], hesitantly at first, then eagerly. My pulse quickens as [owner.GetSheHe] pulls me close. In the shade of the wall we make love, the guards patrolling above oblivious to our passion."
 
- seduce_outcome.3050.desc:0 "We meet at night, clandestinely, shielded from the eyes and ears of the world outside. [owner.GetSheHe|U] pledges himself to me: “Let us be wed, truly, but in secret. No one will know but us two. A pure marriage, superior to that which convention has forced upon us!”\n\nI nod my assent, emotion leaving me short of breath. Then, under the night's protective shroud, we consummate our secret vows..."
+ seduce_outcome.3050.desc:0 "We meet at night, clandestinely, shielded from the eyes and ears of the world outside. [owner.GetSheHe|U] pledges himself to me: "Let us be wed, truly, but in secret. No one will know but us two. A pure marriage, superior to that which convention has forced upon us!"\n\nI nod my assent, emotion leaving me short of breath. Then, under the night's protective shroud, we consummate our secret vows..."
 
  seduce_outcome.3301.t:0 "In My Chambers"
  seduce_outcome.3301.desc:0 "A shiver of anticipation finds its way up my spine as a knock resounds through the stillness of my chambers. Could it be #EMP [owner.GetHerHim]#!?\n\nI am greeted by [owner.GetTitledFirstName], smiling [owner.Custom('quirk_pos_adverb')], lust plain on [owner.GetHerHis] face. At last! As [owner.GetHerHis] arms envelop me the fire in my chest burst into flames, and the rest of the night is spent in a warm and fiery haze."

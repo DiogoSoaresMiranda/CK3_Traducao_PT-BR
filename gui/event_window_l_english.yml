@@ -3,7 +3,7 @@
  EVENT_WINDOW_OPTION_AVAILABLE_SKILL:0 "Esta opção está disponível por causa do meu [SkillItem.GetName] [skill|E]"
  EVENT_WINDOW_OPTION_AVAILABLE_TRAIT:0 "Esta opção está disponível porque eu tenho a [Trait.GetName(GetPlayer)] [trait|E]"
  EVENT_OPTION_NO_LONGER_AVAILABLE:0 "@warning_icon!#X Já não está disponível#!"
- tooltip_open_scheme_view:0 "#I Mostrar/ocultar a Janela do Esquema#!"
+ tooltip_open_scheme_view:0 "#I Mostrar a Janela do Esquema#!"
  EVENT_OPTION_WILL_HAPPEN:0 "#S Irá acontecer\n#!"
  EVENT_OPTION_HAS_HAPPENED:0 "#S Aconteceu\n#!"
  EVENT_NOTHING_HAPPENS:1 "#F Sem efeitos imediatos...#!"

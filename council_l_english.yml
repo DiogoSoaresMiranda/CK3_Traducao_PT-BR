@@ -22,7 +22,7 @@
  START_COUNCIL_TASK_SEND_COURT:1 "Envie seu [COUNCIL_TASK.GetPositionName] para [COUNCIL_TASK_TYPE.GetName] na [TARGET.GetShortUINamePossessive] corte"
  START_COUNCIL_TASK_ABORTED:1 "\n@warning_icon!#X Sua [COUNCIL_TASK.GetPositionNamePossesive] tarefa atual ('[COUNCIL_TASK.GetTaskType.GetName]') será abortada.#!"
  COUNCILLOR_TASK_ALREADY_IN_PROCESS:0 "A tarefa já está sendo executada"
- COUNCILLOR_TIMEOUT_FIRE:0 "O [councillor|E] não pode ser demitido até [DATE.GetString]"
+ COUNCILLOR_TIMEOUT_FIRE:1 "@warning_icon!#X O [councillor|E] não pode ser demitido até [DATE.GetString]#!"
  COUNCILLOR_TIMEOUT_REASSIGN:0 "@warning_icon!#X O [councillor|E] não pode ser reatribuído até [DATE.GetString]#!"
  COUNCILLOR_ALREADY_CHANGED:0 "@warning_icon!#X O [councillor|E] já foi demitido ou atribuído uma vez#!"
  COUNCILLOR_CAN_CHANGE_ONCE:0 "@warning_icon!#X Uma vez apontado como [COUNCIL_POSITION_TYPE.GetName|V], [CHARACTER.GetShortUIName] não poderá ser demitido ou atribuído a outra posição#!"

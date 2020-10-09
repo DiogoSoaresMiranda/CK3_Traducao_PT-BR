@@ -1,6 +1,6 @@
 ﻿l_english:
  rivalry.0001.t:0 "Burying the Hatchet"
- rivalry.0001.desc:1 ""[ROOT.Char.GetTitledFirstNameNoTooltip], we have had our differences in the past, but don't you agree that it's time to let bygones be bygones?"\n\n[rival.Custom2('MyCharacterIntroduction', ROOT.Char)|U] gestures from me to [rival.GetHerHim] us, "Whatever is between us... let us start anew!""
+ rivalry.0001.desc:2 ""[ROOT.Char.GetTitledFirstNameNoTooltip], we have had our differences in the past, but don't you agree that it's time to let bygones be bygones?"\n\n[rival.Custom2('MyCharacterIntroduction', ROOT.Char)|U] gestures from me to [rival.GetHerHim], "Whatever is between us... let us start anew!""
  rivalry.0001.a:1 "Yes, let us."
  rivalry.0001.b:0 "You're groveling before me?! [ROOT.Char.GetFaith.HighGodName] is good!"
 
@@ -24,12 +24,12 @@
  rivalry.1001.benevolent:0 "Whenever we happen upon each other the [rival.Custom('InsultAdjective')] [rival.GetWomanMan] goes out of [rival.GetHerHis] way to appear decent and just, making a mockery me from up on [rival.GetHerHis] high horse. What really vexes me is that [rival.GetSheHe] seems to have everybody else fooled!"
  rivalry.1001.dominant:0 "Not only does [rival.GetSheHe] constantly demand attention and space, [rival.GetSheHe] also has the audacity to demand my time and attention. As if I have nothing better to do than listening to [rival.GetHerHim] brag!"
  rivalry.1001.submissive:0 "The [rival.Custom('InsultAdjective')] [rival.GetWomanMan] plays meek, only to turn around and stab me in the back at every opportunity!"
- rivalry.1001.extroverted:0 "[rival.GetSheHe|U] always demands all the attention at every event, making everyone listen to [rival.GetHerHim] blather on for hours on end. As if that was not bad enough [rival.GetSheHe] also seem to take every oppurtunity to barb me while [rival.GetSheHe] does it!"
+ rivalry.1001.extroverted:0 "[rival.GetSheHe|U] always demands all the attention at every event, making everyone listen to [rival.GetHerHim] blather on for hours on end. As if that was not bad enough [rival.GetSheHe] also seem to take every opportunity to barb me while [rival.GetSheHe] does it!"
  rivalry.1001.introverted:0 "The [rival.Custom('InsultAdjective')] [rival.GetWomanMan] is as charismatic as a rock, but still seems to find the time to spread rumors about me!"
  rivalry.1001.emotional:0 "[rival.GetSheHe|U] takes every opportunity to make a scene and cast me as the villain! [rival.GetSheHe|U] snivels and complains, dragging my name through the mud, and blaming me for everything wrong in [rival.GetHerHis] life."
  rivalry.1001.levelheaded:0 "It does not matter whether it's to sabotage my rule or to deliver a smarting insult, [rival.GetSheHe] is always there, waiting."
  rivalry.1001.desc.fallback:0 "It feels as though no matter where I go or what I do, [rival.GetTitledFirstName] manages to let [rival.GetHerHis] presence be known. It is a shadow constantly darkening my every day."
- rivalry.1001.a:0 "Curse you, [rival.GetFirstName]!"
+ rivalry.1001.a:1 "Curse you, [rival.GetFirstNameNoTooltip]!"
  
  rivalry.1010.t:0 "Spiteful Acts"
  rivalry.1010.desc:0 "[rival.GetTitledFirstNamePossessive] [rival.Custom('InsultBehavior')] has always bothered me, but"
@@ -206,7 +206,7 @@
  rivalry.3001.submissive:0 "I found a note in my private chambers, smuggled there under the cover of night. "To the [ROOT.Char.Custom('InsultAdjective')] [ROOT.Char.GetTitledFirstName]", it began, and only got worse as it went on. The [rival.Custom('InsultAdjective')] [rival.GetWomanMan] even had the nerve to sign it with [rival.GetHerHis] name!"
  rivalry.3001.extroverted:0 "[rival.GetSheHe|U] approached me while I was holding court, greeted me as the "[ROOT.Char.Custom('InsultAdjective')] [ROOT.Char.GetTitledFirstName]", and continued to drag my name through the mud in front of everyone!"
  rivalry.3001.emotional:0 "[rival.GetSheHe|U] suddenly started accusing me of sabotaging [rival.GetHerHis] whole life, calling me the "[ROOT.Char.Custom('InsultAdjective')] [ROOT.Char.GetTitledFirstName]", and making a scene."
- rivalry.3001.levelheaded:0 "[rival.GetSheHe|U] bode [rival.GetHerHis] time, waiting for the perfect oppurtunity to address me as the "[ROOT.Char.Custom('InsultAdjective')] [ROOT.Char.GetTitledFirstName]" as if by accident, and then [rival.GetSheHe] acted as if it had all been a mistake."
+ rivalry.3001.levelheaded:0 "[rival.GetSheHe|U] bode [rival.GetHerHis] time, waiting for the perfect opportunity to address me as the "[ROOT.Char.Custom('InsultAdjective')] [ROOT.Char.GetTitledFirstName]" as if by accident, and then [rival.GetSheHe] acted as if it had all been a mistake."
  rivalry.3001.desc.fallback:0 "[rival.GetSheHe|U] called me the "[ROOT.Char.Custom('InsultAdjective')] [ROOT.Char.GetTitledFirstName]" in front of everyone!"
  rivalry.3001.desc.end:0 "\n\nThis cannot stand, I will make sure [rival.GetSheHe] pays for [rival.GetHerHis] insolence."
  rivalry.3001.a:0 "Just you wait, [rival.GetTitledFirstNameNoTooltip]!"

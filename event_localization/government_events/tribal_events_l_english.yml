@@ -7,8 +7,11 @@
  tribal.1001.desc:0 "the time has come for you to step down!"\n\n[challenger.Custom2('MyCharacterIntroduction', ROOT.Char)|U] approaches me in front of the whole tribe, proclaiming [challenger.GetHerHis] challenge for all to hear.\n\n"I will rule [ROOT.Char.GetPrimaryTitle.GetName] from this day forth.""
  tribal.1001.a_child:0 "Put some steel behind your words, [challenger.Custom('GirlBoy')]!"
  tribal.1001.a:0 "Put some steel behind your words!"
+ tribal.1001.a_champion:0 "[liege_champion.GetTitledFirstName] will fight for me\n"
  tribal.1001.a_success:0 "I win the fight"
  tribal.1001.a_failure:0 "I lose the fight"
+ tribal.1001.a_champion_success:0 "[liege_champion.GetFirstNameNoTooltip] wins the fight"
+ tribal.1001.a_champion_failure:0 "[liege_champion.GetFirstNameNoTooltip] loses the fight"
  tribal.1001.b:0 "Only if you can beat me in flyting!"
  tribal.1001.b_success:0 "I have the better insults"
  tribal.1001.b_failure:0 "[challenger.GetSheHe|U] bests me"
@@ -21,6 +24,7 @@
  tribal.1003.desc_old:0 "You'd better be able to back your words up with steel, [challenger.Custom('GirlBoy')]!""
  tribal.1003.desc_young:0 "You'd better be able to back your words up with steel!""
  tribal.1003.desc:0 "\n\n[liege_to_challenge.Custom2('MyCharacterIntroduction', ROOT.Char)|U] [liege_to_challenge.Custom('SignatureWeaponActionThirdPerson')] [liege_to_challenge.GetHerHis] [liege_to_challenge.Custom('signature_weapon')] and takes a step towards me. The whole tribe gathers around us, excitement and fear heavy in the air, as I widen my stance and..."
+ tribal.1003.desc_liege_champion:0 "\n\nMy [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('liege_to_challenge'))] [liege_to_challenge.GetTitledFirstNamePossessive] chosen champion, [liege_champion.GetTitledFirstName], [liege_champion.Custom('SignatureWeaponActionThirdPerson')] [liege_champion.GetHerHis] [liege_champion.Custom('signature_weapon')] and takes a step towards me. The whole tribe gathers around us, excitement and fear heavy in the air, as I widen my stance and..."
  tribal.1003.a:0 "...raise my [ROOT.Char.Custom('signature_weapon')]."
  tribal.1003.b:0 "...raise my hands and laugh awkwardly."
 
@@ -31,20 +35,26 @@
  tribal.1005.desc:0 "I raise my [ROOT.Char.Custom('signature_weapon')] and attack.\n\n#EMP Dodge, press on, feint...#! With [ROOT.Char.Custom('SignatureWeaponActionReaction')] I [ROOT.Char.Custom('SignatureWeaponCritical')] [challenger.GetHerHis] leg, and as [challenger.GetSheHe] stumbles I know it is done."
  tribal.1005.a:0 "I hope you've learned your lesson!"
 
+ tribal.1014.desc_opening:0 "My [liege_to_challenge.Custom2('RelationToMeShort', SCOPE.sC('challenger'))] [challenger.GetFirstName] [challenger.Custom('SignatureWeaponActionThirdPerson')] [challenger.GetHerHis] [challenger.Custom('signature_weapon')] and takes a step towards [liege_champion.GetTitledFirstName]. The whole tribe is gathered around us, excitement and fear heavy in the air.\n\n"
+ tribal.1014.desc:0 "[liege_champion.GetTitledFirstName] raises [liege_champion.GetHerHis] [liege_champion.Custom('signature_weapon')] and attacks. #EMP Dodge, press on, feint— Ugh!#! With [challenger.Custom('SignatureWeaponActionReaction')] [challenger.GetFirstNameNoTooltip] [challenger.Custom('SignatureWeaponCriticalPresent')] [liege_champion.GetFirstNamePossessive] leg, and as [liege_champion.GetSheHe] stumbles I realize it is over. The tribe is not cheering for me anymore."
+ tribal.1014.a:0 "Curse you!"
+
+ tribal.1015.desc:0 "[liege_champion.GetTitledFirstName] raises [liege_champion.GetHerHis] [liege_champion.Custom('signature_weapon')] and attacks.\n\n#EMP Dodge, press on, feint...#! With [liege_champion.Custom('SignatureWeaponActionReaction')] [liege_champion.GetSheHe] [liege_champion.Custom('SignatureWeaponCriticalPresent')] [challenger.GetTitledFirstNamePossessive] leg, and as [challenger.GetSheHe] stumbles I know it is done."
+ tribal.1015.a:0 "I hope you've learned your lesson!"
+
  tribal.1006.desc_old:0 "You'd better be able to lay your claim with skill, [challenger.Custom('GirlBoy')]!""
  tribal.1006.desc_young:0 "You'd better be able to lay your claim with skill!""
- tribal.1006.desc:0 "As soon as [liege_to_challenge.Custom2('MyCharacterIntroduction', ROOT.Char)|U] declares the flyting, the whole tribe draws close to witness the contest.\n\nSilence falls as [liege_to_challenge.GetFirstNameNoTooltip] steps forward and clears [liege_to_challenge.GetHerHis] throat.\n#EMP"
- tribal.1006.desc_ending:0 "#!"
+ tribal.1006.desc:1 "As soon as [liege_to_challenge.Custom2('MyCharacterIntroduction', ROOT.Char)|U] declares the flyting, the whole tribe draws close to witness the contest.\n\nSilence falls as [liege_to_challenge.GetFirstNameNoTooltip] steps forward and clears [liege_to_challenge.GetHerHis] throat.\n"
  tribal.1006.a:0 "You call that an insult? I'll show you!"
  tribal.1006.a_success:0 "You win the flyting"
  tribal.1006.a_failure:0 "You lose the flyting"
  tribal.1006.b:0 "This... This was a mistake."
 
- tribal.1007.desc_ending:0 "#!\n\nThe uproar that follows is deafening, and I know that I have lost."
+ tribal.1007.desc_ending:1 "\n\nThe uproar that follows is deafening, and I know that I have lost."
  tribal.1007.a:0 "Damn you!"
 
- tribal.1008.desc:0 "The tribe is gathered to witness the flyting between me and my [liege_to_challenge.Custom2('RelationToMeShort', SCOPE.sC('challenger'))] [challenger.GetFirstName]. Excited murmurs can be heard as [challenger.GetFirstNameNoTooltip] steps forward and clears [challenger.GetHerHis] throat.\n#EMP"
- tribal.1008.desc_ending:0 "#!\n\nWhat follows is a shocked, and awkward, silence."
+ tribal.1008.desc:1 "The tribe is gathered to witness the flyting between me and my [liege_to_challenge.Custom2('RelationToMeShort', SCOPE.sC('challenger'))] [challenger.GetFirstName]. Excited murmurs can be heard as [challenger.GetFirstNameNoTooltip] steps forward and clears [challenger.GetHerHis] throat.\n"
+ tribal.1008.desc_ending:1 "\n\nWhat follows is a shocked, and awkward, silence."
  tribal.1008.a:0 "You call that an insult? Get out of here."
 
  tribal.1010.desc:0 "The whole tribe is gathered to witness the duel between me and my [liege_to_challenge.Custom2('RelationToMeShort', SCOPE.sC('challenger'))] [challenger.GetFirstName], but as soon as [challenger.GetSheHe] shows up [challenger.GetSheHe] starts making excuses.\n\n"It... It was all a mistake, I wouldn't dare challenge you. Forgive me.""
@@ -92,7 +102,7 @@
  tribal.1202.c.failure:0 "[villain_racer.GetSheHe|U] notices that someone has tampered with [villain_racer.GetHerHis] bridle"
 
  tribal.1203.desc_opening:0 "I race over the steppe, keeping pace with the clouds above and the riders beside me.\n\n"
- tribal.1203.desc_sabotaged_you:0 "#EMP *Snap!*#!\n\nSuddenly everything flips; the ground above and the heavens below. I fight to stay in the saddle as I realize it has swung under the horse! But my legs loose their grip... I hit the ground hard – I don't even have the breath to cry out."
+ tribal.1203.desc_sabotaged_you:0 "#EMP *Snap!*#!\n\nSuddenly everything flips; the ground above and the heavens below. I fight to stay in the saddle as I realize it has swung under the horse! But my legs lose their grip... I hit the ground hard – I don't even have the breath to cry out."
  tribal.1203.desc_sabotaged_racer:0 "As I draw up beside [villain_racer.GetTitledFirstName], [villain_racer.GetSheHe] suddenly veers towards me, and in the same moment I hear my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('racer'))] [racer.GetTitledFirstName] scream in pain. I turn in my saddle to see [racer.GetHerHim] on the ground, bloody, [racer.GetHerHis] horse desperately fighting against the saddle that is no longer on its back, but hanging loose under its belly."
  tribal.1203.desc_sabotaged_villain:0 "Suddenly I hear my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('villain_racer'))] [villain_racer.GetTitledFirstName] scream in pain. I turn in my saddle to see [villain_racer.GetHerHim] on the ground, bloody, the broken remains of [villain_racer.GetHerHis] bridle in hand."
  tribal.1203.desc:0 "There is nothing like this! The wind, the sound of hoofbeats, the– As I draw up beside [villain_racer.GetTitledFirstName], [villain_racer.GetSheHe] suddenly veers towards me, almost throwing my horse off balance!"

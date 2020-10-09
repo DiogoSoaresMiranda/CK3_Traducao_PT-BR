@@ -185,7 +185,7 @@
  seduce_ongoing.1801.strong:0 "Impressive physical shape."
  seduce_ongoing.1801.extroverted:0 "Irresistible charisma."
  seduce_ongoing.1801.dominant:0 "Assertive, powerful presence."
- seduce_ongoing.1801.compliment.tt:0 "#F How well the compliment is received by [target.GetTitledFirstName] is based on how well it suits [target.GetHerHim]"
+ seduce_ongoing.1801.compliment.tt:0 "#F How well the compliment is received by [target.GetTitledFirstName] is based on how well it suits [target.GetHerHim]#!"
  
  seduce_ongoing.1802.t:0 "Pretty Words"
  seduce_ongoing.1802.close.desc:0 "As I wander the gardens in quiet contemplation, my mind in some far off place, I almost run straight into [owner.GetTitledFirstName]. Before I can collect myself, [owner.GetSheHe] asks for my forgiveness, saying that [owner.GetSheHe] never meant to inconvenience a [target.Custom('LadyLordWomanMan')] of such"

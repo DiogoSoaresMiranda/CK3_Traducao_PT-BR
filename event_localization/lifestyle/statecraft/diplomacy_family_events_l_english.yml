@@ -227,7 +227,7 @@
  diplomacy_family_special.2213.desc:0 "Despite my best efforts to convince [heir.GetTitledFirstName] he could get along with [vassal.GetTitledFirstName] if [heir.GetSheHe] tried, [heir.GetFirstNameNoTooltip] refused to change [heir.GetHerHis] behavior when around [vassal.GetTitledFirstNameNoTooltip].\n\nIt seems that the animosity between them will continue for some time..."
  diplomacy_family_special.2213.a:0 "I am disappointed in [heir.GetFirstNameNoTooltip]."
 
- diplomacy_family_special.2220.desc:0 "I sat down with [heir.GetFirstName] and explained that sometimes it is in the best interests of the realm to be [SCOPE.Custom('PersonalityGetTraitDescriptionFromFlagInverted')], even if such behavior does not come naturally.\n\n[heir.GetSheHe|U] seemed doubtful a first, but was encouraged when I told [heir.GetHerHim] such things gets easier with time and practice."
+ diplomacy_family_special.2220.desc:0 "I sat down with [heir.GetFirstName] and explained that sometimes it is in the best interests of the realm to be [SCOPE.Custom('PersonalityGetTraitDescriptionFromFlagInverted')], even if such behavior does not come naturally.\n\n[heir.GetSheHe|U] seemed doubtful at first, but was encouraged when I told [heir.GetHerHim] such things gets easier with time and practice."
  diplomacy_family_special.2220.a:0 "Time will tell how this changes things."
  diplomacy_family_special.2220.a.tt:0 "[heir.GetFirstName] will try to be more [SCOPE.Custom('PersonalityGetTraitDescriptionFromFlagInvertedTraitLink')]"
 

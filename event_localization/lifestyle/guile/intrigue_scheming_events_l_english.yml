@@ -27,7 +27,7 @@
 
  intrigue_scheming.1013.desc_alive:0 "Finally, we have something! After many long discussions and even longer nights, [cryptographer.GetTitledFirstName] and I have at last reached a conclusion.\n\n"
  intrigue_scheming.1013.desc_dead:0 "Despite the loss of the cryptographer, I finally have something!\n\n"
- intrigue_scheming.1013.desc_transposition:0 "A rather basic system, one that rearranges the letters in a word, would best serve us. It is of the utmost importance that the recipient understand the message without too large a delay."
+ intrigue_scheming.1013.desc_transposition:0 "A rather basic system, one that rearranges the letters in a word, would best serve us. It is of the utmost importance that the recipient understands the message without too large a delay."
  intrigue_scheming.1013.desc_substitution:0 "A system that substitutes letters for numbers would serve our purpose best, our enemies would think it nonsense!"
  intrigue_scheming.1013.desc_cipher:0 "A cypher, so that the enemy believes every message intercepted written in a foreign language, will serve us best!"
  intrigue_scheming.1013.a:0 "No one will be able to break this!"

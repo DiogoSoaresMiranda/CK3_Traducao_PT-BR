@@ -71,7 +71,7 @@
 
  chancellor_task.3102.desc:0 "I have discovered that [vassal.GetTitledFirstNamePossessive] inherited contract obliges [vassal.GetHerHim] to more than you have collected."
  chancellor_task.3102.a:0 "Time to right this wrong!"
- chancellor_task.3102.c:0 "[vassal.GetFirstNameNoTooltip] would surely appreciate if I let this slide..."
+ chancellor_task.3102.c:1 "I'll let it slide. This time..."
 
  chancellor_task.3003.t:0 "Loss of Authority"
  chancellor_task.3003.desc:0 "It seems that whatever work my [councillor.GetCouncilTitle] is doing — if any! – it is not enough.\n\nOn [councillor.GetTitledFirstNamePossessive] watch, my vassals are acting freely as they see fit, rarely seeking my approval in any matter."

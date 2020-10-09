@@ -1,14 +1,14 @@
 ﻿l_english:
 
- HAS_DYNASTY_PRESTIGE_TRIGGER:0 "[dynasty|E] [DYNASTY.GetBaseName] tem $NUM|V0$ [dynasty_prestige|E]"
- NOT_HAS_DYNASTY_PRESTIGE_TRIGGER:0 "[dynasty|E] [DYNASTY.GetBaseName] não tem $NUM|V0$ [dynasty_prestige|E]"
+ HAS_DYNASTY_PRESTIGE_TRIGGER:1 "[dynasty|E] [DYNASTY.GetBaseName] tem [dynasty_prestige_i]$NUM|V0$ [dynasty_prestige|E]"
+ NOT_HAS_DYNASTY_PRESTIGE_TRIGGER:1 "[dynasty|E] [DYNASTY.GetBaseName] não tem [dynasty_prestige_i]$NUM|V0$ [dynasty_prestige|E]"
 
- HAS_DYNASTY_PRESTIGE_LEVEL_TRIGGER:0 "[dynasty|E] [DYNASTY.GetBaseName] tem um [dynasty_prestige_level|E] $COMPARATOR$ $NUM|V0$"
- NOT_HAS_DYNASTY_PRESTIGE_LEVEL_TRIGGER:0 "[dynasty|E] [DYNASTY.GetBaseName] #bold do não#! tem um [dynasty_prestige_level|E] $COMPARATOR$ $NUM|V0$"
+ HAS_DYNASTY_PRESTIGE_LEVEL_TRIGGER:0 "[dynasty|E] [DYNASTY.GetBaseName] tem um [dynasty_prestige_level|E] $COMPARATOR$ [GetDynastyPrestigeLevelName( '(int32)$NUM$' )] ($NUM|V0$)"
+ NOT_HAS_DYNASTY_PRESTIGE_LEVEL_TRIGGER:0 "[dynasty|E] [DYNASTY.GetBaseName] #bold do não#! tem um [dynasty_prestige_level|E] $COMPARATOR$ [GetDynastyPrestigeLevelName( '(int32)$NUM$' )] ($NUM|V0$)"
 
- HAS_DYNASTY_MODIFIER:0 "O [dynasty|E] [DYNASTY.GetBaseName] tem o $MODIFIER|V$ modifier"
+ HAS_DYNASTY_MODIFIER:0 "A [dynasty|E] [DYNASTY.GetBaseName] tem o modificador $MODIFIER|V$ "
 
- HAS_HOUSE_MODIFIER:0 "O [house|E] [DYNASTY_HOUSE.GetName] tem o $MODIFIER|V$ modifier"
+ HAS_HOUSE_MODIFIER:0 "A [house|E] [DYNASTY_HOUSE.GetName] tem o modificador $MODIFIER|V$ "
  ADULT_HOUSE_MEMBERS_AT_LEAST:0 "Pelo menos $PERCENT|%$ de adultos [house|E] membros:"
  ADULT_HOUSE_MEMBERS_COUNT_AT_LEAST:0 "Pelo menos $COUNT$ adultos [house|E] membros:"
 

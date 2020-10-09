@@ -1,5 +1,5 @@
 ﻿l_english:
- courtier_guest_management.0001.t:2 "Seu [liege.Custom2('RelationToMeShort', SCOPE.sC('child'))] [child.GetShortUINameNoTooltip], está prestes à abandonar a corte!"
+ courtier_guest_management.0001.t:2 "Seu [SCOPE.sC('liege').Custom2('RelationToMeShort', SCOPE.sC('child'))] [child.GetShortUINameNoTooltip], está prestes à abandonar a corte!"
  courtier_guest_management.desc:0 "[child.GetTitledFirstName] não tem motivo para permanecer na corte e logo sairá"
 
  courtier_guest_management.0102.t:0 "Minha Última Chance"

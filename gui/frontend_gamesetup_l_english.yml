@@ -1,6 +1,6 @@
 ﻿l_english:
  SELECT_CHARACTER_ON_MAP:0 "Escolha um personagem no mapa."
- PICK_ANY_CHARACTER:1 "Jogue como qualquer governante em [GameSetup.GetSelectedBookmark.GetDate.GetYear]..."
+ PICK_ANY_CHARACTER:2 "Jogue como qualquer governante em #light_background;bold [GameSetup.GetSelectedBookmark.GetDate.GetYear]#!..."
  BOOKMARK_DISABLED:0 "Este Marco está desativado"
  BOOKMARK_NOT_PICKED_CHARACTER:0 "Choose a Character in the Bookmark before starting the game. Or, choose freely by clicking 'Choose any Character'."
  SINGLEPLAYER:0 "Single Player"

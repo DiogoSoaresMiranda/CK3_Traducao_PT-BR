@@ -45,4 +45,4 @@
  BANNER_CANT_RAISE_NOT_IN_WAR:0 "@warning_icon!#X Não está em guerra#!"
  CREATE_RALLY_POINT:0 "Criar Ponto de Encontro"
  RALLY_POINT_CHOOSE_LOCATION:0 "Escolha uma Localização no Mapa"
- RALLY_POINT_MAP_INSTRUCTION:0 "#I Botão esquerdo para escolher uma localização\nBotão direito para cancelar"
+ RALLY_POINT_MAP_INSTRUCTION:0 "#I Botão esquerdo para escolher uma localização\nBotão direito para cancelar#!"

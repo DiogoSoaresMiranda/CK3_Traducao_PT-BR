@@ -14,12 +14,16 @@
  THEY_CAN_JOIN_FACTION_TRIGGER:0 "[CHARACTER.GetShortUIName|U] can join the [FACTION.GetNameNoTooltip]"
  NOT_THEY_CAN_JOIN_FACTION_TRIGGER:0 "[CHARACTER.GetShortUIName|U] can #bold not#! join the [FACTION.GetNameNoTooltip]"
 
- WAS_BLOCKED_FROM_JOINING_TRIGGER:0 "Was recently forbidden to join factions"
- I_WAS_BLOCKED_FROM_JOINING_TRIGGER:1 "You were recently forbidden to join factions"
- THEY_WAS_BLOCKED_FROM_JOINING_TRIGGER:0 "[CHARACTER.GetShortUIName|U] was recently forbidden to join factions"
+ WAS_BLOCKED_FROM_JOINING_TRIGGER:1 "Was forbidden to join factions until [GetCurrentDateWithDiff( GetVarTimeRemaining( CHARACTER.MakeScope, 'joining_faction_block') )]"
+ I_WAS_BLOCKED_FROM_JOINING_TRIGGER:2 "You were forbidden to join factions until [GetCurrentDateWithDiff( GetVarTimeRemaining( CHARACTER.MakeScope, 'joining_faction_block') )]"
+ THEY_WAS_BLOCKED_FROM_JOINING_TRIGGER:1 "[CHARACTER.GetShortUIName|U] was forbidden to join factions until [GetCurrentDateWithDiff( GetVarTimeRemaining( CHARACTER.MakeScope, 'joining_faction_block') )]"
 
  BARONS_CANNOT_JOIN_INDEPENDENCE_FACTIONS:0 "[barons|E] cannot join [independence_factions|E]"
  
  CANNOT_START_FACTION_AGAINST_CHARACTER:0 "It is not possible to start a [faction|E] against [CHARACTER.GetShortUIName]"
 
+ CHARACTER_CANNOT_LOWER_CROWN_AUTHORITY:0 "[CHARACTER.GetShortUIName|U] already has the lowest possible [crown_authority|E]"
+
  CHARACTER_CANNOT_BE_IN_FACTION_DUE_TO_MODIFIER:0 "You have a [modifier|E] preventing you from being in a [faction|E]"
+ IS_A_FACTION_MEMBER_TRIGGER:0 "Is a faction member"
+ FACTION_CAN_PRESS_DEMANDS_TRIGGER:0 "Faction can press demands"

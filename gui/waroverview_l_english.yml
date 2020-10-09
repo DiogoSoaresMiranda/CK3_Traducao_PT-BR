@@ -1,6 +1,6 @@
 ﻿l_english:
- WAR_OVERVIEW_YOUR_PARTICIPANTS:2 "Atacantes' Aliados"
- WAR_OVERVIEW_THEIR_PARTICIPANTS:2 "Defensores' Aliados"
+ WAR_OVERVIEW_YOUR_PARTICIPANTS:3 "Atacantes Aliados"
+ WAR_OVERVIEW_THEIR_PARTICIPANTS:3 "Defensores Aliados"
  WAR_OUR_FORCES:1 "Nossas Forças:"
  WAR_THEIR_FORCES:1 "Forças Deles:"
  WAR_OVERVIEW_STARTED:1 "A Guerra Começou: [WarOverviewWindow.GetWarDuration] atrás"
@@ -20,7 +20,7 @@
  NO_OCCUPATION_WARSCORE:0 "#weak Nenhuma Terra Ocupada#!"
  NO_TICKING_WARSCORE:0 "#weak Nenhum Objetivo Mantido!#
  BATTLE_RESULT_ENTRY:0 "$WARSCORE|0%=+$ Batalha das $PROVINCE$"
- WAR_LEADER_TOOLTIP:0 "#T Líder de Guerra:#!\n[CHARACTER.GetUINameNotMe]"
+ WAR_LEADER_TOOLTIP:1 "#T [war_leader|E]:#!\n[CHARACTER.GetUINameNotMe]"
  WAR_PARTICIPANT_TOOLTIP:0 "#T [CHARACTER.GetUINameNotMeNoTooltip]#!"
  WAR_OVERVIEW_WARSCORE:0 "$WARSCORE|0%=+$"
  BATTLES_WAR_SCORE_CAPPED:0 "Máximo!"
@@ -28,7 +28,7 @@
  WAR_OVERVIEW_BATTLES:0 "[battles|E]: $WARSCORE$"
  WAR_OVERVIEW_OCCUPATION:0 "Occupation: $WARSCORE$"
  WAR_OVERVIEW_TICKING:0 "Ticking: $WARSCORE$"
- WAR_OVERVIEW_CANNOT_SEND:0 "@warning_icon!#X Apenas os participantes principais podem oferecer paz.#!"
+ WAR_OVERVIEW_CANNOT_SEND:1 "@warning_icon!#X Apenas os [war_leaders|E] podem oferecer paz.#!"
  SEND_BUTTON_VICTORY:0 "Impor Demandas"
  SEND_BUTTON_WHITE_PEACE:0 "Oferta de Paz"
  SEND_BUTTON_DEFEAT:0 "Rendição"
@@ -41,7 +41,7 @@
  WAR_OVERVIEW_MY_CONTRIBUTION:1 "Sua [war_contribution|E]"
  WAR_OVERVIEW_BENEFICIARY:1 "Seu [beneficiary|E]"
  WAR_OVERVIEW_BENEFICIARY_NAME:0 "[CHARACTER.GetUIName]"
- WAR_OVERVIEW_NO_BENEFICIARY:0 "#X Nenhum selecionado ainda"
+ WAR_OVERVIEW_NO_BENEFICIARY:0 "#X Nenhum selecionado ainda#!"
  WAR_OVERVIEW_CONTRIBUTION_RANK:1 "[WarOverviewWindow.GetContributionRank(GetPlayer)|O]"
  WAR_OVERVIEW_CONTRIBUTION_NO_RANK:0 "-"
  WAR_OVERVIEW_PEACE_TERMS:1 "Termos de Paz"
@@ -49,6 +49,6 @@
  WAR_OVERVIEW_ALLIES_RIGHT:0 "[allies|E] #weak ([GetDataModelSize( WarOverviewWindow.GetRightSideParticipantItems ) ])#!"
  WAR_OVERVIEW_SHOW_ALLIES:0 "#T Alternar [allies|E]#!"
  WAR_OVERVIEW_TOTAL_SOLDIERS:0 "Total [soldiers|E]"
- WAR_PARTICIPANT_SOLDIERS:1 "[soldiers|E]: [soldier_i]$SOLDIERS$\n$knight_culture_player_plural$: [knight_i]$knight_culture_player_plural_no_tooltip$"
+ WAR_PARTICIPANT_SOLDIERS:2 "[soldiers|E]: [soldier_i]$SOLDIERS$\n$knight_culture_player_plural$: [knight_i]$KNIGHTS$"
  
 ###Matheeus_Brabo 13/09/2020###
