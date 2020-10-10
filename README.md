@@ -1,5 +1,14 @@
-﻿# CK3_Traducao_PT-BR
-Bom dia a todos.
-Esse Ã© o repositorio para a traduÃ§Ã£o do CK3 para PT-BR.
-Cada Arquivo deve conter a Assinatura de quem traduziu.
-Qualquer um pode pegar os arquivos para uso, contanto que deem credito a quem traduziu e ajudou a organizar a traduÃ§Ã£o.
+# Crusader Kings 3 // PT-BR Mod
+
+**Este é o repositório para a tradução PT-BR do Crusader Kings 3.**
+
+# Lembrete:
+Cada Arquivo traduzido deve conter sua Assinatura no final do arquivo.
+
+**Modelo**: ### [nome] - (data) - (comentário) ###
+
+[] = Obrigatório
+
+() = Opcional
+
+Qualquer um pode utilizar estes arquivos, porém se for compartilhá-lo de forma pública é necessário dar os créditos para os contribuintes e organizadores do mod!
