@@ -1,6 +1,6 @@
 ﻿l_english:
- open_tutorial_lesson:1 "Conselho: "
- click_to_open_lesson:0 "#I Click to open the Advice#!"
+ open_tutorial_lesson:1 "Dica: "
+ click_to_open_lesson:0 "#I Clique para mostrar a Dica#!"
  reactive_advice_mercenaries:0 "$reactive_advice_mercenaries_step_1$"
  action_reactive_advice_mercenaries:0 "$open_tutorial_lesson$$reactive_advice_mercenaries_step_1$"
  action_reactive_advice_mercenaries_desc:0 "Mercenários são soldados de aluguel que podem inclinar a balança em uma guerra.\nAbra para receber algumas dicas e sugestões sobre a melhor forma de utilizá-los!"
@@ -120,4 +120,7 @@
  reactive_advice_tooltip_modes_step_2:0 "Modos de dica de ferramenta avançados"
  reactive_advice_tooltip_modes_desc:0 "Os modos de dicas são novos no CKIII e controle #EMP how#! você acessa [highlighted_text|E] e informações nas dicas #weak (em outras palavras, como bloquear dicas de ferramentas para que você possa mover o mouse para elas)#!.\n\nO modo de dica de ferramenta padrão é chamado #V Timer Lock#!. Com este modo, as dicas de ferramentas travarão no lugar após um tempo definido indicado por uma pequena barra de progresso."
  reactive_advice_tooltip_modes_2_desc:0 "Se você é um jogador experiente ou apenas prefere não ter suas dicas bloqueadas automaticamente, recomendamos tentar #V Action Lock#!. Com este modo, você pressiona o #V Middle-mouse Button#! para bloquear dicas.\n\n#I Você muda os modos de dicas indo para o #V In-game Menu#!, então, para #V Settings#!, então a seção #V Game#! — a #V Tooltip Mode setting#! existe.#!"
- ###Renato 08/09/2020###
+ 
+ ### Renato - 08/09/2020 ###
+ ### yLord Magnus - 11/10/2020 - 2 pequenos ajustes ###
+ 
