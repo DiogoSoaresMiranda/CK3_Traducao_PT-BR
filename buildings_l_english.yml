@@ -2,7 +2,7 @@
  building_type_castle_01:0 "Castelo"
  building_type_castle_01_desc:1 " Uma fortaleza projetada não apenas para abrigar uma família nobre respeitável, mas também para proteger a cidade e as fazendas vizinhas."
  building_castle_01:1 "Bosque"
- building_castle_01_desc:1 "Esta pequena, mas formidável fortificação está situada sobre uma construção elevada de terra.."
+ building_castle_01_desc:1 "Esta pequena, mas formidável fortificação está situada sobre uma construção elevada de terra."
  building_castle_02:1 "Guarda"
  building_castle_02_desc:1 "A Fortaleza #weak (or Donjon) é uma grande torre que serve como residência fortificada e última linha de defesa.#!"
  building_castle_03:1 "Castelo Concêntrico"
