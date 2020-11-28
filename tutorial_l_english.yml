@@ -153,10 +153,10 @@
 
 # Generational Gameplay
  lesson_basics_many_lives_1:0 "Jogando com uma Família ($lesson_basics_succession$)"
- lesson_basics_many_lives_1_desc:1 "Próximo, let's talk about your [dynasty|E]. As the game goes on, unless your [character|E] meets with an untimely "accident" or terrible disease, they will grow old and, eventually, die.\n\n#TUT The story doesn't end there — it's only #N Game Over#! if you do not have an heir of your own Dynasty!#!"
- lesson_basics_many_lives_2:0 "An Heir ($lesson_basics_succession$)"
+ lesson_basics_many_lives_1_desc:1 "Próximo, vamos falar sobre a tua [dynasty|E]. Conforme o jogo se desenrola, a menos que o teu [character|E] tenha um acidente prematuro ou uma doença terrível, eles vão envelhecer e, eventualmente, morrer.\n\n#TUT A história não termina aí — é apenas #N Game Over#! se não tiveres um herdeiro na tua própria dinastia!#!"
+ lesson_basics_many_lives_2:0 "Um Herdeiro ($lesson_basics_succession$)"
  lesson_basics_many_lives_2_no_GUI_highlight:0 "$lesson_basics_many_lives_2$"
- lesson_basics_many_lives_2_desc:1 "As long as you have [heirs|E] of your [dynasty|E], your legacy will live on. When your [character|E] dies, you simply start playing a new one: the [player_heir|E].\n\nDepending on the type of [succession|E] your [realm|E] has, this is likely to be one of your children — perhaps one that you groomed into the role of a [ruler|E]?\n\n#TUT Your $game_concept_dynasty$ has its own coat of arms, which is currently highlighted, and can be clicked for more information.\n\nYou don't need to do anything with this now, but if you want to look at the details of your $game_concept_dynasty$ later, it can be found here.\n\n#!"
+ lesson_basics_many_lives_2_desc:1 "Enquanto tu tiveres [heirs|E] na tua [dynasty|E], o teu legado sobreviverá. Quando o teu [character|E] morre, tu simplesmente começas a jogar com um novo: o [player_heir|E].\n\ndependendo do tipo de [succession|E] teu [realm|E] tem, este é provavelmente um dos teus filhos — talvez um que você preparou para o papel de um [ruler|E]?\n\n#TUT o teu $game_concept_dynasty$ tem o seu próprio brasão de armas, que está atuamente realçado, e pode ser clicado para mais informações.\n\nNão precisas de fazer nada com isso agora, mas se quiseres dar uma vista de olhos nos detalhes do teu $game_concept_dynasty$ mais tarde, isso pode ser encontrado aqui.\n\n#!"
 
 # Succession Laws 
  lesson_basics_succession_laws:0 "Succession Laws ($lesson_basics_succession$)"
