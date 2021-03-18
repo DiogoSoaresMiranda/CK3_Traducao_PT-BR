@@ -8,9 +8,9 @@
  CANNOT_REORGANIZE_DIFFERENT_LOCATION:0 "@warning_icon!#X Não se pode reorganizar [armies|E] em duas localizações diferentes#!"
  MERGE_ARMY:0 "#T Fundir [armies|E]#!\nCombinar todos os exércitos selecionados em um"
  MERGE_UNIT:0 "#T Fundir [armies|E] e [fleets|E]#!\nCombinar todos os exércitos e frotas em um"
- DESELECT:0 "Deselect (not implemented)"
- ATTACH_TO:0 "#T Attach to...#!\n#D (not implemented)#!"
- SELECTED_ARMY:0 "Selected army (not implemented)"
+ DESELECT:0 "Desselecionar (not implemented)"
+ ATTACH_TO:0 "#T Anexar a...#!\n#D (not implemented)#!"
+ SELECTED_ARMY:0 "Exército selecionado (não implementado)"
  FORTIFICATION_TOOLTIP:1 "#T [fort_level|E]: $VALUE|V0$/$MAX_VALUE|0$#!"
  FORTIFICATION_INCREASE_TOOLTIP:0 "$INCREASE|=+$ por dia"
  FORTIFICATION_DAYS_TOOLTIP:0 "Começará a fortificar sua posição em $DAYS|V$ dias"
@@ -33,7 +33,7 @@
  DISBAND_ARMY_CONFIRM_TITLE:0 "Dispersar Exército"
  DISBAND_ARMY_CONFIRM_ACCEPT:0 "Dispersar"
  DISBAND_ARMY_CONFIRM:0 "$COUNT|V$ [soldiers|E] vão se retirar e voltar para casa."
- DISBAND_GATHERING_ARMY:1 "Disband Gathering Army"
+ DISBAND_GATHERING_ARMY:1 "Dissolver Exército Aglomerado"
  DISBAND_GATHERING_ARMY_DISABLED:0 "\n$DESC$"
  DISBAND_RETURN_HOME_TIME:0 "@warning_icon!#X [levies|E] vão demorar até $TIME$ para voltar para casa, fazendo demorar mais para recrutá-las de novo.#!"
  CANNOT_SPLIT_ARMY_NOT_OWNER:0 "@warning_icon!#X Não se pode dividir Exército que pertence a outro#!"
@@ -145,7 +145,7 @@
  TOGGLE_RAID_ONLY_OWN_TERRITORY:0 "@warning_icon!#X Não pode alternar [raiding|E] fora do seu territory#!"
  TOGGLE_RAID_CANNOT_RAID:0 "@warning_icon!#X incapaz de [raid|E]#!"
  TOGGLE_RAID_MERCENARY:0 "@warning_icon!#X Mercenarios não podem [raid|E]#!"
- ARMY_RAID_LOOT_TOOLTIP:0 "#T Raid Loot#!\nCarrying [gold_i][Army.GetRaidLoot|0V].\nCan carry at most [gold_i][Army.GetLootCap|0V] due to the size of the army."
+ ARMY_RAID_LOOT_TOOLTIP:0 "#T Raid Loot#!\nCarrying [gold_i][Army.GetRaidLoot|0V].\nPode carregar no máximo [gold_i][Army.GetLootCap|0V] devido ao tamanho do exército."
  CHANGE_COMMANDER_IN_RETREAT:0 "@warning_icon!#X Army is retreating#!"
  TOGGLE_LOOTER_STANCE:2 "#T [Select_CString( Army.HasLooterStance, 'Always', 'Never' )] Raid#!\n[SelectLocalization( Army.HasLooterStance, 'TOGGLE_LOOTER_STANCE_DESC_ON', 'TOGGLE_LOOTER_STANCE_DESC_OFF' )]"
  TOGGLE_LOOTER_STANCE_DESC_ON:0 "Este [army|E] irá automaticamente [raid|E] qualquer viavel [holding|E] na qual ele permanace"
@@ -171,3 +171,5 @@
  ARMY_REORGANIZATION:0 "Reorganização Do Exercito"
 
 ###1cog1 12/09/2020###
+
+###Viduka10 29/11/2020###
