@@ -1,11 +1,13 @@
 ﻿l_english:
- DETACH_COMMANDER:0 "Remove Commander"
- CANT_COMMAND_TITLE:0 "#T [CHARACTER.GetUIName] can not command an army#!"
- CANT_COMMAND_REASON_DEAD:0 "  -Is dead"
- CANT_COMMAND_REASON_IN_POOL:0 "  -Is in pool"
- CANT_COMMAND_REASON_FEMALE:0 "  -Is female"
- CANT_COMMAND_REASON_COMMANDING:0 "  -Is commanding another Army"
- CANT_COMMAND_REASON_CHILD:0 "  -Is not an adult"
- CANT_COMMAND_REASON_IN_ACTIVITY:0 "  -Is busy with an activity"
- CANT_COMMAND_REASON_NOT_POTENTIAL:0 "  -Does not take orders from the Army owner"
- CANT_COMMAND_REASON_AT_WAR:0 "  -At war against [TARGET_CHARACTER.GetUIName]"
+ DETACH_COMMANDER:0 "Remover Comandante"
+ CANT_COMMAND_TITLE:0 "#T [CHARACTER.GetUIName] não pode comandar um exército#!"
+ CANT_COMMAND_REASON_DEAD:0 "  -Está morto"
+ CANT_COMMAND_REASON_IN_POOL:0 "  -Está na Reserva"
+ CANT_COMMAND_REASON_FEMALE:0 "  -É mulher"
+ CANT_COMMAND_REASON_COMMANDING:0 "  -Está comandando outro exército"
+ CANT_COMMAND_REASON_CHILD:0 "  -Não é adulto"
+ CANT_COMMAND_REASON_IN_ACTIVITY:0 "  -Está ocupado com uma atividade"
+ CANT_COMMAND_REASON_NOT_POTENTIAL:0 "  -Não recebe ordens do proprietário do Exército"
+ CANT_COMMAND_REASON_AT_WAR:0 "  -Em guerra contra [TARGET_CHARACTER.GetUIName]"
+
+###Viduka10 01/12/2020
