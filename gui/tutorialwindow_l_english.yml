@@ -1,3 +1,5 @@
 ﻿l_english:
  TW_REPLAY_VOICEOVER_TOOLTIP:0 "#T Replay#!"
- TW_REPLAY_VOICEOVER_TOOLTIP_DISABLED:0 "#T Replay#!\n@warning_icon!#X No voiceover available.#!"
+ TW_REPLAY_VOICEOVER_TOOLTIP_DISABLED:0 "#T Replay#!\n@warning_icon!#X Nenhuma narração disponível.#!"
+
+###Viduka10 01/12/2020###
