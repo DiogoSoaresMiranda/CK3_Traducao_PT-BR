@@ -1,7 +1,8 @@
 ﻿l_english:
- PCW_TITLE:0 "Barbershop"
- PCW_APPLY:0 "Apply Changes"
- #PCW_APPLY_TOOLTIP:1 "" delete this
- PCW_DEFAULT_HAIR_COLOR:0 "Default"
- PCW_HAIR_COLOR_LABEL:0 "Hair Color"
+ PCW_TITLE:0 "Barbearia"
+ PCW_APPLY:0 "Aplicar mudanças"
+ #PCW_APPLY_TOOLTIP:1 "Apagar"
+ PCW_DEFAULT_HAIR_COLOR:0 "Padrão"
+ PCW_HAIR_COLOR_LABEL:0 "Cor de cabelo"
  
+###Viduka10 30/11/2020###
