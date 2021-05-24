@@ -69,7 +69,7 @@
  TRAIT_OPINION_OF_VASSAL:0 "Opinião do [vassals|E]"
  TRAIT_OPINION_LIEGE:0 "[liege|E] opinião"
  TRAIT_OPINION_VASSAL:0 "[vassal|E] Opinião"
- TRAIT_OPINION_SAME_TRAIT:0 "Opinião odo [TRAIT.GetNameNoTooltip( CHARACTER.Self )] Personagens"
+ TRAIT_OPINION_SAME_TRAIT:0 "Opinião do personagem [TRAIT.GetNameNoTooltip( CHARACTER.Self )]"
  TRAIT_OPINION_SAME_TRAIT_GROUP:0 "Opinião do [TRAIT_GROUP.GetName]"
  TRAIT_OPINION_SAME_TRAIT_AND_SAME_FAITH:0 "Opinião do personagem da mesma fé [TRAIT.GetNameNoTooltip( CHARACTER.Self )]"
  TRAIT_OPINION_SAME_TRAIT_GROUP_AND_SAME_FAITH:0 "Opinião do [TRAIT_GROUP.GetName] da mesma Fé"
