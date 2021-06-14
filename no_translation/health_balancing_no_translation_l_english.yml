@@ -1,3 +1,5 @@
 ﻿l_english:
- debug_bubonic_plague_outbreak.tt:0 "Bubonic Plague: Total victims: [THIS.Var('total_victims_num').GetValue|0]\nBubonic Plague: Dead victims: [THIS.Var('dead_victims_num').GetValue|0]\nBubonic Plague: Surviving victims:[THIS.Var('surviving_victims_num').GetValue|0]"
- debug_smallpox_outbreak.tt:0 "Smallpox: Total victims: [THIS.Var('total_victims_num').GetValue|0]\nSmallpox: Dead victims: [THIS.Var('dead_victims_num').GetValue|0]\nSmallpox: Surviving victims:[THIS.Var('surviving_victims_num').GetValue|0]"
+ debug_bubonic_plague_outbreak.tt:0 "Peste Bubônica: Vítimas totais: [THIS.Var('total_victims_num').GetValue|0]\nPeste Bubônica: Vítimas mortas: [THIS.Var('dead_victims_num').GetValue|0]\nPeste Bubônica: Vítimas sobreviventes:[THIS.Var('surviving_victims_num').GetValue|0]"
+ debug_smallpox_outbreak.tt:0 "Varíola: Vítimas totais: [THIS.Var('total_victims_num').GetValue|0]\nVaríola: Vítimas mortas: [THIS.Var('dead_victims_num').GetValue|0]\nVaríola: Vítimas sobreviventes:[THIS.Var('surviving_victims_num').GetValue|0]"
+
+###LucianoRosa 14/06/2021###
